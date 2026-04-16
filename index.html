@@ -1,5 +1,5 @@
 <!doctype html>
-    <html lang="en" data-theme="light">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,19 +11,20 @@
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
 
+    <canvas id="pcbCanvas"></canvas>
+
     <header class="site-header">
       <div class="container header-inner">
         <a class="brand" href="./">
           <span class="brand-mark" aria-hidden="true">⌁</span>
           <span class="brand-text" id="brandName">Your Name</span>
         </a>
-
         <nav class="nav" aria-label="Primary">
           <a class="nav-link" href="#home">Home</a>
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#projects">Projects</a>
           <a class="nav-link" href="#contact">Contact</a>
-          <button id="themeToggle" class="icon-button" type="button" aria-label="Toggle theme">
+          <button id="themeToggle" class="icon-button press-btn" type="button" aria-label="Toggle theme">
             <span aria-hidden="true" id="themeIcon">◐</span>
           </button>
         </nav>
@@ -31,13 +32,25 @@
     </header>
 
     <main id="main" class="site-main">
-      <section id="home" class="hero hero-minimal">
-        <div class="container">
+      <section id="home" class="hero hero-fullscreen">
+        <div class="hero-name-wrap" id="heroNameWrap">
           <p class="kicker" id="heroKicker">portfolio</p>
           <h1 class="hero-name" id="heroName">your name</h1>
-          
-          <section class="card edu-box" aria-label="Education">
-            <h2 class="mini-title" style="margin-bottom:8px"></h2>
+          <div class="hero-actions">
+            <a class="button primary press-btn" href="#projects">view projects</a>
+            <a class="button press-btn" id="resumeButton" href="./resume.html">resume</a>
+          </div>
+          <div class="hero-links" id="heroLinks" aria-label="Social links"></div>
+        </div>
+        <div class="scroll-hint" aria-hidden="true">
+          <span class="scroll-hint-line"></span>
+          <span class="scroll-hint-text">scroll</span>
+        </div>
+      </section>
+
+      <section id="eduSection" class="section section-reveal" style="padding-top:40px">
+        <div class="container">
+          <section class="card edu-box reveal-card" aria-label="Education">
             <div class="stack">
               <div>
                 <p class="label" style="margin:0 0 6px 0">Program</p>
@@ -52,36 +65,26 @@
               </div>
             </div>
           </section>
-
-          <div class="hero-actions">
-            <a class="button primary" href="#projects">view projects</a>
-            <a class="button" id="resumeButton" href="./resume.html">resume</a>
-          </div>
-
-          <div class="hero-links" id="heroLinks" aria-label="Social links"></div>
         </div>
       </section>
 
-      <section id="about" class="section">
+      <section id="about" class="section section-reveal">
         <div class="container">
-          <div class="section-head">
+          <div class="section-head reveal-card">
             <h2>about</h2>
             <p class="muted" id="aboutSubtitle"></p>
           </div>
-
-          <section class="mini-block" aria-label="About me">
+          <section class="mini-block reveal-card" aria-label="About me">
             <p class="mini-text" id="aboutMeText"></p>
           </section>
-
-          <div class="tabs" role="tablist" aria-label="About tabs">
-            <button class="tab is-active" type="button" role="tab" aria-selected="true" aria-controls="tabExp" id="tabExpBtn">
+          <div class="tabs reveal-card" role="tablist" aria-label="About tabs">
+            <button class="tab is-active press-btn" type="button" role="tab" aria-selected="true" aria-controls="tabExp" id="tabExpBtn">
               experiences
             </button>
-            <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="tabAwards" id="tabAwardsBtn">
+            <button class="tab press-btn" type="button" role="tab" aria-selected="false" aria-controls="tabAwards" id="tabAwardsBtn">
               awards
             </button>
           </div>
-
           <div class="tab-panels">
             <div class="tab-panel" role="tabpanel" id="tabAwards" aria-labelledby="tabAwardsBtn">
               <div class="stack" id="awardsList"></div>
@@ -93,19 +96,19 @@
         </div>
       </section>
 
-      <section id="projects" class="section">
+      <section id="projects" class="section section-reveal">
         <div class="container">
-          <div class="section-head">
+          <div class="section-head reveal-card">
             <h2>projects</h2>
             <p class="muted">Bringing Creative mode to real life.</p>
           </div>
-          <div class="grid" id="projectsGrid" aria-live="polite">Bringing Creative mode to real life.</div>
+          <div class="grid" id="projectsGrid" aria-live="polite"></div>
         </div>
       </section>
 
-      <section id="contact" class="section alt">
+      <section id="contact" class="section alt section-reveal">
         <div class="container">
-          <div class="card contact-compact">
+          <div class="card contact-compact reveal-card">
             <div class="stack">
               <div class="contact-compact-top">
                 <h2 style="margin:0">contact</h2>
@@ -136,7 +139,7 @@
 
     <dialog class="modal" id="projectModal" aria-label="Project details">
       <div class="modal-inner">
-        <button class="modal-close" id="modalClose" type="button" aria-label="Close">×</button>
+        <button class="modal-close press-btn" id="modalClose" type="button" aria-label="Close">×</button>
         <div class="stack">
           <h3 id="modalTitle" style="margin:0">Project</h3>
           <p id="modalDesc" class="muted" style="margin:0"></p>
@@ -147,6 +150,6 @@
       </div>
     </dialog>
 
-    <script src="./app.js?v=3" type="module"></script>
+    <script src="./app.js?v=4" type="module"></script>
   </body>
 </html>

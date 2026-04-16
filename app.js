@@ -1,3 +1,5 @@
+import { initPCB, initScrollShrink, initReveal, revealDynamic } from "./pcb.js";
+
 const $ = (sel) => document.querySelector(sel);
 
 function iconSvg(kind) {
@@ -121,7 +123,7 @@ function renderLinks(container, links, variant = "pill") {
     const isIcon = Boolean(icon);
 
     const a = el("a", {
-      class: isIcon ? "pill pill-icon" : (variant === "pill" ? "pill" : "link"),
+      class: isIcon ? "pill pill-icon press-btn" : (variant === "pill" ? "pill press-btn" : "link"),
       href,
       target: href.startsWith("http") ? "_blank" : undefined,
       rel: href.startsWith("http") ? "noreferrer" : undefined,
@@ -179,7 +181,7 @@ function renderProjects(container, projects) {
       links
     ];
 
-    const card = el("article", { class: "card project", tabindex: "0" }, cardChildren);
+    const card = el("article", { class: "card project reveal-card", tabindex: "0" }, cardChildren);
     card.addEventListener("click", () => openProjectModal(p));
     card.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
@@ -199,7 +201,7 @@ function renderItems(container, items) {
     const sub = it.subtitle ? el("p", { class: "sub", text: it.subtitle }) : null;
     const dates = it.dates ? el("p", { class: "meta-line", text: it.dates }) : null;
     const details = it.details ? el("p", { class: "meta-line", text: it.details }) : null;
-    container.append(el("div", { class: "item" }, [title, ...(sub ? [sub] : []), ...(dates ? [dates] : []), ...(details ? [details] : [])]));
+    container.append(el("div", { class: "item reveal-card" }, [title, ...(sub ? [sub] : []), ...(dates ? [dates] : []), ...(details ? [details] : [])]));
   }
 }
 
@@ -308,6 +310,8 @@ async function main() {
   initTheme();
   initTabs();
   initModal();
+  initPCB();
+  initScrollShrink();
 
   $("#themeToggle")?.addEventListener("click", () => {
     const current = document.documentElement.dataset.theme === "light" ? "light" : "dark";
@@ -341,6 +345,8 @@ async function main() {
   renderItems($("#awardsList"), data.about?.awards);
   renderItems($("#expList"), data.about?.experiences);
   initContact(person);
+  initReveal();
+  setTimeout(revealDynamic, 80);
 }
 
 main().catch((err) => {
