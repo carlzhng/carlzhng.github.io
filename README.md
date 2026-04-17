@@ -1,4 +1,4 @@
-# carlzheng.github.io
+# carlzhng.github.io
 Take a peak at my portfolio!
 
 ## Editing your portfolio content
