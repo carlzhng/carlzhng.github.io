@@ -402,8 +402,10 @@ async function main() {
 
   const person = data.person || {};
   document.title = person.name || "Carlson Zheng";
-  $("#brandName").textContent = person.name || "Your Name";
-  $("#footerName").textContent = person.name || "Your Name";
+  const brandName = $("#brandName");
+  const footerName = $("#footerName");
+  if (brandName) brandName.textContent = person.name || "Your Name";
+  if (footerName) footerName.textContent = person.name || "Your Name";
   $("#heroKicker").textContent = person.hero?.kicker || "portfolio";
   $("#heroName").textContent = person.hero?.nameLower || (person.name || "Your Name");
   $("#aboutMeText").textContent = person.hero?.aboutMe || "";

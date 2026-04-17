@@ -75,7 +75,7 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
   background: linear-gradient(to bottom, rgba(247,247,251,.85), rgba(247,247,251,.35));
 }
 .header-inner{
-  display:flex;align-items:center;justify-content:space-between;
+  display:flex;align-items:center;justify-content:center;
   gap:18px;padding:12px 0;
 }
 
