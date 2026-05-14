@@ -281,24 +281,7 @@ export function initReveal() {
         }
       }
     },
-    { threshold: 0.12, rootMargin: "0px 0px -40px 0px" }
-  );
-  for (const c of cards) obs.observe(c);
-}
-
-// ── PROJECT CARD REVEAL (called after dynamic render) ─────────────────────
-export function revealDynamic() {
-  const cards = document.querySelectorAll(".reveal-card:not(.is-visible)");
-  const obs = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          obs.unobserve(entry.target);
-        }
-      }
-    },
-    { threshold: 0.1, rootMargin: "0px 0px -20px 0px" }
+    { threshold: 0.1, rootMargin: "0px 0px -28px 0px" }
   );
   for (const c of cards) obs.observe(c);
 }
