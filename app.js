@@ -1,4 +1,4 @@
-import { initPCB, initScrollShrink, initReveal, revealDynamic } from "./pcb.js";
+import { initPCB, initScrollShrink, initReveal } from "./pcb.js";
 
 const $ = (sel) => document.querySelector(sel);
 let refreshTabsLayout = () => {};
@@ -424,8 +424,7 @@ async function main() {
   renderItems($("#expList"), data.about?.experiences);
   refreshTabsLayout();
   initContact(person);
-  initReveal();
-  setTimeout(revealDynamic, 80);
+  requestAnimationFrame(() => initReveal());
 }
 
 main().catch((err) => {

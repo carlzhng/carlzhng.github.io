@@ -304,6 +304,10 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
   justify-content:center;
   align-items:flex-start;
   gap:18px 16px;
+  align-content:flex-start;
+}
+#projects{
+  scroll-margin-top: 76px;
 }
 .project-folder.card{
   flex:0 1 auto;
@@ -316,17 +320,15 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
   align-items:center;
   gap:12px;
   cursor:pointer;
-  transition: transform .22s cubic-bezier(.22,.68,0,1.15), box-shadow .22s ease, border-color .22s ease;
+  /* Include opacity so reveal matches .reveal-card; hover lift is on .project-folder-shape to avoid transform fighting */
+  transition:
+    opacity 0.56s cubic-bezier(.22,.68,0,1.12),
+    transform 0.56s cubic-bezier(.22,.68,0,1.12),
+    box-shadow 0.26s ease,
+    border-color 0.26s ease;
 }
 .project-folder:hover{
-  transform: translateY(-5px);
   box-shadow: 0 18px 34px rgba(0,0,0,.22), 0 6px 14px rgba(0,0,0,.16);
-}
-:root[data-theme="light"] .project-folder:hover{
-  border-color: rgba(0,0,0,.16);
-}
-:root[data-theme="dark"] .project-folder:hover{
-  border-color: rgba(255,255,255,.22);
 }
 .project-folder:focus-visible{
   outline:3px solid var(--ring);
@@ -335,7 +337,19 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
 .project-folder-shape{
   position:relative;
   width:min(148px, 100%);
-  height:clamp(100px, 28vw, 118px);
+  height:112px;
+  transform: translateY(0);
+  transition: transform 0.3s cubic-bezier(.22,.68,0,1.12);
+}
+.project-folder:hover .project-folder-shape,
+.project-folder:focus-visible:not(:active) .project-folder-shape{
+  transform: translateY(-5px);
+}
+:root[data-theme="light"] .project-folder:hover{
+  border-color: rgba(0,0,0,.16);
+}
+:root[data-theme="dark"] .project-folder:hover{
+  border-color: rgba(255,255,255,.22);
 }
 /* Folder tab — near-white + whisper of grey */
 .project-folder-tab{
@@ -839,10 +853,10 @@ textarea:focus{outline:3px solid var(--ring);outline-offset:2px}
   transform: translateY(0) scale(1);
 }
 
-/* Stagger children inside a grid when they have reveal-card */
-.grid .reveal-card:nth-child(2) { transition-delay: 0.08s; }
-.grid .reveal-card:nth-child(3) { transition-delay: 0.16s; }
-.grid .reveal-card:nth-child(4) { transition-delay: 0.24s; }
+/* Stagger children inside a grid when they have reveal-card (exclude project folders — flex wrap + nth delays read as uneven/jittery) */
+.grid:not(.projects-folder-grid) .reveal-card:nth-child(2) { transition-delay: 0.08s; }
+.grid:not(.projects-folder-grid) .reveal-card:nth-child(3) { transition-delay: 0.16s; }
+.grid:not(.projects-folder-grid) .reveal-card:nth-child(4) { transition-delay: 0.24s; }
 .stack .reveal-card:nth-child(2) { transition-delay: 0.07s; }
 .stack .reveal-card:nth-child(3) { transition-delay: 0.14s; }
 .stack .reveal-card:nth-child(4) { transition-delay: 0.21s; }
