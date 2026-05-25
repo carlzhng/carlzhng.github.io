@@ -39,12 +39,12 @@
     },
     {
       "name": "Domain Detector",
-      "description": "Collaborated on an AI that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to trigger visual effects when a specific hand sign is detected. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
+      "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
         "image": "./assets/domainDetector.png"
       },
-      "tags": ["Python", "Computer Vision", "Linux", "MediaPipe", "OpenCV", "TensorFlow"],
-      "highlights":["Created a custom process to record hand movements", "Reached a 93% success rate in identifying the correct gestures in real-time"],
+      "tags": ["Python", "Computer Vision", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "Scikit-Learn"],
+      "highlights":["Created a custom process to record hand movements", "Reached a 95%+ success rate in identifying the correct gestures in real-time"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
     },
     {
@@ -80,7 +80,7 @@
     }
   ],
   "about": {
-    "subtitle": "If you're like me, you probably like Lebron James.",
+    "subtitle": "If you're like me, you probably also want the Spurs to win the playoffs",
     "awards": [
       {
         "title": "Certificate of Distinction - CSMC",
@@ -96,7 +96,7 @@
         "title": "Electrical Transmission Team Member",
         "subtitle": "Alberta Bionix | Edmonton, AB",
         "dates": "Dec 2025 — present",
-        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. Designed and validated custom encoder and IMU sensor systems for 100% signal reliability and gait analysis."
+        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the electrical transmission team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself."
       },
       {
         "title": "Co-Founder/Co-President of Scarlett STEM Club",
