@@ -136,6 +136,85 @@ function renderProjectMedia(p, context = "card") {
   return img;
 }
 
+function projectSlides(project) {
+  const m = project?.media || {};
+  const out = [];
+  const gallery = Array.isArray(m.gallery) ? m.gallery : null;
+  if (gallery && gallery.length) {
+    for (const g of gallery) {
+      const s = safeMediaUrl(g);
+      if (s) out.push(s);
+    }
+  }
+  if (!out.length) {
+    const fallbackList = [
+      m.modalImage,
+      m.image,
+      project?.image,
+      project?.thumbnail,
+      project?.video?.poster
+    ].filter(Boolean);
+    for (const f of fallbackList) {
+      const s = safeMediaUrl(f);
+      if (s) out.push(s);
+    }
+  }
+  // de-dupe (common when modalImage == image)
+  return [...new Set(out)];
+}
+
+function buildModalSlideshow(project) {
+  const slides = projectSlides(project);
+  if (!slides.length) return null;
+
+  let idx = 0;
+
+  const img = document.createElement("img");
+  img.className = "modal-slide-img";
+  img.alt = `${project?.name || "Project"} — preview`;
+
+  const counter = el("div", { class: "slideshow-counter" });
+
+  const prevBtn = el("button", {
+    class: "slideshow-btn press-btn",
+    type: "button",
+    "aria-label": "Previous image",
+    text: "‹"
+  });
+  const nextBtn = el("button", {
+    class: "slideshow-btn press-btn",
+    type: "button",
+    "aria-label": "Next image",
+    text: "›"
+  });
+
+  const nav = el("div", { class: "slideshow-nav", "aria-hidden": "false" }, [prevBtn, nextBtn]);
+  const wrap = el("div", { class: "modal-slideshow", id: "modalSlideshow" }, [img, nav, counter]);
+
+  const setIdx = (n) => {
+    idx = (n + slides.length) % slides.length;
+    const src = slides[idx];
+    img.src = src;
+    const contain = /\.gif(\?|#|$)/i.test(src);
+    img.classList.toggle("modal-slide-img--contain", contain);
+    counter.textContent = slides.length > 1 ? `${idx + 1} / ${slides.length}` : "";
+    prevBtn.disabled = slides.length <= 1;
+    nextBtn.disabled = slides.length <= 1;
+  };
+
+  prevBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    setIdx(idx - 1);
+  });
+  nextBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    setIdx(idx + 1);
+  });
+
+  setIdx(0);
+  return wrap;
+}
+
 function renderLinks(container, links, variant = "pill") {
   if (!container) return;
   container.innerHTML = "";
@@ -288,18 +367,13 @@ function openProjectModal(project) {
 
   const existing = $("#modalVideo");
   const existingMedia = $("#modalMedia");
+  const existingSlideshow = $("#modalSlideshow");
   if (existing) existing.remove();
   if (existingMedia) existingMedia.remove();
+  if (existingSlideshow) existingSlideshow.remove();
   const modalInner = modal.querySelector(".stack");
-  const mv = renderProjectMedia(project, "modal");
-  if (mv) {
-    mv.id = "modalMedia";
-    const srcAttr = mv.getAttribute("src") || mv.src || "";
-    if (/\.gif(\?|#|$)/i.test(srcAttr)) {
-      mv.classList.add("modal-media--gif");
-    }
-    modalInner?.insertBefore(mv, modalInner.firstChild);
-  }
+  const slideshow = buildModalSlideshow(project);
+  if (slideshow) modalInner?.insertBefore(slideshow, modalInner.firstChild);
 
   const tags = $("#modalTags");
   if (tags) {
