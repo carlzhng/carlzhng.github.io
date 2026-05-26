@@ -28,7 +28,12 @@
       "description": "Do you ever wish you owned a Pixar Lamp that could help you study? PomoRobo is the next best thing! As part of a group of engineers at HackED 2026, I helped design and test PomoRobo, a modular assistive robotic arm that helps you stay focused and productive. I was tasked with designing the control logic and interfacing the electrical components of the arm. PomoRobo is comprised of an ELEGOO arduino, a stepper motor, a LCD display, and servo motors.",
       "media": {
         "image": "./assets/pomorobo.jpg",
-        "modalImage": "./assets/pomoRoboGIF.gif"
+        "gallery":[
+          "./assets/pomoroboLandscape.jpg",
+          "./assets/initialSetup.jpg",
+          "./assets/pomoRoboGIF.gif",
+          "./assets/groupphoto.jpg"
+        ]
       },
       "tags": ["C/C++", "Arduino"],
       "highlights": ["Built to 3 DOF to reduce complexity and improve usability.", "Designed and built at HackED 2026."],
@@ -41,9 +46,16 @@
       "name": "Domain Detector",
       "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
-        "image": "./assets/domainDetector.png"
+        "image": "./assets/domainDetector.png",
+        "gallery":[
+          "./assets/domainDetector.png",
+          "./assets/divineDog.png",
+          "./assets/nue.png",
+          "./assets/malevolentShrine.png",
+          "./assets/neutral.png"
+        ]
       },
-      "tags": ["Python", "Computer Vision", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "Scikit-Learn"],
+      "tags": ["Python", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "Scikit-Learn"],
       "highlights":["Created a custom process to record hand movements", "Reached a 95%+ success rate in identifying the correct gestures in real-time"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
     },
@@ -69,11 +81,28 @@
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/discord-auto-msg" }]
     },
     {
+      "name": "Fluffy dice design",
+      "description": "3D modelled a fluffy dice design in SOLIDWORKS that can easily be hung on a keychain or car mirror!",
+      "media": {
+        "image": "./assets/fluffyDice.png",
+        "modalImage": "./assets/fluffyDiceCar.jpg",
+        "gallery":[
+          "./assets/fluffyDiceCar.jpg",
+          "./assets/fluffyDice.png"
+        ]
+      },
+      "tags": ["SOLIDWORKS", "CAD"]
+    },
+    {
       "name": "This Portfolio!",
       "description": "Developed using HTML, CSS, and JavaScript, this portfolio is a showcase of my projects and achievements. It is hosted on GitHub Pages and is deployed using Vercel. The portfolio is responsive and mobile-friendly, and is built with a modern and clean design.",
       "media": {
         "image": "./assets/logo.png",
-        "modalImage": "./assets/portfolioProject.jpg"
+        "modalImage": "./assets/portfolioProject.jpg",
+        "gallery":[
+          "./assets/portfolioProject.jpg",
+          "./assets/portfolioPage.png"
+        ]
       },
       "tags": ["HTML", "CSS", "JavaScript"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/carlzheng.github.io" }]
@@ -89,6 +118,10 @@
       {
         "title": "Alexander Rutherford Scholarship",
         "subtitle": "Awarded $2500 for demonstrating academic excellence in the 2024 Alberta Senior High School Scholarships. Issued by Government of Alberta."
+      },
+      {
+        "title": "Business Plan of the Year Award",
+        "subtitle": "Awarded for creating the best business plan out of the 30+ competing student companies within Calgary for the year 2022-2023. Issued by Junior Achievement Southern Alberta."
       }
     ],
     "experiences": [
