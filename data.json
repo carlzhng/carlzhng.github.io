@@ -27,7 +27,7 @@
       "name": "PomoRobo",
       "description": "Do you ever wish you owned a Pixar Lamp that could help you study? PomoRobo is the next best thing! As part of a group of engineers at HackED 2026, I helped design and test PomoRobo, a modular assistive robotic arm that helps you stay focused and productive. I was tasked with designing the control logic and interfacing the electrical components of the arm. PomoRobo is comprised of an ELEGOO arduino, a stepper motor, a LCD display, and servo motors.",
       "media": {
-        "image": "./assets/pomorobo.jpg",
+        "image": "./assets/pomoCover.jpg",
         "gallery":[
           "./assets/pomoroboLandscape.jpg",
           "./assets/initialSetup.jpg",
@@ -46,7 +46,7 @@
       "name": "Domain Detector",
       "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
-        "image": "./assets/domainDetector.png",
+        "image": "./assets/domainCover.jpg",
         "gallery":[
           "./assets/domainDetector.png",
           "./assets/divineDog.png",
@@ -60,11 +60,32 @@
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
     },
     {
+      "name": "Splitsies",
+      "description": "Tired of having to use your calculator to split the cost between friends on a trip? Splitsies is a web service hosted on Render Cloud that allows you and your friends to easily keep track of shared expenses and split costs. The website was built using Python and Flask for the backend, and HTML, CSS, and JavaScript for the frontend. The website is responsive and mobile-friendly, and allows users to create groups, add expenses, and view their balance with friends!",
+      "highlights": ["Hosted on Render Cloud for continous 24/7 operation", "Built using Python, Flask, HTML, CSS, and JavaScript"],
+      "media": {
+        "image": "./assets/splitsies.jpg",
+        "gallery":[
+          "./assets/splitsieshomepage.png",
+          "./assets/addexpense.png",
+          "./assets/log.png",
+          "./assets/settleup.png",
+          "./assets/splits.gif"
+        ]
+      },
+      "tags": ["Python", "Flask", "HTML", "CSS", "JavaScript"],
+      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/Splitsies" }]
+    },
+    {
       "name": "Prompty",
       "description": "As a team of 4 university students ranging from various programs, we were selected as one of the top 12% applicants to propose a strategic solution aimed to mitigate student career anxiety through the use of a gamified platform that targets the users ability to think critically and make decisions ethically. I was tasked with assisting in the devleopment of the first iteration of the websites's frontend and presenting the final protoype to industry professionals. The website uses generated prompts that asks the user a question and encourages original and imaginative thinking.",
       "media": {
-        "image": "./assets/prompty.png",
-        "modalImage": "./assets/promptyGIF.gif"
+        "image": "./assets/promptyCover.jpg",
+        "modalImage": "./assets/promptyGIF.gif",
+        "gallery":[
+          "./assets/promptyGIF.gif",
+          "./assets/prompty.png"
+        ]
       },
       "tags": ["React", "JavaScript"],
       "highlights": ["Built for the Digital Innovation Case Competition Competition (DICC) 2026."],
@@ -74,7 +95,10 @@
       "name": "Ted's Clanker",
       "description": "Developed using Discord API, Flask, and a simple Python script, Ted's Clanker is a personal automated Discord bot that tracks user locations and informs members within a server when the user has left or arrived home safely. Once past 10:00 pm and the user has not returned home, Ted's Clanker informs the server and encourages others to check on the user. Using custom API endpoints, Ted's Clanker also allows for timed messages to be sent to the server which can be used as reminders for events or tasks.",
       "media": {
-        "image": "./assets/teds_clanker.png"
+        "image": "./assets/tedsClankerCover.jpg",
+        "gallery":[
+          "./assets/teds_clanker.png"
+        ]
       },
       "tags": ["Python", "Flask", "Discord API"],
       "highlights": ["Implemented custom API endpoints for real-time management of users location, reducing manual configuration time by 30%.", "Deployed to Render Cloud hosting ensuring 99% uptime and continuous 24/7 operation."],
@@ -84,7 +108,7 @@
       "name": "Fluffy dice design",
       "description": "3D modelled a fluffy dice design in SOLIDWORKS that can easily be hung on a keychain or car mirror!",
       "media": {
-        "image": "./assets/fluffyDice.png",
+        "image": "./assets/fluffyDiceCover.jpg",
         "modalImage": "./assets/fluffyDiceCar.jpg",
         "gallery":[
           "./assets/fluffyDiceCar.jpg",
@@ -109,7 +133,7 @@
     }
   ],
   "about": {
-    "subtitle": "If you're like me, you probably also want the Spurs to win the playoffs",
+    "subtitle": "If you're like me, you're probably happy that the Knicks finally won.",
     "awards": [
       {
         "title": "Certificate of Distinction - CSMC",
@@ -126,7 +150,7 @@
     ],
     "experiences": [
       {
-        "title": "Electrical Transmission Team Member",
+        "title": "Control Systems Team Member",
         "subtitle": "Alberta Bionix | Edmonton, AB",
         "dates": "Dec 2025 — present",
         "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the electrical transmission team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself."
