@@ -307,53 +307,128 @@ function renderItems(container, items) {
   }
 }
 
+function certificateIconSvg() {
+  return `
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+      <path fill="currentColor" d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6Zm0 2.5L18.5 9H14V4.5ZM8 13h8v2H8v-2Zm0 4h5v2H8v-2Z"/>
+    </svg>
+  `.trim();
+}
+
+function isPdfUrl(url) {
+  return /\.pdf(\?|#|$)/i.test(String(url || ""));
+}
+
+function renderAwards(container, items) {
+  if (!container) return;
+  container.innerHTML = "";
+  for (const it of items || []) {
+    const fileUrl = it.file ? safeMediaUrl(it.file) : null;
+
+    const bodyChildren = [el("h3", { text: it.title || it.name || "" })];
+    if (it.subtitle) bodyChildren.push(el("p", { class: "sub", text: it.subtitle }));
+    if (it.dates) bodyChildren.push(el("p", { class: "meta-line", text: it.dates }));
+    const children = [el("div", { class: "item-body" }, bodyChildren)];
+
+    if (fileUrl) {
+      const iconBtn = el("button", {
+        class: "cert-icon-btn press-btn",
+        type: "button",
+        "aria-label": `View certificate: ${it.title || it.name || "Certificate"}`,
+        title: "View certificate"
+      });
+      iconBtn.innerHTML = certificateIconSvg();
+      iconBtn.addEventListener("click", () => openCertificateModal(it));
+      children.push(iconBtn);
+    }
+
+    container.append(el("div", { class: "item item--cert reveal-card" }, children));
+  }
+}
+
+function openCertificateModal(cert) {
+  const modal = $("#certificateModal");
+  const mediaWrap = $("#certModalMedia");
+  const fileUrl = safeMediaUrl(cert?.file);
+  if (!modal || !mediaWrap || !fileUrl) return;
+
+  $("#certModalTitle").textContent = cert.title || cert.name || "Certificate";
+  mediaWrap.innerHTML = "";
+
+  if (isPdfUrl(fileUrl)) {
+    mediaWrap.append(
+      el("iframe", {
+        class: "cert-modal-pdf",
+        src: fileUrl,
+        title: `${cert.title || "Certificate"} — PDF`
+      })
+    );
+  } else {
+    const img = el("img", {
+      class: "cert-modal-img",
+      src: fileUrl,
+      alt: `${cert.title || "Certificate"} — certificate`
+    });
+    img.loading = "eager";
+    mediaWrap.append(img);
+  }
+
+  modal.showModal();
+}
+
 function initTabs() {
-  const awardsBtn = $("#tabAwardsBtn");
-  const expBtn = $("#tabExpBtn");
-  const awardsPanel = $("#tabAwards");
-  const expPanel = $("#tabExp");
-  if (!awardsBtn || !expBtn || !awardsPanel || !expPanel) return;
-  const panelsWrap = awardsPanel.parentElement;
-  let activePanel = expPanel;
+  const tabConfig = [
+    { id: "exp", btn: $("#tabExpBtn"), panel: $("#tabExp") },
+    { id: "awards", btn: $("#tabAwardsBtn"), panel: $("#tabAwards") }
+  ].filter((t) => t.btn && t.panel);
+
+  if (tabConfig.length < 2) return;
+
+  const panelsWrap = tabConfig[0].panel.parentElement;
+  let activeIdx = Math.max(0, tabConfig.findIndex((t) => t.id === "exp"));
   let isAnimating = false;
 
   const updatePanelHeight = () => {
     if (!panelsWrap) return;
-    const h = Math.max(awardsPanel.scrollHeight, expPanel.scrollHeight);
+    const h = Math.max(...tabConfig.map((t) => t.panel.scrollHeight));
     panelsWrap.style.height = `${h}px`;
   };
 
-  const set = (which) => {
-    if (isAnimating) return;
-    const awardsActive = which === "awards";
-    const nextPanel = awardsActive ? awardsPanel : expPanel;
-    if (nextPanel === activePanel) return;
+  const set = (idx) => {
+    if (isAnimating || idx === activeIdx || idx < 0 || idx >= tabConfig.length) return;
     isAnimating = true;
 
-    panelsWrap?.setAttribute("data-dir", awardsActive ? "right" : "left");
-    activePanel.classList.add("is-leaving");
-    activePanel.classList.remove("is-active");
+    const prevPanel = tabConfig[activeIdx].panel;
+    const nextPanel = tabConfig[idx].panel;
+
+    panelsWrap?.setAttribute("data-dir", idx > activeIdx ? "right" : "left");
+    prevPanel.classList.add("is-leaving");
+    prevPanel.classList.remove("is-active");
     nextPanel.classList.add("is-entering");
     nextPanel.classList.add("is-active");
 
-    awardsBtn.classList.toggle("is-active", awardsActive);
-    expBtn.classList.toggle("is-active", !awardsActive);
-    awardsBtn.setAttribute("aria-selected", String(awardsActive));
-    expBtn.setAttribute("aria-selected", String(!awardsActive));
+    tabConfig.forEach((t, i) => {
+      const active = i === idx;
+      t.btn.classList.toggle("is-active", active);
+      t.btn.setAttribute("aria-selected", String(active));
+    });
 
     requestAnimationFrame(updatePanelHeight);
     window.setTimeout(() => {
-      activePanel.classList.remove("is-leaving");
+      prevPanel.classList.remove("is-leaving");
       nextPanel.classList.remove("is-entering");
-      activePanel = nextPanel;
+      activeIdx = idx;
       isAnimating = false;
     }, 260);
   };
 
-  awardsPanel.classList.remove("is-active");
-  expPanel.classList.add("is-active");
-  awardsBtn.addEventListener("click", () => set("awards"));
-  expBtn.addEventListener("click", () => set("exp"));
+  tabConfig.forEach((t, i) => {
+    t.panel.classList.toggle("is-active", i === activeIdx);
+    t.btn.classList.toggle("is-active", i === activeIdx);
+    t.btn.setAttribute("aria-selected", String(i === activeIdx));
+    t.btn.addEventListener("click", () => set(i));
+  });
+
   window.addEventListener("resize", updatePanelHeight);
   refreshTabsLayout = updatePanelHeight;
   requestAnimationFrame(updatePanelHeight);
@@ -438,6 +513,27 @@ function initModal() {
   });
 }
 
+function initCertificateModal() {
+  const modal = $("#certificateModal");
+  const close = $("#certModalClose");
+  if (!modal || !close) return;
+  close.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    modal.close();
+  });
+  modal.addEventListener("cancel", (e) => {
+    e.preventDefault();
+    modal.close();
+  });
+  modal.addEventListener("click", (e) => {
+    if (e.target === modal) modal.close();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && modal.open) modal.close();
+  });
+}
+
 function initContact(person) {
   const emailLink = $("#emailLink");
   const locationText = $("#locationText");
@@ -455,6 +551,7 @@ async function main() {
   initTheme();
   initTabs();
   initModal();
+  initCertificateModal();
   initPCB();
   initScrollShrink();
 
@@ -494,7 +591,7 @@ async function main() {
   renderLinks($("#heroLinks"), person.links, "pill");
   renderProjects($("#projectsGrid"), data.projects);
   $("#aboutSubtitle").textContent = data.about?.subtitle || "";
-  renderItems($("#awardsList"), data.about?.awards);
+  renderAwards($("#awardsList"), data.about?.awards);
   renderItems($("#expList"), data.about?.experiences);
   refreshTabsLayout();
   initContact(person);
