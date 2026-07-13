@@ -141,6 +141,11 @@
         "file": "./assets/certificates/SupervisedLearningCertificate.pdf"
       },
       {
+        "title": "Advanced Learning Algorithms",
+        "subtitle": "Issued by Coursera and completed in July 2026. Demonstrates my ability to use advanced learning algorithms to predict outcomes and classify data.",
+        "file": "./assets/certificates/AdvancedLearningAlgorithms.pdf"
+      },
+      {
         "title": "Certificate of Distinction - CSMC",
         "subtitle": "Recognized for ranking among the top 25% out of the 15,000+ contestants in the 2023 Canadian Senior Mathematics Contest. Issued by the University of Waterloo.",
         "file": "./assets/certificates/csmc.jpg"
