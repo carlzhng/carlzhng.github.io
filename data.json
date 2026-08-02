@@ -136,14 +136,24 @@
     "subtitle": "Lets go team Canada!",
     "awards": [
       {
+        "title": "Machine Learning Specialization",
+        "subtitle": "Issued by Coursera and completed in August 2026. Demonstrates the completion of a comprehensive 3 course specialization on the fundamentals of machine learning.",
+        "file": "./assets/certificates/MachineLearningSpecialization.pdf"
+      },
+      {
         "title": "Supervised Machine Learning: Regression and Classification",
-        "subtitle": "Issued by Coursera and completed in June 2026. Demonstrates my ability to use supervised machine learning algorithms to predict outcomes and classify data.",
+        "subtitle": "Issued by Coursera and completed in June 2026. The first of three courses in the Machine Learning Specialization, demonstrating my ability to use supervised machine learning algorithms to predict outcomes and classify data.",
         "file": "./assets/certificates/SupervisedLearningCertificate.pdf"
       },
       {
         "title": "Advanced Learning Algorithms",
-        "subtitle": "Issued by Coursera and completed in July 2026. Demonstrates my ability to use advanced learning algorithms to predict outcomes and classify data.",
+        "subtitle": "Issued by Coursera and completed in July 2026.The second of three courses in the Machine Learning Specialization, demonstrating my ability to use advanced learning algorithms to predict outcomes and classify data.",
         "file": "./assets/certificates/AdvancedLearningAlgorithms.pdf"
+      },
+      {
+        "title": "Unsupervised Machine Learning, Recommenders, Reinforcement Learning",
+        "subtitle": "Issued by Coursera and completed in August 2026. The third and final course in the Machine Learning Specialization, demonstrating my ability to use unsupervised machine learning algorithms to predict outcomes and classify data.",
+        "file": "./assets/certificates/UnsupervisedLearningCertificate.pdf"
       },
       {
         "title": "Certificate of Distinction - CSMC",
