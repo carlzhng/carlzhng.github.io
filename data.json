@@ -60,6 +60,21 @@
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
     },
     {
+      "name": "Second Brain TA",
+      "description": "Worked with a team of 4 to develop a Slack agent that uses Meta's Llama 3.3 70B Instruct model to process student quieries, and provide relevant answers. The agent is designed to be a online automated TA that can assist teachers in the classroom, allowing students to ask questions, recieve feedback on their understanding, and help the teacher generate quizzes and lesson plans. The agent is built using Python, Slack API, and implemented with the assitance of Cursor agents.",
+      "media": {
+        "image": "./assets/secondBrainCover.jpg",
+        "gallery":[
+          "./assets/secondBrain.png",
+          "./assets/secondBrain2.png",
+          "./assets/secondBrain3.png"
+        ]
+      },
+      "tags": ["Python", "Slack API", "Git", "Llama 3.3 70B Instruct"],
+      "highlights": ["Built using Python, Slack API, and Llama 3.3 70B Instruct", "Implemented with AI assisted tools including Cursor agents."],
+      "links": [{ "label": "Github", "url": "https://github.com/codepointpen/slack"}]
+    },
+    {
       "name": "Splitsies",
       "description": "Tired of having to use your calculator to split the cost between friends on a trip? Splitsies is a web service hosted on Render Cloud that allows you and your friends to easily keep track of shared expenses and split costs. The website was built using Python and Flask for the backend, and HTML, CSS, and JavaScript for the frontend. The website is responsive and mobile-friendly, and allows users to create groups, add expenses, and view their balance with friends!",
       "highlights": ["Hosted on Render Cloud for continous 24/7 operation", "Built using Python, Flask, HTML, CSS, and JavaScript"],
@@ -133,7 +148,7 @@
     }
   ],
   "about": {
-    "subtitle": "Lets go team Canada!",
+    "subtitle": "Aspiring Computer Engineer, decent guitar player, and LeBrons #1 fan",
     "awards": [
       {
         "title": "Machine Learning Specialization",
@@ -171,10 +186,10 @@
     ],
     "experiences": [
       {
-        "title": "Control Systems Team Member",
+        "title": "Control Systems & Motherboard Team Member",
         "subtitle": "Alberta Bionix | Edmonton, AB",
         "dates": "Dec 2025 — present",
-        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the electrical transmission team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself."
+        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the control systems team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself. As a part of the motherboard team, I am responsible for designing and implementing the PCB that connects all the components of the leg together, ensuring proper communication and functionality."
       },
       {
         "title": "Co-Founder/Co-President of Scarlett STEM Club",
