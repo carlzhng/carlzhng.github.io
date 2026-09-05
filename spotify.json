@@ -1,5 +1,104 @@
 {
-  "updatedAt": null,
-  "nowPlaying": null,
-  "recent": []
+  "updatedAt": "2026-09-05T03:23:04Z",
+  "nowPlaying": {
+    "id": "1K6oXSGIexEyNnv2cS6vKr",
+    "name": "Transform (feat. Charlotte Day Wilson)",
+    "artists": "Daniel Caesar, Charlotte Day Wilson",
+    "album": "Freudian",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+    "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+    "isPlaying": true
+  },
+  "recent": [
+    {
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-09-05T03:22:24.456Z"
+    },
+    {
+      "id": "3iCBnS3JlJMqCONqNqky4U",
+      "name": "Water the Flowers, Pray for a Garden",
+      "artists": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
+      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
+      "playedAt": "2026-09-05T03:19:37.707Z"
+    },
+    {
+      "id": "0gZGUAO42F1HmzZWHNPGAu",
+      "name": "Risk",
+      "artists": "Gracie Abrams",
+      "album": "The Secret of Us",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
+      "playedAt": "2026-09-05T03:16:10.719Z"
+    },
+    {
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-09-05T03:12:58.482Z"
+    },
+    {
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "name": "Television / So Far So Good",
+      "artists": "Rex Orange County",
+      "album": "Apricot Princess",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
+      "playedAt": "2026-09-05T03:08:19.574Z"
+    },
+    {
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-09-05T03:03:56.258Z"
+    },
+    {
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-09-05T02:59:13.512Z"
+    },
+    {
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-09-05T02:55:43.086Z"
+    },
+    {
+      "id": "6sAFHFV7OWuSYuTNslP2HI",
+      "name": "Catching Bodies",
+      "artists": "Sekou",
+      "album": "Catching Bodies",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
+      "playedAt": "2026-09-05T02:50:15.981Z"
+    },
+    {
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-09-05T02:47:08.925Z"
+    }
+  ]
 }
