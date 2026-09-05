@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-09-05T03:23:04Z",
-  "nowPlaying": {
-    "id": "1K6oXSGIexEyNnv2cS6vKr",
-    "name": "Transform (feat. Charlotte Day Wilson)",
-    "artists": "Daniel Caesar, Charlotte Day Wilson",
-    "album": "Freudian",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-    "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-05T08:08:06Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "16Z0an8D4BJNm3VbWWpTnv",
-      "name": "Past Won't Leave My Bed",
+      "id": "6Xom58OOXk2SoU711L2IXO",
+      "name": "Moscow Mule",
+      "artists": "Bad Bunny",
+      "album": "Un Verano Sin Ti",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+      "playedAt": "2026-09-05T04:10:02.979Z"
+    },
+    {
+      "id": "42D9aaKTLw47faFhRCQfHF",
+      "name": "Blah Blah",
       "artists": "Joji",
-      "album": "Past Won't Leave My Bed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
-      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
-      "playedAt": "2026-09-05T03:22:24.456Z"
+      "album": "Piss In The Wind (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
+      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
+      "playedAt": "2026-09-05T04:05:56.497Z"
     },
     {
-      "id": "3iCBnS3JlJMqCONqNqky4U",
-      "name": "Water the Flowers, Pray for a Garden",
-      "artists": "Valley",
-      "album": "Water the Flowers, Pray for a Garden",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
-      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
-      "playedAt": "2026-09-05T03:19:37.707Z"
-    },
-    {
-      "id": "0gZGUAO42F1HmzZWHNPGAu",
-      "name": "Risk",
-      "artists": "Gracie Abrams",
-      "album": "The Secret of Us",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
-      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
-      "playedAt": "2026-09-05T03:16:10.719Z"
-    },
-    {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "artists": "Daniel Caesar, Kali Uchis",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "playedAt": "2026-09-05T03:12:58.482Z"
-    },
-    {
-      "id": "27rZYxE4l21wTaovX4WTnI",
-      "name": "Television / So Far So Good",
+      "id": "7h2nmmoWDi2UpfYKLKWLYB",
+      "name": "Sunflower",
       "artists": "Rex Orange County",
-      "album": "Apricot Princess",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
-      "playedAt": "2026-09-05T03:08:19.574Z"
+      "album": "Sunflower",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB",
+      "playedAt": "2026-09-05T04:03:14.265Z"
     },
     {
-      "id": "2bMcpeSIM5FNFCv1MK30sQ",
-      "name": "CATCH A STRAY",
-      "artists": "Leon Thomas",
-      "album": "MUTT Deluxe: HEEL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
-      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
-      "playedAt": "2026-09-05T03:03:56.258Z"
+      "id": "5LxvwujISqiB8vpRYv887S",
+      "name": "I Want You Back",
+      "artists": "The Jackson 5",
+      "album": "Diana Ross Presents The Jackson 5",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
+      "playedAt": "2026-09-05T03:59:01.400Z"
     },
     {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-09-05T02:59:13.512Z"
+      "id": "1WLEBdSUPHhdDOHXqC5dK4",
+      "name": "SUPAFICIAL",
+      "artists": "Isaiah Rashad",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
+      "playedAt": "2026-09-05T03:56:04.412Z"
     },
     {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-05T02:55:43.086Z"
+      "id": "62FOsBpnZXEoPc1Qo9hcap",
+      "name": "Beautiful Goodbye",
+      "artists": "Maroon 5",
+      "album": "Overexposed (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
+      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
+      "playedAt": "2026-09-05T03:51:14.588Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-09-05T02:50:15.981Z"
+      "id": "20jbSiX29FDX4oQxBXyUEi",
+      "name": "hate that i made you love me",
+      "artists": "Ariana Grande",
+      "album": "hate that i made you love me",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+      "playedAt": "2026-09-05T03:41:19.381Z"
     },
     {
-      "id": "12rtpdXys3CkpYZppt2z7y",
-      "name": "whenever you're gone",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
-      "playedAt": "2026-09-05T02:47:08.925Z"
+      "id": "1P9I2fgRkFzlIRUN0oeJN1",
+      "name": "5 TO 10",
+      "artists": "Don Toliver",
+      "album": "HARDSTONE PSYCHO",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
+      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
+      "playedAt": "2026-09-05T03:38:00.805Z"
+    },
+    {
+      "id": "0eF8TYM3rYzdS26URcs4U6",
+      "name": "Gimme Love",
+      "artists": "Joji",
+      "album": "Nectar",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6",
+      "playedAt": "2026-09-05T03:34:46.620Z"
+    },
+    {
+      "id": "4olWlfIzbDyD53NhWyvdDJ",
+      "name": "is it cool? (feat. SZA)",
+      "artists": "Steve Lacy, SZA",
+      "album": "is it cool? (feat. SZA)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
+      "playedAt": "2026-09-05T03:31:11.422Z"
     }
   ]
 }
