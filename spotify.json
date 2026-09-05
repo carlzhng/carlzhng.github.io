@@ -1,87 +1,104 @@
 {
-  "updatedAt": "2026-09-05T20:02:04Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-05T23:36:07Z",
+  "nowPlaying": {
+    "id": "6rY5FAWxCdAGllYEOZMbjW",
+    "name": "SLOW DANCING IN THE DARK",
+    "artists": "Joji",
+    "album": "BALLADS 1",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+    "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "5O2P9iiztwhomNh8xkR9lJ",
-      "name": "Night Changes",
-      "artists": "One Direction",
-      "album": "FOUR (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
-      "playedAt": "2026-09-05T19:58:18.844Z"
+      "id": "7g2S8dvcdpeRUs38L6dbZs",
+      "name": "NUMB",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/7g2S8dvcdpeRUs38L6dbZs",
+      "playedAt": "2026-09-05T23:33:28.818Z"
     },
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
+      "id": "040I32EKLxQrkuxQu1pqvT",
+      "name": "Saturn",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
+      "playedAt": "2026-09-05T23:29:59.058Z"
+    },
+    {
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-09-05T23:26:52.364Z"
+    },
+    {
+      "id": "0q6LuUqGLUiCPP1cbdwFs3",
+      "name": "On Melancholy Hill",
+      "artists": "Gorillaz",
+      "album": "Plastic Beach",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
+      "playedAt": "2026-09-05T23:21:25.300Z"
+    },
+    {
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
       "album": "SWAG",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-09-05T19:53:02.197Z"
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-05T23:17:30.923Z"
     },
     {
-      "id": "4YmS7BALpAU0h4EAF4fYuh",
-      "name": "SPEED DEMON",
+      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
+      "name": "No Pole",
+      "artists": "Don Toliver",
+      "album": "Love Sick (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+      "playedAt": "2026-09-05T23:13:36.021Z"
+    },
+    {
+      "id": "3nHMhKFLQt0nonpuTyuZYs",
+      "name": "good company",
+      "artists": "Luke Chiang",
+      "album": "TYPHOON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
+      "playedAt": "2026-09-05T23:10:27.895Z"
+    },
+    {
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
       "artists": "Justin Bieber",
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh",
-      "playedAt": "2026-09-05T19:36:37.588Z"
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-09-05T23:07:22.970Z"
     },
     {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-09-05T19:30:34.655Z"
+      "id": "5e49INy8CAmgvqU7H8n9C6",
+      "name": "Can't Run Forever",
+      "artists": "Vacation Manor",
+      "album": "Vacation Manor",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
+      "url": "https://open.spotify.com/track/5e49INy8CAmgvqU7H8n9C6",
+      "playedAt": "2026-09-05T23:04:39.156Z"
     },
     {
-      "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "name": "Snooze",
-      "artists": "SZA",
-      "album": "SOS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "playedAt": "2026-09-05T19:27:00.031Z"
-    },
-    {
-      "id": "2tJlpsMyJeN6FJMmzf58OR",
-      "name": "Make It in America",
-      "artists": "Victorious Cast, Victoria Justice",
-      "album": "Victorious 2.0 (More Music from the TV Show \"Victorious\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02317a8f65b5200d03d462f169",
-      "url": "https://open.spotify.com/track/2tJlpsMyJeN6FJMmzf58OR",
-      "playedAt": "2026-09-05T19:16:08.081Z"
-    },
-    {
-      "id": "44Ljlpy44mHvLJxcYUvTK0",
-      "name": "Chocolate",
-      "artists": "The 1975",
-      "album": "The 1975",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024d32eb25811626546abb3f1c",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0",
-      "playedAt": "2026-09-05T19:12:46.809Z"
-    },
-    {
-      "id": "6OklSp2KgnW8RWNdQ7n8o1",
-      "name": "Sick",
-      "artists": "Dominic Fike",
-      "album": "Sunburn",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025b26c1b56d89c1416d21db60",
-      "url": "https://open.spotify.com/track/6OklSp2KgnW8RWNdQ7n8o1",
-      "playedAt": "2026-09-05T19:08:18.114Z"
-    },
-    {
-      "id": "6K4t31amVTZDgR3sKmwUJJ",
-      "name": "The Less I Know The Better",
-      "artists": "Tame Impala",
-      "album": "Currents",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-      "playedAt": "2026-09-05T18:51:59.736Z"
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-09-05T23:00:49.269Z"
     }
   ]
 }
