@@ -65,6 +65,17 @@
               </div>
             </div>
           </section>
+          <section class="edu-courses reveal-card" id="eduCourses" aria-label="Relevant courses" hidden>
+            <button class="courses-toggle press-btn" type="button" id="coursesToggle" aria-expanded="false" aria-controls="coursesPanel">
+              <span>Relevant Courses</span>
+              <span class="courses-toggle-icon" aria-hidden="true">▾</span>
+            </button>
+            <div class="courses-panel" id="coursesPanel">
+              <div class="courses-panel-inner">
+                <div id="coursesList"></div>
+              </div>
+            </div>
+          </section>
         </div>
       </section>
 
@@ -84,6 +95,9 @@
             <button class="tab press-btn" type="button" role="tab" aria-selected="false" aria-controls="tabAwards" id="tabAwardsBtn">
               awards &amp; certificates
             </button>
+            <button class="tab press-btn" type="button" role="tab" aria-selected="false" aria-controls="tabListening" id="tabListeningBtn">
+              ;)
+            </button>
           </div>
           <div class="tab-panels">
             <div class="tab-panel" role="tabpanel" id="tabAwards" aria-labelledby="tabAwardsBtn">
@@ -91,6 +105,9 @@
             </div>
             <div class="tab-panel is-active" role="tabpanel" id="tabExp" aria-labelledby="tabExpBtn">
               <div class="stack" id="expList"></div>
+            </div>
+            <div class="tab-panel" role="tabpanel" id="tabListening" aria-labelledby="tabListeningBtn">
+              <div class="stack" id="listeningList"></div>
             </div>
           </div>
         </div>
@@ -164,6 +181,6 @@
       </div>
     </dialog>
 
-    <script src="./app.js?v=7" type="module"></script>
+    <script src="./app.js?v=9" type="module"></script>
   </body>
 </html>

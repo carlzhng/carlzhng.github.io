@@ -307,6 +307,149 @@ function renderItems(container, items) {
   }
 }
 
+function courseGroups(courses) {
+  if (!Array.isArray(courses) || !courses.length) return [];
+  if (courses.some((c) => Array.isArray(c?.items))) {
+    return courses
+      .map((group) => ({
+        group: group.group || group.label || "",
+        items: (group.items || []).filter((c) => c?.code || c?.name)
+      }))
+      .filter((group) => group.items.length);
+  }
+  return [{
+    group: "",
+    items: courses.filter((c) => c?.code || c?.name)
+  }].filter((group) => group.items.length);
+}
+
+function renderCourses(container, courses) {
+  const section = $("#eduCourses");
+  if (!container) return;
+  container.innerHTML = "";
+  const groups = courseGroups(courses);
+  if (!groups.length) {
+    if (section) section.hidden = true;
+    return;
+  }
+  if (section) section.hidden = false;
+  for (const group of groups) {
+    const rows = group.items.map((course) =>
+      el("div", { class: "course-row" }, [
+        el("span", { class: "course-code", text: course.code || "" }),
+        el("span", { class: "course-name", text: course.name || "" })
+      ])
+    );
+    const children = [];
+    if (group.group) children.push(el("p", { class: "course-group-label", text: group.group }));
+    children.push(el("div", { class: "course-list" }, rows));
+    container.append(el("div", { class: "course-group" }, children));
+  }
+}
+
+function initCoursesToggle() {
+  const btn = $("#coursesToggle");
+  const panel = $("#coursesPanel");
+  if (!btn || !panel) return;
+
+  const setOpen = (open) => {
+    btn.setAttribute("aria-expanded", String(open));
+    panel.classList.toggle("is-open", open);
+  };
+
+  setOpen(false);
+  btn.addEventListener("click", () => {
+    const open = btn.getAttribute("aria-expanded") === "true";
+    setOpen(!open);
+  });
+}
+
+function timeAgo(iso) {
+  const then = Date.parse(iso);
+  if (!Number.isFinite(then)) return "";
+  const sec = Math.max(0, Math.round((Date.now() - then) / 1000));
+  if (sec < 60) return "just now";
+  const min = Math.round(sec / 60);
+  if (min < 60) return `${min}m ago`;
+  const hr = Math.round(min / 60);
+  if (hr < 24) return `${hr}h ago`;
+  const day = Math.round(hr / 24);
+  return `${day}d ago`;
+}
+
+function renderTrackRow(track, { live = false } = {}) {
+  const href = safeUrl(track?.url);
+  const row = el(href ? "a" : "div", {
+    class: live ? "track-row track-row--live reveal-card" : "track-row reveal-card",
+    href: href || undefined,
+    target: href ? "_blank" : undefined,
+    rel: href ? "noreferrer" : undefined
+  });
+
+  if (track?.albumImage) {
+    const img = el("img", {
+      class: "track-art",
+      src: track.albumImage,
+      alt: ""
+    });
+    img.loading = "lazy";
+    img.addEventListener("load", () => refreshTabsLayout());
+    img.addEventListener("error", () => {
+      img.remove();
+      refreshTabsLayout();
+    }, { once: true });
+    row.append(img);
+  } else {
+    row.append(el("div", { class: "track-art track-art--empty", "aria-hidden": "true" }));
+  }
+
+  const metaChildren = [
+    el("p", { class: "track-name", text: track?.name || "Unknown track" }),
+    el("p", { class: "track-artists", text: track?.artists || "" })
+  ];
+  if (live) {
+    metaChildren.push(el("p", { class: "track-live", text: "now playing" }));
+  } else if (track?.playedAt) {
+    const ago = timeAgo(track.playedAt);
+    if (ago) metaChildren.push(el("p", { class: "track-played", text: ago }));
+  }
+  row.append(el("div", { class: "track-meta" }, metaChildren));
+  return row;
+}
+
+function listeningEmpty(title, subtitle) {
+  return el("div", { class: "item reveal-card" }, [
+    el("h3", { text: title }),
+    el("p", { class: "sub", text: subtitle })
+  ]);
+}
+
+async function renderListening(container) {
+  if (!container) return;
+  container.innerHTML = "";
+  try {
+    const res = await fetch("./spotify.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("spotify.json missing");
+    const data = await res.json();
+    const now = data?.nowPlaying || null;
+    const recent = Array.isArray(data?.recent) ? data.recent : [];
+    if (now) container.append(renderTrackRow(now, { live: true }));
+    for (const track of recent) container.append(renderTrackRow(track));
+    if (!now && !recent.length) {
+      container.append(listeningEmpty(
+        "No recent tracks yet",
+        "This list updates automatically after Spotify is connected."
+      ));
+    }
+  } catch {
+    container.append(listeningEmpty(
+      "Listening data unavailable",
+      "Couldn’t load recently played tracks right now."
+    ));
+  }
+  refreshTabsLayout();
+}
+
 function certificateIconSvg() {
   return `
     <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
@@ -379,7 +522,8 @@ function openCertificateModal(cert) {
 function initTabs() {
   const tabConfig = [
     { id: "exp", btn: $("#tabExpBtn"), panel: $("#tabExp") },
-    { id: "awards", btn: $("#tabAwardsBtn"), panel: $("#tabAwards") }
+    { id: "awards", btn: $("#tabAwardsBtn"), panel: $("#tabAwards") },
+    { id: "listening", btn: $("#tabListeningBtn"), panel: $("#tabListening") }
   ].filter((t) => t.btn && t.panel);
 
   if (tabConfig.length < 2) return;
@@ -550,6 +694,7 @@ function initContact(person) {
 async function main() {
   initTheme();
   initTabs();
+  initCoursesToggle();
   initModal();
   initCertificateModal();
   initPCB();
@@ -580,6 +725,7 @@ async function main() {
   $("#eduSchool").textContent = person.education?.school || "—";
   const metaParts = [person.education?.location, person.education?.dates, person.education?.gpa ? `GPA: ${person.education.gpa}` : null].filter(Boolean);
   $("#eduMeta").textContent = metaParts.length ? metaParts.join(" • ") : "—";
+  renderCourses($("#coursesList"), person.education?.courses);
 
   const resumeButton = $("#resumeButton");
   if (resumeButton && person.resumeUrl) {
@@ -593,6 +739,7 @@ async function main() {
   $("#aboutSubtitle").textContent = data.about?.subtitle || "";
   renderAwards($("#awardsList"), data.about?.awards);
   renderItems($("#expList"), data.about?.experiences);
+  await renderListening($("#listeningList"));
   refreshTabsLayout();
   initContact(person);
   requestAnimationFrame(() => initReveal());

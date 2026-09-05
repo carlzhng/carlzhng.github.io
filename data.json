@@ -14,7 +14,32 @@
       "program": "BSc Computer Engineering Co-op",
       "school": "University of Alberta",
       "location": "Edmonton, Alberta",
-      "dates": "2024 — 2029"
+      "dates": "2024 — 2029",
+      "courses": [
+        {
+          "group": "Year 1",
+          "items": [
+            { "code": "ECE 210", "name": "Introduction to Digital Logic Design" },
+            { "code": "ECE 202", "name": "Electric Circuits I" },
+            { "code": "ECE 203", "name": "Electric Circuits II" },
+            { "code": "ECE 212", "name": "Introduction to Microprocessors" },
+            { "code": "ECE 240", "name": "Continuous Time Signals and Systems" },
+            { "code": "CMPUT 274", "name": "Accelerated Introduction to Tangible Computing I" },
+            { "code": "CMPUT 275", "name": "Accelerated Introduction to Tangible Computing II" },
+            { "code": "CMPUT 272", "name": "Formal systems and Logic in Computer Science" }
+          ]
+        },
+        {
+          "group": "Year 2",
+          "items": [
+            { "code": "ECE 340", "name": "Discrete Time Signals and Systems" },
+            { "code": "ECE 325", "name": "Object-Oriented Software Design" },
+            { "code": "ECE 311", "name": "Computer Organization and Architecture" },
+            { "code": "ECE 302", "name": "Electronic Devices" },
+            { "code": "CMPUT 291", "name": "Introduction to File and Database Management" }
+          ]
+        }
+      ]
     },
 
     "links": [

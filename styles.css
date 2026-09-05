@@ -596,6 +596,152 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
   margin: 0 auto;
 }
 
+.edu-courses{
+  width: min(100%, 520px);
+  margin: 22px auto 0;
+}
+.courses-toggle{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  font-weight: 700;
+}
+.courses-toggle:hover{
+  background: var(--panel2);
+}
+.courses-toggle:focus-visible{
+  outline: 3px solid var(--ring);
+  outline-offset: 2px;
+}
+.courses-toggle-icon{
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1;
+  transition: transform 0.22s ease;
+}
+.courses-toggle[aria-expanded="true"] .courses-toggle-icon{
+  transform: rotate(180deg);
+}
+.courses-panel{
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.32s ease;
+}
+.courses-panel.is-open{
+  grid-template-rows: 1fr;
+  margin-top: 14px;
+}
+.courses-panel-inner{
+  overflow: hidden;
+  min-height: 0;
+}
+.course-group{
+  margin: 0 0 16px 0;
+}
+.course-group:last-child{
+  margin-bottom: 0;
+}
+.course-group-label{
+  margin: 0 0 8px 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: .2px;
+  color: var(--muted);
+}
+.course-list{
+  display: grid;
+  gap: 8px;
+}
+.course-row{
+  display: grid;
+  grid-template-columns: minmax(92px, auto) 1fr;
+  gap: 12px;
+  align-items: baseline;
+  padding: 10px 14px;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+.course-code{
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: .02em;
+  white-space: nowrap;
+}
+.course-name{
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.track-row{
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 12px 14px;
+  border-radius: 32px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: inherit;
+}
+.track-row:hover{
+  background: var(--panel2);
+}
+.track-row--live{
+  border-color: rgba(25,195,125,.35);
+}
+.track-art{
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+  background: var(--surface-2);
+}
+.track-art--empty{
+  background: var(--surface-2);
+}
+.track-meta{
+  min-width: 0;
+}
+.track-name{
+  margin: 0;
+  font-weight: 700;
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.track-artists,
+.track-played{
+  margin: 2px 0 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.track-live{
+  margin: 4px 0 0 0;
+  color: var(--accent2);
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
 textarea{
   width:100%;
   padding:12px 12px;
@@ -816,6 +962,10 @@ textarea:focus{outline:3px solid var(--ring);outline-offset:2px}
 @media (max-width: 560px){
   .grid.projects-folder-grid{grid-template-columns: 1fr}
   .project-folder-shape{width: min(320px, 100%); height: 190px}
+  .course-row{
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
 }
 
 /* ── PCB CANVAS BACKGROUND ── */
