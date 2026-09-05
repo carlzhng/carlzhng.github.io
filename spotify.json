@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-09-05T16:34:33Z",
+  "updatedAt": "2026-09-05T20:02:04Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "6Xom58OOXk2SoU711L2IXO",
-      "name": "Moscow Mule",
-      "artists": "Bad Bunny",
-      "album": "Un Verano Sin Ti",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
-      "playedAt": "2026-09-05T04:10:02.979Z"
+      "id": "5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artists": "One Direction",
+      "album": "FOUR (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+      "playedAt": "2026-09-05T19:58:18.844Z"
     },
     {
-      "id": "42D9aaKTLw47faFhRCQfHF",
-      "name": "Blah Blah",
-      "artists": "Joji",
-      "album": "Piss In The Wind (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
-      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
-      "playedAt": "2026-09-05T04:05:56.497Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-09-05T19:53:02.197Z"
     },
     {
-      "id": "7h2nmmoWDi2UpfYKLKWLYB",
-      "name": "Sunflower",
-      "artists": "Rex Orange County",
-      "album": "Sunflower",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB",
-      "playedAt": "2026-09-05T04:03:14.265Z"
+      "id": "4YmS7BALpAU0h4EAF4fYuh",
+      "name": "SPEED DEMON",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh",
+      "playedAt": "2026-09-05T19:36:37.588Z"
     },
     {
-      "id": "5LxvwujISqiB8vpRYv887S",
-      "name": "I Want You Back",
-      "artists": "The Jackson 5",
-      "album": "Diana Ross Presents The Jackson 5",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
-      "playedAt": "2026-09-05T03:59:01.400Z"
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-09-05T19:30:34.655Z"
     },
     {
-      "id": "1WLEBdSUPHhdDOHXqC5dK4",
-      "name": "SUPAFICIAL",
-      "artists": "Isaiah Rashad",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
-      "playedAt": "2026-09-05T03:56:04.412Z"
+      "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "name": "Snooze",
+      "artists": "SZA",
+      "album": "SOS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "playedAt": "2026-09-05T19:27:00.031Z"
     },
     {
-      "id": "62FOsBpnZXEoPc1Qo9hcap",
-      "name": "Beautiful Goodbye",
-      "artists": "Maroon 5",
-      "album": "Overexposed (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
-      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
-      "playedAt": "2026-09-05T03:51:14.588Z"
+      "id": "2tJlpsMyJeN6FJMmzf58OR",
+      "name": "Make It in America",
+      "artists": "Victorious Cast, Victoria Justice",
+      "album": "Victorious 2.0 (More Music from the TV Show \"Victorious\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02317a8f65b5200d03d462f169",
+      "url": "https://open.spotify.com/track/2tJlpsMyJeN6FJMmzf58OR",
+      "playedAt": "2026-09-05T19:16:08.081Z"
     },
     {
-      "id": "20jbSiX29FDX4oQxBXyUEi",
-      "name": "hate that i made you love me",
-      "artists": "Ariana Grande",
-      "album": "hate that i made you love me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-      "playedAt": "2026-09-05T03:41:19.381Z"
+      "id": "44Ljlpy44mHvLJxcYUvTK0",
+      "name": "Chocolate",
+      "artists": "The 1975",
+      "album": "The 1975",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024d32eb25811626546abb3f1c",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0",
+      "playedAt": "2026-09-05T19:12:46.809Z"
     },
     {
-      "id": "1P9I2fgRkFzlIRUN0oeJN1",
-      "name": "5 TO 10",
-      "artists": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
-      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
-      "playedAt": "2026-09-05T03:38:00.805Z"
+      "id": "6OklSp2KgnW8RWNdQ7n8o1",
+      "name": "Sick",
+      "artists": "Dominic Fike",
+      "album": "Sunburn",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025b26c1b56d89c1416d21db60",
+      "url": "https://open.spotify.com/track/6OklSp2KgnW8RWNdQ7n8o1",
+      "playedAt": "2026-09-05T19:08:18.114Z"
     },
     {
-      "id": "0eF8TYM3rYzdS26URcs4U6",
-      "name": "Gimme Love",
-      "artists": "Joji",
-      "album": "Nectar",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6",
-      "playedAt": "2026-09-05T03:34:46.620Z"
-    },
-    {
-      "id": "4olWlfIzbDyD53NhWyvdDJ",
-      "name": "is it cool? (feat. SZA)",
-      "artists": "Steve Lacy, SZA",
-      "album": "is it cool? (feat. SZA)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
-      "playedAt": "2026-09-05T03:31:11.422Z"
+      "id": "6K4t31amVTZDgR3sKmwUJJ",
+      "name": "The Less I Know The Better",
+      "artists": "Tame Impala",
+      "album": "Currents",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
+      "playedAt": "2026-09-05T18:51:59.736Z"
     }
   ]
 }
