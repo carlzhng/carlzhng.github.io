@@ -1,42 +1,104 @@
 {
-  "updatedAt": "2026-09-06T16:44:24Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-06T20:05:23Z",
+  "nowPlaying": {
+    "id": "21jGcNKet2qwijlDFuPiPb",
+    "name": "Circles",
+    "artists": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+    "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
+      "id": "4ZFx96qgd3um86QFdEslYv",
+      "name": "XNXX",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
+      "playedAt": "2026-09-06T20:03:32.327Z"
+    },
+    {
+      "id": "2XjTTIlRo0NASEzyzvqBv9",
+      "name": "shoes",
       "artists": "Luke Chiang",
       "album": "TYPHOON",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-09-06T16:12:44.290Z"
+      "url": "https://open.spotify.com/track/2XjTTIlRo0NASEzyzvqBv9",
+      "playedAt": "2026-09-06T20:01:24.461Z"
     },
     {
-      "id": "18wmUghxdWxTgFsW4leZnt",
-      "name": "I CAN TELL",
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-09-06T19:58:45.475Z"
+    },
+    {
+      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
+      "name": "No Pole",
+      "artists": "Don Toliver",
+      "album": "Love Sick (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+      "playedAt": "2026-09-06T19:53:38.458Z"
+    },
+    {
+      "id": "6sAFHFV7OWuSYuTNslP2HI",
+      "name": "Catching Bodies",
+      "artists": "Sekou",
+      "album": "Catching Bodies",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
+      "playedAt": "2026-09-06T19:50:30.159Z"
+    },
+    {
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-09-06T19:47:23.063Z"
+    },
+    {
+      "id": "36JmHWMB21YyrUMzTAF0xv",
+      "name": "Stay A While",
+      "artists": "niko rain, EJEAN",
+      "album": "Stay A While",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020fcec7e22e6cc58ca6bcc9ad",
+      "url": "https://open.spotify.com/track/36JmHWMB21YyrUMzTAF0xv",
+      "playedAt": "2026-09-06T19:44:21.744Z"
+    },
+    {
+      "id": "2mOIjRSeiRRNVBv8PpoYUC",
+      "name": "AVALANCHE",
       "artists": "GIV\u0112ON",
       "album": "BELOVED",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt",
-      "playedAt": "2026-09-06T16:09:39.379Z"
+      "url": "https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC",
+      "playedAt": "2026-09-06T19:41:32.600Z"
     },
     {
-      "id": "0YMe6PHRbeDcN7KJdCG0bW",
-      "name": "The Dress",
-      "artists": "Dijon",
-      "album": "Absolutely",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
-      "playedAt": "2026-09-06T16:06:22.994Z"
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "playedAt": "2026-09-06T19:39:01.814Z"
     },
     {
-      "id": "3mrE0pFzyIQqFs3cMUimY4",
-      "name": "Circles - Instrumental",
-      "artists": "Post Malone",
-      "album": "Circles (Instrumental)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
-      "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
-      "playedAt": "2026-09-06T03:35:47.986Z"
+      "id": "4CL6fIvrJwD7XQP0QWyfd3",
+      "name": "Rodrick Rules",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
+      "playedAt": "2026-09-06T19:35:32Z"
     }
   ]
 }
