@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-09-06T13:26:16Z",
+  "updatedAt": "2026-09-06T16:44:24Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3nHMhKFLQt0nonpuTyuZYs",
+      "name": "good company",
+      "artists": "Luke Chiang",
+      "album": "TYPHOON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
+      "playedAt": "2026-09-06T16:12:44.290Z"
+    },
+    {
+      "id": "18wmUghxdWxTgFsW4leZnt",
+      "name": "I CAN TELL",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt",
+      "playedAt": "2026-09-06T16:09:39.379Z"
+    },
+    {
+      "id": "0YMe6PHRbeDcN7KJdCG0bW",
+      "name": "The Dress",
+      "artists": "Dijon",
+      "album": "Absolutely",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
+      "playedAt": "2026-09-06T16:06:22.994Z"
+    },
     {
       "id": "3mrE0pFzyIQqFs3cMUimY4",
       "name": "Circles - Instrumental",
@@ -10,15 +37,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
       "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
       "playedAt": "2026-09-06T03:35:47.986Z"
-    },
-    {
-      "id": "3sK8wGT43QFpWrvNQsrQya",
-      "name": "DtMF",
-      "artists": "Bad Bunny",
-      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-      "playedAt": "2026-09-06T03:00:40.335Z"
     }
   ]
 }
