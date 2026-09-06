@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-09-06T20:05:23Z",
-  "nowPlaying": {
-    "id": "21jGcNKet2qwijlDFuPiPb",
-    "name": "Circles",
-    "artists": "Post Malone",
-    "album": "Hollywood's Bleeding",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-    "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-06T23:33:08Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "4ZFx96qgd3um86QFdEslYv",
-      "name": "XNXX",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
-      "playedAt": "2026-09-06T20:03:32.327Z"
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-09-06T23:14:09.585Z"
     },
     {
-      "id": "2XjTTIlRo0NASEzyzvqBv9",
-      "name": "shoes",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/2XjTTIlRo0NASEzyzvqBv9",
-      "playedAt": "2026-09-06T20:01:24.461Z"
+      "id": "3iCBnS3JlJMqCONqNqky4U",
+      "name": "Water the Flowers, Pray for a Garden",
+      "artists": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
+      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
+      "playedAt": "2026-09-06T23:08:42.448Z"
     },
     {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-09-06T19:58:45.475Z"
+      "id": "59RNdFA4oFNIvTIvaBxqgQ",
+      "name": "Paris",
+      "artists": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
+      "url": "https://open.spotify.com/track/59RNdFA4oFNIvTIvaBxqgQ",
+      "playedAt": "2026-09-06T22:39:01.686Z"
     },
     {
-      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole",
-      "artists": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "playedAt": "2026-09-06T19:53:38.458Z"
+      "id": "6cx5CvFhqN19efStehJqoW",
+      "name": "Valentine",
+      "artists": "Laufey",
+      "album": "Everything I Know About Love",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248341e864d4b4881f56f01b4",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW",
+      "playedAt": "2026-09-06T22:34:07.835Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-09-06T19:50:30.159Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-09-06T22:31:18.347Z"
     },
     {
-      "id": "3U3hFkMr0Q90pD24EkE3Pr",
-      "name": "BMF",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
-      "playedAt": "2026-09-06T19:47:23.063Z"
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "playedAt": "2026-09-06T22:28:21.194Z"
     },
     {
-      "id": "36JmHWMB21YyrUMzTAF0xv",
-      "name": "Stay A While",
-      "artists": "niko rain, EJEAN",
-      "album": "Stay A While",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020fcec7e22e6cc58ca6bcc9ad",
-      "url": "https://open.spotify.com/track/36JmHWMB21YyrUMzTAF0xv",
-      "playedAt": "2026-09-06T19:44:21.744Z"
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-09-06T22:24:50.125Z"
     },
     {
-      "id": "2mOIjRSeiRRNVBv8PpoYUC",
-      "name": "AVALANCHE",
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-09-06T22:20:08.969Z"
+    },
+    {
+      "id": "4AUVtLD85OUgUROBzsCP2e",
+      "name": "RATHER BE",
       "artists": "GIV\u0112ON",
       "album": "BELOVED",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC",
-      "playedAt": "2026-09-06T19:41:32.600Z"
+      "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e",
+      "playedAt": "2026-09-06T22:17:24.873Z"
     },
     {
-      "id": "6rY5FAWxCdAGllYEOZMbjW",
-      "name": "SLOW DANCING IN THE DARK",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
-      "playedAt": "2026-09-06T19:39:01.814Z"
-    },
-    {
-      "id": "4CL6fIvrJwD7XQP0QWyfd3",
-      "name": "Rodrick Rules",
-      "artists": "Malcolm Todd",
-      "album": "Sweet Boy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
-      "playedAt": "2026-09-06T19:35:32Z"
+      "id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need",
+      "artists": "Olivia Dean",
+      "album": "Man I Need",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "playedAt": "2026-09-06T22:14:32.721Z"
     }
   ]
 }
