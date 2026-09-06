@@ -1,15 +1,16 @@
 {
-  "updatedAt": "2026-09-06T03:21:42Z",
-  "nowPlaying": {
-    "id": "3mrE0pFzyIQqFs3cMUimY4",
-    "name": "Circles - Instrumental",
-    "artists": "Post Malone",
-    "album": "Circles (Instrumental)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
-    "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-06T08:25:24Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "3mrE0pFzyIQqFs3cMUimY4",
+      "name": "Circles - Instrumental",
+      "artists": "Post Malone",
+      "album": "Circles (Instrumental)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
+      "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
+      "playedAt": "2026-09-06T03:35:47.986Z"
+    },
     {
       "id": "3sK8wGT43QFpWrvNQsrQya",
       "name": "DtMF",
@@ -18,42 +19,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
       "playedAt": "2026-09-06T03:00:40.335Z"
-    },
-    {
-      "id": "4uyBm26e7ElRigCH6vRbpc",
-      "name": "DEVOTION",
-      "artists": "Justin Bieber, Dijon",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
-      "playedAt": "2026-09-06T02:56:42.576Z"
-    },
-    {
-      "id": "4ZFx96qgd3um86QFdEslYv",
-      "name": "XNXX",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
-      "playedAt": "2026-09-06T02:52:47.545Z"
-    },
-    {
-      "id": "2LlOeW5rVcvl3QcPNPcDus",
-      "name": "Always",
-      "artists": "Daniel Caesar",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
-      "playedAt": "2026-09-06T02:50:39.625Z"
-    },
-    {
-      "id": "6nzCvAtyADh0wwZEVMoujK",
-      "name": "By My Side",
-      "artists": "JUNNY",
-      "album": "By My Side",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296c6f2356bf9ad60a9fd061f",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK",
-      "playedAt": "2026-09-06T02:46:53.616Z"
     }
   ]
 }
