@@ -1,50 +1,23 @@
 {
-  "updatedAt": "2026-09-05T23:36:07Z",
+  "updatedAt": "2026-09-06T03:21:42Z",
   "nowPlaying": {
-    "id": "6rY5FAWxCdAGllYEOZMbjW",
-    "name": "SLOW DANCING IN THE DARK",
-    "artists": "Joji",
-    "album": "BALLADS 1",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-    "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+    "id": "3mrE0pFzyIQqFs3cMUimY4",
+    "name": "Circles - Instrumental",
+    "artists": "Post Malone",
+    "album": "Circles (Instrumental)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
+    "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
     "isPlaying": true
   },
   "recent": [
     {
-      "id": "7g2S8dvcdpeRUs38L6dbZs",
-      "name": "NUMB",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/7g2S8dvcdpeRUs38L6dbZs",
-      "playedAt": "2026-09-05T23:33:28.818Z"
-    },
-    {
-      "id": "040I32EKLxQrkuxQu1pqvT",
-      "name": "Saturn",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
-      "playedAt": "2026-09-05T23:29:59.058Z"
-    },
-    {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-05T23:26:52.364Z"
-    },
-    {
-      "id": "0q6LuUqGLUiCPP1cbdwFs3",
-      "name": "On Melancholy Hill",
-      "artists": "Gorillaz",
-      "album": "Plastic Beach",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
-      "playedAt": "2026-09-05T23:21:25.300Z"
+      "id": "3sK8wGT43QFpWrvNQsrQya",
+      "name": "DtMF",
+      "artists": "Bad Bunny",
+      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "playedAt": "2026-09-06T03:00:40.335Z"
     },
     {
       "id": "4uyBm26e7ElRigCH6vRbpc",
@@ -53,52 +26,34 @@
       "album": "SWAG",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
       "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
-      "playedAt": "2026-09-05T23:17:30.923Z"
+      "playedAt": "2026-09-06T02:56:42.576Z"
     },
     {
-      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole",
-      "artists": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "playedAt": "2026-09-05T23:13:36.021Z"
+      "id": "4ZFx96qgd3um86QFdEslYv",
+      "name": "XNXX",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
+      "playedAt": "2026-09-06T02:52:47.545Z"
     },
     {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-09-05T23:10:27.895Z"
+      "id": "2LlOeW5rVcvl3QcPNPcDus",
+      "name": "Always",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
+      "playedAt": "2026-09-06T02:50:39.625Z"
     },
     {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-09-05T23:07:22.970Z"
-    },
-    {
-      "id": "5e49INy8CAmgvqU7H8n9C6",
-      "name": "Can't Run Forever",
-      "artists": "Vacation Manor",
-      "album": "Vacation Manor",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
-      "url": "https://open.spotify.com/track/5e49INy8CAmgvqU7H8n9C6",
-      "playedAt": "2026-09-05T23:04:39.156Z"
-    },
-    {
-      "id": "1K6oXSGIexEyNnv2cS6vKr",
-      "name": "Transform (feat. Charlotte Day Wilson)",
-      "artists": "Daniel Caesar, Charlotte Day Wilson",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
-      "playedAt": "2026-09-05T23:00:49.269Z"
+      "id": "6nzCvAtyADh0wwZEVMoujK",
+      "name": "By My Side",
+      "artists": "JUNNY",
+      "album": "By My Side",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296c6f2356bf9ad60a9fd061f",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK",
+      "playedAt": "2026-09-06T02:46:53.616Z"
     }
   ]
 }
