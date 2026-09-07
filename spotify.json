@@ -1,15 +1,104 @@
 {
-  "updatedAt": "2026-09-07T19:38:23Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-07T22:34:30Z",
+  "nowPlaying": {
+    "id": "5OUTFH5acycdnf8OVo21Gv",
+    "name": "Television / So Far So Good",
+    "artists": "Rex Orange County",
+    "album": "Apricot Princess",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0294c6cd33b8be451c2372c6fa",
+    "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3mrE0pFzyIQqFs3cMUimY4",
-      "name": "Circles - Instrumental",
-      "artists": "Post Malone",
-      "album": "Circles (Instrumental)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
-      "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
-      "playedAt": "2026-09-07T01:05:52.760Z"
+      "id": "3iCBnS3JlJMqCONqNqky4U",
+      "name": "Water the Flowers, Pray for a Garden",
+      "artists": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
+      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
+      "playedAt": "2026-09-07T22:33:35.684Z"
+    },
+    {
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-09-07T22:30:08.593Z"
+    },
+    {
+      "id": "3sK8wGT43QFpWrvNQsrQya",
+      "name": "DtMF",
+      "artists": "Bad Bunny",
+      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "playedAt": "2026-09-07T22:27:24.702Z"
+    },
+    {
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-09-07T22:23:26.914Z"
+    },
+    {
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-07T22:19:56.489Z"
+    },
+    {
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-09-07T22:16:01.461Z"
+    },
+    {
+      "id": "3HYUSkSJ0iQfocqdJmJqKw",
+      "name": "TWENTIES",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw",
+      "playedAt": "2026-09-07T22:11:18.668Z"
+    },
+    {
+      "id": "3nNjA76lO6zbLKugA0tdOw",
+      "name": "NO FUN",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/3nNjA76lO6zbLKugA0tdOw",
+      "playedAt": "2026-09-07T22:08:26.361Z"
+    },
+    {
+      "id": "5e49INy8CAmgvqU7H8n9C6",
+      "name": "Can't Run Forever",
+      "artists": "Vacation Manor",
+      "album": "Vacation Manor",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
+      "url": "https://open.spotify.com/track/5e49INy8CAmgvqU7H8n9C6",
+      "playedAt": "2026-09-07T22:05:37.164Z"
+    },
+    {
+      "id": "59RNdFA4oFNIvTIvaBxqgQ",
+      "name": "Paris",
+      "artists": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
+      "url": "https://open.spotify.com/track/59RNdFA4oFNIvTIvaBxqgQ",
+      "playedAt": "2026-09-07T22:01:47.210Z"
     }
   ]
 }
