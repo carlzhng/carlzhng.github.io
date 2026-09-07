@@ -1,96 +1,15 @@
 {
-  "updatedAt": "2026-09-06T23:33:08Z",
+  "updatedAt": "2026-09-07T03:20:22Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-06T23:14:09.585Z"
-    },
-    {
-      "id": "3iCBnS3JlJMqCONqNqky4U",
-      "name": "Water the Flowers, Pray for a Garden",
-      "artists": "Valley",
-      "album": "Water the Flowers, Pray for a Garden",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
-      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
-      "playedAt": "2026-09-06T23:08:42.448Z"
-    },
-    {
-      "id": "59RNdFA4oFNIvTIvaBxqgQ",
-      "name": "Paris",
-      "artists": "The 1975",
-      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
-      "url": "https://open.spotify.com/track/59RNdFA4oFNIvTIvaBxqgQ",
-      "playedAt": "2026-09-06T22:39:01.686Z"
-    },
-    {
-      "id": "6cx5CvFhqN19efStehJqoW",
-      "name": "Valentine",
-      "artists": "Laufey",
-      "album": "Everything I Know About Love",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248341e864d4b4881f56f01b4",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW",
-      "playedAt": "2026-09-06T22:34:07.835Z"
-    },
-    {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-09-06T22:31:18.347Z"
-    },
-    {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-09-06T22:28:21.194Z"
-    },
-    {
-      "id": "1K6oXSGIexEyNnv2cS6vKr",
-      "name": "Transform (feat. Charlotte Day Wilson)",
-      "artists": "Daniel Caesar, Charlotte Day Wilson",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
-      "playedAt": "2026-09-06T22:24:50.125Z"
-    },
-    {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-09-06T22:20:08.969Z"
-    },
-    {
-      "id": "4AUVtLD85OUgUROBzsCP2e",
-      "name": "RATHER BE",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e",
-      "playedAt": "2026-09-06T22:17:24.873Z"
-    },
-    {
-      "id": "1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artists": "Olivia Dean",
-      "album": "Man I Need",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "playedAt": "2026-09-06T22:14:32.721Z"
+      "id": "3mrE0pFzyIQqFs3cMUimY4",
+      "name": "Circles - Instrumental",
+      "artists": "Post Malone",
+      "album": "Circles (Instrumental)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029575220e3f2f47072a0a8898",
+      "url": "https://open.spotify.com/track/3mrE0pFzyIQqFs3cMUimY4",
+      "playedAt": "2026-09-07T01:05:52.760Z"
     }
   ]
 }
