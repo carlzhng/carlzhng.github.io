@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-09-08T19:17:31Z",
+  "updatedAt": "2026-09-08T22:24:47Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-08T19:57:16.787Z"
+    },
     {
       "id": "4bO6IzKXMWhmncfIO9GBq2",
       "name": "C'Mon",
@@ -55,24 +64,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
       "playedAt": "2026-09-08T14:53:01.688Z"
-    },
-    {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-08T14:47:47.734Z"
-    },
-    {
-      "id": "3kPoV6L9vXpbxoM4Ux0KnX",
-      "name": "LMLY",
-      "artists": "Jackson Wang",
-      "album": "LMLY",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02509c1c8cb08ab7e1edcd3874",
-      "url": "https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX",
-      "playedAt": "2026-09-08T14:44:19.240Z"
     }
   ]
 }
