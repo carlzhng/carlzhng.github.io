@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-08T03:27:16Z",
+  "updatedAt": "2026-09-08T08:39:55Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "2hR3npB7rQOqRXS4yISzFs",
+      "name": "Ant Pile",
+      "artists": "Dominic Fike",
+      "album": "Ant Pile",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022d7f75126179cd80a55e71d9",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs",
+      "playedAt": "2026-09-08T04:08:41.539Z"
+    },
+    {
+      "id": "6yFx9cK1PZcZDSJbtZAOUJ",
+      "name": "Pressures",
+      "artists": "Ebub\u00e9",
+      "album": "A Mile In My Mind",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0250294bd1a7c79248e9510",
+      "url": "https://open.spotify.com/track/6yFx9cK1PZcZDSJbtZAOUJ",
+      "playedAt": "2026-09-08T04:06:34.789Z"
+    },
+    {
+      "id": "7mykoq6R3BArsSpNDjFQTm",
+      "name": "I Really Want to Stay at Your House",
+      "artists": "Rosa Walton, Hallie Coggins",
+      "album": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a91a5b301baac1f46e6f30eb",
+      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm",
+      "playedAt": "2026-09-08T04:02:30.214Z"
+    },
+    {
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-09-08T03:58:22.281Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-09-08T03:55:36.843Z"
+    },
     {
       "id": "4gwltSjdrzKtKz9dlk2Wja",
       "name": "Stella Brown",
@@ -28,69 +73,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
       "playedAt": "2026-09-08T01:45:07.809Z"
-    },
-    {
-      "id": "6AX3i1TluzbvpJpKrY7NoD",
-      "name": "SWEET SPOT",
-      "artists": "Justin Bieber, Sexyy Red",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
-      "playedAt": "2026-09-07T23:29:31.700Z"
-    },
-    {
-      "id": "6klpXs2uAjagnZMFkt4qkl",
-      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
-      "artists": "Mandy Moore, Zachary Levi",
-      "album": "Tangled",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
-      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
-      "playedAt": "2026-09-07T23:26:25.860Z"
-    },
-    {
-      "id": "5viFjDGTnrApmUY5c8qkfw",
-      "name": "A Whole New World",
-      "artists": "Mena Massoud, Naomi Scott",
-      "album": "Aladdin (Original Motion Picture Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029986d69836eac008a927b032",
-      "url": "https://open.spotify.com/track/5viFjDGTnrApmUY5c8qkfw",
-      "playedAt": "2026-09-07T23:22:40.979Z"
-    },
-    {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-09-07T23:19:44.645Z"
-    },
-    {
-      "id": "0oG6bJKzXgqzsaaEy1M510",
-      "name": "KEEPER",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510",
-      "playedAt": "2026-09-07T23:16:39.646Z"
-    },
-    {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-09-07T23:12:56.527Z"
-    },
-    {
-      "id": "0YMe6PHRbeDcN7KJdCG0bW",
-      "name": "The Dress",
-      "artists": "Dijon",
-      "album": "Absolutely",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
-      "playedAt": "2026-09-07T23:09:59.385Z"
     }
   ]
 }
