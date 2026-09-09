@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-09-09T08:43:58Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-09T14:12:53Z",
+  "nowPlaying": {
+    "id": "60wwxj6Dd9NJlirf84wr2c",
+    "name": "Clarity",
+    "artists": "Zedd, Foxes",
+    "album": "Clarity",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02941dd3b3343d9cb9329d37bf",
+    "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c",
+    "isPlaying": true
+  },
   "recent": [
     {
       "id": "4bO6IzKXMWhmncfIO9GBq2",
@@ -9,7 +17,7 @@
       "album": "Warrior (Expanded Edition)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
       "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-09T03:44:49.420Z"
+      "playedAt": "2026-09-09T14:11:49.350Z"
     }
   ]
 }
