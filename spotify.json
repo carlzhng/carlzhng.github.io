@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-09-09T03:31:11Z",
-  "nowPlaying": {
-    "id": "4bO6IzKXMWhmncfIO9GBq2",
-    "name": "C'Mon",
-    "artists": "Kesha",
-    "album": "Warrior (Expanded Edition)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-    "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-    "isPlaying": true
-  },
-  "recent": []
+  "updatedAt": "2026-09-09T08:43:58Z",
+  "nowPlaying": null,
+  "recent": [
+    {
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-09T03:44:49.420Z"
+    }
+  ]
 }
