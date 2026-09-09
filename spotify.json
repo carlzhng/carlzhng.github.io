@@ -1,69 +1,13 @@
 {
-  "updatedAt": "2026-09-08T22:24:47Z",
-  "nowPlaying": null,
-  "recent": [
-    {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-08T19:57:16.787Z"
-    },
-    {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-08T15:27:37.215Z"
-    },
-    {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-08T15:23:52.757Z"
-    },
-    {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-08T15:20:56.860Z"
-    },
-    {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-08T15:18:07.240Z"
-    },
-    {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-09-08T14:57:35.739Z"
-    },
-    {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-09-08T14:53:01.688Z"
-    }
-  ]
+  "updatedAt": "2026-09-09T03:31:11Z",
+  "nowPlaying": {
+    "id": "4bO6IzKXMWhmncfIO9GBq2",
+    "name": "C'Mon",
+    "artists": "Kesha",
+    "album": "Warrior (Expanded Edition)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+    "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+    "isPlaying": true
+  },
+  "recent": []
 }
