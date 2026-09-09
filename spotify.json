@@ -1,23 +1,96 @@
 {
-  "updatedAt": "2026-09-09T14:12:53Z",
-  "nowPlaying": {
-    "id": "60wwxj6Dd9NJlirf84wr2c",
-    "name": "Clarity",
-    "artists": "Zedd, Foxes",
-    "album": "Clarity",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02941dd3b3343d9cb9329d37bf",
-    "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-09T19:06:57Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-09T14:11:49.350Z"
+      "id": "6MAdEUilV2p9RQUqE5bMAK",
+      "name": "Domino",
+      "artists": "Jessie J",
+      "album": "Who You Are (Platinum Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029900b995cd1a81c35c574ab0",
+      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK",
+      "playedAt": "2026-09-09T18:58:46.612Z"
+    },
+    {
+      "id": "1Y3LN4zO1Edc2EluIoSPJN",
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artists": "Stephen Sanchez, Em Beihold",
+      "album": "Until I Found You (Em Beihold Version)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bf0876d42b90a8852ad6244",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN",
+      "playedAt": "2026-09-09T18:54:54.438Z"
+    },
+    {
+      "id": "6BjDS1tNSBjposp5j9a3g4",
+      "name": "Loverboy",
+      "artists": "A-Wall",
+      "album": "Helios",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c025e1e5585b4bdcd0b303f",
+      "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4",
+      "playedAt": "2026-09-09T18:51:57.488Z"
+    },
+    {
+      "id": "0HnaqUxvHP5LaWdmWwJpiS",
+      "name": "Love Somebody",
+      "artists": "Maroon 5",
+      "album": "Overexposed (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d41d73f973cb817462e068a",
+      "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS",
+      "playedAt": "2026-09-09T18:48:12.598Z"
+    },
+    {
+      "id": "6sAFHFV7OWuSYuTNslP2HI",
+      "name": "Catching Bodies",
+      "artists": "Sekou",
+      "album": "Catching Bodies",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
+      "playedAt": "2026-09-09T18:18:12.284Z"
+    },
+    {
+      "id": "2E7a96qey4AzSOdK6H21vS",
+      "name": "Scorsese Baby Daddy",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS",
+      "playedAt": "2026-09-09T18:15:19.106Z"
+    },
+    {
+      "id": "4CL6fIvrJwD7XQP0QWyfd3",
+      "name": "Rodrick Rules",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
+      "playedAt": "2026-09-09T18:12:44.687Z"
+    },
+    {
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "playedAt": "2026-09-09T18:09:40.625Z"
+    },
+    {
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-09-09T18:06:10.953Z"
+    },
+    {
+      "id": "0YMe6PHRbeDcN7KJdCG0bW",
+      "name": "The Dress",
+      "artists": "Dijon",
+      "album": "Absolutely",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
+      "playedAt": "2026-09-09T18:02:40.403Z"
     }
   ]
 }
