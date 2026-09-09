@@ -68,6 +68,21 @@
       ]
     },
     {
+      "name": "iCANspeed",
+      "description": "How do systems within cars communicate with each other? This personal project was designed to explore the communication protocols used in modern vehicles and understand their applications. Through this project, I gained insight into the intricacies of automotive communication systems and their role in ensuring seamless operation. Additionally, I applied signal processing techniques to clean and process the communication data so that the data acquisition and analysis could be performed effectively. The setup consists of an Arduino UNO, ESP32, 2x MCP2515 CAN Bus modules, an OLED screen to display speed values, and a analog potentiometer to mimic the gas pedal.",
+      "media": {
+        "image": "./assets/speedCover.jpg",
+        "gallery":[
+          "./assets/CAN1.jpg",
+          "./assets/CAN2.jpg",
+          "./assets/CANgif.gif",
+          "./assets/CANDiagram.png"
+        ]
+      },
+      "tags": ["C/C++", "Arduino UNO", "ESP32", "MCP2515 CAN Bus Module", "KiCad", "Git"],
+      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/I-CAN-Speed"}]
+    },
+    {
       "name": "Domain Detector",
       "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
