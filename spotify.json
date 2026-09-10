@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-10T08:42:31Z",
+  "updatedAt": "2026-09-10T14:06:50Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artists": "One Direction",
+      "album": "FOUR (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+      "playedAt": "2026-09-10T09:34:05.168Z"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-09-10T05:25:38.989Z"
+    },
     {
       "id": "4zmXWmILSBkn7gTvIyCiNi",
       "name": "bad thing (bunny hop)",
@@ -10,78 +28,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
       "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
       "playedAt": "2026-09-10T04:14:26.774Z"
-    },
-    {
-      "id": "1yjY7rpaAQvKwpdUliHx0d",
-      "name": "Still into You",
-      "artists": "Paramore",
-      "album": "Paramore",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02532033d0d90736f661c13d35",
-      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d",
-      "playedAt": "2026-09-10T04:10:10.418Z"
-    },
-    {
-      "id": "3kPoV6L9vXpbxoM4Ux0KnX",
-      "name": "LMLY",
-      "artists": "Jackson Wang",
-      "album": "LMLY",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02509c1c8cb08ab7e1edcd3874",
-      "url": "https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX",
-      "playedAt": "2026-09-10T04:09:08.751Z"
-    },
-    {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-10T04:05:38.208Z"
-    },
-    {
-      "id": "3afkJSKX0EAMsJXTZnDXXJ",
-      "name": "Strawberries & Cigarettes",
-      "artists": "Troye Sivan",
-      "album": "Strawberries & Cigarettes",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c9eb4c87e1d7f5353908b712",
-      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ",
-      "playedAt": "2026-09-10T02:35:27.883Z"
-    },
-    {
-      "id": "4dR4CSy5uvkyBgPN1YeMDs",
-      "name": "endlessly",
-      "artists": "bixby",
-      "album": "endlessly",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e2c9f8133fb2d50af8a87123",
-      "url": "https://open.spotify.com/track/4dR4CSy5uvkyBgPN1YeMDs",
-      "playedAt": "2026-09-10T02:32:05.786Z"
-    },
-    {
-      "id": "52brDlLtV8OmnqsPZQpOFu",
-      "name": "Impromptu",
-      "artists": "Karri",
-      "album": "Impromptu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0298a59701467eb9aed3152d37",
-      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu",
-      "playedAt": "2026-09-09T22:10:54.448Z"
-    },
-    {
-      "id": "6TYMKzIGlK1vnnzX9jPzN2",
-      "name": "solo (outro)",
-      "artists": "jalen chords",
-      "album": "the playlist",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b9ca74433075d538d2ad9e5d",
-      "url": "https://open.spotify.com/track/6TYMKzIGlK1vnnzX9jPzN2",
-      "playedAt": "2026-09-09T22:06:42.344Z"
-    },
-    {
-      "id": "5JbnupagBhD0AanbkCELdH",
-      "name": "nowhere, nobody",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-      "playedAt": "2026-09-09T22:02:18.777Z"
     }
   ]
 }
