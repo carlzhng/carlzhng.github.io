@@ -1,95 +1,68 @@
 {
-  "updatedAt": "2026-09-10T18:59:01Z",
+  "updatedAt": "2026-09-10T22:18:11Z",
   "nowPlaying": {
-    "id": "3kPoV6L9vXpbxoM4Ux0KnX",
-    "name": "LMLY",
-    "artists": "Jackson Wang",
-    "album": "LMLY",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02509c1c8cb08ab7e1edcd3874",
-    "url": "https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX",
+    "id": "7mykoq6R3BArsSpNDjFQTm",
+    "name": "I Really Want to Stay at Your House",
+    "artists": "Rosa Walton, Hallie Coggins",
+    "album": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02a91a5b301baac1f46e6f30eb",
+    "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm",
     "isPlaying": true
   },
   "recent": [
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-10T18:56:42.329Z"
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-09-10T22:16:30.536Z"
     },
     {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-09-10T18:39:55.536Z"
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-09-10T22:13:45.122Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-10T18:35:40.051Z"
+      "id": "2hR3npB7rQOqRXS4yISzFs",
+      "name": "Ant Pile",
+      "artists": "Dominic Fike",
+      "album": "Ant Pile",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022d7f75126179cd80a55e71d9",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs",
+      "playedAt": "2026-09-10T21:49:43.820Z"
     },
     {
-      "id": "3je88Q4OvTqIx7BFRFYvRA",
-      "name": "Phases",
-      "artists": "PRETTYMUCH",
-      "album": "Phases",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
-      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
-      "playedAt": "2026-09-10T18:30:24.730Z"
+      "id": "6yFx9cK1PZcZDSJbtZAOUJ",
+      "name": "Pressures",
+      "artists": "Ebub\u00e9",
+      "album": "A Mile In My Mind",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0250294bd1a7c79248e9510",
+      "url": "https://open.spotify.com/track/6yFx9cK1PZcZDSJbtZAOUJ",
+      "playedAt": "2026-09-10T21:47:37.060Z"
     },
     {
-      "id": "5O2P9iiztwhomNh8xkR9lJ",
-      "name": "Night Changes",
-      "artists": "One Direction",
-      "album": "FOUR (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
-      "playedAt": "2026-09-10T18:26:22.783Z"
+      "id": "55wlsNYqcfiQsHuX8l0jmF",
+      "name": "Make Them Cry",
+      "artists": "Drake",
+      "album": "ICEMAN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF",
+      "playedAt": "2026-09-10T21:32:43.417Z"
     },
     {
-      "id": "0O3TAouZE4vL9dM5SyxgvH",
-      "name": "Fashion Killa",
-      "artists": "A$AP Rocky",
-      "album": "LONG.LIVE.A$AP (Deluxe Version)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
-      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH",
-      "playedAt": "2026-09-10T15:32:52.896Z"
-    },
-    {
-      "id": "5JbnupagBhD0AanbkCELdH",
-      "name": "nowhere, nobody",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-      "playedAt": "2026-09-10T15:29:26.698Z"
-    },
-    {
-      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
-      "name": "Caf\u00e9 Pacific",
-      "artists": "TOAST CLUB",
-      "album": "Caf\u00e9 Pacific",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
-      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
-      "playedAt": "2026-09-10T15:26:34.096Z"
-    },
-    {
-      "id": "1C5utO1I8FoSIn6g1R5DAZ",
-      "name": "If You\u2019re Too Shy (Let Me Know)",
-      "artists": "The 1975",
-      "album": "Notes On A Conditional Form",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-      "playedAt": "2026-09-10T15:21:14.095Z"
+      "id": "4eE16RJFDKf2WxBTqqfylu",
+      "name": "Dust",
+      "artists": "Drake",
+      "album": "ICEMAN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
+      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
+      "playedAt": "2026-09-10T21:27:34.987Z"
     }
   ]
 }
