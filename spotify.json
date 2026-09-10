@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-09T22:18:41Z",
+  "updatedAt": "2026-09-10T03:29:05Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3afkJSKX0EAMsJXTZnDXXJ",
+      "name": "Strawberries & Cigarettes",
+      "artists": "Troye Sivan",
+      "album": "Strawberries & Cigarettes",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c9eb4c87e1d7f5353908b712",
+      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ",
+      "playedAt": "2026-09-10T02:35:27.883Z"
+    },
+    {
+      "id": "4dR4CSy5uvkyBgPN1YeMDs",
+      "name": "endlessly",
+      "artists": "bixby",
+      "album": "endlessly",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e2c9f8133fb2d50af8a87123",
+      "url": "https://open.spotify.com/track/4dR4CSy5uvkyBgPN1YeMDs",
+      "playedAt": "2026-09-10T02:32:05.786Z"
+    },
     {
       "id": "6TYMKzIGlK1vnnzX9jPzN2",
       "name": "solo (outro)",
@@ -73,24 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02eb2deabf2c7b6a8356825423",
       "url": "https://open.spotify.com/track/0OuG227KS6LNr8k4aIsYbu",
       "playedAt": "2026-09-09T21:28:15.341Z"
-    },
-    {
-      "id": "5WXBNyp47AaMmBrS70rTQ7",
-      "name": "what once was",
-      "artists": "surf bagel",
-      "album": "what once was",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0204fb2e3873af1880ce679270",
-      "url": "https://open.spotify.com/track/5WXBNyp47AaMmBrS70rTQ7",
-      "playedAt": "2026-09-09T21:22:39.897Z"
-    },
-    {
-      "id": "3FtQes77xlbS9QTVts7p2u",
-      "name": "Too Cool To Die",
-      "artists": "Post Malone",
-      "album": "AUSTIN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271cae34ad5a39bdab78af13e",
-      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u",
-      "playedAt": "2026-09-09T21:20:36.068Z"
     }
   ]
 }
