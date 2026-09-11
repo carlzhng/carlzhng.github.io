@@ -1,87 +1,15 @@
 {
-  "updatedAt": "2026-09-11T19:00:51Z",
+  "updatedAt": "2026-09-11T22:18:10Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2jppfWqd0NmoYK81irH7Gk",
-      "name": "Young & Alive",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/2jppfWqd0NmoYK81irH7Gk",
-      "playedAt": "2026-09-11T18:59:31.814Z"
-    },
-    {
-      "id": "18hPvq4l7aiolR6NenxBz6",
-      "name": "Love Letter",
-      "artists": "Anthony Lazaro, Sarah Kang",
-      "album": "Something New",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02001e82649938ec34f3e46360",
-      "url": "https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6",
-      "playedAt": "2026-09-11T17:47:51.537Z"
-    },
-    {
-      "id": "1SKN0qfmaLESOcr9rV9kvn",
-      "name": "WHO CARES?",
-      "artists": "Rex Orange County",
-      "album": "WHO CARES?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02761dc49441e6d2a991d46dc7",
-      "url": "https://open.spotify.com/track/1SKN0qfmaLESOcr9rV9kvn",
-      "playedAt": "2026-09-11T17:44:04.335Z"
-    },
-    {
-      "id": "07WYtJ1h2YBxwZs0auSH1Q",
-      "name": "Mint Tea",
-      "artists": "Voda Fuji",
-      "album": "Mint Tea",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d517b186363d5b9519ac445a",
-      "url": "https://open.spotify.com/track/07WYtJ1h2YBxwZs0auSH1Q",
-      "playedAt": "2026-09-11T17:41:34.425Z"
-    },
-    {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-09-11T17:38:49.034Z"
-    },
-    {
-      "id": "6fNQDsCq6LWfwTZnXl2Xsg",
-      "name": "High School in Jakarta",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/6fNQDsCq6LWfwTZnXl2Xsg",
-      "playedAt": "2026-09-11T17:35:25.435Z"
-    },
-    {
-      "id": "25gacl0dFF9HTclx7Ug7xC",
-      "name": "Like 1999",
-      "artists": "Valley",
-      "album": "Last Birthday",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e661c05b66f93ae82583cafa",
-      "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC",
-      "playedAt": "2026-09-11T17:31:39.025Z"
-    },
-    {
-      "id": "5nyVWaY7wfKMQh9l75iQ5r",
-      "name": "Keeping Tabs",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r",
-      "playedAt": "2026-09-11T17:29:13.724Z"
-    },
-    {
-      "id": "4t9R5rbtovdvya28uMODDz",
-      "name": "Toronto 2014 (with Mustafa)",
-      "artists": "Daniel Caesar, Mustafa",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
-      "playedAt": "2026-09-11T17:23:06.600Z"
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-11T20:55:02.229Z"
     }
   ]
 }
