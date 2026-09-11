@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-09-11T03:26:30Z",
+  "updatedAt": "2026-09-11T08:40:37Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artists": "One Direction",
+      "album": "FOUR (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+      "playedAt": "2026-09-11T03:44:12.058Z"
+    },
     {
       "id": "4MIPNDbxVPWdLwH6A4nsiY",
       "name": "There's Still A Light In The House",
@@ -9,7 +18,7 @@
       "album": "MAYBE",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-09-10T22:47:00.949Z"
+      "playedAt": "2026-09-11T03:32:43.285Z"
     },
     {
       "id": "4bO6IzKXMWhmncfIO9GBq2",
@@ -19,33 +28,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
       "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
       "playedAt": "2026-09-10T22:30:26.560Z"
-    },
-    {
-      "id": "7mykoq6R3BArsSpNDjFQTm",
-      "name": "I Really Want to Stay at Your House",
-      "artists": "Rosa Walton, Hallie Coggins",
-      "album": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a91a5b301baac1f46e6f30eb",
-      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm",
-      "playedAt": "2026-09-10T22:20:37.723Z"
-    },
-    {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-09-10T22:16:30.536Z"
-    },
-    {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-09-10T22:13:45.122Z"
     }
   ]
 }
