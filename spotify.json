@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-09-13T03:38:02Z",
-  "nowPlaying": {
-    "id": "4SHzTQlwm2Ov80IDdl883y",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-    "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-    "isPlaying": true
-  },
-  "recent": []
+  "updatedAt": "2026-09-13T09:08:27Z",
+  "nowPlaying": null,
+  "recent": [
+    {
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-13T04:07:48.085Z"
+    }
+  ]
 }
