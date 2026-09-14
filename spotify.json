@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-09-14T16:11:40Z",
+  "updatedAt": "2026-09-14T21:35:03Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "62FOsBpnZXEoPc1Qo9hcap",
+      "name": "Beautiful Goodbye",
+      "artists": "Maroon 5",
+      "album": "Overexposed (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
+      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
+      "playedAt": "2026-09-14T21:03:15.851Z"
+    },
+    {
+      "id": "52brDlLtV8OmnqsPZQpOFu",
+      "name": "Impromptu",
+      "artists": "Karri",
+      "album": "Impromptu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0298a59701467eb9aed3152d37",
+      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu",
+      "playedAt": "2026-09-14T20:59:00.147Z"
+    },
+    {
+      "id": "53msLAhwsRTpIX3OwfwErT",
+      "name": "The Valley - Lost Tapes 2022",
+      "artists": "Tory Lanez",
+      "album": "The Valley (Lost Tapes 2022)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020617ec6befc8165e41cbbafb",
+      "url": "https://open.spotify.com/track/53msLAhwsRTpIX3OwfwErT",
+      "playedAt": "2026-09-14T20:55:54.456Z"
+    },
+    {
+      "id": "0O3TAouZE4vL9dM5SyxgvH",
+      "name": "Fashion Killa",
+      "artists": "A$AP Rocky",
+      "album": "LONG.LIVE.A$AP (Deluxe Version)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
+      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH",
+      "playedAt": "2026-09-14T20:52:43.741Z"
+    },
+    {
+      "id": "5JbnupagBhD0AanbkCELdH",
+      "name": "nowhere, nobody",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+      "playedAt": "2026-09-14T20:48:46.950Z"
+    },
+    {
+      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
+      "name": "Caf\u00e9 Pacific",
+      "artists": "TOAST CLUB",
+      "album": "Caf\u00e9 Pacific",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
+      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
+      "playedAt": "2026-09-14T20:45:54.429Z"
+    },
+    {
+      "id": "1C5utO1I8FoSIn6g1R5DAZ",
+      "name": "If You\u2019re Too Shy (Let Me Know)",
+      "artists": "The 1975",
+      "album": "Notes On A Conditional Form",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
+      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
+      "playedAt": "2026-09-14T20:41:49.139Z"
+    },
+    {
+      "id": "3kKPZFQse4LtbnMRhnAlEO",
+      "name": "doom",
+      "artists": "Steve Lacy",
+      "album": "Oh yeah?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
+      "playedAt": "2026-09-14T20:36:29.330Z"
+    },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
       "name": "So Good (feat. Kendrick Lamar)",
@@ -9,34 +81,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-14T15:01:28.880Z"
-    },
-    {
-      "id": "16Z0an8D4BJNm3VbWWpTnv",
-      "name": "Past Won't Leave My Bed",
-      "artists": "Joji",
-      "album": "Past Won't Leave My Bed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
-      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
-      "playedAt": "2026-09-14T14:27:28.570Z"
-    },
-    {
-      "id": "4gwltSjdrzKtKz9dlk2Wja",
-      "name": "Stella Brown",
-      "artists": "Jelani Aryeh",
-      "album": "Stella Brown",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
-      "playedAt": "2026-09-14T04:30:29.113Z"
-    },
-    {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-14T04:28:33.426Z"
+      "playedAt": "2026-09-14T20:30:31.867Z"
     }
   ]
 }
