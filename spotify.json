@@ -1,15 +1,96 @@
 {
-  "updatedAt": "2026-09-13T22:10:21Z",
+  "updatedAt": "2026-09-14T03:47:14Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "4SHzTQlwm2Ov80IDdl883y",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-13T20:08:56.366Z"
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-09-14T02:45:45.957Z"
+    },
+    {
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-09-14T02:41:07.211Z"
+    },
+    {
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-09-14T02:35:22.627Z"
+    },
+    {
+      "id": "0oG6bJKzXgqzsaaEy1M510",
+      "name": "KEEPER",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510",
+      "playedAt": "2026-09-14T02:31:46.780Z"
+    },
+    {
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-09-14T02:28:03.662Z"
+    },
+    {
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "name": "Television / So Far So Good",
+      "artists": "Rex Orange County",
+      "album": "Apricot Princess",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
+      "playedAt": "2026-09-14T02:25:03.094Z"
+    },
+    {
+      "id": "3HYUSkSJ0iQfocqdJmJqKw",
+      "name": "TWENTIES",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw",
+      "playedAt": "2026-09-14T02:20:39.910Z"
+    },
+    {
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-09-14T02:17:47.607Z"
+    },
+    {
+      "id": "3sK8wGT43QFpWrvNQsrQya",
+      "name": "DtMF",
+      "artists": "Bad Bunny",
+      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "playedAt": "2026-09-14T02:13:23.237Z"
+    },
+    {
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-09-14T02:09:25.557Z"
     }
   ]
 }
