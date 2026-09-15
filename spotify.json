@@ -1,78 +1,60 @@
 {
-  "updatedAt": "2026-09-14T21:35:03Z",
+  "updatedAt": "2026-09-15T00:21:26Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "62FOsBpnZXEoPc1Qo9hcap",
-      "name": "Beautiful Goodbye",
-      "artists": "Maroon 5",
-      "album": "Overexposed (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
-      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
-      "playedAt": "2026-09-14T21:03:15.851Z"
+      "id": "2LlOeW5rVcvl3QcPNPcDus",
+      "name": "Always",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
+      "playedAt": "2026-09-14T23:48:24.008Z"
     },
     {
-      "id": "52brDlLtV8OmnqsPZQpOFu",
-      "name": "Impromptu",
-      "artists": "Karri",
-      "album": "Impromptu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0298a59701467eb9aed3152d37",
-      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu",
-      "playedAt": "2026-09-14T20:59:00.147Z"
+      "id": "3HYUSkSJ0iQfocqdJmJqKw",
+      "name": "TWENTIES",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw",
+      "playedAt": "2026-09-14T23:44:38.174Z"
     },
     {
-      "id": "53msLAhwsRTpIX3OwfwErT",
-      "name": "The Valley - Lost Tapes 2022",
-      "artists": "Tory Lanez",
-      "album": "The Valley (Lost Tapes 2022)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020617ec6befc8165e41cbbafb",
-      "url": "https://open.spotify.com/track/53msLAhwsRTpIX3OwfwErT",
-      "playedAt": "2026-09-14T20:55:54.456Z"
+      "id": "3nNjA76lO6zbLKugA0tdOw",
+      "name": "NO FUN",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/3nNjA76lO6zbLKugA0tdOw",
+      "playedAt": "2026-09-14T23:41:45.983Z"
     },
     {
-      "id": "0O3TAouZE4vL9dM5SyxgvH",
-      "name": "Fashion Killa",
-      "artists": "A$AP Rocky",
-      "album": "LONG.LIVE.A$AP (Deluxe Version)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
-      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH",
-      "playedAt": "2026-09-14T20:52:43.741Z"
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-09-14T23:38:56.987Z"
     },
     {
-      "id": "5JbnupagBhD0AanbkCELdH",
-      "name": "nowhere, nobody",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-      "playedAt": "2026-09-14T20:48:46.950Z"
-    },
-    {
-      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
-      "name": "Caf\u00e9 Pacific",
-      "artists": "TOAST CLUB",
-      "album": "Caf\u00e9 Pacific",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
-      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
-      "playedAt": "2026-09-14T20:45:54.429Z"
-    },
-    {
-      "id": "1C5utO1I8FoSIn6g1R5DAZ",
-      "name": "If You\u2019re Too Shy (Let Me Know)",
+      "id": "59RNdFA4oFNIvTIvaBxqgQ",
+      "name": "Paris",
       "artists": "The 1975",
-      "album": "Notes On A Conditional Form",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-      "playedAt": "2026-09-14T20:41:49.139Z"
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
+      "url": "https://open.spotify.com/track/59RNdFA4oFNIvTIvaBxqgQ",
+      "playedAt": "2026-09-14T23:35:26.684Z"
     },
     {
-      "id": "3kKPZFQse4LtbnMRhnAlEO",
-      "name": "doom",
-      "artists": "Steve Lacy",
-      "album": "Oh yeah?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
-      "playedAt": "2026-09-14T20:36:29.330Z"
+      "id": "4olWlfIzbDyD53NhWyvdDJ",
+      "name": "is it cool? (feat. SZA)",
+      "artists": "Steve Lacy, SZA",
+      "album": "is it cool? (feat. SZA)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
+      "playedAt": "2026-09-14T23:30:25.122Z"
     },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
@@ -81,7 +63,25 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-14T20:30:31.867Z"
+      "playedAt": "2026-09-14T23:30:21.104Z"
+    },
+    {
+      "id": "7gCautqfD7CCdrN33GrRd8",
+      "name": "405",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8",
+      "playedAt": "2026-09-14T23:27:28.431Z"
+    },
+    {
+      "id": "42D9aaKTLw47faFhRCQfHF",
+      "name": "Blah Blah",
+      "artists": "Joji",
+      "album": "Piss In The Wind (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
+      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
+      "playedAt": "2026-09-14T23:17:54.309Z"
     }
   ]
 }
