@@ -1,96 +1,51 @@
 {
-  "updatedAt": "2026-09-15T13:12:38Z",
+  "updatedAt": "2026-09-15T17:58:20Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "6klpXs2uAjagnZMFkt4qkl",
-      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
-      "artists": "Mandy Moore, Zachary Levi",
-      "album": "Tangled",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
-      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
-      "playedAt": "2026-09-15T03:45:24.179Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-15T15:32:50.260Z"
     },
     {
-      "id": "1K6oXSGIexEyNnv2cS6vKr",
-      "name": "Transform (feat. Charlotte Day Wilson)",
-      "artists": "Daniel Caesar, Charlotte Day Wilson",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
-      "playedAt": "2026-09-15T03:41:37.702Z"
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-15T15:31:10.213Z"
     },
     {
-      "id": "0oG6bJKzXgqzsaaEy1M510",
-      "name": "KEEPER",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510",
-      "playedAt": "2026-09-15T03:36:56.547Z"
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-15T15:20:29.041Z"
     },
     {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-09-15T03:33:13.450Z"
-    },
-    {
-      "id": "3nNjA76lO6zbLKugA0tdOw",
-      "name": "NO FUN",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/3nNjA76lO6zbLKugA0tdOw",
-      "playedAt": "2026-09-15T03:30:08.463Z"
-    },
-    {
-      "id": "6AX3i1TluzbvpJpKrY7NoD",
-      "name": "SWEET SPOT",
-      "artists": "Justin Bieber, Sexyy Red",
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
       "album": "SWAG",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
-      "playedAt": "2026-09-15T03:27:19.463Z"
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-15T14:33:54.835Z"
     },
     {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-09-15T03:24:13.661Z"
-    },
-    {
-      "id": "040I32EKLxQrkuxQu1pqvT",
-      "name": "Saturn",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
-      "playedAt": "2026-09-15T03:20:42.702Z"
-    },
-    {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-09-15T03:17:35.911Z"
-    },
-    {
-      "id": "3AxPuwVYgZ3EfBsoPQFbh8",
-      "name": "endlessly",
-      "artists": "bixby",
-      "album": "are you sleeping alone again?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026b448c4e2f8ed6ec76b8bcfb",
-      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8",
-      "playedAt": "2026-09-15T03:14:05.474Z"
+      "id": "0gZGUAO42F1HmzZWHNPGAu",
+      "name": "Risk",
+      "artists": "Gracie Abrams",
+      "album": "The Secret of Us",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
+      "playedAt": "2026-09-15T14:32:05.540Z"
     }
   ]
 }
