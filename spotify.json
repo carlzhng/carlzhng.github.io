@@ -1,51 +1,86 @@
 {
-  "updatedAt": "2026-09-15T17:58:20Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-15T21:12:30Z",
+  "nowPlaying": {
+    "id": "4SHzTQlwm2Ov80IDdl883y",
+    "name": "So Good (feat. Kendrick Lamar)",
+    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+    "album": "Westside Whimsy",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+    "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-15T15:32:50.260Z"
-    },
-    {
-      "id": "4SHzTQlwm2Ov80IDdl883y",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "id": "6PymmeIlzjxVzoW2kUhqY0",
+      "name": "Like, Whatever (feat. Tyga)",
+      "artists": "Jhen\u00e9 Aiko, Tyga",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-15T15:31:10.213Z"
+      "url": "https://open.spotify.com/track/6PymmeIlzjxVzoW2kUhqY0",
+      "playedAt": "2026-09-15T21:01:30.793Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-15T15:20:29.041Z"
+      "id": "0QhxPfUHiniKVEfZKiCNbB",
+      "name": "Golden Coast (feat. OHMA)",
+      "artists": "Jhen\u00e9 Aiko, OHMA",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/0QhxPfUHiniKVEfZKiCNbB",
+      "playedAt": "2026-09-15T20:57:59.044Z"
     },
     {
-      "id": "4uyBm26e7ElRigCH6vRbpc",
-      "name": "DEVOTION",
-      "artists": "Justin Bieber, Dijon",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
-      "playedAt": "2026-09-15T14:33:54.835Z"
+      "id": "3QTqVu4PUTIfY51aCW26vp",
+      "name": "Wild Cat(s)",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/3QTqVu4PUTIfY51aCW26vp",
+      "playedAt": "2026-09-15T20:56:27.759Z"
     },
     {
-      "id": "0gZGUAO42F1HmzZWHNPGAu",
-      "name": "Risk",
-      "artists": "Gracie Abrams",
-      "album": "The Secret of Us",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
-      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
-      "playedAt": "2026-09-15T14:32:05.540Z"
+      "id": "7osNKRnHEL2Ew6RWsd8wtl",
+      "name": "Nothing Nice to Say",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/7osNKRnHEL2Ew6RWsd8wtl",
+      "playedAt": "2026-09-15T20:55:21.205Z"
+    },
+    {
+      "id": "5Mb5tVWnNvp9eNLBi43zsE",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+      "playedAt": "2026-09-15T20:53:05.607Z"
+    },
+    {
+      "id": "5dD7pyuL0VAOnpmcZv7LDH",
+      "name": "Neighbors (feat. Larry June)",
+      "artists": "Jhen\u00e9 Aiko, Larry June",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/5dD7pyuL0VAOnpmcZv7LDH",
+      "playedAt": "2026-09-15T20:50:05.483Z"
+    },
+    {
+      "id": "13Ahrjin5zQoRq9Gyabqhf",
+      "name": "Beach Boy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/13Ahrjin5zQoRq9Gyabqhf",
+      "playedAt": "2026-09-15T20:46:29.938Z"
+    },
+    {
+      "id": "6sLqFwivCZz3BUXxulmngm",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6sLqFwivCZz3BUXxulmngm",
+      "playedAt": "2026-09-15T20:43:01.417Z"
     }
   ]
 }
