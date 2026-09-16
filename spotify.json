@@ -1,60 +1,77 @@
 {
-  "updatedAt": "2026-09-16T17:59:47Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-16T21:13:10Z",
+  "nowPlaying": {
+    "id": "5Mb5tVWnNvp9eNLBi43zsE",
+    "name": "A Living Light",
+    "artists": "Jhen\u00e9 Aiko",
+    "album": "Westside Whimsy",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+    "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-09-16T15:07:27.137Z"
+      "id": "0oeEqSlhD21Lj9uDwyxUu4",
+      "name": "GRIND",
+      "artists": "Cochise",
+      "album": "THE INSPECTION",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
+      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
+      "playedAt": "2026-09-16T21:07:31.034Z"
     },
     {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-09-16T15:04:41.669Z"
+      "id": "7ctROU9Cit8yXawvYQgkIh",
+      "name": "Call On Me",
+      "artists": "Daniel Caesar",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
+      "playedAt": "2026-09-16T21:06:51.615Z"
     },
     {
-      "id": "4SHzTQlwm2Ov80IDdl883y",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-16T15:01:17.889Z"
+      "id": "3rhgTxmFHqPYOBq9xzcyUT",
+      "name": "Tear",
+      "artists": "Rich Brian",
+      "album": "Tear",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
+      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
+      "playedAt": "2026-09-16T21:04:02.075Z"
     },
     {
-      "id": "6rk70rot8W6WeJtHMnSe1y",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-09-16T14:57:11.183Z"
+      "id": "2QtJA4gbwe1AcanB2p21aP",
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "artists": "Zedd, Hayley Williams",
+      "album": "Clarity (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
+      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
+      "playedAt": "2026-09-16T20:59:52.065Z"
     },
     {
-      "id": "5Mb5tVWnNvp9eNLBi43zsE",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-09-16T14:55:27.381Z"
+      "id": "5h0Jgt873QtgL6nJRBGfT6",
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "artists": "88-Keys, Mac Miller, Sia",
+      "album": "That's Life (feat. Mac Miller & Sia)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
+      "playedAt": "2026-09-16T20:56:14.233Z"
     },
     {
-      "id": "2qqnMabmdkKF2R9ORsKBKb",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-16T14:45:02.858Z"
+      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+      "name": "\"Heroes\" - 2017 Remaster",
+      "artists": "David Bowie",
+      "album": "\"Heroes\" (2017 Remaster)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
+      "playedAt": "2026-09-16T20:52:51.348Z"
+    },
+    {
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-16T20:45:32.388Z"
     },
     {
       "id": "4bO6IzKXMWhmncfIO9GBq2",
@@ -63,7 +80,25 @@
       "album": "Warrior (Expanded Edition)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
       "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-16T14:30:57.773Z"
+      "playedAt": "2026-09-16T20:42:03.820Z"
+    },
+    {
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-16T20:38:28.974Z"
+    },
+    {
+      "id": "2qqnMabmdkKF2R9ORsKBKb",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
+      "playedAt": "2026-09-16T20:34:31.705Z"
     }
   ]
 }
