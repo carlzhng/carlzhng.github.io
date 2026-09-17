@@ -1,42 +1,24 @@
 {
-  "updatedAt": "2026-09-17T00:10:21Z",
+  "updatedAt": "2026-09-17T07:16:04Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole",
-      "artists": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "playedAt": "2026-09-16T21:35:38.560Z"
-    },
-    {
-      "id": "5Mb5tVWnNvp9eNLBi43zsE",
-      "name": "A Living Light",
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-09-16T21:32:30.426Z"
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-17T04:28:04.785Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-09-16T21:28:38.340Z"
-    },
-    {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-09-16T21:25:31.403Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-17T03:09:13.446Z"
     },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
@@ -45,7 +27,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-16T21:22:09.810Z"
+      "playedAt": "2026-09-17T03:05:55.489Z"
     },
     {
       "id": "2qqnMabmdkKF2R9ORsKBKb",
@@ -54,34 +36,34 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-16T21:18:12.576Z"
+      "playedAt": "2026-09-17T03:01:58.207Z"
     },
     {
-      "id": "6rk70rot8W6WeJtHMnSe1y",
-      "name": "You",
+      "id": "5Mb5tVWnNvp9eNLBi43zsE",
+      "name": "A Living Light",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-09-16T21:15:27.311Z"
+      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+      "playedAt": "2026-09-17T02:59:13.047Z"
     },
     {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-16T21:07:31.034Z"
+      "id": "1XrSjpNe49IiygZfzb74pk",
+      "name": "What Once Was",
+      "artists": "Her's",
+      "album": "Songs of Her's",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+      "playedAt": "2026-09-17T02:50:29.383Z"
     },
     {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-16T21:06:51.615Z"
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-17T02:25:35.463Z"
     }
   ]
 }
