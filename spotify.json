@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-09-17T13:06:14Z",
+  "updatedAt": "2026-09-17T17:57:48Z",
   "nowPlaying": null,
   "recent": [
-    {
-      "id": "6rk70rot8W6WeJtHMnSe1y",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-09-17T04:28:04.785Z"
-    },
-    {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-17T03:09:13.446Z"
-    },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
       "name": "So Good (feat. Kendrick Lamar)",
@@ -27,7 +9,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-17T03:05:55.489Z"
+      "playedAt": "2026-09-17T15:35:16.445Z"
     },
     {
       "id": "2qqnMabmdkKF2R9ORsKBKb",
@@ -36,7 +18,16 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-17T03:01:58.207Z"
+      "playedAt": "2026-09-17T15:31:19.111Z"
+    },
+    {
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-17T15:28:33.915Z"
     },
     {
       "id": "5Mb5tVWnNvp9eNLBi43zsE",
@@ -45,25 +36,25 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-09-17T02:59:13.047Z"
+      "playedAt": "2026-09-17T15:26:50.124Z"
     },
     {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-09-17T02:50:29.383Z"
+      "id": "3WTWh2WDk4j8GUCGj4xfOd",
+      "name": "Skate",
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "album": "An Evening With Silk Sonic",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025f19f50677f8ded7021b8229",
+      "url": "https://open.spotify.com/track/3WTWh2WDk4j8GUCGj4xfOd",
+      "playedAt": "2026-09-17T15:11:26.418Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-17T02:25:35.463Z"
+      "id": "6GbSEFv5Xjexts29CkviY4",
+      "name": "Futureproof",
+      "artists": "The Rare Occasions",
+      "album": "Futureproof",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02601c20a4414dbc0a319b5bbc",
+      "url": "https://open.spotify.com/track/6GbSEFv5Xjexts29CkviY4",
+      "playedAt": "2026-09-17T14:56:42.524Z"
     }
   ]
 }
