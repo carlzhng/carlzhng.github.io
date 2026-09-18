@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-18T04:00:11Z",
+  "updatedAt": "2026-09-18T08:57:17Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "2qqnMabmdkKF2R9ORsKBKb",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
+      "playedAt": "2026-09-18T04:49:59.923Z"
+    },
+    {
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-18T04:47:14.723Z"
+    },
+    {
+      "id": "5Mb5tVWnNvp9eNLBi43zsE",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+      "playedAt": "2026-09-18T04:45:30.921Z"
+    },
+    {
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-18T04:35:06.303Z"
+    },
+    {
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-18T04:18:31.784Z"
+    },
     {
       "id": "2gK2pHWovCVnTKm0LIEycY",
       "name": "VOIDSIDE SWORDFIGHT",
@@ -10,69 +55,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020663bb2e3d02061689609a50",
       "url": "https://open.spotify.com/track/2gK2pHWovCVnTKm0LIEycY",
       "playedAt": "2026-09-18T03:48:34.855Z"
-    },
-    {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-09-18T01:31:19.912Z"
-    },
-    {
-      "id": "3nNjA76lO6zbLKugA0tdOw",
-      "name": "NO FUN",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/3nNjA76lO6zbLKugA0tdOw",
-      "playedAt": "2026-09-18T01:28:14.964Z"
-    },
-    {
-      "id": "6AX3i1TluzbvpJpKrY7NoD",
-      "name": "SWEET SPOT",
-      "artists": "Justin Bieber, Sexyy Red",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
-      "playedAt": "2026-09-18T01:25:26.033Z"
-    },
-    {
-      "id": "2qqnMabmdkKF2R9ORsKBKb",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-18T01:22:20.340Z"
-    },
-    {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-09-18T01:19:35.196Z"
-    },
-    {
-      "id": "040I32EKLxQrkuxQu1pqvT",
-      "name": "Saturn",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
-      "playedAt": "2026-09-18T01:16:04.398Z"
-    },
-    {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-09-18T01:12:57.633Z"
     }
   ]
 }
