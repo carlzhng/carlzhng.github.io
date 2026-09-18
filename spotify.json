@@ -1,42 +1,69 @@
 {
-  "updatedAt": "2026-09-18T14:08:54Z",
+  "updatedAt": "2026-09-18T18:54:59Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2qqnMabmdkKF2R9ORsKBKb",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-18T04:49:59.923Z"
+      "id": "3rhgTxmFHqPYOBq9xzcyUT",
+      "name": "Tear",
+      "artists": "Rich Brian",
+      "album": "Tear",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
+      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
+      "playedAt": "2026-09-18T18:37:13.324Z"
     },
     {
-      "id": "6rk70rot8W6WeJtHMnSe1y",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-09-18T04:47:14.723Z"
+      "id": "2QtJA4gbwe1AcanB2p21aP",
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "artists": "Zedd, Hayley Williams",
+      "album": "Clarity (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
+      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
+      "playedAt": "2026-09-18T18:36:21.916Z"
     },
     {
-      "id": "5Mb5tVWnNvp9eNLBi43zsE",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-09-18T04:45:30.921Z"
+      "id": "5h0Jgt873QtgL6nJRBGfT6",
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "artists": "88-Keys, Mac Miller, Sia",
+      "album": "That's Life (feat. Mac Miller & Sia)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
+      "playedAt": "2026-09-18T18:32:44.195Z"
     },
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-09-18T04:35:06.303Z"
+      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+      "name": "\"Heroes\" - 2017 Remaster",
+      "artists": "David Bowie",
+      "album": "\"Heroes\" (2017 Remaster)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
+      "playedAt": "2026-09-18T18:29:21.221Z"
+    },
+    {
+      "id": "1XrSjpNe49IiygZfzb74pk",
+      "name": "What Once Was",
+      "artists": "Her's",
+      "album": "Songs of Her's",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+      "playedAt": "2026-09-18T18:23:09.273Z"
+    },
+    {
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-18T18:18:53.757Z"
+    },
+    {
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-18T18:15:25.264Z"
     },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
@@ -45,16 +72,25 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-18T04:18:31.784Z"
+      "playedAt": "2026-09-18T18:11:50.451Z"
     },
     {
-      "id": "2gK2pHWovCVnTKm0LIEycY",
-      "name": "VOIDSIDE SWORDFIGHT",
-      "artists": "AZALI",
-      "album": "Voices From the True World VI",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020663bb2e3d02061689609a50",
-      "url": "https://open.spotify.com/track/2gK2pHWovCVnTKm0LIEycY",
-      "playedAt": "2026-09-18T03:48:34.855Z"
+      "id": "2qqnMabmdkKF2R9ORsKBKb",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
+      "playedAt": "2026-09-18T18:07:53.359Z"
+    },
+    {
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-18T18:05:08.044Z"
     }
   ]
 }
