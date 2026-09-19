@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-09-19T03:33:38Z",
-  "nowPlaying": {
-    "id": "1C5utO1I8FoSIn6g1R5DAZ",
-    "name": "If You\u2019re Too Shy (Let Me Know)",
-    "artists": "The 1975",
-    "album": "Notes On A Conditional Form",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-    "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-19T08:37:10Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "3kKPZFQse4LtbnMRhnAlEO",
-      "name": "doom",
-      "artists": "Steve Lacy",
-      "album": "Oh yeah?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
-      "playedAt": "2026-09-19T03:28:26.845Z"
+      "id": "4SHzTQlwm2Ov80IDdl883y",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
+      "playedAt": "2026-09-19T04:54:46.398Z"
     },
     {
-      "id": "488IBZgAqHQmUDjg9kTQYG",
-      "name": "\u70c2\u7247\u5267\u60c5",
-      "artists": "LBI\u5229\u6bd4",
-      "album": "\u70c2\u7247\u5267\u60c5",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02706ff8dd2c7875bcd3d0ccb6",
-      "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG",
-      "playedAt": "2026-09-19T03:23:33.470Z"
+      "id": "2qqnMabmdkKF2R9ORsKBKb",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
+      "playedAt": "2026-09-19T04:50:49.187Z"
     },
     {
-      "id": "0c9gjnRGBRke9VmLaZWmhM",
-      "name": "\u7231\u600e\u4e48\u4e86",
-      "artists": "\u9648\u6751\u957f",
-      "album": "\u7231\u600e\u4e48\u4e86",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fceba8f8dae0d3dc2640e955",
-      "url": "https://open.spotify.com/track/0c9gjnRGBRke9VmLaZWmhM",
-      "playedAt": "2026-09-19T03:20:06.792Z"
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-19T04:48:03.962Z"
     },
     {
-      "id": "0nrODNJGv21FkJN7hHAS3e",
-      "name": "\u96f6\u8ddd\u79bb\u7684\u601d\u5ff5",
-      "artists": "TINY 7",
-      "album": "Chose one me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248a41ed562b968c3399b9476",
-      "url": "https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e",
-      "playedAt": "2026-09-19T03:16:07.127Z"
+      "id": "5Mb5tVWnNvp9eNLBi43zsE",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+      "playedAt": "2026-09-19T04:46:20.105Z"
     },
     {
-      "id": "5l94Up12BJSjhH7Mhr2ji4",
-      "name": "\u7d05\u8c46",
-      "artists": "Faye Wong",
-      "album": "\u5531\u904a",
-      "albumImage": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
-      "url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4",
-      "playedAt": "2026-09-19T03:13:00.436Z"
+      "id": "7Au27LIvJ36ESI79bobPWu",
+      "name": "Running",
+      "artists": "Dahi, Childish Gambino",
+      "album": "Running",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3f4461bcf2d09893fcb0f12",
+      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu",
+      "playedAt": "2026-09-19T04:43:20.045Z"
     },
     {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-19T03:08:43.835Z"
+      "id": "6Xom58OOXk2SoU711L2IXO",
+      "name": "Moscow Mule",
+      "artists": "Bad Bunny",
+      "album": "Un Verano Sin Ti",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+      "playedAt": "2026-09-19T04:20:44.904Z"
     },
     {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-19T03:05:47.846Z"
+      "id": "42D9aaKTLw47faFhRCQfHF",
+      "name": "Blah Blah",
+      "artists": "Joji",
+      "album": "Piss In The Wind (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
+      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
+      "playedAt": "2026-09-19T04:16:38.378Z"
     },
     {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-19T03:02:58.249Z"
+      "id": "7h2nmmoWDi2UpfYKLKWLYB",
+      "name": "Sunflower",
+      "artists": "Rex Orange County",
+      "album": "Sunflower",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB",
+      "playedAt": "2026-09-19T04:13:56.128Z"
     },
     {
-      "id": "2QtJA4gbwe1AcanB2p21aP",
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "artists": "Zedd, Hayley Williams",
-      "album": "Clarity (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
-      "playedAt": "2026-09-19T02:58:48.146Z"
+      "id": "5LxvwujISqiB8vpRYv887S",
+      "name": "I Want You Back",
+      "artists": "The Jackson 5",
+      "album": "Diana Ross Presents The Jackson 5",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
+      "playedAt": "2026-09-19T04:09:43.289Z"
     },
     {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-09-19T02:55:10.164Z"
+      "id": "1WLEBdSUPHhdDOHXqC5dK4",
+      "name": "SUPAFICIAL",
+      "artists": "Isaiah Rashad",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
+      "playedAt": "2026-09-19T04:06:46.366Z"
     }
   ]
 }
