@@ -1,33 +1,32 @@
 {
-  "updatedAt": "2026-09-19T20:09:46Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-19T23:56:16Z",
+  "nowPlaying": {
+    "id": "1XrSjpNe49IiygZfzb74pk",
+    "name": "What Once Was",
+    "artists": "Her's",
+    "album": "Songs of Her's",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
+    "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-09-19T19:13:42.664Z"
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-19T23:55:16.876Z"
     },
     {
-      "id": "2HE3rYFs3f4TxuxiUBh7U7",
-      "name": "4getu",
-      "artists": "sicknote",
-      "album": "4getu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
-      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
-      "playedAt": "2026-09-19T19:10:53.229Z"
-    },
-    {
-      "id": "7xBXBE6iPfjtZirrFXhEPo",
-      "name": "Back To U (Theme From \"sicknote\")",
-      "artists": "sicknote",
-      "album": "Back To U (Theme From \"sicknote\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
-      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
-      "playedAt": "2026-09-19T19:07:07.839Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-19T23:51:48.317Z"
     },
     {
       "id": "4SHzTQlwm2Ov80IDdl883y",
@@ -36,7 +35,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/4SHzTQlwm2Ov80IDdl883y",
-      "playedAt": "2026-09-19T19:03:15.132Z"
+      "playedAt": "2026-09-19T23:48:13.424Z"
     },
     {
       "id": "2qqnMabmdkKF2R9ORsKBKb",
@@ -45,7 +44,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-09-19T18:24:09.900Z"
+      "playedAt": "2026-09-19T23:44:16.124Z"
     },
     {
       "id": "6rk70rot8W6WeJtHMnSe1y",
@@ -54,7 +53,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-09-19T18:21:24.716Z"
+      "playedAt": "2026-09-19T23:41:30.926Z"
     },
     {
       "id": "5Mb5tVWnNvp9eNLBi43zsE",
@@ -63,7 +62,16 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
       "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-09-19T18:19:40.831Z"
+      "playedAt": "2026-09-19T23:19:16.002Z"
+    },
+    {
+      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
+      "name": "Caf\u00e9 Pacific",
+      "artists": "TOAST CLUB",
+      "album": "Caf\u00e9 Pacific",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
+      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
+      "playedAt": "2026-09-19T23:16:05.692Z"
     }
   ]
 }
