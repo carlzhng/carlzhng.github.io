@@ -1,23 +1,15 @@
 {
-  "updatedAt": "2026-09-20T18:31:26Z",
-  "nowPlaying": {
-    "id": "4bO6IzKXMWhmncfIO9GBq2",
-    "name": "C'Mon",
-    "artists": "Kesha",
-    "album": "Warrior (Expanded Edition)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-    "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-20T22:14:10Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-20T18:23:57.508Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-20T18:46:02.131Z"
     },
     {
       "id": "3Yd3J42s3GZaYty4Iy4ewT",
@@ -26,16 +18,25 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-20T18:20:51.288Z"
+      "playedAt": "2026-09-20T18:42:27.233Z"
     },
     {
-      "id": "7xBXBE6iPfjtZirrFXhEPo",
-      "name": "Back To U (Theme From \"sicknote\")",
-      "artists": "sicknote",
-      "album": "Back To U (Theme From \"sicknote\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
-      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
-      "playedAt": "2026-09-20T17:18:46.594Z"
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-20T18:38:22.927Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-20T18:23:57.508Z"
     }
   ]
 }
