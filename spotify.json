@@ -1,96 +1,69 @@
 {
-  "updatedAt": "2026-09-21T09:41:53Z",
+  "updatedAt": "2026-09-21T16:16:08Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "62FOsBpnZXEoPc1Qo9hcap",
-      "name": "Beautiful Goodbye",
-      "artists": "Maroon 5",
-      "album": "Overexposed (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
-      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
-      "playedAt": "2026-09-21T04:11:33.203Z"
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-21T15:11:48.966Z"
     },
     {
-      "id": "52brDlLtV8OmnqsPZQpOFu",
-      "name": "Impromptu",
-      "artists": "Karri",
-      "album": "Impromptu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0298a59701467eb9aed3152d37",
-      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu",
-      "playedAt": "2026-09-21T04:07:17.385Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-21T15:08:59.476Z"
     },
     {
-      "id": "53msLAhwsRTpIX3OwfwErT",
-      "name": "The Valley - Lost Tapes 2022",
-      "artists": "Tory Lanez",
-      "album": "The Valley (Lost Tapes 2022)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020617ec6befc8165e41cbbafb",
-      "url": "https://open.spotify.com/track/53msLAhwsRTpIX3OwfwErT",
-      "playedAt": "2026-09-21T04:04:11.653Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-21T15:03:31.264Z"
     },
     {
-      "id": "6TYMKzIGlK1vnnzX9jPzN2",
-      "name": "solo (outro)",
-      "artists": "jalen chords",
-      "album": "the playlist",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b9ca74433075d538d2ad9e5d",
-      "url": "https://open.spotify.com/track/6TYMKzIGlK1vnnzX9jPzN2",
-      "playedAt": "2026-09-21T04:01:24.191Z"
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-09-21T14:59:34.010Z"
     },
     {
-      "id": "0O3TAouZE4vL9dM5SyxgvH",
-      "name": "Fashion Killa",
-      "artists": "A$AP Rocky",
-      "album": "LONG.LIVE.A$AP (Deluxe Version)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
-      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH",
-      "playedAt": "2026-09-21T03:58:35.123Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-09-21T14:56:48.798Z"
     },
     {
-      "id": "5JbnupagBhD0AanbkCELdH",
-      "name": "nowhere, nobody",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-      "playedAt": "2026-09-21T03:54:38.264Z"
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-09-21T14:55:05.091Z"
     },
     {
-      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
-      "name": "Caf\u00e9 Pacific",
-      "artists": "TOAST CLUB",
-      "album": "Caf\u00e9 Pacific",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
-      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
-      "playedAt": "2026-09-21T03:51:45.708Z"
-    },
-    {
-      "id": "1C5utO1I8FoSIn6g1R5DAZ",
-      "name": "If You\u2019re Too Shy (Let Me Know)",
-      "artists": "The 1975",
-      "album": "Notes On A Conditional Form",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-      "playedAt": "2026-09-21T03:47:40.294Z"
-    },
-    {
-      "id": "3kKPZFQse4LtbnMRhnAlEO",
-      "name": "doom",
-      "artists": "Steve Lacy",
-      "album": "Oh yeah?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
-      "playedAt": "2026-09-21T03:42:20.383Z"
-    },
-    {
-      "id": "488IBZgAqHQmUDjg9kTQYG",
-      "name": "\u70c2\u7247\u5267\u60c5",
-      "artists": "LBI\u5229\u6bd4",
-      "album": "\u70c2\u7247\u5267\u60c5",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02706ff8dd2c7875bcd3d0ccb6",
-      "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG",
-      "playedAt": "2026-09-21T03:37:27.068Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-21T14:43:52.972Z"
     }
   ]
 }
