@@ -1,69 +1,96 @@
 {
-  "updatedAt": "2026-09-21T16:16:08Z",
+  "updatedAt": "2026-09-21T21:46:16Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-09-21T15:11:48.966Z"
+      "id": "0q6LuUqGLUiCPP1cbdwFs3",
+      "name": "On Melancholy Hill",
+      "artists": "Gorillaz",
+      "album": "Plastic Beach",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
+      "playedAt": "2026-09-21T21:35:00.596Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-21T15:08:59.476Z"
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "playedAt": "2026-09-21T21:31:06.224Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-21T15:03:31.264Z"
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-09-21T21:27:31.120Z"
     },
     {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-09-21T14:59:34.010Z"
+      "id": "6sAFHFV7OWuSYuTNslP2HI",
+      "name": "Catching Bodies",
+      "artists": "Sekou",
+      "album": "Catching Bodies",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
+      "playedAt": "2026-09-21T21:20:49.734Z"
     },
     {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-21T14:56:48.798Z"
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "name": "Television / So Far So Good",
+      "artists": "Rex Orange County",
+      "album": "Apricot Princess",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
+      "playedAt": "2026-09-21T21:17:42.499Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-21T14:55:05.091Z"
+      "id": "2XjTTIlRo0NASEzyzvqBv9",
+      "name": "shoes",
+      "artists": "Luke Chiang",
+      "album": "TYPHOON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+      "url": "https://open.spotify.com/track/2XjTTIlRo0NASEzyzvqBv9",
+      "playedAt": "2026-09-21T21:13:19.499Z"
     },
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-21T14:43:52.972Z"
+      "id": "040I32EKLxQrkuxQu1pqvT",
+      "name": "Saturn",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
+      "playedAt": "2026-09-21T21:10:40.464Z"
+    },
+    {
+      "id": "6nzCvAtyADh0wwZEVMoujK",
+      "name": "By My Side",
+      "artists": "JUNNY",
+      "album": "By My Side",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296c6f2356bf9ad60a9fd061f",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK",
+      "playedAt": "2026-09-21T21:07:33.782Z"
+    },
+    {
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-09-21T21:04:06.630Z"
+    },
+    {
+      "id": "4AUVtLD85OUgUROBzsCP2e",
+      "name": "RATHER BE",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e",
+      "playedAt": "2026-09-21T21:00:13.518Z"
     }
   ]
 }
