@@ -1,15 +1,79 @@
 {
-  "updatedAt": "2026-09-21T03:45:51Z",
-  "nowPlaying": {
-    "id": "1C5utO1I8FoSIn6g1R5DAZ",
-    "name": "If You\u2019re Too Shy (Let Me Know)",
-    "artists": "The 1975",
-    "album": "Notes On A Conditional Form",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-    "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-21T09:41:53Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "62FOsBpnZXEoPc1Qo9hcap",
+      "name": "Beautiful Goodbye",
+      "artists": "Maroon 5",
+      "album": "Overexposed (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
+      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
+      "playedAt": "2026-09-21T04:11:33.203Z"
+    },
+    {
+      "id": "52brDlLtV8OmnqsPZQpOFu",
+      "name": "Impromptu",
+      "artists": "Karri",
+      "album": "Impromptu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0298a59701467eb9aed3152d37",
+      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu",
+      "playedAt": "2026-09-21T04:07:17.385Z"
+    },
+    {
+      "id": "53msLAhwsRTpIX3OwfwErT",
+      "name": "The Valley - Lost Tapes 2022",
+      "artists": "Tory Lanez",
+      "album": "The Valley (Lost Tapes 2022)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020617ec6befc8165e41cbbafb",
+      "url": "https://open.spotify.com/track/53msLAhwsRTpIX3OwfwErT",
+      "playedAt": "2026-09-21T04:04:11.653Z"
+    },
+    {
+      "id": "6TYMKzIGlK1vnnzX9jPzN2",
+      "name": "solo (outro)",
+      "artists": "jalen chords",
+      "album": "the playlist",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b9ca74433075d538d2ad9e5d",
+      "url": "https://open.spotify.com/track/6TYMKzIGlK1vnnzX9jPzN2",
+      "playedAt": "2026-09-21T04:01:24.191Z"
+    },
+    {
+      "id": "0O3TAouZE4vL9dM5SyxgvH",
+      "name": "Fashion Killa",
+      "artists": "A$AP Rocky",
+      "album": "LONG.LIVE.A$AP (Deluxe Version)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022ae92030b51fb8135d694af9",
+      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH",
+      "playedAt": "2026-09-21T03:58:35.123Z"
+    },
+    {
+      "id": "5JbnupagBhD0AanbkCELdH",
+      "name": "nowhere, nobody",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+      "playedAt": "2026-09-21T03:54:38.264Z"
+    },
+    {
+      "id": "5XZQ4aIsrTZGuTqsuWZpOK",
+      "name": "Caf\u00e9 Pacific",
+      "artists": "TOAST CLUB",
+      "album": "Caf\u00e9 Pacific",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0262b2e5f5260c62e77abe66cd",
+      "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK",
+      "playedAt": "2026-09-21T03:51:45.708Z"
+    },
+    {
+      "id": "1C5utO1I8FoSIn6g1R5DAZ",
+      "name": "If You\u2019re Too Shy (Let Me Know)",
+      "artists": "The 1975",
+      "album": "Notes On A Conditional Form",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
+      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
+      "playedAt": "2026-09-21T03:47:40.294Z"
+    },
     {
       "id": "3kKPZFQse4LtbnMRhnAlEO",
       "name": "doom",
@@ -27,78 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02706ff8dd2c7875bcd3d0ccb6",
       "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG",
       "playedAt": "2026-09-21T03:37:27.068Z"
-    },
-    {
-      "id": "0c9gjnRGBRke9VmLaZWmhM",
-      "name": "\u7231\u600e\u4e48\u4e86",
-      "artists": "\u9648\u6751\u957f",
-      "album": "\u7231\u600e\u4e48\u4e86",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fceba8f8dae0d3dc2640e955",
-      "url": "https://open.spotify.com/track/0c9gjnRGBRke9VmLaZWmhM",
-      "playedAt": "2026-09-21T03:34:00.435Z"
-    },
-    {
-      "id": "0nrODNJGv21FkJN7hHAS3e",
-      "name": "\u96f6\u8ddd\u79bb\u7684\u601d\u5ff5",
-      "artists": "TINY 7",
-      "album": "Chose one me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248a41ed562b968c3399b9476",
-      "url": "https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e",
-      "playedAt": "2026-09-21T03:30:00.813Z"
-    },
-    {
-      "id": "5l94Up12BJSjhH7Mhr2ji4",
-      "name": "\u7d05\u8c46",
-      "artists": "Faye Wong",
-      "album": "\u5531\u904a",
-      "albumImage": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
-      "url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4",
-      "playedAt": "2026-09-21T03:26:54.132Z"
-    },
-    {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-21T03:22:37.553Z"
-    },
-    {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-21T03:19:41.577Z"
-    },
-    {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-21T03:16:52.016Z"
-    },
-    {
-      "id": "2QtJA4gbwe1AcanB2p21aP",
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "artists": "Zedd, Hayley Williams",
-      "album": "Clarity (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
-      "playedAt": "2026-09-21T03:12:41.993Z"
-    },
-    {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-09-21T03:09:04.125Z"
     }
   ]
 }
