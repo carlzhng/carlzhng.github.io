@@ -1,13 +1,59 @@
 {
-  "updatedAt": "2026-09-22T17:58:36Z",
+  "updatedAt": "2026-09-22T21:11:51Z",
   "nowPlaying": {
-    "id": "3Yd3J42s3GZaYty4Iy4ewT",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+    "id": "1YP6OlxxKFWQ8ZIj8Rc7um",
+    "name": "Payphone",
+    "artists": "Maroon 5",
+    "album": "Sing Your Heart Out 2018",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02e35b4494ea1965d366bb6fd5",
+    "url": "https://open.spotify.com/track/1YP6OlxxKFWQ8ZIj8Rc7um",
     "isPlaying": true
   },
-  "recent": []
+  "recent": [
+    {
+      "id": "4vVTI94F9uJ8lHNDWKv0i2",
+      "name": "Eenie Meenie",
+      "artists": "Sean Kingston, Justin Bieber",
+      "album": "Eenie Meenie",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024dea4c1cdf30c359dbaec318",
+      "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2",
+      "playedAt": "2026-09-22T21:09:57.953Z"
+    },
+    {
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-09-22T21:06:35.482Z"
+    },
+    {
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-22T21:01:09.740Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-22T20:58:20.161Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-22T20:53:35.094Z"
+    }
+  ]
 }
