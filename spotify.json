@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-09-21T21:46:16Z",
+  "updatedAt": "2026-09-22T00:37:28Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "0q6LuUqGLUiCPP1cbdwFs3",
-      "name": "On Melancholy Hill",
-      "artists": "Gorillaz",
-      "album": "Plastic Beach",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
-      "playedAt": "2026-09-21T21:35:00.596Z"
+      "id": "0gZGUAO42F1HmzZWHNPGAu",
+      "name": "Risk",
+      "artists": "Gracie Abrams",
+      "album": "The Secret of Us",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
+      "playedAt": "2026-09-21T23:45:22.419Z"
     },
     {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-09-21T21:31:06.224Z"
+      "id": "4gwltSjdrzKtKz9dlk2Wja",
+      "name": "Stella Brown",
+      "artists": "Jelani Aryeh",
+      "album": "Stella Brown",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
+      "playedAt": "2026-09-21T23:42:10.346Z"
     },
     {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-21T21:27:31.120Z"
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-09-21T23:39:02.414Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-09-21T21:20:49.734Z"
+      "id": "3sK8wGT43QFpWrvNQsrQya",
+      "name": "DtMF",
+      "artists": "Bad Bunny",
+      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "playedAt": "2026-09-21T23:36:18.483Z"
     },
     {
-      "id": "27rZYxE4l21wTaovX4WTnI",
-      "name": "Television / So Far So Good",
-      "artists": "Rex Orange County",
-      "album": "Apricot Princess",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
-      "playedAt": "2026-09-21T21:17:42.499Z"
+      "id": "5viFjDGTnrApmUY5c8qkfw",
+      "name": "A Whole New World",
+      "artists": "Mena Massoud, Naomi Scott",
+      "album": "Aladdin (Original Motion Picture Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029986d69836eac008a927b032",
+      "url": "https://open.spotify.com/track/5viFjDGTnrApmUY5c8qkfw",
+      "playedAt": "2026-09-21T23:32:20.850Z"
     },
     {
-      "id": "2XjTTIlRo0NASEzyzvqBv9",
-      "name": "shoes",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/2XjTTIlRo0NASEzyzvqBv9",
-      "playedAt": "2026-09-21T21:13:19.499Z"
-    },
-    {
-      "id": "040I32EKLxQrkuxQu1pqvT",
-      "name": "Saturn",
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
       "artists": "SZA",
       "album": "SOS Deluxe: LANA",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
-      "playedAt": "2026-09-21T21:10:40.464Z"
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-09-21T23:29:24.652Z"
     },
     {
-      "id": "6nzCvAtyADh0wwZEVMoujK",
-      "name": "By My Side",
-      "artists": "JUNNY",
-      "album": "By My Side",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296c6f2356bf9ad60a9fd061f",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK",
-      "playedAt": "2026-09-21T21:07:33.782Z"
+      "id": "5e49INy8CAmgvqU7H8n9C6",
+      "name": "Can't Run Forever",
+      "artists": "Vacation Manor",
+      "album": "Vacation Manor",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
+      "url": "https://open.spotify.com/track/5e49INy8CAmgvqU7H8n9C6",
+      "playedAt": "2026-09-21T23:26:23.385Z"
     },
     {
-      "id": "12rtpdXys3CkpYZppt2z7y",
-      "name": "whenever you're gone",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
-      "playedAt": "2026-09-21T21:04:06.630Z"
+      "id": "4CL6fIvrJwD7XQP0QWyfd3",
+      "name": "Rodrick Rules",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
+      "playedAt": "2026-09-21T23:13:40.453Z"
     },
     {
-      "id": "4AUVtLD85OUgUROBzsCP2e",
-      "name": "RATHER BE",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/4AUVtLD85OUgUROBzsCP2e",
-      "playedAt": "2026-09-21T21:00:13.518Z"
+      "id": "3iCBnS3JlJMqCONqNqky4U",
+      "name": "Water the Flowers, Pray for a Garden",
+      "artists": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
+      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
+      "playedAt": "2026-09-21T23:10:36.405Z"
     }
   ]
 }
