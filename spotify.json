@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-22T00:37:28Z",
+  "updatedAt": "2026-09-22T07:24:23Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-22T03:17:05.904Z"
+    },
+    {
+      "id": "7I1R17itD7LZ1rlv1mz5da",
+      "name": "terrible4u",
+      "artists": "Luke Chiang",
+      "album": "TYPHOON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+      "url": "https://open.spotify.com/track/7I1R17itD7LZ1rlv1mz5da",
+      "playedAt": "2026-09-22T03:13:11.015Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-22T03:09:52.428Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-22T03:07:20.686Z"
+    },
+    {
+      "id": "2qqnMabmdkKF2R9ORsKBKb",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
+      "playedAt": "2026-09-22T02:39:48.792Z"
+    },
     {
       "id": "0gZGUAO42F1HmzZWHNPGAu",
       "name": "Risk",
@@ -28,60 +73,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
       "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
       "playedAt": "2026-09-21T23:39:02.414Z"
-    },
-    {
-      "id": "3sK8wGT43QFpWrvNQsrQya",
-      "name": "DtMF",
-      "artists": "Bad Bunny",
-      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-      "playedAt": "2026-09-21T23:36:18.483Z"
-    },
-    {
-      "id": "5viFjDGTnrApmUY5c8qkfw",
-      "name": "A Whole New World",
-      "artists": "Mena Massoud, Naomi Scott",
-      "album": "Aladdin (Original Motion Picture Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029986d69836eac008a927b032",
-      "url": "https://open.spotify.com/track/5viFjDGTnrApmUY5c8qkfw",
-      "playedAt": "2026-09-21T23:32:20.850Z"
-    },
-    {
-      "id": "3U3hFkMr0Q90pD24EkE3Pr",
-      "name": "BMF",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
-      "playedAt": "2026-09-21T23:29:24.652Z"
-    },
-    {
-      "id": "5e49INy8CAmgvqU7H8n9C6",
-      "name": "Can't Run Forever",
-      "artists": "Vacation Manor",
-      "album": "Vacation Manor",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
-      "url": "https://open.spotify.com/track/5e49INy8CAmgvqU7H8n9C6",
-      "playedAt": "2026-09-21T23:26:23.385Z"
-    },
-    {
-      "id": "4CL6fIvrJwD7XQP0QWyfd3",
-      "name": "Rodrick Rules",
-      "artists": "Malcolm Todd",
-      "album": "Sweet Boy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
-      "playedAt": "2026-09-21T23:13:40.453Z"
-    },
-    {
-      "id": "3iCBnS3JlJMqCONqNqky4U",
-      "name": "Water the Flowers, Pray for a Garden",
-      "artists": "Valley",
-      "album": "Water the Flowers, Pray for a Garden",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
-      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
-      "playedAt": "2026-09-21T23:10:36.405Z"
     }
   ]
 }
