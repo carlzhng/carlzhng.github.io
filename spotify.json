@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-09-23T00:04:11Z",
-  "nowPlaying": {
-    "id": "488IBZgAqHQmUDjg9kTQYG",
-    "name": "\u70c2\u7247\u5267\u60c5",
-    "artists": "LBI\u5229\u6bd4",
-    "album": "\u70c2\u7247\u5267\u60c5",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02706ff8dd2c7875bcd3d0ccb6",
-    "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-23T07:27:20Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "0c9gjnRGBRke9VmLaZWmhM",
-      "name": "\u7231\u600e\u4e48\u4e86",
-      "artists": "\u9648\u6751\u957f",
-      "album": "\u7231\u600e\u4e48\u4e86",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fceba8f8dae0d3dc2640e955",
-      "url": "https://open.spotify.com/track/0c9gjnRGBRke9VmLaZWmhM",
-      "playedAt": "2026-09-23T00:02:29.461Z"
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-09-23T04:55:22.240Z"
     },
     {
-      "id": "0nrODNJGv21FkJN7hHAS3e",
-      "name": "\u96f6\u8ddd\u79bb\u7684\u601d\u5ff5",
-      "artists": "TINY 7",
-      "album": "Chose one me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248a41ed562b968c3399b9476",
-      "url": "https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e",
-      "playedAt": "2026-09-22T23:58:29.776Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-09-23T04:52:37.036Z"
     },
     {
-      "id": "5l94Up12BJSjhH7Mhr2ji4",
-      "name": "\u7d05\u8c46",
-      "artists": "Faye Wong",
-      "album": "\u5531\u904a",
-      "albumImage": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
-      "url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4",
-      "playedAt": "2026-09-22T23:55:23.079Z"
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-09-23T04:50:53.178Z"
     },
     {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-22T23:51:06.465Z"
+      "id": "2HE3rYFs3f4TxuxiUBh7U7",
+      "name": "4getu",
+      "artists": "sicknote",
+      "album": "4getu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
+      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
+      "playedAt": "2026-09-23T04:47:53.313Z"
     },
     {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-22T23:48:10.480Z"
+      "id": "7xBXBE6iPfjtZirrFXhEPo",
+      "name": "Back To U (Theme From \"sicknote\")",
+      "artists": "sicknote",
+      "album": "Back To U (Theme From \"sicknote\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
+      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
+      "playedAt": "2026-09-23T04:44:07.935Z"
     },
     {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-22T23:45:20.903Z"
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-23T04:40:24.863Z"
     },
     {
-      "id": "2QtJA4gbwe1AcanB2p21aP",
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "artists": "Zedd, Hayley Williams",
-      "album": "Clarity (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
-      "playedAt": "2026-09-22T23:41:10.844Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-23T04:37:35.363Z"
     },
     {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-09-22T23:37:32.922Z"
+      "id": "5A1w94uzc1kO1Zhe8WWxC3",
+      "name": "Right Back",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
+      "playedAt": "2026-09-23T03:46:46.902Z"
     },
     {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-09-22T23:34:09.936Z"
+      "id": "53msLAhwsRTpIX3OwfwErT",
+      "name": "The Valley - Lost Tapes 2022",
+      "artists": "Tory Lanez",
+      "album": "The Valley (Lost Tapes 2022)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020617ec6befc8165e41cbbafb",
+      "url": "https://open.spotify.com/track/53msLAhwsRTpIX3OwfwErT",
+      "playedAt": "2026-09-23T00:32:44.395Z"
     },
     {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-09-22T23:27:57.950Z"
+      "id": "6TYMKzIGlK1vnnzX9jPzN2",
+      "name": "solo (outro)",
+      "artists": "jalen chords",
+      "album": "the playlist",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b9ca74433075d538d2ad9e5d",
+      "url": "https://open.spotify.com/track/6TYMKzIGlK1vnnzX9jPzN2",
+      "playedAt": "2026-09-23T00:29:56.935Z"
     }
   ]
 }
