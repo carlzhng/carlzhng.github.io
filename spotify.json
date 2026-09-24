@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:33:36Z",
+  "updatedAt": "2026-09-24T09:03:10Z",
   "nowPlaying": null,
   "recent": [
     {
@@ -9,7 +9,52 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-24T03:07:49.095Z"
+      "playedAt": "2026-09-24T04:29:44.315Z"
+    },
+    {
+      "id": "2HE3rYFs3f4TxuxiUBh7U7",
+      "name": "4getu",
+      "artists": "sicknote",
+      "album": "4getu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
+      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
+      "playedAt": "2026-09-24T04:26:44.403Z"
+    },
+    {
+      "id": "7xBXBE6iPfjtZirrFXhEPo",
+      "name": "Back To U (Theme From \"sicknote\")",
+      "artists": "sicknote",
+      "album": "Back To U (Theme From \"sicknote\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
+      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
+      "playedAt": "2026-09-24T04:22:59.029Z"
+    },
+    {
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-24T04:19:15.933Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-24T04:16:26.416Z"
+    },
+    {
+      "id": "5680YIPfvSgQfAvEXHYjNR",
+      "name": "Golden Coast (feat. OHMA)",
+      "artists": "Jhen\u00e9 Aiko, OHMA",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/5680YIPfvSgQfAvEXHYjNR",
+      "playedAt": "2026-09-24T03:08:53.130Z"
     },
     {
       "id": "7v1wuPQcRoDlVFkNFeVsEj",
@@ -37,42 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/6NCCQaIsBAwgW5pabA0SVn",
       "playedAt": "2026-09-24T02:59:20.201Z"
-    },
-    {
-      "id": "29qMRMRVGpSbHjmUUMXOjX",
-      "name": "Beach Boy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/29qMRMRVGpSbHjmUUMXOjX",
-      "playedAt": "2026-09-24T02:56:21.686Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-24T02:52:53.843Z"
-    },
-    {
-      "id": "6dGG9H7Ce7cMrHyqXATxu0",
-      "name": "Break",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/6dGG9H7Ce7cMrHyqXATxu0",
-      "playedAt": "2026-09-24T02:48:47.868Z"
-    },
-    {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-09-23T15:03:27.615Z"
     }
   ]
 }
