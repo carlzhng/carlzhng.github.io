@@ -1,13 +1,96 @@
 {
-  "updatedAt": "2026-09-24T19:50:44Z",
-  "nowPlaying": {
-    "id": "3Yd3J42s3GZaYty4Iy4ewT",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-    "isPlaying": true
-  },
-  "recent": []
+  "updatedAt": "2026-09-24T23:03:37Z",
+  "nowPlaying": null,
+  "recent": [
+    {
+      "id": "5Ai1xBdEWnP99udbOaWbc2",
+      "name": "city boy",
+      "artists": "kanegi.",
+      "album": "archives 02",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0273cb41b0c4b60a2ad75df56b",
+      "url": "https://open.spotify.com/track/5Ai1xBdEWnP99udbOaWbc2",
+      "playedAt": "2026-09-24T22:58:39.905Z"
+    },
+    {
+      "id": "1WqLtczgKdbHFHhefOU0y7",
+      "name": "Self",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/1WqLtczgKdbHFHhefOU0y7",
+      "playedAt": "2026-09-24T22:55:52.867Z"
+    },
+    {
+      "id": "6wJhz2jABaX2oMChhGy39Y",
+      "name": "The A Team",
+      "artists": "Ed Sheeran",
+      "album": "+",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0209bc4de476a415e70132caf8",
+      "url": "https://open.spotify.com/track/6wJhz2jABaX2oMChhGy39Y",
+      "playedAt": "2026-09-24T22:52:02.382Z"
+    },
+    {
+      "id": "7Au27LIvJ36ESI79bobPWu",
+      "name": "Running",
+      "artists": "Dahi, Childish Gambino",
+      "album": "Running",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3f4461bcf2d09893fcb0f12",
+      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu",
+      "playedAt": "2026-09-24T22:47:25.960Z"
+    },
+    {
+      "id": "6Xom58OOXk2SoU711L2IXO",
+      "name": "Moscow Mule",
+      "artists": "Bad Bunny",
+      "album": "Un Verano Sin Ti",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
+      "playedAt": "2026-09-24T21:43:33.598Z"
+    },
+    {
+      "id": "42D9aaKTLw47faFhRCQfHF",
+      "name": "Blah Blah",
+      "artists": "Joji",
+      "album": "Piss In The Wind (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
+      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
+      "playedAt": "2026-09-24T21:39:27.121Z"
+    },
+    {
+      "id": "1XrSjpNe49IiygZfzb74pk",
+      "name": "What Once Was",
+      "artists": "Her's",
+      "album": "Songs of Her's",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+      "playedAt": "2026-09-24T21:33:57.455Z"
+    },
+    {
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-09-24T21:29:42Z"
+    },
+    {
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-24T21:26:13.399Z"
+    },
+    {
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-09-24T21:18:52.070Z"
+    }
+  ]
 }
