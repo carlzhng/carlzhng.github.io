@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-23T22:45:10Z",
+  "updatedAt": "2026-09-24T03:33:36Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-09-24T03:07:49.095Z"
+    },
+    {
+      "id": "7v1wuPQcRoDlVFkNFeVsEj",
+      "name": "Nami\u2019s Haiku",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/7v1wuPQcRoDlVFkNFeVsEj",
+      "playedAt": "2026-09-24T03:04:49.794Z"
+    },
+    {
+      "id": "2qUz7lMpIegCFos7LjxQWn",
+      "name": "I Don't Mind",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/2qUz7lMpIegCFos7LjxQWn",
+      "playedAt": "2026-09-24T03:02:30.273Z"
+    },
+    {
+      "id": "6NCCQaIsBAwgW5pabA0SVn",
+      "name": "Unicorn",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/6NCCQaIsBAwgW5pabA0SVn",
+      "playedAt": "2026-09-24T02:59:20.201Z"
+    },
+    {
+      "id": "29qMRMRVGpSbHjmUUMXOjX",
+      "name": "Beach Boy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/29qMRMRVGpSbHjmUUMXOjX",
+      "playedAt": "2026-09-24T02:56:21.686Z"
+    },
     {
       "id": "3Yd3J42s3GZaYty4Iy4ewT",
       "name": "So Good (feat. Kendrick Lamar)",
@@ -9,7 +54,16 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-23T19:25:13.271Z"
+      "playedAt": "2026-09-24T02:52:53.843Z"
+    },
+    {
+      "id": "6dGG9H7Ce7cMrHyqXATxu0",
+      "name": "Break",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/6dGG9H7Ce7cMrHyqXATxu0",
+      "playedAt": "2026-09-24T02:48:47.868Z"
     },
     {
       "id": "533QZMGE46XLVyqLcdmjqW",
@@ -19,33 +73,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
       "playedAt": "2026-09-23T15:03:27.615Z"
-    },
-    {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-23T14:53:37.267Z"
-    },
-    {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-23T14:51:53.393Z"
-    },
-    {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-23T14:48:45.196Z"
     }
   ]
 }
