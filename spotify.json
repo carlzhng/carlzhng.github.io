@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-25T03:50:42Z",
+  "updatedAt": "2026-09-25T09:26:35Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3CnEw0mRAXVlLw36iL0mbe",
+      "name": "Sun Has Set",
+      "artists": "beabadoobee",
+      "album": "Sun Has Set",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026f3307b2ee6c3131410efdc7",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe",
+      "playedAt": "2026-09-25T04:31:26.042Z"
+    },
+    {
+      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
+      "name": "\"Heroes\" - 2017 Remaster",
+      "artists": "David Bowie",
+      "album": "\"Heroes\" (2017 Remaster)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
+      "playedAt": "2026-09-25T03:58:39.428Z"
+    },
     {
       "id": "1XrSjpNe49IiygZfzb74pk",
       "name": "What Once Was",
@@ -64,15 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
       "playedAt": "2026-09-25T03:14:43.378Z"
-    },
-    {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-09-25T03:08:53.371Z"
     }
   ]
 }
