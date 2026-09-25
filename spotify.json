@@ -1,87 +1,15 @@
 {
-  "updatedAt": "2026-09-25T15:02:01Z",
+  "updatedAt": "2026-09-25T19:52:32Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3CnEw0mRAXVlLw36iL0mbe",
-      "name": "Sun Has Set",
-      "artists": "beabadoobee",
-      "album": "Sun Has Set",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026f3307b2ee6c3131410efdc7",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe",
-      "playedAt": "2026-09-25T04:31:26.042Z"
-    },
-    {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-09-25T03:58:39.428Z"
-    },
-    {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-09-25T03:34:28.662Z"
-    },
-    {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-25T03:30:13.071Z"
-    },
-    {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-25T03:26:44.517Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-25T03:23:09.686Z"
-    },
-    {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-09-25T03:19:12.375Z"
-    },
-    {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-25T03:16:27.261Z"
-    },
-    {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-25T03:14:43.378Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-09-25T17:56:22.864Z"
     }
   ]
 }
