@@ -1,33 +1,104 @@
 {
-  "updatedAt": "2026-09-26T19:04:20Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-26T22:25:33Z",
+  "nowPlaying": {
+    "id": "5WXBNyp47AaMmBrS70rTQ7",
+    "name": "what once was",
+    "artists": "surf bagel",
+    "album": "what once was",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0204fb2e3873af1880ce679270",
+    "url": "https://open.spotify.com/track/5WXBNyp47AaMmBrS70rTQ7",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-26T05:01:05.733Z"
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-09-26T22:24:34.162Z"
     },
     {
-      "id": "1b104gnwd0zxCIhZPNLyf8",
-      "name": "Need For Speed",
-      "artists": "Kim Petras",
-      "album": "Need For Speed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
-      "playedAt": "2026-09-26T04:55:29.631Z"
+      "id": "2Rv2EIpEmEi5fGVtr5KVgI",
+      "name": "BAD HONEY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI",
+      "playedAt": "2026-09-26T22:19:55.500Z"
     },
     {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-09-26T04:52:13.863Z"
+      "id": "59RNdFA4oFNIvTIvaBxqgQ",
+      "name": "Paris",
+      "artists": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
+      "url": "https://open.spotify.com/track/59RNdFA4oFNIvTIvaBxqgQ",
+      "playedAt": "2026-09-26T22:17:18.912Z"
+    },
+    {
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-09-26T22:10:06.586Z"
+    },
+    {
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-09-26T22:03:28.858Z"
+    },
+    {
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-26T21:58:46.189Z"
+    },
+    {
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "playedAt": "2026-09-26T21:54:51.311Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-26T21:51:10.919Z"
+    },
+    {
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-09-26T21:45:19.172Z"
+    },
+    {
+      "id": "6klpXs2uAjagnZMFkt4qkl",
+      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
+      "artists": "Mandy Moore, Zachary Levi",
+      "album": "Tangled",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
+      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
+      "playedAt": "2026-09-26T21:43:35.366Z"
     }
   ]
 }
