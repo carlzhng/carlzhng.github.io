@@ -1,59 +1,78 @@
 {
-  "updatedAt": "2026-09-27T04:06:39Z",
-  "nowPlaying": {
-    "id": "4bO6IzKXMWhmncfIO9GBq2",
-    "name": "C'Mon",
-    "artists": "Kesha",
-    "album": "Warrior (Expanded Edition)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-    "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-27T11:33:45Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-27T02:57:29.480Z"
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-09-27T06:24:05.150Z"
     },
     {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-09-27T02:53:32.164Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-27T06:21:15.546Z"
     },
     {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-27T02:50:46.950Z"
+      "id": "1b104gnwd0zxCIhZPNLyf8",
+      "name": "Need For Speed",
+      "artists": "Kim Petras",
+      "album": "Need For Speed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+      "playedAt": "2026-09-27T06:18:41.391Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-27T02:49:03.037Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-09-27T06:15:25.643Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-27T02:45:57.124Z"
+      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
+      "name": "I Don't Know Why I Said That",
+      "artists": "Me As A Girl",
+      "album": "I Don't Know Why I Said That",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
+      "playedAt": "2026-09-27T06:12:01.760Z"
+    },
+    {
+      "id": "2HE3rYFs3f4TxuxiUBh7U7",
+      "name": "4getu",
+      "artists": "sicknote",
+      "album": "4getu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
+      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
+      "playedAt": "2026-09-27T04:58:35.884Z"
+    },
+    {
+      "id": "7ctROU9Cit8yXawvYQgkIh",
+      "name": "Call On Me",
+      "artists": "Daniel Caesar",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
+      "playedAt": "2026-09-27T04:35:03.359Z"
+    },
+    {
+      "id": "3rhgTxmFHqPYOBq9xzcyUT",
+      "name": "Tear",
+      "artists": "Rich Brian",
+      "album": "Tear",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
+      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
+      "playedAt": "2026-09-27T04:32:13.782Z"
     }
   ]
 }
