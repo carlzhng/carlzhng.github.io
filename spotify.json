@@ -1,33 +1,50 @@
 {
-  "updatedAt": "2026-09-27T16:33:02Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-27T21:00:41Z",
+  "nowPlaying": {
+    "id": "7g2S8dvcdpeRUs38L6dbZs",
+    "name": "NUMB",
+    "artists": "GIV\u0112ON",
+    "album": "BELOVED",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+    "url": "https://open.spotify.com/track/7g2S8dvcdpeRUs38L6dbZs",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-09-27T06:24:05.150Z"
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-09-27T20:58:08.077Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-27T06:21:15.546Z"
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-09-27T20:54:40.189Z"
     },
     {
-      "id": "1b104gnwd0zxCIhZPNLyf8",
-      "name": "Need For Speed",
-      "artists": "Kim Petras",
-      "album": "Need For Speed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
-      "playedAt": "2026-09-27T06:18:41.391Z"
+      "id": "3iBgrkexCzVuPy4O9vx7Mf",
+      "name": "Glue Song",
+      "artists": "beabadoobee",
+      "album": "Glue Song",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3862aeefcb2f0860ef017e4",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf",
+      "playedAt": "2026-09-27T20:51:56.232Z"
+    },
+    {
+      "id": "0gZGUAO42F1HmzZWHNPGAu",
+      "name": "Risk",
+      "artists": "Gracie Abrams",
+      "album": "The Secret of Us",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu",
+      "playedAt": "2026-09-27T20:49:40.608Z"
     },
     {
       "id": "23Y7fX88Bqlx042TcWOF2U",
@@ -36,43 +53,52 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-09-27T06:15:25.643Z"
+      "playedAt": "2026-09-27T20:46:28.460Z"
     },
     {
-      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
-      "name": "I Don't Know Why I Said That",
-      "artists": "Me As A Girl",
-      "album": "I Don't Know Why I Said That",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-09-27T06:12:01.760Z"
+      "id": "4uyBm26e7ElRigCH6vRbpc",
+      "name": "DEVOTION",
+      "artists": "Justin Bieber, Dijon",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc",
+      "playedAt": "2026-09-27T20:43:04.638Z"
     },
     {
-      "id": "2HE3rYFs3f4TxuxiUBh7U7",
-      "name": "4getu",
-      "artists": "sicknote",
-      "album": "4getu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
-      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
-      "playedAt": "2026-09-27T04:58:35.884Z"
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "name": "Television / So Far So Good",
+      "artists": "Rex Orange County",
+      "album": "Apricot Princess",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
+      "playedAt": "2026-09-27T20:39:09.668Z"
     },
     {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-27T04:35:03.359Z"
+      "id": "4fLspOxX39tXzHHqrEqTgf",
+      "name": "Buzz",
+      "artists": "NIKI",
+      "album": "Buzz",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af28c3161d272af6c015131c",
+      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf",
+      "playedAt": "2026-09-27T20:34:46.482Z"
     },
     {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-27T04:32:13.782Z"
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-09-27T20:31:50.216Z"
+    },
+    {
+      "id": "6klpXs2uAjagnZMFkt4qkl",
+      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
+      "artists": "Mandy Moore, Zachary Levi",
+      "album": "Tangled",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
+      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
+      "playedAt": "2026-09-27T20:27:07.464Z"
     }
   ]
 }
