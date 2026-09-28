@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-09-28T17:58:43Z",
+  "updatedAt": "2026-09-28T23:11:06Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-28T15:52:35.366Z"
-    },
-    {
-      "id": "0c9gjnRGBRke9VmLaZWmhM",
-      "name": "\u7231\u600e\u4e48\u4e86",
-      "artists": "\u9648\u6751\u957f",
-      "album": "\u7231\u600e\u4e48\u4e86",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fceba8f8dae0d3dc2640e955",
-      "url": "https://open.spotify.com/track/0c9gjnRGBRke9VmLaZWmhM",
-      "playedAt": "2026-09-28T15:46:56.953Z"
-    },
-    {
-      "id": "0nrODNJGv21FkJN7hHAS3e",
-      "name": "\u96f6\u8ddd\u79bb\u7684\u601d\u5ff5",
-      "artists": "TINY 7",
-      "album": "Chose one me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248a41ed562b968c3399b9476",
-      "url": "https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e",
-      "playedAt": "2026-09-28T15:42:57.373Z"
-    },
-    {
-      "id": "5l94Up12BJSjhH7Mhr2ji4",
-      "name": "\u7d05\u8c46",
-      "artists": "Faye Wong",
-      "album": "\u5531\u904a",
-      "albumImage": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
-      "url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4",
-      "playedAt": "2026-09-28T15:39:50.767Z"
-    },
-    {
-      "id": "0oeEqSlhD21Lj9uDwyxUu4",
-      "name": "GRIND",
-      "artists": "Cochise",
-      "album": "THE INSPECTION",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0231ae6a3f5f76df613946502b",
-      "url": "https://open.spotify.com/track/0oeEqSlhD21Lj9uDwyxUu4",
-      "playedAt": "2026-09-28T15:35:34.250Z"
-    },
-    {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
+      "id": "2LlOeW5rVcvl3QcPNPcDus",
+      "name": "Always",
       "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-09-28T15:32:38.287Z"
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
+      "playedAt": "2026-09-28T22:08:29.439Z"
     },
     {
-      "id": "3rhgTxmFHqPYOBq9xzcyUT",
-      "name": "Tear",
-      "artists": "Rich Brian",
-      "album": "Tear",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025543d24ebfd94bd732a4a03a",
-      "url": "https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT",
-      "playedAt": "2026-09-28T15:29:48.814Z"
+      "id": "5WXBNyp47AaMmBrS70rTQ7",
+      "name": "what once was",
+      "artists": "surf bagel",
+      "album": "what once was",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0204fb2e3873af1880ce679270",
+      "url": "https://open.spotify.com/track/5WXBNyp47AaMmBrS70rTQ7",
+      "playedAt": "2026-09-28T22:08:04.803Z"
     },
     {
-      "id": "2QtJA4gbwe1AcanB2p21aP",
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "artists": "Zedd, Hayley Williams",
-      "album": "Clarity (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
-      "playedAt": "2026-09-28T15:25:38.446Z"
+      "id": "3je88Q4OvTqIx7BFRFYvRA",
+      "name": "Phases",
+      "artists": "PRETTYMUCH",
+      "album": "Phases",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
+      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
+      "playedAt": "2026-09-28T21:33:50.337Z"
     },
     {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-09-28T15:22:00.179Z"
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-09-28T21:30:14.113Z"
     },
     {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-09-28T15:18:37.282Z"
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-09-28T21:24:47.074Z"
+    },
+    {
+      "id": "6sAFHFV7OWuSYuTNslP2HI",
+      "name": "Catching Bodies",
+      "artists": "Sekou",
+      "album": "Catching Bodies",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
+      "playedAt": "2026-09-28T21:22:00.488Z"
+    },
+    {
+      "id": "4t9R5rbtovdvya28uMODDz",
+      "name": "Toronto 2014 (with Mustafa)",
+      "artists": "Daniel Caesar, Mustafa",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
+      "playedAt": "2026-09-28T21:18:53.508Z"
+    },
+    {
+      "id": "6sj3SlT8e4JCcnK60ua1XX",
+      "name": "One Less Lonely Girl",
+      "artists": "Justin Bieber",
+      "album": "My World (Canada Version - All BP's)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
+      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
+      "playedAt": "2026-09-28T21:14:15.511Z"
+    },
+    {
+      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
+      "name": "No Pole",
+      "artists": "Don Toliver",
+      "album": "Love Sick (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+      "playedAt": "2026-09-28T21:10:25.904Z"
+    },
+    {
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-09-28T21:07:17.822Z"
     }
   ]
 }
