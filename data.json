@@ -101,7 +101,7 @@
     },
     {
       "name": "Second Brain TA",
-      "description": "Worked with a team of 4 to develop a Slack agent that uses Meta's Llama 3.3 70B Instruct model to process student quieries, and provide relevant answers. The agent is designed to be a online automated TA that can assist teachers in the classroom, allowing students to ask questions, recieve feedback on their understanding, and help the teacher generate quizzes and lesson plans. The agent is built using Python, Slack API, and implemented with the assitance of Cursor agents.",
+      "description": "Worked with a team of 4 to develop a Slack agent that uses Meta's Llama 3.3 70B Instruct model to process student queries, and provide relevant answers. The agent is designed to be a online automated TA that can assist teachers in the classroom, allowing students to ask questions, recieve feedback on their understanding, and help the teacher generate quizzes and lesson plans. The agent is built using Python, Slack API, and implemented with the assitance of Cursor agents.",
       "media": {
         "image": "./assets/secondBrainCover.jpg",
         "gallery":[
@@ -170,7 +170,7 @@
           "./assets/fluffyDice.png"
         ]
       },
-      "tags": ["SOLIDWORKS", "CAD"]
+      "tags": ["SOLIDWORKS"]
     },
     {
       "name": "This Portfolio!",
@@ -225,6 +225,12 @@
       }
     ],
     "experiences": [
+      {
+        "title": "Undergraduate Student Researcher",
+        "subtitle": "Faculty of Engineering, Department of Electrical and Computer Engineering | Edmonton, AB",
+        "dates": "Sep 2026 — present",
+        "details": "Currently researching the magnetophotoluminescence properties of organic-inorganic hybrids in semiconductors. The research project utilizes a variety of instrumentation such as electromagnets, lasers, and spectrometers to study the effects of magnetic fields on the photoluminescence of these materials. The goal of the research is to understand the underlying mechanisms that govern the magnetophotoluminescence properties of these materials and to explore their potential applications in optoelectronic devices."
+      },
       {
         "title": "Control Systems & Motherboard Team Member",
         "subtitle": "Alberta Bionix | Edmonton, AB",
