@@ -1,15 +1,24 @@
 {
-  "updatedAt": "2026-09-29T19:09:28Z",
+  "updatedAt": "2026-09-29T23:29:31Z",
   "nowPlaying": {
-    "id": "1b104gnwd0zxCIhZPNLyf8",
-    "name": "Need For Speed",
-    "artists": "Kim Petras",
-    "album": "Need For Speed",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-    "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+    "id": "1hxlkDVbgpv03hakx0eWKh",
+    "name": "Love Us Again",
+    "artists": "Green Echo",
+    "album": "Love Us Again",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+    "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
     "isPlaying": true
   },
   "recent": [
+    {
+      "id": "1b104gnwd0zxCIhZPNLyf8",
+      "name": "Need For Speed",
+      "artists": "Kim Petras",
+      "album": "Need For Speed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+      "playedAt": "2026-09-29T23:27:05.826Z"
+    },
     {
       "id": "23Y7fX88Bqlx042TcWOF2U",
       "name": "QUIT YOU",
@@ -17,7 +26,7 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-09-29T19:07:43.387Z"
+      "playedAt": "2026-09-29T23:22:26.849Z"
     },
     {
       "id": "0sGgseWHrfxZsCSLZ1YjtZ",
@@ -26,7 +35,7 @@
       "album": "I Don't Know Why I Said That",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
       "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-09-29T19:04:19.595Z"
+      "playedAt": "2026-09-29T23:19:03.064Z"
     },
     {
       "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
@@ -35,7 +44,7 @@
       "album": "Almost Okay",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
       "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-      "playedAt": "2026-09-29T19:01:32.864Z"
+      "playedAt": "2026-09-29T23:16:16.377Z"
     },
     {
       "id": "3wXnSQo1tiVjFo8iul55pU",
@@ -44,61 +53,52 @@
       "album": "LVRS PARADISE (SIDE B)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
       "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-      "playedAt": "2026-09-29T18:58:43.067Z"
+      "playedAt": "2026-09-29T23:13:26.601Z"
     },
     {
-      "id": "2pJZ1v8HezrAoZ0Fhzby92",
-      "name": "What Do I Know?",
-      "artists": "Ed Sheeran",
-      "album": "\u00f7 (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
-      "url": "https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92",
-      "playedAt": "2026-09-29T18:51:57.929Z"
-    },
-    {
-      "id": "1K6oXSGIexEyNnv2cS6vKr",
-      "name": "Transform (feat. Charlotte Day Wilson)",
-      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
       "album": "Freudian",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
-      "playedAt": "2026-09-29T18:48:00.108Z"
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-09-29T20:07:27.923Z"
     },
     {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
-      "playedAt": "2026-09-29T18:34:26.433Z"
+      "id": "0zTcYZot5zfBwOQkdv02ls",
+      "name": "Baby Blue",
+      "artists": "Cody Simpson",
+      "album": "Baby Blue / When It Comes To Loving You",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls",
+      "playedAt": "2026-09-29T20:06:37.327Z"
     },
     {
-      "id": "6rY5FAWxCdAGllYEOZMbjW",
-      "name": "SLOW DANCING IN THE DARK",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
-      "playedAt": "2026-09-29T18:31:47.815Z"
+      "id": "6sj3SlT8e4JCcnK60ua1XX",
+      "name": "One Less Lonely Girl",
+      "artists": "Justin Bieber",
+      "album": "My World (Canada Version - All BP's)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
+      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
+      "playedAt": "2026-09-29T20:03:45.133Z"
     },
     {
-      "id": "5dn6QANKbf76pANGjMBida",
-      "name": "Blueberry Eyes (feat. SUGA of BTS)",
-      "artists": "MAX, SUGA",
-      "album": "Blueberry Eyes (feat. SUGA of BTS)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029660ae57836f713884d86cbb",
-      "url": "https://open.spotify.com/track/5dn6QANKbf76pANGjMBida",
-      "playedAt": "2026-09-29T18:28:18.183Z"
+      "id": "6DH13QYXK7lKkYHSU88N48",
+      "name": "Who Knows",
+      "artists": "Daniel Caesar",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+      "playedAt": "2026-09-29T19:59:55.468Z"
     },
     {
-      "id": "5E3XPRJVgYnxhMAFI7nZ7N",
-      "name": "OWA OWA",
-      "artists": "Lil Tecca",
-      "album": "OWA OWA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022474acb55491f8b8c9b30147",
-      "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N",
-      "playedAt": "2026-09-29T18:19:45.278Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-09-29T19:54:54.020Z"
     }
   ]
 }
