@@ -1,87 +1,104 @@
 {
-  "updatedAt": "2026-09-29T12:17:44Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-29T19:09:28Z",
+  "nowPlaying": {
+    "id": "1b104gnwd0zxCIhZPNLyf8",
+    "name": "Need For Speed",
+    "artists": "Kim Petras",
+    "album": "Need For Speed",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+    "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-29T06:27:10.379Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-09-29T19:07:43.387Z"
     },
     {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-29T06:23:05.955Z"
+      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
+      "name": "I Don't Know Why I Said That",
+      "artists": "Me As A Girl",
+      "album": "I Don't Know Why I Said That",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
+      "playedAt": "2026-09-29T19:04:19.595Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-29T06:17:24.294Z"
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-09-29T19:01:32.864Z"
     },
     {
-      "id": "0q75NwOoFiARAVp4EXU4Bs",
-      "name": "Love Galore (feat. Travis Scott)",
-      "artists": "SZA, Travis Scott",
-      "album": "Ctrl",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs",
-      "playedAt": "2026-09-29T06:14:06.953Z"
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-09-29T18:58:43.067Z"
     },
     {
-      "id": "06cr2qpGN1mUAd5uLqIv0t",
-      "name": "2Face",
-      "artists": "overtide",
-      "album": "2Face",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02aab0b916e7f9d51f69a50614",
-      "url": "https://open.spotify.com/track/06cr2qpGN1mUAd5uLqIv0t",
-      "playedAt": "2026-09-29T05:16:25.682Z"
+      "id": "2pJZ1v8HezrAoZ0Fhzby92",
+      "name": "What Do I Know?",
+      "artists": "Ed Sheeran",
+      "album": "\u00f7 (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+      "url": "https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92",
+      "playedAt": "2026-09-29T18:51:57.929Z"
     },
     {
-      "id": "4mL59LVbKgOpEACxraGYdr",
-      "name": "While We're Young",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Trip",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027ccc8005498d9f75b03333c2",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr",
-      "playedAt": "2026-09-29T05:13:44.369Z"
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-09-29T18:48:00.108Z"
     },
     {
-      "id": "2jppfWqd0NmoYK81irH7Gk",
-      "name": "Young & Alive",
+      "id": "0kWQn0wLok1lawHAkGSMW9",
+      "name": "I Like That",
       "artists": "Bazzi",
       "album": "Infinite Dream",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/2jppfWqd0NmoYK81irH7Gk",
-      "playedAt": "2026-09-29T05:09:46.716Z"
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
+      "playedAt": "2026-09-29T18:34:26.433Z"
     },
     {
-      "id": "25gacl0dFF9HTclx7Ug7xC",
-      "name": "Like 1999",
-      "artists": "Valley",
-      "album": "Last Birthday",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e661c05b66f93ae82583cafa",
-      "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC",
-      "playedAt": "2026-09-29T05:07:05.749Z"
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "playedAt": "2026-09-29T18:31:47.815Z"
     },
     {
-      "id": "6fNQDsCq6LWfwTZnXl2Xsg",
-      "name": "High School in Jakarta",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/6fNQDsCq6LWfwTZnXl2Xsg",
-      "playedAt": "2026-09-29T05:01:57.252Z"
+      "id": "5dn6QANKbf76pANGjMBida",
+      "name": "Blueberry Eyes (feat. SUGA of BTS)",
+      "artists": "MAX, SUGA",
+      "album": "Blueberry Eyes (feat. SUGA of BTS)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029660ae57836f713884d86cbb",
+      "url": "https://open.spotify.com/track/5dn6QANKbf76pANGjMBida",
+      "playedAt": "2026-09-29T18:28:18.183Z"
+    },
+    {
+      "id": "5E3XPRJVgYnxhMAFI7nZ7N",
+      "name": "OWA OWA",
+      "artists": "Lil Tecca",
+      "album": "OWA OWA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022474acb55491f8b8c9b30147",
+      "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N",
+      "playedAt": "2026-09-29T18:19:45.278Z"
     }
   ]
 }
