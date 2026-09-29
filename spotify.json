@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-09-28T23:11:06Z",
+  "updatedAt": "2026-09-29T04:40:48Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2LlOeW5rVcvl3QcPNPcDus",
-      "name": "Always",
-      "artists": "Daniel Caesar",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
-      "playedAt": "2026-09-28T22:08:29.439Z"
+      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
+      "name": "I Don't Know Why I Said That",
+      "artists": "Me As A Girl",
+      "album": "I Don't Know Why I Said That",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
+      "playedAt": "2026-09-29T04:32:33.738Z"
     },
     {
-      "id": "5WXBNyp47AaMmBrS70rTQ7",
-      "name": "what once was",
-      "artists": "surf bagel",
-      "album": "what once was",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0204fb2e3873af1880ce679270",
-      "url": "https://open.spotify.com/track/5WXBNyp47AaMmBrS70rTQ7",
-      "playedAt": "2026-09-28T22:08:04.803Z"
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-09-29T04:29:46.956Z"
     },
     {
-      "id": "3je88Q4OvTqIx7BFRFYvRA",
-      "name": "Phases",
-      "artists": "PRETTYMUCH",
-      "album": "Phases",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
-      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
-      "playedAt": "2026-09-28T21:33:50.337Z"
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-09-29T04:26:57.110Z"
     },
     {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-09-28T21:30:14.113Z"
+      "id": "4nNpY2RyMQMvlKkQMRb5XQ",
+      "name": "BUTTERFLIES",
+      "artists": "Isaiah Falls, Joyce Wrice",
+      "album": "LVRS PARADISE (SIDE A)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5e7aebb296982c73101f933",
+      "url": "https://open.spotify.com/track/4nNpY2RyMQMvlKkQMRb5XQ",
+      "playedAt": "2026-09-29T04:22:36.313Z"
     },
     {
-      "id": "16Z0an8D4BJNm3VbWWpTnv",
-      "name": "Past Won't Leave My Bed",
-      "artists": "Joji",
-      "album": "Past Won't Leave My Bed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
-      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
-      "playedAt": "2026-09-28T21:24:47.074Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-09-29T04:15:56.823Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-09-28T21:22:00.488Z"
+      "id": "3AxPuwVYgZ3EfBsoPQFbh8",
+      "name": "endlessly",
+      "artists": "bixby",
+      "album": "are you sleeping alone again?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026b448c4e2f8ed6ec76b8bcfb",
+      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8",
+      "playedAt": "2026-09-29T04:10:29.444Z"
     },
     {
-      "id": "4t9R5rbtovdvya28uMODDz",
-      "name": "Toronto 2014 (with Mustafa)",
-      "artists": "Daniel Caesar, Mustafa",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
-      "playedAt": "2026-09-28T21:18:53.508Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-29T04:08:23.062Z"
     },
     {
-      "id": "6sj3SlT8e4JCcnK60ua1XX",
-      "name": "One Less Lonely Girl",
-      "artists": "Justin Bieber",
-      "album": "My World (Canada Version - All BP's)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
-      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
-      "playedAt": "2026-09-28T21:14:15.511Z"
+      "id": "18wmUghxdWxTgFsW4leZnt",
+      "name": "I CAN TELL",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt",
+      "playedAt": "2026-09-29T04:05:51.283Z"
     },
     {
-      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole",
-      "artists": "Don Toliver",
-      "album": "Love Sick (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "playedAt": "2026-09-28T21:10:25.904Z"
-    },
-    {
-      "id": "3U3hFkMr0Q90pD24EkE3Pr",
-      "name": "BMF",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
-      "playedAt": "2026-09-28T21:07:17.822Z"
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-09-29T04:02:34.837Z"
     }
   ]
 }
