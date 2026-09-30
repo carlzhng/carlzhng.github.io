@@ -1,15 +1,34 @@
 {
-  "updatedAt": "2026-09-30T04:24:56Z",
-  "nowPlaying": {
-    "id": "1hxlkDVbgpv03hakx0eWKh",
-    "name": "Love Us Again",
-    "artists": "Green Echo",
-    "album": "Love Us Again",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-    "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-30T12:03:12Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-09-30T04:33:36.443Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-30T04:30:50.997Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-09-30T04:26:53.241Z"
+    },
     {
       "id": "3MgZMXtodXhGzKtdwVCU9y",
       "name": "BOY IN RED",
@@ -38,15 +57,6 @@
       "playedAt": "2026-09-30T02:20:25.168Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-30T02:16:19.059Z"
-    },
-    {
       "id": "33DzKnwuBE6lfOiADwzd5E",
       "name": "TOOTIMETOOTIMETOOTIME",
       "artists": "The 1975",
@@ -54,33 +64,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e026c582022e90b11f0da287a9a",
       "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E",
       "playedAt": "2026-09-30T01:11:43.349Z"
-    },
-    {
-      "id": "6aG6hHqzvJ8V2Cc1ZLFu1Y",
-      "name": "with ease",
-      "artists": "Joon",
-      "album": "with ease",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ac52ce8e8eff0c0a7d0f2255",
-      "url": "https://open.spotify.com/track/6aG6hHqzvJ8V2Cc1ZLFu1Y",
-      "playedAt": "2026-09-30T01:08:14.941Z"
-    },
-    {
-      "id": "7AvprzMsRJpybaalckaT8c",
-      "name": "Man Of The Year",
-      "artists": "Juice WRLD",
-      "album": "Legends Never Die",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
-      "url": "https://open.spotify.com/track/7AvprzMsRJpybaalckaT8c",
-      "playedAt": "2026-09-30T01:05:07.722Z"
-    },
-    {
-      "id": "0kN8xEmgMW9mh7UmDYHlJP",
-      "name": "Versace on the Floor",
-      "artists": "Bruno Mars",
-      "album": "24K Magic",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP",
-      "playedAt": "2026-09-30T01:02:00.224Z"
     }
   ]
 }
