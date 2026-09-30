@@ -1,69 +1,7 @@
 {
-  "updatedAt": "2026-09-30T18:51:17Z",
-  "nowPlaying": {
-    "id": "09WJk1zNg7CkEPLnqLYaqY",
-    "name": "Headspace",
-    "artists": "Brainy",
-    "album": "Intense Focus",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e026f482c2c21dca4d54f202bec",
-    "url": "https://open.spotify.com/track/09WJk1zNg7CkEPLnqLYaqY",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-09-30T23:31:38Z",
+  "nowPlaying": null,
   "recent": [
-    {
-      "id": "03M3hskbWMoBsYjbylTItn",
-      "name": "12 Hz Problem Solving",
-      "artists": "Brainy",
-      "album": "Alpha Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029bfd7202c73e6052041b888f",
-      "url": "https://open.spotify.com/track/03M3hskbWMoBsYjbylTItn",
-      "playedAt": "2026-09-30T18:50:24.429Z"
-    },
-    {
-      "id": "0dSLxfQsy66jSELbCHMY6l",
-      "name": "Clear Mind",
-      "artists": "Brainy",
-      "album": "Deep Work",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0238043369536161a164e9a920",
-      "url": "https://open.spotify.com/track/0dSLxfQsy66jSELbCHMY6l",
-      "playedAt": "2026-09-30T18:48:01.960Z"
-    },
-    {
-      "id": "5Ieg7Em16PE95vWoy0xZMv",
-      "name": "Awakened Mind",
-      "artists": "Brainy",
-      "album": "Gamma Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02502161c796d82ce6e4a3f6f0",
-      "url": "https://open.spotify.com/track/5Ieg7Em16PE95vWoy0xZMv",
-      "playedAt": "2026-09-30T18:45:37.480Z"
-    },
-    {
-      "id": "1u6w08OPACnQtM77DXj2wX",
-      "name": "Mental Peak",
-      "artists": "Brainy",
-      "album": "Think Faster",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0240dc919b75fb192dd6a3b86e",
-      "url": "https://open.spotify.com/track/1u6w08OPACnQtM77DXj2wX",
-      "playedAt": "2026-09-30T18:43:32.970Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-30T18:40:10.429Z"
-    },
-    {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-09-30T18:32:24.076Z"
-    },
     {
       "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
       "name": "You",
@@ -71,7 +9,43 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-30T18:28:49.388Z"
+      "playedAt": "2026-09-30T23:06:31.805Z"
+    },
+    {
+      "id": "6dGG9H7Ce7cMrHyqXATxu0",
+      "name": "Break",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/6dGG9H7Ce7cMrHyqXATxu0",
+      "playedAt": "2026-09-30T22:58:52.292Z"
+    },
+    {
+      "id": "4CB14bFHaGrnmD5LkFvHRy",
+      "name": "Ghost",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4CB14bFHaGrnmD5LkFvHRy",
+      "playedAt": "2026-09-30T22:55:36.720Z"
+    },
+    {
+      "id": "1A3ifiokbYEx6aq87n4M5I",
+      "name": "Beautiful Ruin",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Souled Out: 10th Anniversary Edition",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0210bca8bfac151b34514ced83",
+      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I",
+      "playedAt": "2026-09-30T22:51:50.039Z"
+    },
+    {
+      "id": "5680YIPfvSgQfAvEXHYjNR",
+      "name": "Golden Coast (feat. OHMA)",
+      "artists": "Jhen\u00e9 Aiko, OHMA",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/5680YIPfvSgQfAvEXHYjNR",
+      "playedAt": "2026-09-30T22:48:03.556Z"
     },
     {
       "id": "238DR0GtiEWkbWVbA9y4TY",
@@ -80,16 +54,43 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-30T18:27:05.456Z"
+      "playedAt": "2026-09-30T22:46:34.522Z"
     },
     {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "artists": "Daniel Caesar, Kali Uchis",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "playedAt": "2026-09-30T18:18:22.494Z"
+      "id": "2qUz7lMpIegCFos7LjxQWn",
+      "name": "I Don't Mind",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/2qUz7lMpIegCFos7LjxQWn",
+      "playedAt": "2026-09-30T22:41:29.507Z"
+    },
+    {
+      "id": "6NCCQaIsBAwgW5pabA0SVn",
+      "name": "Unicorn",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/6NCCQaIsBAwgW5pabA0SVn",
+      "playedAt": "2026-09-30T22:38:19.533Z"
+    },
+    {
+      "id": "29qMRMRVGpSbHjmUUMXOjX",
+      "name": "Beach Boy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/29qMRMRVGpSbHjmUUMXOjX",
+      "playedAt": "2026-09-30T22:35:20.940Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-09-30T22:31:53.122Z"
     }
   ]
 }
