@@ -1,15 +1,50 @@
 {
-  "updatedAt": "2026-09-30T12:03:12Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-30T18:51:17Z",
+  "nowPlaying": {
+    "id": "09WJk1zNg7CkEPLnqLYaqY",
+    "name": "Headspace",
+    "artists": "Brainy",
+    "album": "Intense Focus",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e026f482c2c21dca4d54f202bec",
+    "url": "https://open.spotify.com/track/09WJk1zNg7CkEPLnqLYaqY",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-09-30T04:33:36.443Z"
+      "id": "03M3hskbWMoBsYjbylTItn",
+      "name": "12 Hz Problem Solving",
+      "artists": "Brainy",
+      "album": "Alpha Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029bfd7202c73e6052041b888f",
+      "url": "https://open.spotify.com/track/03M3hskbWMoBsYjbylTItn",
+      "playedAt": "2026-09-30T18:50:24.429Z"
+    },
+    {
+      "id": "0dSLxfQsy66jSELbCHMY6l",
+      "name": "Clear Mind",
+      "artists": "Brainy",
+      "album": "Deep Work",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0238043369536161a164e9a920",
+      "url": "https://open.spotify.com/track/0dSLxfQsy66jSELbCHMY6l",
+      "playedAt": "2026-09-30T18:48:01.960Z"
+    },
+    {
+      "id": "5Ieg7Em16PE95vWoy0xZMv",
+      "name": "Awakened Mind",
+      "artists": "Brainy",
+      "album": "Gamma Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02502161c796d82ce6e4a3f6f0",
+      "url": "https://open.spotify.com/track/5Ieg7Em16PE95vWoy0xZMv",
+      "playedAt": "2026-09-30T18:45:37.480Z"
+    },
+    {
+      "id": "1u6w08OPACnQtM77DXj2wX",
+      "name": "Mental Peak",
+      "artists": "Brainy",
+      "album": "Think Faster",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0240dc919b75fb192dd6a3b86e",
+      "url": "https://open.spotify.com/track/1u6w08OPACnQtM77DXj2wX",
+      "playedAt": "2026-09-30T18:43:32.970Z"
     },
     {
       "id": "3Yd3J42s3GZaYty4Iy4ewT",
@@ -18,52 +53,43 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-30T04:30:50.997Z"
+      "playedAt": "2026-09-30T18:40:10.429Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-09-30T04:26:53.241Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-09-30T18:32:24.076Z"
     },
     {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-09-30T04:24:21.520Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-09-30T18:28:49.388Z"
     },
     {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-09-30T02:43:24.601Z"
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-09-30T18:27:05.456Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-09-30T02:20:25.168Z"
-    },
-    {
-      "id": "33DzKnwuBE6lfOiADwzd5E",
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "artists": "The 1975",
-      "album": "A Brief Inquiry Into Online Relationships",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026c582022e90b11f0da287a9a",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E",
-      "playedAt": "2026-09-30T01:11:43.349Z"
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-09-30T18:18:22.494Z"
     }
   ]
 }
