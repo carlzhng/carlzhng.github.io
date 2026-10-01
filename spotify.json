@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:18:24Z",
+  "updatedAt": "2026-10-01T23:43:29Z",
   "nowPlaying": {
     "id": "3Yd3J42s3GZaYty4Iy4ewT",
     "name": "So Good (feat. Kendrick Lamar)",
@@ -11,49 +11,94 @@
   },
   "recent": [
     {
-      "id": "4ZPdLEztrlZqbJkgHNw54L",
-      "name": "Good Life",
-      "artists": "Kanye West, T-Pain",
-      "album": "Graduation",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
-      "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L",
-      "playedAt": "2026-10-01T16:38:05.206Z"
-    },
-    {
-      "id": "5O2P9iiztwhomNh8xkR9lJ",
-      "name": "Night Changes",
-      "artists": "One Direction",
-      "album": "FOUR (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
-      "playedAt": "2026-10-01T16:34:37.769Z"
-    },
-    {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-10-01T16:30:50.684Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-01T16:18:47.555Z"
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-01T23:41:24.657Z"
     },
     {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-01T16:15:52.427Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-01T23:38:39.426Z"
+    },
+    {
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-10-01T23:36:55.548Z"
+    },
+    {
+      "id": "2HE3rYFs3f4TxuxiUBh7U7",
+      "name": "4getu",
+      "artists": "sicknote",
+      "album": "4getu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
+      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
+      "playedAt": "2026-10-01T23:33:55.673Z"
+    },
+    {
+      "id": "7xBXBE6iPfjtZirrFXhEPo",
+      "name": "Back To U (Theme From \"sicknote\")",
+      "artists": "sicknote",
+      "album": "Back To U (Theme From \"sicknote\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
+      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
+      "playedAt": "2026-10-01T23:30:09.744Z"
+    },
+    {
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-10-01T23:26:26.673Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-10-01T23:23:37.156Z"
+    },
+    {
+      "id": "1b104gnwd0zxCIhZPNLyf8",
+      "name": "Need For Speed",
+      "artists": "Kim Petras",
+      "album": "Need For Speed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+      "playedAt": "2026-10-01T23:21:05.411Z"
+    },
+    {
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-10-01T23:17:49.772Z"
+    },
+    {
+      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
+      "name": "I Don't Know Why I Said That",
+      "artists": "Me As A Girl",
+      "album": "I Don't Know Why I Said That",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
+      "playedAt": "2026-10-01T23:14:25.995Z"
     }
   ]
 }
