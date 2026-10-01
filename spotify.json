@@ -1,96 +1,24 @@
 {
-  "updatedAt": "2026-09-30T23:31:38Z",
+  "updatedAt": "2026-10-01T04:36:30Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
+      "id": "7B2ygRXyWZulEpO4G1CHZf",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf",
+      "playedAt": "2026-10-01T03:40:43.739Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-09-30T23:06:31.805Z"
-    },
-    {
-      "id": "6dGG9H7Ce7cMrHyqXATxu0",
-      "name": "Break",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/6dGG9H7Ce7cMrHyqXATxu0",
-      "playedAt": "2026-09-30T22:58:52.292Z"
-    },
-    {
-      "id": "4CB14bFHaGrnmD5LkFvHRy",
-      "name": "Ghost",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4CB14bFHaGrnmD5LkFvHRy",
-      "playedAt": "2026-09-30T22:55:36.720Z"
-    },
-    {
-      "id": "1A3ifiokbYEx6aq87n4M5I",
-      "name": "Beautiful Ruin",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Souled Out: 10th Anniversary Edition",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0210bca8bfac151b34514ced83",
-      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I",
-      "playedAt": "2026-09-30T22:51:50.039Z"
-    },
-    {
-      "id": "5680YIPfvSgQfAvEXHYjNR",
-      "name": "Golden Coast (feat. OHMA)",
-      "artists": "Jhen\u00e9 Aiko, OHMA",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/5680YIPfvSgQfAvEXHYjNR",
-      "playedAt": "2026-09-30T22:48:03.556Z"
-    },
-    {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-09-30T22:46:34.522Z"
-    },
-    {
-      "id": "2qUz7lMpIegCFos7LjxQWn",
-      "name": "I Don't Mind",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/2qUz7lMpIegCFos7LjxQWn",
-      "playedAt": "2026-09-30T22:41:29.507Z"
-    },
-    {
-      "id": "6NCCQaIsBAwgW5pabA0SVn",
-      "name": "Unicorn",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/6NCCQaIsBAwgW5pabA0SVn",
-      "playedAt": "2026-09-30T22:38:19.533Z"
-    },
-    {
-      "id": "29qMRMRVGpSbHjmUUMXOjX",
-      "name": "Beach Boy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/29qMRMRVGpSbHjmUUMXOjX",
-      "playedAt": "2026-09-30T22:35:20.940Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-09-30T22:31:53.122Z"
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-01T03:34:18.105Z"
     }
   ]
 }
