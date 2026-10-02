@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-10-02T04:28:29Z",
+  "updatedAt": "2026-10-02T12:00:56Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "1Qrg8KqiBpW07V7PNxwwwL",
+      "name": "Kill Bill",
+      "artists": "SZA",
+      "album": "SOS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5276ed6cb0287df8d9be07f",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL",
+      "playedAt": "2026-10-02T04:46:10.975Z"
+    },
+    {
+      "id": "2oa2vjm2jiSHMliDum42ma",
+      "name": "instant",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
+      "playedAt": "2026-10-02T04:43:36.527Z"
+    },
+    {
+      "id": "2ZWlPOoWh0626oTaHrnl2a",
+      "name": "Ivy",
+      "artists": "Frank Ocean",
+      "album": "Blonde",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a",
+      "playedAt": "2026-10-02T04:39:43.614Z"
+    },
+    {
+      "id": "57GsLpRtEtrzcPGPop20rS",
+      "name": "What Did I Miss?",
+      "artists": "Drake",
+      "album": "What Did I Miss?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS",
+      "playedAt": "2026-10-02T04:35:33.928Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-02T04:32:19.094Z"
+    },
     {
       "id": "7aKPbNFx51OwUZBbZ7pqlj",
       "name": "CAMERAS",
@@ -21,15 +66,6 @@
       "playedAt": "2026-10-02T03:13:30.853Z"
     },
     {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-02T03:08:45.437Z"
-    },
-    {
       "id": "0kWQn0wLok1lawHAkGSMW9",
       "name": "I Like That",
       "artists": "Bazzi",
@@ -46,42 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
       "playedAt": "2026-10-02T03:01:42.337Z"
-    },
-    {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-02T02:58:46.872Z"
-    },
-    {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-10-02T02:55:46.898Z"
-    },
-    {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-10-02T02:53:01.580Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-02T02:51:17.657Z"
     }
   ]
 }
