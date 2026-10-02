@@ -1,32 +1,51 @@
 {
-  "updatedAt": "2026-10-01T23:43:29Z",
-  "nowPlaying": {
-    "id": "3Yd3J42s3GZaYty4Iy4ewT",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-02T04:28:29Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-10-01T23:41:24.657Z"
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-02T03:17:20.328Z"
     },
     {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
+      "id": "1WLEBdSUPHhdDOHXqC5dK4",
+      "name": "SUPAFICIAL",
+      "artists": "Isaiah Rashad",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
+      "playedAt": "2026-10-02T03:13:30.853Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-02T03:08:45.437Z"
+    },
+    {
+      "id": "0kWQn0wLok1lawHAkGSMW9",
+      "name": "I Like That",
+      "artists": "Bazzi",
+      "album": "Infinite Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
+      "playedAt": "2026-10-02T03:04:21.139Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-10-01T23:38:39.426Z"
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-02T03:01:42.337Z"
     },
     {
       "id": "238DR0GtiEWkbWVbA9y4TY",
@@ -35,70 +54,34 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-01T23:36:55.548Z"
+      "playedAt": "2026-10-02T02:58:46.872Z"
     },
     {
-      "id": "2HE3rYFs3f4TxuxiUBh7U7",
-      "name": "4getu",
-      "artists": "sicknote",
-      "album": "4getu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
-      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
-      "playedAt": "2026-10-01T23:33:55.673Z"
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-02T02:55:46.898Z"
     },
     {
-      "id": "7xBXBE6iPfjtZirrFXhEPo",
-      "name": "Back To U (Theme From \"sicknote\")",
-      "artists": "sicknote",
-      "album": "Back To U (Theme From \"sicknote\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
-      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
-      "playedAt": "2026-10-01T23:30:09.744Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-02T02:53:01.580Z"
     },
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-10-01T23:26:26.673Z"
-    },
-    {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-10-01T23:23:37.156Z"
-    },
-    {
-      "id": "1b104gnwd0zxCIhZPNLyf8",
-      "name": "Need For Speed",
-      "artists": "Kim Petras",
-      "album": "Need For Speed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
-      "playedAt": "2026-10-01T23:21:05.411Z"
-    },
-    {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-01T23:17:49.772Z"
-    },
-    {
-      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
-      "name": "I Don't Know Why I Said That",
-      "artists": "Me As A Girl",
-      "album": "I Don't Know Why I Said That",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-10-01T23:14:25.995Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-02T02:51:17.657Z"
     }
   ]
 }
