@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-02T12:00:56Z",
+  "updatedAt": "2026-10-02T19:01:19Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "1Qrg8KqiBpW07V7PNxwwwL",
-      "name": "Kill Bill",
-      "artists": "SZA",
-      "album": "SOS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5276ed6cb0287df8d9be07f",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL",
-      "playedAt": "2026-10-02T04:46:10.975Z"
+      "id": "5WoaF1B5XIEnWfmb5NZikf",
+      "name": "Sky Walker (feat. Travis Scott)",
+      "artists": "Miguel, Travis Scott",
+      "album": "War & Leisure",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
+      "playedAt": "2026-10-02T17:01:57.468Z"
     },
     {
-      "id": "2oa2vjm2jiSHMliDum42ma",
-      "name": "instant",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
-      "playedAt": "2026-10-02T04:43:36.527Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-10-02T16:58:42.279Z"
     },
     {
-      "id": "2ZWlPOoWh0626oTaHrnl2a",
-      "name": "Ivy",
-      "artists": "Frank Ocean",
-      "album": "Blonde",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a",
-      "playedAt": "2026-10-02T04:39:43.614Z"
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-10-02T16:55:07.698Z"
     },
     {
-      "id": "57GsLpRtEtrzcPGPop20rS",
-      "name": "What Did I Miss?",
-      "artists": "Drake",
-      "album": "What Did I Miss?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS",
-      "playedAt": "2026-10-02T04:35:33.928Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-02T16:51:50.078Z"
     },
     {
       "id": "3MgZMXtodXhGzKtdwVCU9y",
@@ -45,43 +45,25 @@
       "album": "BOY IN RED",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
       "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-02T04:32:19.094Z"
+      "playedAt": "2026-10-02T16:37:33.935Z"
     },
     {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-02T03:17:20.328Z"
-    },
-    {
-      "id": "1WLEBdSUPHhdDOHXqC5dK4",
-      "name": "SUPAFICIAL",
-      "artists": "Isaiah Rashad",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
-      "playedAt": "2026-10-02T03:13:30.853Z"
-    },
-    {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
-      "playedAt": "2026-10-02T03:04:21.139Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
       "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-02T03:01:42.337Z"
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-02T15:03:39.885Z"
+    },
+    {
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-02T14:56:55.241Z"
     }
   ]
 }
