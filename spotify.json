@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-02T19:01:19Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-02T23:35:13Z",
+  "nowPlaying": {
+    "id": "3Yd3J42s3GZaYty4Iy4ewT",
+    "name": "So Good (feat. Kendrick Lamar)",
+    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+    "album": "Westside Whimsy",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+    "isPlaying": true
+  },
   "recent": [
+    {
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-02T23:33:53.625Z"
+    },
+    {
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-02T23:31:08.448Z"
+    },
     {
       "id": "5WoaF1B5XIEnWfmb5NZikf",
       "name": "Sky Walker (feat. Travis Scott)",
@@ -30,15 +56,6 @@
       "playedAt": "2026-10-02T16:55:07.698Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-02T16:51:50.078Z"
-    },
-    {
       "id": "3MgZMXtodXhGzKtdwVCU9y",
       "name": "BOY IN RED",
       "artists": "Isaiah Rashad, SZA",
@@ -46,24 +63,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
       "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
       "playedAt": "2026-10-02T16:37:33.935Z"
-    },
-    {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-10-02T15:03:39.885Z"
-    },
-    {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-10-02T14:56:55.241Z"
     }
   ]
 }
