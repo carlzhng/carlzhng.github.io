@@ -1,32 +1,15 @@
 {
-  "updatedAt": "2026-10-02T23:35:13Z",
-  "nowPlaying": {
-    "id": "3Yd3J42s3GZaYty4Iy4ewT",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-03T04:11:12Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "533QZMGE46XLVyqLcdmjqW",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-10-02T23:33:53.625Z"
-    },
-    {
-      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
-      "playedAt": "2026-10-02T23:31:08.448Z"
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-03T04:10:15.548Z"
     },
     {
       "id": "5WoaF1B5XIEnWfmb5NZikf",
@@ -35,7 +18,7 @@
       "album": "War & Leisure",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
-      "playedAt": "2026-10-02T17:01:57.468Z"
+      "playedAt": "2026-10-03T04:06:17.630Z"
     },
     {
       "id": "23Y7fX88Bqlx042TcWOF2U",
@@ -44,16 +27,16 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-02T16:58:42.279Z"
+      "playedAt": "2026-10-03T04:00:57.194Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-02T16:55:07.698Z"
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-10-03T03:57:33.195Z"
     },
     {
       "id": "3MgZMXtodXhGzKtdwVCU9y",
@@ -62,7 +45,25 @@
       "album": "BOY IN RED",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
       "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-02T16:37:33.935Z"
+      "playedAt": "2026-10-02T23:49:16.759Z"
+    },
+    {
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-02T23:45:28.483Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-02T23:41:38.756Z"
     }
   ]
 }
