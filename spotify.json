@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-10-04T11:53:30Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-04T16:33:08Z",
+  "nowPlaying": {
+    "id": "5WoaF1B5XIEnWfmb5NZikf",
+    "name": "Sky Walker (feat. Travis Scott)",
+    "artists": "Miguel, Travis Scott",
+    "album": "War & Leisure",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
+    "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
+    "isPlaying": true
+  },
   "recent": [
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-04T16:31:57.211Z"
+    },
     {
       "id": "0RBw4ODUQPO4cuAOZtBGga",
       "name": "Hurts Me",
