@@ -1,87 +1,60 @@
 {
-  "updatedAt": "2026-10-03T22:43:31Z",
+  "updatedAt": "2026-10-04T04:42:55Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "5WoaF1B5XIEnWfmb5NZikf",
-      "name": "Sky Walker (feat. Travis Scott)",
-      "artists": "Miguel, Travis Scott",
-      "album": "War & Leisure",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
-      "playedAt": "2026-10-03T19:01:45.879Z"
+      "id": "0RBw4ODUQPO4cuAOZtBGga",
+      "name": "Hurts Me",
+      "artists": "Tory Lanez, Trippie Redd, Yoko Gold",
+      "album": "Hurts Me",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021dba361996f5b70c1df2b4ee",
+      "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga",
+      "playedAt": "2026-10-04T04:28:05.763Z"
     },
     {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-03T18:57:25.986Z"
+      "id": "0kWQn0wLok1lawHAkGSMW9",
+      "name": "I Like That",
+      "artists": "Bazzi",
+      "album": "Infinite Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
+      "playedAt": "2026-10-04T04:25:44.378Z"
     },
     {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-10-03T18:54:02.187Z"
+      "id": "1X9ThmzfVCFalqlP5Nhrbk",
+      "name": "Mind Enhancement",
+      "artists": "Brainy",
+      "album": "Brain Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
+      "url": "https://open.spotify.com/track/1X9ThmzfVCFalqlP5Nhrbk",
+      "playedAt": "2026-10-04T04:15:13.183Z"
     },
     {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-03T18:51:16.747Z"
+      "id": "4hqcZs9wLPenexuTcoRm05",
+      "name": "Brain Energy",
+      "artists": "Brainy",
+      "album": "Brain Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
+      "url": "https://open.spotify.com/track/4hqcZs9wLPenexuTcoRm05",
+      "playedAt": "2026-10-04T03:19:52.530Z"
     },
     {
-      "id": "1WLEBdSUPHhdDOHXqC5dK4",
-      "name": "SUPAFICIAL",
-      "artists": "Isaiah Rashad",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
-      "playedAt": "2026-10-03T18:47:27.356Z"
+      "id": "47mUHZGX8rZVD4LIQjNynO",
+      "name": "Brain Waves",
+      "artists": "Brainy",
+      "album": "Brain Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
+      "url": "https://open.spotify.com/track/47mUHZGX8rZVD4LIQjNynO",
+      "playedAt": "2026-10-04T03:17:34.434Z"
     },
     {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-03T18:42:42.050Z"
-    },
-    {
-      "id": "152lZdxL1OR0ZMW6KquMif",
-      "name": "Location",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif",
-      "playedAt": "2026-10-03T06:30:20.326Z"
-    },
-    {
-      "id": "5bgwqaRSS3M8WHWruHgSL5",
-      "name": "8TEEN",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5",
-      "playedAt": "2026-10-03T06:26:40.662Z"
-    },
-    {
-      "id": "2LlOeW5rVcvl3QcPNPcDus",
-      "name": "Always",
-      "artists": "Daniel Caesar",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
-      "playedAt": "2026-10-03T06:22:51.529Z"
+      "id": "6ElRKKiCJLmN054YDIUDQ3",
+      "name": "Focus Fuel",
+      "artists": "Brainy",
+      "album": "Brain Waves",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
+      "url": "https://open.spotify.com/track/6ElRKKiCJLmN054YDIUDQ3",
+      "playedAt": "2026-10-04T03:15:22.435Z"
     }
   ]
 }
