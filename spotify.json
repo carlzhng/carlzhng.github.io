@@ -1,15 +1,43 @@
 {
-  "updatedAt": "2026-10-04T16:33:08Z",
-  "nowPlaying": {
-    "id": "5WoaF1B5XIEnWfmb5NZikf",
-    "name": "Sky Walker (feat. Travis Scott)",
-    "artists": "Miguel, Travis Scott",
-    "album": "War & Leisure",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
-    "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-04T20:56:57Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-10-04T18:24:08.657Z"
+    },
+    {
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-10-04T18:11:09.957Z"
+    },
+    {
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-04T18:08:24.541Z"
+    },
+    {
+      "id": "1WLEBdSUPHhdDOHXqC5dK4",
+      "name": "SUPAFICIAL",
+      "artists": "Isaiah Rashad",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
+      "playedAt": "2026-10-04T18:04:35.134Z"
+    },
     {
       "id": "3MgZMXtodXhGzKtdwVCU9y",
       "name": "BOY IN RED",
@@ -17,61 +45,25 @@
       "album": "BOY IN RED",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
       "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-04T16:31:57.211Z"
+      "playedAt": "2026-10-04T17:59:49.815Z"
     },
     {
-      "id": "0RBw4ODUQPO4cuAOZtBGga",
-      "name": "Hurts Me",
-      "artists": "Tory Lanez, Trippie Redd, Yoko Gold",
-      "album": "Hurts Me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021dba361996f5b70c1df2b4ee",
-      "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga",
-      "playedAt": "2026-10-04T04:28:05.763Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-04T17:56:32.239Z"
     },
     {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
-      "playedAt": "2026-10-04T04:25:44.378Z"
-    },
-    {
-      "id": "1X9ThmzfVCFalqlP5Nhrbk",
-      "name": "Mind Enhancement",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/1X9ThmzfVCFalqlP5Nhrbk",
-      "playedAt": "2026-10-04T04:15:13.183Z"
-    },
-    {
-      "id": "4hqcZs9wLPenexuTcoRm05",
-      "name": "Brain Energy",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/4hqcZs9wLPenexuTcoRm05",
-      "playedAt": "2026-10-04T03:19:52.530Z"
-    },
-    {
-      "id": "47mUHZGX8rZVD4LIQjNynO",
-      "name": "Brain Waves",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/47mUHZGX8rZVD4LIQjNynO",
-      "playedAt": "2026-10-04T03:17:34.434Z"
-    },
-    {
-      "id": "6ElRKKiCJLmN054YDIUDQ3",
-      "name": "Focus Fuel",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/6ElRKKiCJLmN054YDIUDQ3",
-      "playedAt": "2026-10-04T03:15:22.435Z"
+      "id": "5WoaF1B5XIEnWfmb5NZikf",
+      "name": "Sky Walker (feat. Travis Scott)",
+      "artists": "Miguel, Travis Scott",
+      "album": "War & Leisure",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
+      "playedAt": "2026-10-04T17:52:34.414Z"
     }
   ]
 }
