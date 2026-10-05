@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-04T20:56:57Z",
+  "updatedAt": "2026-10-05T00:29:03Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-04T21:33:12.224Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-04T21:29:22.762Z"
+    },
     {
       "id": "23Y7fX88Bqlx042TcWOF2U",
       "name": "QUIT YOU",
@@ -19,15 +37,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
       "playedAt": "2026-10-04T18:11:09.957Z"
-    },
-    {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-04T18:08:24.541Z"
     },
     {
       "id": "1WLEBdSUPHhdDOHXqC5dK4",
