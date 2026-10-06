@@ -1,86 +1,69 @@
 {
-  "updatedAt": "2026-10-06T16:32:10Z",
-  "nowPlaying": {
-    "id": "59c2xv2kMzYM6HR9oY6BIa",
-    "name": "Sweet Boy",
-    "artists": "Malcolm Todd",
-    "album": "Sweet Boy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-    "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-06T22:25:32Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "5GjnIpUlLGEIYk052ISOw9",
-      "name": "This Is What It Feels Like",
-      "artists": "Armin van Buuren, Trevor Guthrie",
-      "album": "Intense",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02048012a99d7a62440392f529",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9",
-      "playedAt": "2026-10-06T16:30:49.283Z"
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-06T21:57:17.286Z"
     },
     {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
       "artists": "Justin Bieber",
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-10-06T16:27:24.581Z"
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-06T21:55:01.963Z"
     },
     {
-      "id": "0mQLFm42be28X8yKBTiHP3",
-      "name": "I THINK YOU'RE SPECIAL",
-      "artists": "Justin Bieber, Tems",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3",
-      "playedAt": "2026-10-06T16:24:05.104Z"
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-06T21:45:41.143Z"
     },
     {
-      "id": "1lh5stJGmaVucEdExCqEVm",
-      "name": "Moon (Feat. Bon Iver)",
-      "artists": "Daniel Caesar, Bon Iver",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm",
-      "playedAt": "2026-10-06T01:53:48.540Z"
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-06T21:41:51.750Z"
     },
     {
-      "id": "4fZg2tFkmln0lraBWvpCzV",
-      "name": "I",
-      "artists": "BUMP OF CHICKEN",
-      "album": "I",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f3cd5eed4683f8f046ae7fe",
-      "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV",
-      "playedAt": "2026-10-06T01:48:25.925Z"
+      "id": "316r1KLN0bcmpr7TZcMCXT",
+      "name": "The Sound",
+      "artists": "The 1975",
+      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
+      "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT",
+      "playedAt": "2026-10-06T21:32:21.112Z"
     },
     {
-      "id": "6DH13QYXK7lKkYHSU88N48",
-      "name": "Who Knows",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
-      "playedAt": "2026-10-06T01:44:18.699Z"
+      "id": "5qDJnpI14GE3LywpJ25UIn",
+      "name": "Test Of Time",
+      "artists": "OSA",
+      "album": "Test Of Time",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fd9e512074e5aca7069cc7da",
+      "url": "https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn",
+      "playedAt": "2026-10-06T21:28:11.709Z"
     },
     {
-      "id": "16Z0an8D4BJNm3VbWWpTnv",
-      "name": "Past Won't Leave My Bed",
-      "artists": "Joji",
-      "album": "Past Won't Leave My Bed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
-      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
-      "playedAt": "2026-10-06T01:37:56.427Z"
-    },
-    {
-      "id": "12rtpdXys3CkpYZppt2z7y",
-      "name": "whenever you're gone",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
-      "playedAt": "2026-10-06T01:28:34.163Z"
+      "id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "name": "Earrings",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "playedAt": "2026-10-06T21:24:41.176Z"
     }
   ]
 }
