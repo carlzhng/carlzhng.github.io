@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-06T08:39:24Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-06T16:32:10Z",
+  "nowPlaying": {
+    "id": "59c2xv2kMzYM6HR9oY6BIa",
+    "name": "Sweet Boy",
+    "artists": "Malcolm Todd",
+    "album": "Sweet Boy",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+    "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+    "isPlaying": true
+  },
   "recent": [
+    {
+      "id": "5GjnIpUlLGEIYk052ISOw9",
+      "name": "This Is What It Feels Like",
+      "artists": "Armin van Buuren, Trevor Guthrie",
+      "album": "Intense",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02048012a99d7a62440392f529",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9",
+      "playedAt": "2026-10-06T16:30:49.283Z"
+    },
+    {
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-10-06T16:27:24.581Z"
+    },
+    {
+      "id": "0mQLFm42be28X8yKBTiHP3",
+      "name": "I THINK YOU'RE SPECIAL",
+      "artists": "Justin Bieber, Tems",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3",
+      "playedAt": "2026-10-06T16:24:05.104Z"
+    },
     {
       "id": "1lh5stJGmaVucEdExCqEVm",
       "name": "Moon (Feat. Bon Iver)",
@@ -39,24 +74,6 @@
       "playedAt": "2026-10-06T01:37:56.427Z"
     },
     {
-      "id": "59c2xv2kMzYM6HR9oY6BIa",
-      "name": "Sweet Boy",
-      "artists": "Malcolm Todd",
-      "album": "Sweet Boy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-      "playedAt": "2026-10-06T01:35:09.915Z"
-    },
-    {
-      "id": "5GjnIpUlLGEIYk052ISOw9",
-      "name": "This Is What It Feels Like",
-      "artists": "Armin van Buuren, Trevor Guthrie",
-      "album": "Intense",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02048012a99d7a62440392f529",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9",
-      "playedAt": "2026-10-06T01:32:09.248Z"
-    },
-    {
       "id": "12rtpdXys3CkpYZppt2z7y",
       "name": "whenever you're gone",
       "artists": "Khalid",
@@ -64,33 +81,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
       "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
       "playedAt": "2026-10-06T01:28:34.163Z"
-    },
-    {
-      "id": "2oa2vjm2jiSHMliDum42ma",
-      "name": "instant",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
-      "playedAt": "2026-10-06T01:24:40.841Z"
-    },
-    {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-10-06T01:18:58.149Z"
-    },
-    {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "artists": "Daniel Caesar, Kali Uchis",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "playedAt": "2026-10-06T01:15:28.442Z"
     }
   ]
 }
