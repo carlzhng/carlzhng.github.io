@@ -1,24 +1,78 @@
 {
-  "updatedAt": "2026-10-06T01:10:00Z",
+  "updatedAt": "2026-10-06T08:39:24Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "5jTIePmUbBUVjJnpZeGiM3",
-      "name": "We Find Love",
-      "artists": "Daniel Caesar",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/5jTIePmUbBUVjJnpZeGiM3",
-      "playedAt": "2026-10-06T00:45:58.520Z"
+      "id": "1lh5stJGmaVucEdExCqEVm",
+      "name": "Moon (Feat. Bon Iver)",
+      "artists": "Daniel Caesar, Bon Iver",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm",
+      "playedAt": "2026-10-06T01:53:48.540Z"
     },
     {
-      "id": "4s76r7AbquJcTccqJiqdVu",
-      "name": "Hold Me Down",
+      "id": "4fZg2tFkmln0lraBWvpCzV",
+      "name": "I",
+      "artists": "BUMP OF CHICKEN",
+      "album": "I",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f3cd5eed4683f8f046ae7fe",
+      "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV",
+      "playedAt": "2026-10-06T01:48:25.925Z"
+    },
+    {
+      "id": "6DH13QYXK7lKkYHSU88N48",
+      "name": "Who Knows",
       "artists": "Daniel Caesar",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu",
-      "playedAt": "2026-10-06T00:36:27.327Z"
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+      "playedAt": "2026-10-06T01:44:18.699Z"
+    },
+    {
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-10-06T01:37:56.427Z"
+    },
+    {
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-10-06T01:35:09.915Z"
+    },
+    {
+      "id": "5GjnIpUlLGEIYk052ISOw9",
+      "name": "This Is What It Feels Like",
+      "artists": "Armin van Buuren, Trevor Guthrie",
+      "album": "Intense",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02048012a99d7a62440392f529",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9",
+      "playedAt": "2026-10-06T01:32:09.248Z"
+    },
+    {
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-10-06T01:28:34.163Z"
+    },
+    {
+      "id": "2oa2vjm2jiSHMliDum42ma",
+      "name": "instant",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
+      "playedAt": "2026-10-06T01:24:40.841Z"
     },
     {
       "id": "1Q7EgiMOuwDcB0PJC6AzON",
@@ -27,61 +81,16 @@
       "album": "Freudian",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
       "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-10-06T00:32:36.056Z"
+      "playedAt": "2026-10-06T01:18:58.149Z"
     },
     {
-      "id": "7LpMG3AEaIJgs62HQhAa91",
-      "name": "i'm so tired...",
-      "artists": "Lauv, Troye Sivan",
-      "album": "~how i'm feeling~",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c0e1e9e1fd1e7b132da1606",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91",
-      "playedAt": "2026-10-06T00:27:18.964Z"
-    },
-    {
-      "id": "6UyqJJUwOrtop3YB8eruGR",
-      "name": "Pasta",
-      "artists": "New Rules",
-      "album": "Go The Distance (Extended)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0290ff351257edf8985f1ac250",
-      "url": "https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR",
-      "playedAt": "2026-10-06T00:24:35.849Z"
-    },
-    {
-      "id": "6BjDS1tNSBjposp5j9a3g4",
-      "name": "Loverboy",
-      "artists": "A-Wall",
-      "album": "Helios",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c025e1e5585b4bdcd0b303f",
-      "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4",
-      "playedAt": "2026-10-06T00:19:26.181Z"
-    },
-    {
-      "id": "7kpe2K0hdSssLj4G4YjxdU",
-      "name": "camellia",
-      "artists": "slchld",
-      "album": "camellia",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02600ee242281deea5db49ee0e",
-      "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU",
-      "playedAt": "2026-10-05T22:26:59.721Z"
-    },
-    {
-      "id": "0zaoWwS8RpE3LSDdmkg8TC",
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "artists": "Swae Lee, Jhen\u00e9 Aiko",
-      "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025843d11205f6dd6a2ab5f967",
-      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC",
-      "playedAt": "2026-10-05T22:23:48.540Z"
-    },
-    {
-      "id": "2WdAV1VqmllcEznKlVOFxG",
-      "name": "Paris in the Rain",
-      "artists": "Lauv",
-      "album": "I met you when I was 18. (the playlist)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ed5fcf212f05d55b1e61eae",
-      "url": "https://open.spotify.com/track/2WdAV1VqmllcEznKlVOFxG",
-      "playedAt": "2026-10-05T21:22:32.643Z"
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-10-06T01:15:28.442Z"
     }
   ]
 }
