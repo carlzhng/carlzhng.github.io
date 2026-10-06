@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-10-05T19:05:54Z",
+  "updatedAt": "2026-10-06T01:10:00Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-05T18:56:01.023Z"
+      "id": "5jTIePmUbBUVjJnpZeGiM3",
+      "name": "We Find Love",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/5jTIePmUbBUVjJnpZeGiM3",
+      "playedAt": "2026-10-06T00:45:58.520Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-05T18:52:24.713Z"
+      "id": "4s76r7AbquJcTccqJiqdVu",
+      "name": "Hold Me Down",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu",
+      "playedAt": "2026-10-06T00:36:27.327Z"
     },
     {
-      "id": "2QtJA4gbwe1AcanB2p21aP",
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "artists": "Zedd, Hayley Williams",
-      "album": "Clarity (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024354ea20731fa90da93e12c7",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP",
-      "playedAt": "2026-10-05T18:47:03.350Z"
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-10-06T00:32:36.056Z"
     },
     {
-      "id": "5h0Jgt873QtgL6nJRBGfT6",
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "artists": "88-Keys, Mac Miller, Sia",
-      "album": "That's Life (feat. Mac Miller & Sia)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020f7c28388802fd88b8738fc6",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6",
-      "playedAt": "2026-10-05T18:43:25.373Z"
+      "id": "7LpMG3AEaIJgs62HQhAa91",
+      "name": "i'm so tired...",
+      "artists": "Lauv, Troye Sivan",
+      "album": "~how i'm feeling~",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c0e1e9e1fd1e7b132da1606",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91",
+      "playedAt": "2026-10-06T00:27:18.964Z"
     },
     {
-      "id": "7Jh1bpe76CNTCgdgAdBw4Z",
-      "name": "\"Heroes\" - 2017 Remaster",
-      "artists": "David Bowie",
-      "album": "\"Heroes\" (2017 Remaster)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02204f41d52743c6a9efd62985",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-      "playedAt": "2026-10-05T18:40:02.449Z"
+      "id": "6UyqJJUwOrtop3YB8eruGR",
+      "name": "Pasta",
+      "artists": "New Rules",
+      "album": "Go The Distance (Extended)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0290ff351257edf8985f1ac250",
+      "url": "https://open.spotify.com/track/6UyqJJUwOrtop3YB8eruGR",
+      "playedAt": "2026-10-06T00:24:35.849Z"
     },
     {
-      "id": "1XrSjpNe49IiygZfzb74pk",
-      "name": "What Once Was",
-      "artists": "Her's",
-      "album": "Songs of Her's",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
-      "playedAt": "2026-10-05T18:33:50.535Z"
+      "id": "6BjDS1tNSBjposp5j9a3g4",
+      "name": "Loverboy",
+      "artists": "A-Wall",
+      "album": "Helios",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c025e1e5585b4bdcd0b303f",
+      "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4",
+      "playedAt": "2026-10-06T00:19:26.181Z"
     },
     {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-10-05T18:29:34.981Z"
+      "id": "7kpe2K0hdSssLj4G4YjxdU",
+      "name": "camellia",
+      "artists": "slchld",
+      "album": "camellia",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02600ee242281deea5db49ee0e",
+      "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU",
+      "playedAt": "2026-10-05T22:26:59.721Z"
     },
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-10-05T18:26:06.453Z"
+      "id": "0zaoWwS8RpE3LSDdmkg8TC",
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "artists": "Swae Lee, Jhen\u00e9 Aiko",
+      "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025843d11205f6dd6a2ab5f967",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC",
+      "playedAt": "2026-10-05T22:23:48.540Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-05T18:22:31.542Z"
-    },
-    {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-10-05T18:18:33.941Z"
+      "id": "2WdAV1VqmllcEznKlVOFxG",
+      "name": "Paris in the Rain",
+      "artists": "Lauv",
+      "album": "I met you when I was 18. (the playlist)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ed5fcf212f05d55b1e61eae",
+      "url": "https://open.spotify.com/track/2WdAV1VqmllcEznKlVOFxG",
+      "playedAt": "2026-10-05T21:22:32.643Z"
     }
   ]
 }
