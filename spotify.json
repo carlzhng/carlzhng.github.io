@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-06T22:25:32Z",
+  "updatedAt": "2026-10-07T04:45:32Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-10-07T03:58:28.520Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-07T03:54:53.932Z"
+    },
     {
       "id": "24iKWzQ8le376B6Wc2Gsyx",
       "name": "BAD HONEY - acoustic cover",
@@ -9,7 +27,7 @@
       "album": "BAD HONEY (acoustic cover)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
       "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-06T21:57:17.286Z"
+      "playedAt": "2026-10-07T03:49:42.419Z"
     },
     {
       "id": "4Cl3M8C8goTBaoysf9jb7e",
@@ -18,52 +36,34 @@
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
       "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-06T21:55:01.963Z"
+      "playedAt": "2026-10-07T03:47:28.326Z"
     },
     {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-06T21:45:41.143Z"
+      "id": "5VGlqQANWDKJFl0MBG3sg2",
+      "name": "Use Somebody",
+      "artists": "Kings of Leon",
+      "album": "Only By The Night",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022519d01c0cca06f134eeadd8",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2",
+      "playedAt": "2026-10-07T03:39:58.404Z"
     },
     {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-06T21:41:51.750Z"
+      "id": "003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside",
+      "artists": "The Killers",
+      "album": "Hot Fuss",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+      "playedAt": "2026-10-07T03:35:39.394Z"
     },
     {
-      "id": "316r1KLN0bcmpr7TZcMCXT",
-      "name": "The Sound",
-      "artists": "The 1975",
-      "album": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d3de03550f715df1ea7e0c08",
-      "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT",
-      "playedAt": "2026-10-06T21:32:21.112Z"
-    },
-    {
-      "id": "5qDJnpI14GE3LywpJ25UIn",
-      "name": "Test Of Time",
-      "artists": "OSA",
-      "album": "Test Of Time",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fd9e512074e5aca7069cc7da",
-      "url": "https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn",
-      "playedAt": "2026-10-06T21:28:11.709Z"
-    },
-    {
-      "id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "name": "Earrings",
-      "artists": "Malcolm Todd",
-      "album": "Sweet Boy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-      "playedAt": "2026-10-06T21:24:41.176Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-10-07T03:29:43.687Z"
     }
   ]
 }
