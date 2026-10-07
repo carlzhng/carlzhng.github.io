@@ -1,60 +1,68 @@
 {
-  "updatedAt": "2026-10-07T12:48:23Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-07T19:46:21Z",
+  "nowPlaying": {
+    "id": "7aKPbNFx51OwUZBbZ7pqlj",
+    "name": "CAMERAS",
+    "artists": "Isaiah Rashad, Dominic Fike",
+    "album": "IT'S BEEN AWFUL",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+    "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "4bO6IzKXMWhmncfIO9GBq2",
-      "name": "C'Mon",
-      "artists": "Kesha",
-      "album": "Warrior (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
-      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
-      "playedAt": "2026-10-07T03:58:28.520Z"
+      "id": "1WLEBdSUPHhdDOHXqC5dK4",
+      "name": "SUPAFICIAL",
+      "artists": "Isaiah Rashad",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
+      "playedAt": "2026-10-07T19:42:31.394Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-07T03:54:53.932Z"
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-07T19:37:46.081Z"
     },
     {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-07T03:49:42.419Z"
+      "id": "0f8eRy9A0n6zXpKSHSCAEp",
+      "name": "Infrunami",
+      "artists": "Steve Lacy",
+      "album": "The Lo-Fis",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
+      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp",
+      "playedAt": "2026-10-07T18:18:09.855Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-07T03:47:28.326Z"
+      "id": "4K1Pg0FLno1ltzX3jeqT83",
+      "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+      "artists": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
+      "album": "GNX",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
+      "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83",
+      "playedAt": "2026-10-07T18:16:32.221Z"
     },
     {
-      "id": "5VGlqQANWDKJFl0MBG3sg2",
-      "name": "Use Somebody",
-      "artists": "Kings of Leon",
-      "album": "Only By The Night",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022519d01c0cca06f134eeadd8",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2",
-      "playedAt": "2026-10-07T03:39:58.404Z"
+      "id": "2qYbtIf8dRkBkKIcZVGFDq",
+      "name": "Drive",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/2qYbtIf8dRkBkKIcZVGFDq",
+      "playedAt": "2026-10-07T18:14:20.376Z"
     },
     {
-      "id": "003vvx7Niy0yvhvHt4a68B",
-      "name": "Mr. Brightside",
-      "artists": "The Killers",
-      "album": "Hot Fuss",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
-      "playedAt": "2026-10-07T03:35:39.394Z"
+      "id": "2hwOoMtWPtTSSn6WHV7Vp5",
+      "name": "Blue World",
+      "artists": "Mac Miller",
+      "album": "Circles",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313",
+      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5",
+      "playedAt": "2026-10-07T18:08:45.321Z"
     },
     {
       "id": "5BZsQlgw21vDOAjoqkNgKb",
@@ -63,7 +71,34 @@
       "album": "SWAG",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-07T03:29:43.687Z"
+      "playedAt": "2026-10-07T18:05:15.386Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-07T18:02:18.454Z"
+    },
+    {
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-10-07T17:59:23.131Z"
+    },
+    {
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-07T17:56:23.199Z"
     }
   ]
 }
