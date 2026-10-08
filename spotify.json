@@ -1,87 +1,77 @@
 {
-  "updatedAt": "2026-10-08T17:14:13Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-08T23:01:09Z",
+  "nowPlaying": {
+    "id": "3wXnSQo1tiVjFo8iul55pU",
+    "name": "HONEYBUTTER",
+    "artists": "Isaiah Falls, Mahalia",
+    "album": "LVRS PARADISE (SIDE B)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+    "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "1RJl5cZ8kFpoVFOS2x6scI",
-      "name": "Take Me Where Your Heart Is",
-      "artists": "Q Marsden",
-      "album": "The Shave Experiment (Director's Cut)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ecba76ea135175ab5114fce",
-      "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI",
-      "playedAt": "2026-10-08T03:58:28.735Z"
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-08T22:58:47.410Z"
     },
     {
-      "id": "6ieWL5CLN9WdC875guWtMe",
-      "name": "Lady Of Namek",
-      "artists": "Tory Lanez",
-      "album": "Alone At Prom",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
-      "url": "https://open.spotify.com/track/6ieWL5CLN9WdC875guWtMe",
-      "playedAt": "2026-10-08T03:55:15.311Z"
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-08T22:54:58.233Z"
     },
     {
-      "id": "66TTutUCqCpAzGCBcsBuYy",
-      "name": "Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film",
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-08T22:50:51.850Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
       "artists": "Daniel Caesar",
-      "album": "Waiting In Vain (Bob Marley: One Love - Music Inspired By The Film)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0212fa6887fef82da74942499d",
-      "url": "https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy",
-      "playedAt": "2026-10-08T03:52:00.791Z"
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-08T22:47:30.164Z"
     },
     {
-      "id": "2e2AXpIiJpet5b4qg85Gh6",
-      "name": "F2F",
-      "artists": "SZA",
-      "album": "SOS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
-      "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6",
-      "playedAt": "2026-10-08T01:03:31.876Z"
-    },
-    {
-      "id": "5oady7OSE7dH7LHiqmb3Cr",
-      "name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
-      "artists": "A$AP Ferg, Brent Faiyaz, Salaam Remi",
-      "album": "Floor Seats",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021be99f274f2046dcb080a20f",
-      "url": "https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr",
-      "playedAt": "2026-10-08T01:00:26.268Z"
-    },
-    {
-      "id": "3Qa944OTMZkg8DHjET8JQv",
-      "name": "Woods",
-      "artists": "Mac Miller",
-      "album": "Circles",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313",
-      "url": "https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv",
-      "playedAt": "2026-10-07T22:45:54.914Z"
-    },
-    {
-      "id": "22NHkFYbgxB2Zirj29Gbp8",
-      "name": "oh yeah?",
-      "artists": "Steve Lacy",
-      "album": "Oh yeah?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
-      "playedAt": "2026-10-07T22:45:16.030Z"
-    },
-    {
-      "id": "3oBaEcfWBNEBDP5UArDCxt",
-      "name": "WEAKEST FEELING",
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
       "artists": "The Kid LAROI",
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/3oBaEcfWBNEBDP5UArDCxt",
-      "playedAt": "2026-10-07T22:42:24.813Z"
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-08T22:42:24.493Z"
     },
     {
-      "id": "72PVbRKkUimweUPV0nKAPs",
-      "name": "ALL I CAN TAKE",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/72PVbRKkUimweUPV0nKAPs",
-      "playedAt": "2026-10-07T22:39:34.812Z"
+      "id": "5mSjVVGPv8zUsjfMuSxPRP",
+      "name": "I'M SO IN LOVE WITH YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ee3d2ae694b3b78125a5443",
+      "url": "https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP",
+      "playedAt": "2026-10-08T22:23:38.705Z"
+    },
+    {
+      "id": "5wGL1pa5n9DdjbY4YVDvlb",
+      "name": "Apt. 4",
+      "artists": "Vacation Manor",
+      "album": "Vacation Manor",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
+      "url": "https://open.spotify.com/track/5wGL1pa5n9DdjbY4YVDvlb",
+      "playedAt": "2026-10-08T22:19:55.930Z"
     }
   ]
 }
