@@ -1,68 +1,33 @@
 {
-  "updatedAt": "2026-10-07T19:46:21Z",
-  "nowPlaying": {
-    "id": "7aKPbNFx51OwUZBbZ7pqlj",
-    "name": "CAMERAS",
-    "artists": "Isaiah Rashad, Dominic Fike",
-    "album": "IT'S BEEN AWFUL",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-    "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-08T00:02:18Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "1WLEBdSUPHhdDOHXqC5dK4",
-      "name": "SUPAFICIAL",
-      "artists": "Isaiah Rashad",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
-      "playedAt": "2026-10-07T19:42:31.394Z"
-    },
-    {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-07T19:37:46.081Z"
-    },
-    {
-      "id": "0f8eRy9A0n6zXpKSHSCAEp",
-      "name": "Infrunami",
+      "id": "22NHkFYbgxB2Zirj29Gbp8",
+      "name": "oh yeah?",
       "artists": "Steve Lacy",
-      "album": "The Lo-Fis",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
-      "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp",
-      "playedAt": "2026-10-07T18:18:09.855Z"
+      "album": "Oh yeah?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
+      "playedAt": "2026-10-07T22:45:16.030Z"
     },
     {
-      "id": "4K1Pg0FLno1ltzX3jeqT83",
-      "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
-      "artists": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
-      "album": "GNX",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e2a0a166493a2bde5480a420",
-      "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83",
-      "playedAt": "2026-10-07T18:16:32.221Z"
+      "id": "3oBaEcfWBNEBDP5UArDCxt",
+      "name": "WEAKEST FEELING",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/3oBaEcfWBNEBDP5UArDCxt",
+      "playedAt": "2026-10-07T22:42:24.813Z"
     },
     {
-      "id": "2qYbtIf8dRkBkKIcZVGFDq",
-      "name": "Drive",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/2qYbtIf8dRkBkKIcZVGFDq",
-      "playedAt": "2026-10-07T18:14:20.376Z"
-    },
-    {
-      "id": "2hwOoMtWPtTSSn6WHV7Vp5",
-      "name": "Blue World",
-      "artists": "Mac Miller",
-      "album": "Circles",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313",
-      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5",
-      "playedAt": "2026-10-07T18:08:45.321Z"
+      "id": "72PVbRKkUimweUPV0nKAPs",
+      "name": "ALL I CAN TAKE",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/72PVbRKkUimweUPV0nKAPs",
+      "playedAt": "2026-10-07T22:39:34.812Z"
     },
     {
       "id": "5BZsQlgw21vDOAjoqkNgKb",
@@ -71,7 +36,7 @@
       "album": "SWAG",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-07T18:05:15.386Z"
+      "playedAt": "2026-10-07T22:35:26.679Z"
     },
     {
       "id": "0Dg0U14egivPueig6YY9HP",
@@ -80,7 +45,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-07T18:02:18.454Z"
+      "playedAt": "2026-10-07T22:24:09.320Z"
     },
     {
       "id": "238DR0GtiEWkbWVbA9y4TY",
@@ -89,7 +54,7 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-07T17:59:23.131Z"
+      "playedAt": "2026-10-07T22:21:13.996Z"
     },
     {
       "id": "533QZMGE46XLVyqLcdmjqW",
@@ -98,7 +63,34 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
-      "playedAt": "2026-10-07T17:56:23.199Z"
+      "playedAt": "2026-10-07T22:18:14.087Z"
+    },
+    {
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-07T22:15:28.899Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-07T22:13:45.020Z"
+    },
+    {
+      "id": "5WoaF1B5XIEnWfmb5NZikf",
+      "name": "Sky Walker (feat. Travis Scott)",
+      "artists": "Miguel, Travis Scott",
+      "album": "War & Leisure",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee1ae7d44f10961722736148",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf",
+      "playedAt": "2026-10-07T22:09:47.180Z"
     }
   ]
 }
