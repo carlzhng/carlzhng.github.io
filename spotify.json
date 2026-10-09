@@ -1,104 +1,78 @@
 {
-  "updatedAt": "2026-10-09T19:18:05Z",
-  "nowPlaying": {
-    "id": "3nHMhKFLQt0nonpuTyuZYs",
-    "name": "good company",
-    "artists": "Luke Chiang",
-    "album": "TYPHOON",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-    "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-09T23:50:47Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "4CL6fIvrJwD7XQP0QWyfd3",
-      "name": "Rodrick Rules",
-      "artists": "Malcolm Todd",
-      "album": "Sweet Boy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/4CL6fIvrJwD7XQP0QWyfd3",
-      "playedAt": "2026-10-09T19:10:16.291Z"
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-10-09T23:45:49.732Z"
     },
     {
-      "id": "6sAFHFV7OWuSYuTNslP2HI",
-      "name": "Catching Bodies",
-      "artists": "Sekou",
-      "album": "Catching Bodies",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285a531ee6f5169a175d312c6",
-      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI",
-      "playedAt": "2026-10-09T19:07:12.275Z"
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-10-09T23:42:59.955Z"
     },
     {
-      "id": "3nNjA76lO6zbLKugA0tdOw",
-      "name": "NO FUN",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/3nNjA76lO6zbLKugA0tdOw",
-      "playedAt": "2026-10-09T19:04:05.278Z"
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-09T23:39:13.133Z"
     },
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-09T23:35:23.773Z"
+    },
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-09T23:32:28.426Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
       "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-09T19:01:16.342Z"
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-09T23:30:14.104Z"
     },
     {
-      "id": "3HYUSkSJ0iQfocqdJmJqKw",
-      "name": "TWENTIES",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw",
-      "playedAt": "2026-10-09T18:54:47.201Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-09T21:57:56.922Z"
     },
     {
-      "id": "3iCBnS3JlJMqCONqNqky4U",
-      "name": "Water the Flowers, Pray for a Garden",
-      "artists": "Valley",
-      "album": "Water the Flowers, Pray for a Garden",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
-      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
-      "playedAt": "2026-10-09T18:50:45.589Z"
-    },
-    {
-      "id": "3sK8wGT43QFpWrvNQsrQya",
-      "name": "DtMF",
-      "artists": "Bad Bunny",
-      "album": "DeB\u00cd TiRAR M\u00e1S FOToS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-      "playedAt": "2026-10-09T18:47:18.686Z"
-    },
-    {
-      "id": "6nzCvAtyADh0wwZEVMoujK",
-      "name": "By My Side",
-      "artists": "JUNNY",
-      "album": "By My Side",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296c6f2356bf9ad60a9fd061f",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK",
-      "playedAt": "2026-10-09T18:43:21.039Z"
-    },
-    {
-      "id": "2E7a96qey4AzSOdK6H21vS",
-      "name": "Scorsese Baby Daddy",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS",
-      "playedAt": "2026-10-09T18:39:53.826Z"
-    },
-    {
-      "id": "36JmHWMB21YyrUMzTAF0xv",
-      "name": "Stay A While",
-      "artists": "niko rain, EJEAN",
-      "album": "Stay A While",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020fcec7e22e6cc58ca6bcc9ad",
-      "url": "https://open.spotify.com/track/36JmHWMB21YyrUMzTAF0xv",
-      "playedAt": "2026-10-09T18:37:19.363Z"
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-09T21:14:50.652Z"
     }
   ]
 }
