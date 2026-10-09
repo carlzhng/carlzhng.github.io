@@ -1,41 +1,60 @@
 {
-  "updatedAt": "2026-10-08T23:01:09Z",
-  "nowPlaying": {
-    "id": "3wXnSQo1tiVjFo8iul55pU",
-    "name": "HONEYBUTTER",
-    "artists": "Isaiah Falls, Mahalia",
-    "album": "LVRS PARADISE (SIDE B)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
-    "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-09T04:58:55Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-08T22:58:47.410Z"
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "name": "Television / So Far So Good",
+      "artists": "Rex Orange County",
+      "album": "Apricot Princess",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI",
+      "playedAt": "2026-10-09T02:15:13.143Z"
     },
     {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
+      "id": "2E7a96qey4AzSOdK6H21vS",
+      "name": "Scorsese Baby Daddy",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS",
+      "playedAt": "2026-10-09T02:10:50.037Z"
+    },
+    {
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-10-09T02:08:15.626Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-09T02:03:36.955Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-08T22:54:58.233Z"
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-09T02:00:08.864Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-08T22:50:51.850Z"
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-10-09T01:55:59.224Z"
     },
     {
       "id": "1epujjBDhuqmYAwAhR29xI",
@@ -44,34 +63,25 @@
       "album": "Pilgrim's Paradise",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-08T22:47:30.164Z"
+      "playedAt": "2026-10-09T01:50:40.271Z"
     },
     {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-08T22:42:24.493Z"
+      "id": "0YMe6PHRbeDcN7KJdCG0bW",
+      "name": "The Dress",
+      "artists": "Dijon",
+      "album": "Absolutely",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
+      "playedAt": "2026-10-09T01:37:56.151Z"
     },
     {
-      "id": "5mSjVVGPv8zUsjfMuSxPRP",
-      "name": "I'M SO IN LOVE WITH YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ee3d2ae694b3b78125a5443",
-      "url": "https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP",
-      "playedAt": "2026-10-08T22:23:38.705Z"
-    },
-    {
-      "id": "5wGL1pa5n9DdjbY4YVDvlb",
-      "name": "Apt. 4",
-      "artists": "Vacation Manor",
-      "album": "Vacation Manor",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0281decc8756bfd209fe277f45",
-      "url": "https://open.spotify.com/track/5wGL1pa5n9DdjbY4YVDvlb",
-      "playedAt": "2026-10-08T22:19:55.930Z"
+      "id": "4ZFx96qgd3um86QFdEslYv",
+      "name": "XNXX",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
+      "playedAt": "2026-10-09T01:30:04.330Z"
     }
   ]
 }
