@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-09T04:58:55Z",
+  "updatedAt": "2026-10-09T12:43:16Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-10-09T02:15:55.566Z"
+    },
     {
       "id": "27rZYxE4l21wTaovX4WTnI",
       "name": "Television / So Far So Good",
@@ -73,15 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02708bfbe1855174ebc9a0f225",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW",
       "playedAt": "2026-10-09T01:37:56.151Z"
-    },
-    {
-      "id": "4ZFx96qgd3um86QFdEslYv",
-      "name": "XNXX",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/4ZFx96qgd3um86QFdEslYv",
-      "playedAt": "2026-10-09T01:30:04.330Z"
     }
   ]
 }
