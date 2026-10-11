@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-10-11T12:15:03Z",
+  "updatedAt": "2026-10-11T18:39:33Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-11T17:18:45.258Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-11T17:16:31.159Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-11T17:13:09.539Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-11T17:08:03.961Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-10-11T17:04:49.621Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-11T17:02:29.639Z"
+    },
     {
       "id": "1y6yPAc6FHWZxw2IVvqXSU",
       "name": "Retrograde (feat. 6lack & Lucky Daye)",
@@ -37,60 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
       "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
       "playedAt": "2026-10-11T05:01:08.833Z"
-    },
-    {
-      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
-      "name": "Young Dumb & Broke",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
-      "playedAt": "2026-10-11T04:57:15.859Z"
-    },
-    {
-      "id": "75lHm1sBz6m6ytBR4CBmBP",
-      "name": "Brand New (feat. QUIN)",
-      "artists": "Khalid, QUIN",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
-      "url": "https://open.spotify.com/track/75lHm1sBz6m6ytBR4CBmBP",
-      "playedAt": "2026-10-11T04:53:52.730Z"
-    },
-    {
-      "id": "0BWSa6nLsxSFE8pJXJxSuf",
-      "name": "Adore U",
-      "artists": "Khalid",
-      "album": "Sincere (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0297fd064ad3c969bf929b1b1a",
-      "url": "https://open.spotify.com/track/0BWSa6nLsxSFE8pJXJxSuf",
-      "playedAt": "2026-10-11T04:51:00.477Z"
-    },
-    {
-      "id": "0HEckRWFSknIupbGzavk5d",
-      "name": "Hundred",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/0HEckRWFSknIupbGzavk5d",
-      "playedAt": "2026-10-11T04:48:15.727Z"
-    },
-    {
-      "id": "26zAJ56cpmeCCski2mtW4n",
-      "name": "Open (feat. Majid Jordan)",
-      "artists": "Khalid, Majid Jordan",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
-      "url": "https://open.spotify.com/track/26zAJ56cpmeCCski2mtW4n",
-      "playedAt": "2026-10-11T04:43:38.066Z"
-    },
-    {
-      "id": "5A1w94uzc1kO1Zhe8WWxC3",
-      "name": "Right Back",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
-      "playedAt": "2026-10-11T04:39:49.548Z"
     }
   ]
 }
