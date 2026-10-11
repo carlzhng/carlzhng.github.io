@@ -1,95 +1,96 @@
 {
-  "updatedAt": "2026-10-11T04:29:41Z",
-  "nowPlaying": {
-    "id": "1fHRzxbts9A8J1ergDe7Kz",
-    "name": "Saturday Nights",
-    "artists": "Khalid",
-    "album": "Free Spirit",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-    "url": "https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-11T12:15:03Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "2XKFnwB6djxrJCjR3PdeRb",
-      "name": "My Bad",
+      "id": "1y6yPAc6FHWZxw2IVvqXSU",
+      "name": "Retrograde (feat. 6lack & Lucky Daye)",
+      "artists": "Khalid, 6LACK, Lucky Daye",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
+      "url": "https://open.spotify.com/track/1y6yPAc6FHWZxw2IVvqXSU",
+      "playedAt": "2026-10-11T05:12:35Z"
+    },
+    {
+      "id": "2vsuel3g4zaLYSOY0mOMbi",
+      "name": "Bad Luck",
       "artists": "Khalid",
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/2XKFnwB6djxrJCjR3PdeRb",
-      "playedAt": "2026-10-11T04:28:33.672Z"
+      "url": "https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi",
+      "playedAt": "2026-10-11T05:08:54.273Z"
     },
     {
-      "id": "09KYB5EjezvcHMXPUMGeFi",
-      "name": "Heatstroke",
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-10-11T05:05:02Z"
+    },
+    {
+      "id": "2oa2vjm2jiSHMliDum42ma",
+      "name": "instant",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
+      "playedAt": "2026-10-11T05:01:08.833Z"
+    },
+    {
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-10-11T04:57:15.859Z"
+    },
+    {
+      "id": "75lHm1sBz6m6ytBR4CBmBP",
+      "name": "Brand New (feat. QUIN)",
+      "artists": "Khalid, QUIN",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
+      "url": "https://open.spotify.com/track/75lHm1sBz6m6ytBR4CBmBP",
+      "playedAt": "2026-10-11T04:53:52.730Z"
+    },
+    {
+      "id": "0BWSa6nLsxSFE8pJXJxSuf",
+      "name": "Adore U",
       "artists": "Khalid",
       "album": "Sincere (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee497f978d61a8f66b9717a2",
-      "url": "https://open.spotify.com/track/09KYB5EjezvcHMXPUMGeFi",
-      "playedAt": "2026-10-11T04:25:49.093Z"
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0297fd064ad3c969bf929b1b1a",
+      "url": "https://open.spotify.com/track/0BWSa6nLsxSFE8pJXJxSuf",
+      "playedAt": "2026-10-11T04:51:00.477Z"
     },
     {
-      "id": "1NgCWYuBLfqBDA3b8MgSVU",
-      "name": "Twenty One",
+      "id": "0HEckRWFSknIupbGzavk5d",
+      "name": "Hundred",
       "artists": "Khalid",
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/1NgCWYuBLfqBDA3b8MgSVU",
-      "playedAt": "2026-10-11T04:21:53.912Z"
+      "url": "https://open.spotify.com/track/0HEckRWFSknIupbGzavk5d",
+      "playedAt": "2026-10-11T04:48:15.727Z"
     },
     {
-      "id": "6zeeWid2sgw4lap2jV61PZ",
-      "name": "Better",
+      "id": "26zAJ56cpmeCCski2mtW4n",
+      "name": "Open (feat. Majid Jordan)",
+      "artists": "Khalid, Majid Jordan",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
+      "url": "https://open.spotify.com/track/26zAJ56cpmeCCski2mtW4n",
+      "playedAt": "2026-10-11T04:43:38.066Z"
+    },
+    {
+      "id": "5A1w94uzc1kO1Zhe8WWxC3",
+      "name": "Right Back",
       "artists": "Khalid",
-      "album": "Suncity",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
-      "playedAt": "2026-10-11T04:18:49.123Z"
-    },
-    {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-11T04:13:54.941Z"
-    },
-    {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-11T04:10:40.545Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-11T04:08:20.275Z"
-    },
-    {
-      "id": "2pJZ1v8HezrAoZ0Fhzby92",
-      "name": "What Do I Know?",
-      "artists": "Ed Sheeran",
-      "album": "\u00f7 (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
-      "url": "https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92",
-      "playedAt": "2026-10-11T04:00:17.519Z"
-    },
-    {
-      "id": "6jdOi5U5LBzQrc4c1VT983",
-      "name": "Hold On, We're Going Home",
-      "artists": "Drake, Majid Jordan",
-      "album": "Nothing Was The Same (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
-      "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
-      "playedAt": "2026-10-11T02:03:56.677Z"
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
+      "playedAt": "2026-10-11T04:39:49.548Z"
     }
   ]
 }
