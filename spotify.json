@@ -1,34 +1,15 @@
 {
-  "updatedAt": "2026-10-11T18:39:33Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-11T23:28:26Z",
+  "nowPlaying": {
+    "id": "1epujjBDhuqmYAwAhR29xI",
+    "name": "Death & Taxes",
+    "artists": "Daniel Caesar",
+    "album": "Pilgrim's Paradise",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+    "isPlaying": true
+  },
   "recent": [
-    {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-11T17:18:45.258Z"
-    },
-    {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-11T17:16:31.159Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-11T17:13:09.539Z"
-    },
     {
       "id": "5ttvrHYzuAkScjtxJzRvdA",
       "name": "HOLD STILL",
@@ -36,7 +17,7 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-11T17:08:03.961Z"
+      "playedAt": "2026-10-11T23:25:41.826Z"
     },
     {
       "id": "1z5DpJzA5Jse2EHp7jVoOi",
@@ -45,7 +26,7 @@
       "album": "Rocket",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
       "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-11T17:04:49.621Z"
+      "playedAt": "2026-10-11T23:22:27.466Z"
     },
     {
       "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
@@ -54,7 +35,16 @@
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
       "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-11T17:02:29.639Z"
+      "playedAt": "2026-10-11T23:20:07.190Z"
+    },
+    {
+      "id": "2x5osUmUOewLQ8glHMQ8F3",
+      "name": "Owe To You",
+      "artists": "Khalid",
+      "album": "Sincere",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247c21fe9770039cadd01aed6",
+      "url": "https://open.spotify.com/track/2x5osUmUOewLQ8glHMQ8F3",
+      "playedAt": "2026-10-11T23:07:50.665Z"
     },
     {
       "id": "1y6yPAc6FHWZxw2IVvqXSU",
@@ -63,34 +53,52 @@
       "album": "Scenic Drive (The Tape)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
       "url": "https://open.spotify.com/track/1y6yPAc6FHWZxw2IVvqXSU",
-      "playedAt": "2026-10-11T05:12:35Z"
+      "playedAt": "2026-10-11T23:04:08.808Z"
     },
     {
-      "id": "2vsuel3g4zaLYSOY0mOMbi",
-      "name": "Bad Luck",
+      "id": "5bgwqaRSS3M8WHWruHgSL5",
+      "name": "8TEEN",
       "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5",
+      "playedAt": "2026-10-11T23:00:28.093Z"
+    },
+    {
+      "id": "6zIen2DYr2t19vbwqgORY2",
+      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
+      "artists": "Khalid, Ari Lennox, Smino",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
+      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2",
+      "playedAt": "2026-10-11T22:56:38.909Z"
+    },
+    {
+      "id": "1E6DEDWDKHoOW0fcFuDghV",
+      "name": "Don't Pretend",
+      "artists": "Khalid, SAFE",
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi",
-      "playedAt": "2026-10-11T05:08:54.273Z"
+      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
+      "playedAt": "2026-10-11T22:52:28.864Z"
     },
     {
-      "id": "12rtpdXys3CkpYZppt2z7y",
-      "name": "whenever you're gone",
+      "id": "09KYB5EjezvcHMXPUMGeFi",
+      "name": "Heatstroke",
       "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
-      "playedAt": "2026-10-11T05:05:02Z"
+      "album": "Sincere (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee497f978d61a8f66b9717a2",
+      "url": "https://open.spotify.com/track/09KYB5EjezvcHMXPUMGeFi",
+      "playedAt": "2026-10-11T22:49:42.398Z"
     },
     {
-      "id": "2oa2vjm2jiSHMliDum42ma",
-      "name": "instant",
+      "id": "312WNtMs3F28cUukaPY9bo",
+      "name": "American Teen",
       "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
-      "playedAt": "2026-10-11T05:01:08.833Z"
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo",
+      "playedAt": "2026-10-11T22:45:47.210Z"
     }
   ]
 }
