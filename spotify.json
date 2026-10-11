@@ -1,23 +1,50 @@
 {
-  "updatedAt": "2026-10-10T23:18:15Z",
+  "updatedAt": "2026-10-11T04:29:41Z",
   "nowPlaying": {
-    "id": "4Cl3M8C8goTBaoysf9jb7e",
-    "name": "ALL THE WAY",
-    "artists": "Justin Bieber",
-    "album": "SWAG II",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-    "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+    "id": "1fHRzxbts9A8J1ergDe7Kz",
+    "name": "Saturday Nights",
+    "artists": "Khalid",
+    "album": "Free Spirit",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+    "url": "https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz",
     "isPlaying": true
   },
   "recent": [
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-10T23:16:39.801Z"
+      "id": "2XKFnwB6djxrJCjR3PdeRb",
+      "name": "My Bad",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/2XKFnwB6djxrJCjR3PdeRb",
+      "playedAt": "2026-10-11T04:28:33.672Z"
+    },
+    {
+      "id": "09KYB5EjezvcHMXPUMGeFi",
+      "name": "Heatstroke",
+      "artists": "Khalid",
+      "album": "Sincere (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee497f978d61a8f66b9717a2",
+      "url": "https://open.spotify.com/track/09KYB5EjezvcHMXPUMGeFi",
+      "playedAt": "2026-10-11T04:25:49.093Z"
+    },
+    {
+      "id": "1NgCWYuBLfqBDA3b8MgSVU",
+      "name": "Twenty One",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/1NgCWYuBLfqBDA3b8MgSVU",
+      "playedAt": "2026-10-11T04:21:53.912Z"
+    },
+    {
+      "id": "6zeeWid2sgw4lap2jV61PZ",
+      "name": "Better",
+      "artists": "Khalid",
+      "album": "Suncity",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
+      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
+      "playedAt": "2026-10-11T04:18:49.123Z"
     },
     {
       "id": "5ttvrHYzuAkScjtxJzRvdA",
@@ -26,7 +53,7 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-10T23:11:34.250Z"
+      "playedAt": "2026-10-11T04:13:54.941Z"
     },
     {
       "id": "1z5DpJzA5Jse2EHp7jVoOi",
@@ -35,61 +62,34 @@
       "album": "Rocket",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
       "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-10T23:08:19.916Z"
+      "playedAt": "2026-10-11T04:10:40.545Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-10T23:05:59.656Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-11T04:08:20.275Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-10-10T22:55:59.391Z"
+      "id": "2pJZ1v8HezrAoZ0Fhzby92",
+      "name": "What Do I Know?",
+      "artists": "Ed Sheeran",
+      "album": "\u00f7 (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+      "url": "https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92",
+      "playedAt": "2026-10-11T04:00:17.519Z"
     },
     {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-10T22:52:13.918Z"
-    },
-    {
-      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
-      "name": "I Don't Know Why I Said That",
-      "artists": "Me As A Girl",
-      "album": "I Don't Know Why I Said That",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-10-10T22:48:50.168Z"
-    },
-    {
-      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
-      "name": "Without You",
-      "artists": "Appleby",
-      "album": "Almost Okay",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
-      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-      "playedAt": "2026-10-10T22:46:03.501Z"
-    },
-    {
-      "id": "3wXnSQo1tiVjFo8iul55pU",
-      "name": "HONEYBUTTER",
-      "artists": "Isaiah Falls, Mahalia",
-      "album": "LVRS PARADISE (SIDE B)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-      "playedAt": "2026-10-10T22:43:13.759Z"
+      "id": "6jdOi5U5LBzQrc4c1VT983",
+      "name": "Hold On, We're Going Home",
+      "artists": "Drake, Majid Jordan",
+      "album": "Nothing Was The Same (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+      "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
+      "playedAt": "2026-10-11T02:03:56.677Z"
     }
   ]
 }
