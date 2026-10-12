@@ -1,15 +1,61 @@
 {
-  "updatedAt": "2026-10-11T23:28:26Z",
-  "nowPlaying": {
-    "id": "1epujjBDhuqmYAwAhR29xI",
-    "name": "Death & Taxes",
-    "artists": "Daniel Caesar",
-    "album": "Pilgrim's Paradise",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-12T04:45:07Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "1PIgY9ybyFT9uWLM5POYGY",
+      "name": "All The Parties (feat. Chief Keef)",
+      "artists": "Drake, Chief Keef",
+      "album": "For All The Dogs",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+      "url": "https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY",
+      "playedAt": "2026-10-12T03:32:20.617Z"
+    },
+    {
+      "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "name": "Snooze",
+      "artists": "SZA",
+      "album": "SOS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "playedAt": "2026-10-12T03:26:45.647Z"
+    },
+    {
+      "id": "2Hh3ETdQKrmSI3QS0hme7g",
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "artists": "Metro Boomin, Future, Don Toliver",
+      "album": "HEROES & VILLAINS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c4fee55d7b51479627c31f89",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+      "playedAt": "2026-10-12T03:23:22.276Z"
+    },
+    {
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-10-12T03:13:00.742Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-12T03:09:48.403Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-12T03:06:24.268Z"
+    },
     {
       "id": "5ttvrHYzuAkScjtxJzRvdA",
       "name": "HOLD STILL",
@@ -17,7 +63,7 @@
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
       "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-11T23:25:41.826Z"
+      "playedAt": "2026-10-12T03:01:18.404Z"
     },
     {
       "id": "1z5DpJzA5Jse2EHp7jVoOi",
@@ -26,79 +72,25 @@
       "album": "Rocket",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
       "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-11T23:22:27.466Z"
+      "playedAt": "2026-10-12T02:57:59.225Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
+      "id": "6sj3SlT8e4JCcnK60ua1XX",
+      "name": "One Less Lonely Girl",
       "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-11T23:20:07.190Z"
+      "album": "My World (Canada Version - All BP's)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
+      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
+      "playedAt": "2026-10-12T02:54:56.179Z"
     },
     {
-      "id": "2x5osUmUOewLQ8glHMQ8F3",
-      "name": "Owe To You",
-      "artists": "Khalid",
-      "album": "Sincere",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247c21fe9770039cadd01aed6",
-      "url": "https://open.spotify.com/track/2x5osUmUOewLQ8glHMQ8F3",
-      "playedAt": "2026-10-11T23:07:50.665Z"
-    },
-    {
-      "id": "1y6yPAc6FHWZxw2IVvqXSU",
-      "name": "Retrograde (feat. 6lack & Lucky Daye)",
-      "artists": "Khalid, 6LACK, Lucky Daye",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
-      "url": "https://open.spotify.com/track/1y6yPAc6FHWZxw2IVvqXSU",
-      "playedAt": "2026-10-11T23:04:08.808Z"
-    },
-    {
-      "id": "5bgwqaRSS3M8WHWruHgSL5",
-      "name": "8TEEN",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5",
-      "playedAt": "2026-10-11T23:00:28.093Z"
-    },
-    {
-      "id": "6zIen2DYr2t19vbwqgORY2",
-      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
-      "artists": "Khalid, Ari Lennox, Smino",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
-      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2",
-      "playedAt": "2026-10-11T22:56:38.909Z"
-    },
-    {
-      "id": "1E6DEDWDKHoOW0fcFuDghV",
-      "name": "Don't Pretend",
-      "artists": "Khalid, SAFE",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
-      "playedAt": "2026-10-11T22:52:28.864Z"
-    },
-    {
-      "id": "09KYB5EjezvcHMXPUMGeFi",
-      "name": "Heatstroke",
-      "artists": "Khalid",
-      "album": "Sincere (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee497f978d61a8f66b9717a2",
-      "url": "https://open.spotify.com/track/09KYB5EjezvcHMXPUMGeFi",
-      "playedAt": "2026-10-11T22:49:42.398Z"
-    },
-    {
-      "id": "312WNtMs3F28cUukaPY9bo",
-      "name": "American Teen",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo",
-      "playedAt": "2026-10-11T22:45:47.210Z"
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-10-12T02:46:23.232Z"
     }
   ]
 }
