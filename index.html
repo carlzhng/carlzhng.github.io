@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Personal portfolio: projects, experience, and about." />
     <title>Carlson Zheng</title>
-    <link rel="icon" href="./assets/logo.png" type="image/png" />
-    <link rel="alternate icon" href="./assets/logo.png" type="image/svg+xml" />
-    <link rel="stylesheet" href="./styles.css?v=11" />
+    <link rel="icon" href="./assets/project%20photos/logo.png" type="image/png" />
+    <link rel="alternate icon" href="./assets/project%20photos/logo.png" type="image/png" />
+    <link rel="stylesheet" href="./styles.css?v=34" />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -51,18 +51,21 @@
             <h2>education</h2>
           </div>
           <section class="card edu-box reveal-card" aria-label="Education">
-            <div class="stack">
-              <div>
-                <p class="label" style="margin:0 0 6px 0">Program</p>
-                <p class="muted" id="eduProgram" style="margin:0">—</p>
+            <div class="edu-row">
+              <div class="stack">
+                <div>
+                  <p class="label" style="margin:0 0 6px 0">Program</p>
+                  <p class="muted" id="eduProgram" style="margin:0">—</p>
+                </div>
+                <div>
+                  <p class="label" style="margin:0 0 6px 0">School</p>
+                  <p class="muted" id="eduSchool" style="margin:0">—</p>
+                </div>
+                <div class="stack" style="gap:6px">
+                  <p class="muted small" id="eduMeta" style="margin:0">—</p>
+                </div>
               </div>
-              <div>
-                <p class="label" style="margin:0 0 6px 0">School</p>
-                <p class="muted" id="eduSchool" style="margin:0">—</p>
-              </div>
-              <div class="stack" style="gap:6px">
-                <p class="muted small" id="eduMeta" style="margin:0">—</p>
-              </div>
+              <img class="edu-logo" src="./assets/logos/uofa.jpg" alt="" />
             </div>
           </section>
           <section class="edu-courses reveal-card" id="eduCourses" aria-label="Relevant courses" hidden>
@@ -88,25 +91,19 @@
           <section class="mini-block reveal-card" aria-label="About me">
             <p class="mini-text" id="aboutMeText"></p>
           </section>
-          <div class="tabs reveal-card" role="tablist" aria-label="About tabs">
-            <button class="tab is-active press-btn" type="button" role="tab" aria-selected="true" aria-controls="tabExp" id="tabExpBtn">
-              experiences
-            </button>
-            <button class="tab press-btn" type="button" role="tab" aria-selected="false" aria-controls="tabAwards" id="tabAwardsBtn">
-              awards &amp; certificates
-            </button>
-            <button class="tab press-btn" type="button" role="tab" aria-selected="false" aria-controls="tabListening" id="tabListeningBtn">
-              ;)
-            </button>
+          <div class="about-icons" role="tablist" aria-label="About">
+            <div id="iconSlotAwards" data-icon="awards"></div>
+            <div id="iconSlotExp" data-icon="exp"></div>
+            <div id="iconSlotListen" data-icon="listening"></div>
           </div>
           <div class="tab-panels">
-            <div class="tab-panel" role="tabpanel" id="tabAwards" aria-labelledby="tabAwardsBtn">
+            <div class="tab-panel" role="tabpanel" id="tabAwards" aria-labelledby="awardsIcon">
               <div class="stack" id="awardsList"></div>
             </div>
-            <div class="tab-panel is-active" role="tabpanel" id="tabExp" aria-labelledby="tabExpBtn">
+            <div class="tab-panel is-active" role="tabpanel" id="tabExp" aria-labelledby="expIcon">
               <div class="stack" id="expList"></div>
             </div>
-            <div class="tab-panel" role="tabpanel" id="tabListening" aria-labelledby="tabListeningBtn">
+            <div class="tab-panel" role="tabpanel" id="tabListening" aria-labelledby="listenIcon">
               <div class="stack" id="listeningList"></div>
             </div>
           </div>
@@ -125,26 +122,11 @@
 
       <section id="contact" class="section alt section-reveal">
         <div class="container">
-          <div class="card contact-compact reveal-card">
-            <div class="stack">
-              <div class="contact-compact-top">
-                <h2 style="margin:0">contact</h2>
-                <p class="muted" style="margin:0">want to work together? just reach out!</p>
-              </div>
-              <div>
-                <p class="label">Email</p>
-                <a id="emailLink" class="link" href="mailto:you@example.com">you@example.com</a>
-              </div>
-              <div>
-                <p class="label">Location</p>
-                <p id="locationText" class="muted" style="margin:0">Your City</p>
-              </div>
-              <div>
-                <p class="label">Links</p>
-                <div id="contactLinks" class="contact-links"></div>
-              </div>
-            </div>
+          <div class="section-head reveal-card">
+            <h2>contact</h2>
+            <p class="muted">want to work together? just reach out!</p>
           </div>
+          <div id="contactMount"></div>
         </div>
       </section>
     </main>
@@ -181,6 +163,6 @@
       </div>
     </dialog>
 
-    <script src="./app.js?v=11" type="module"></script>
+    <script src="./app.js?v=30" type="module"></script>
   </body>
 </html>

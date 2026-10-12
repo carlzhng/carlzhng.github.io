@@ -2,6 +2,9 @@ import { initPCB, initScrollShrink, initReveal } from "./pcb.js?v=11";
 
 const $ = (sel) => document.querySelector(sel);
 let refreshTabsLayout = () => {};
+let activateAboutPanel = () => {};
+const aboutDesks = new Map();
+let activeAboutId = null;
 
 function iconSvg(kind) {
   if (kind === "github") {
@@ -165,6 +168,82 @@ function projectSlides(project) {
 
 function isGifSrc(src) {
   return /\.gif(?:[?#]|$)/i.test(src);
+}
+
+function experienceSlides(item) {
+  const gallery = Array.isArray(item?.gallery) ? item.gallery : [];
+  const out = [];
+  for (const src of gallery) {
+    const safe = safeMediaUrl(src);
+    if (safe) out.push(safe);
+  }
+  return [...new Set(out)];
+}
+
+function buildInlineGallery(slides, label) {
+  if (!slides.length) return null;
+
+  let idx = 0;
+  let generation = 0;
+  const many = slides.length > 1;
+  const counter = el("div", { class: "slideshow-counter" });
+  const prevBtn = el("button", {
+    class: "slideshow-btn press-btn",
+    type: "button",
+    "aria-label": "Previous photo",
+    text: "‹"
+  });
+  const nextBtn = el("button", {
+    class: "slideshow-btn press-btn",
+    type: "button",
+    "aria-label": "Next photo",
+    text: "›"
+  });
+  const nav = el("div", { class: "slideshow-nav" }, [prevBtn, nextBtn]);
+  const wrap = el("div", { class: "exp-gallery" }, many ? [nav, counter] : []);
+
+  const setIdx = (n) => {
+    const token = ++generation;
+    idx = (n + slides.length) % slides.length;
+    const src = slides[idx];
+    const contain = isGifSrc(src);
+    const next = document.createElement("img");
+    next.className = "exp-gallery-img" + (contain ? " exp-gallery-img--contain" : "");
+    next.alt = slides.length > 1
+      ? `${label} photo ${idx + 1} of ${slides.length}`
+      : `${label} photo`;
+    next.decoding = contain ? "sync" : "async";
+    next.loading = "eager";
+
+    let committed = false;
+    const commit = () => {
+      if (committed || token !== generation) return;
+      committed = true;
+      const previous = wrap.querySelector(".exp-gallery-img");
+      if (previous) previous.replaceWith(next);
+      else wrap.insertBefore(next, wrap.firstChild);
+      requestAnimationFrame(refreshTabsLayout);
+    };
+    next.addEventListener("load", commit, { once: true });
+    next.src = src;
+    if (next.complete && next.naturalWidth) commit();
+
+    if (many) counter.textContent = `${idx + 1} / ${slides.length}`;
+  };
+
+  prevBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIdx(idx - 1);
+  });
+  nextBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIdx(idx + 1);
+  });
+
+  setIdx(0);
+  return wrap;
 }
 
 function buildModalSlideshow(project) {
@@ -354,16 +433,460 @@ function renderProjects(container, projects) {
   }
 }
 
-function renderItems(container, items) {
+function mountProjectBlueprint() {
+  const grid = $("#projectsGrid");
+  if (!grid || grid.closest(".proj-desk")) return;
+
+  const desk = el("div", { class: "proj-desk" });
+  grid.before(desk);
+
+  const button = el("button", {
+    class: "proj-blueprint",
+    type: "button",
+    "aria-expanded": "false",
+    "aria-controls": "projectsGrid"
+  });
+  button.innerHTML = `
+    <span class="proj-sheet" aria-hidden="true">
+      <svg viewBox="0 0 280 160" fill="none" stroke="#d7f4ff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="16" y="18" width="176" height="108" />
+        <rect x="34" y="36" width="72" height="48" />
+        <rect x="122" y="42" width="52" height="30" />
+        <path d="M106 60h16M148 72v26M58 84v24h36" />
+        <circle cx="58" cy="60" r="3.2" fill="#d7f4ff" stroke="none" />
+        <circle cx="148" cy="98" r="3.2" fill="#d7f4ff" stroke="none" />
+        <circle cx="94" cy="108" r="3.2" fill="#d7f4ff" stroke="none" />
+        <path d="M16 142h176M16 136v12M192 136v12" />
+        <path d="M204 18v108M198 18h12M198 126h12" />
+        <rect x="208" y="86" width="56" height="40" />
+        <path d="M208 100h56M208 114h56" />
+      </svg>
+      <span class="proj-sheet-fold"></span>
+    </span>
+    <span class="proj-blueprint-caption">cool builds!</span>
+  `;
+
+  [...grid.children].forEach((node, i) => node.style.setProperty("--i", String(i)));
+  desk.style.setProperty("--n", String(grid.children.length));
+  desk.append(button, grid);
+
+  let closing = false;
+  const setOpen = (open) => {
+    if (closing) return;
+    const sticker = button.querySelector(".proj-blueprint-sticker");
+    if (!open) {
+      if (!desk.classList.contains("is-open")) return;
+      desk.classList.remove("is-open");
+      button.setAttribute("aria-expanded", "false");
+      if (sticker) sticker.textContent = "open me";
+      closing = true;
+      playIconExit(desk, () => { closing = false; });
+      return;
+    }
+    desk.classList.add("is-open");
+    button.setAttribute("aria-expanded", "true");
+    if (sticker) sticker.textContent = "close";
+    grid.querySelectorAll(".project-folder").forEach((node) => node.classList.add("is-visible"));
+  };
+
+  button.addEventListener("click", () => setOpen(!desk.classList.contains("is-open")));
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape" || !desk.classList.contains("is-open")) return;
+    if ($("#projectModal")?.open) return;
+    setOpen(false);
+  });
+}
+
+function playIconExit(desk, done) {
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const count = Number(desk.style.getPropertyValue("--n")) || desk.querySelectorAll(".spill-item, .exp-badge, .project-folder").length;
+  if (reduce) {
+    done();
+    return;
+  }
+  desk.classList.add("is-closing");
+  const together = desk.classList.contains("icon-desk") || desk.classList.contains("exp-desk");
+  const ms = together ? 620 : 400 + Math.max(0, count - 1) * 42;
+  window.setTimeout(() => {
+    desk.classList.remove("is-closing");
+    done();
+  }, ms);
+}
+
+function aimSpillAt(originEl, spill) {
+  if (!originEl) return;
+  const origin = originEl.getBoundingClientRect();
+  const ox = origin.left + origin.width / 2;
+  const oy = origin.top + origin.height * 0.72;
+  spill.querySelectorAll(".spill-item").forEach((item) => {
+    const rect = item.getBoundingClientRect();
+    if (!rect.width && !rect.height) return;
+    const dx = ox - (rect.left + rect.width / 2);
+    const dy = oy - (rect.top + rect.height / 2);
+    item.style.setProperty("--from-x", `${dx.toFixed(1)}px`);
+    item.style.setProperty("--from-y", `${dy.toFixed(1)}px`);
+  });
+}
+
+function bindSpillDesk({ id, panelId, desk, trigger, origin, spill, onClosed, onEscape }) {
+  let closing = false;
+  const waiters = [];
+  const sticker = () => trigger.querySelector(".exp-folder-sticker");
+  const aim = () => aimSpillAt(typeof origin === "function" ? origin() : origin, spill);
+
+  const finishClose = () => {
+    trigger.classList.remove("is-closing");
+    onClosed?.();
+    closing = false;
+    requestAnimationFrame(refreshTabsLayout);
+    const queued = waiters.splice(0);
+    queued.forEach((fn) => fn?.());
+  };
+
+  const open = () => {
+    if (closing || desk.classList.contains("is-open")) return;
+    spill.querySelectorAll(".reveal-card").forEach((node) => node.classList.add("is-visible"));
+    spill.style.display = "flex";
+    spill.style.visibility = "hidden";
+    aim();
+    spill.style.visibility = "";
+    desk.classList.add("is-open");
+    trigger.classList.add("is-open");
+    trigger.setAttribute("aria-expanded", "true");
+    trigger.setAttribute("aria-selected", "true");
+    spill.style.display = "";
+    const label = sticker();
+    if (label) label.textContent = "close";
+    requestAnimationFrame(refreshTabsLayout);
+  };
+
+  const close = (done) => {
+    if (!desk.classList.contains("is-open") && !closing) {
+      done?.();
+      return;
+    }
+    if (closing) {
+      if (done) waiters.push(done);
+      return;
+    }
+    aim();
+    desk.classList.remove("is-open");
+    trigger.classList.remove("is-open");
+    trigger.classList.add("is-closing");
+    trigger.setAttribute("aria-expanded", "false");
+    trigger.setAttribute("aria-selected", "false");
+    const label = sticker();
+    if (label) label.textContent = "open me";
+    closing = true;
+    if (done) waiters.push(done);
+    playIconExit(desk, finishClose);
+  };
+
+  aboutDesks.set(id, {
+    id,
+    panelId,
+    open,
+    close,
+    isOpen: () => desk.classList.contains("is-open"),
+    isBusy: () => closing
+  });
+
+  trigger.addEventListener("click", () => selectAboutDesk(id));
+  settleAboutOrbit();
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape" || !desk.classList.contains("is-open")) return;
+    if (document.querySelector("dialog[open]")) return;
+    if (onEscape?.()) return;
+    selectAboutDesk(id);
+  }, true);
+}
+
+const orbitBases = { awards: -120, exp: 0, listening: 120 };
+let orbitRotation = 0;
+let orbitShown = 0;
+let orbitFrame = 0;
+
+function normDeg(deg) {
+  let x = ((deg % 360) + 360) % 360;
+  if (x > 180) x -= 360;
+  return x;
+}
+
+function nearestOrbit(current, ideal) {
+  let best = ideal;
+  let bestDist = Infinity;
+  for (let k = -3; k <= 3; k += 1) {
+    const candidate = ideal + 360 * k;
+    const dist = Math.abs(candidate - current);
+    if (dist < bestDist) {
+      bestDist = dist;
+      best = candidate;
+    }
+  }
+  return best;
+}
+
+function paintAboutOrbit(rotation, dim) {
+  orbitShown = rotation;
+  const wrap = document.querySelector(".about-icons");
+  if (!wrap) return;
+  wrap.classList.add("is-orbit");
+  wrap.classList.toggle("is-focused", dim);
+  const slots = [...wrap.querySelectorAll("[data-icon]")];
+  if (!slots.length || wrap.clientWidth < 80) return;
+  const slotWidth = slots[0].offsetWidth || 200;
+  const rx = ((wrap.clientWidth - slotWidth) / 2) / Math.sin((2 * Math.PI) / 3);
+  const ry = 34;
+  slots.forEach((el) => {
+    const angle = normDeg(orbitBases[el.dataset.icon] + rotation);
+    const rad = angle * Math.PI / 180;
+    const depth = Math.cos(rad);
+    const front = Math.abs(angle) < 46;
+    const x = Math.sin(rad) * rx;
+    const y = (1 - depth) * ry;
+    const scale = dim && !front ? 0.78 : (front && dim ? 1.06 : 1);
+    el.style.zIndex = front ? "4" : "1";
+    el.style.opacity = dim && !front ? "0.42" : "1";
+    el.style.filter = dim && !front ? "grayscale(1)" : "none";
+    el.style.transform = `translate(calc(-50% + ${x.toFixed(1)}px), ${y.toFixed(1)}px) scale(${scale})`;
+    el.classList.toggle("is-focus", dim && front);
+  });
+}
+
+function placeAboutIcons(activeId, done) {
+  const wrap = document.querySelector(".about-icons");
+  if (!wrap || !wrap.querySelector("[data-icon] button")) {
+    done?.();
+    return;
+  }
+  const ideal = activeId ? -orbitBases[activeId] : 0;
+  const from = orbitShown;
+  const to = nearestOrbit(from, ideal);
+  orbitRotation = to;
+  const dim = Boolean(activeId);
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (orbitFrame) cancelAnimationFrame(orbitFrame);
+  if (reduce || Math.abs(to - from) < 0.5) {
+    paintAboutOrbit(to, dim);
+    done?.();
+    return;
+  }
+  const start = performance.now();
+  const duration = 720;
+  const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);
+  const tick = (now) => {
+    const t = Math.min(1, (now - start) / duration);
+    paintAboutOrbit(from + (to - from) * ease(t), dim);
+    if (t < 1) orbitFrame = requestAnimationFrame(tick);
+    else {
+      orbitFrame = 0;
+      paintAboutOrbit(to, dim);
+      done?.();
+    }
+  };
+  orbitFrame = requestAnimationFrame(tick);
+}
+
+function settleAboutOrbit() {
+  const ready = ["exp", "awards", "listening"].every((iconId) => document.querySelector(`[data-icon="${iconId}"] button`));
+  if (!ready || orbitFrame) return;
+  paintAboutOrbit(orbitRotation, Boolean(activeAboutId));
+}
+
+window.addEventListener("resize", () => {
+  if (orbitFrame) return;
+  settleAboutOrbit();
+});
+
+function selectAboutDesk(id) {
+  const next = aboutDesks.get(id);
+  if (!next || (next.isBusy() && activeAboutId === id)) return;
+  if (activeAboutId === id) {
+    next.close(() => {
+      if (activeAboutId === id) {
+        activeAboutId = null;
+        placeAboutIcons(null);
+      }
+    });
+    return;
+  }
+  const prev = activeAboutId ? aboutDesks.get(activeAboutId) : null;
+  activeAboutId = id;
+  const openNext = () => {
+    if (activeAboutId !== id) return;
+    activateAboutPanel(next.panelId);
+    next.open();
+  };
+  if (prev && (prev.isOpen() || prev.isBusy())) {
+    placeAboutIcons(id);
+    prev.close(openNext);
+  } else {
+    placeAboutIcons(id, openNext);
+  }
+}
+
+function experienceOrg(item) {
+  if (item?.org) return String(item.org);
+  const sub = String(item?.subtitle || "");
+  const place = sub.split("|")[0].trim();
+  return place || "Experience";
+}
+
+function experienceMark(org) {
+  const key = org.toLowerCase();
+  if (key.includes("university of alberta") || key.includes("faculty of engineering")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#0b6b3a"/><circle cx="32" cy="32" r="23" fill="none" stroke="#ffd24a" stroke-width="3"/><text x="32" y="39" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700" fill="#ffd24a">UA</text></svg>`;
+  }
+  if (key.includes("bionix")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#12324a"/><path fill="#7ee0c6" d="M30 10h4v8h-4zM24 18h16v6H24z"/><circle cx="32" cy="16" r="4" fill="#f4b942"/><path fill="#d7fff4" d="M27 26h10l4 10-6 2v12h-6V38l-6-2 4-10z"/><rect x="26" y="50" width="5" height="6" rx="1" fill="#f4b942"/><rect x="33" y="50" width="5" height="6" rx="1" fill="#f4b942"/></svg>`;
+  }
+  if (key.includes("scarlett")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><path fill="#c23b4a" d="M32 4 56 14v18c0 14-10 24-24 28C18 56 8 46 8 32V14L32 4z"/><path fill="#fff4f4" d="M32 14l4.2 8.6 9.5 1.4-6.9 6.7 1.6 9.4L32 35.6 23.6 40l1.6-9.4-6.9-6.7 9.5-1.4L32 14z"/></svg>`;
+  }
+  if (key.includes("calgary")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#c8102e"/><path fill="#fff" d="M8 42h48v6H8zM14 40l8-14 6 8 6-16 6 12 8-8 4 18H14z"/><circle cx="46" cy="18" r="4" fill="#ffd24a"/></svg>`;
+  }
+  if (key.includes("junior achievement")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#0b3d91"/><circle cx="32" cy="28" r="12" fill="#ffd24a"/><path fill="#0b3d91" d="M32 20l2.2 4.6 5 .7-3.6 3.5.9 5L32 31.6 27.5 34l.9-5-3.6-3.5 5-.7L32 20z"/><path fill="#fff" d="M18 44h28v4H18zM22 40h20v4H22z"/></svg>`;
+  }
+  const letters = initials(org);
+  return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#5b3fff"/><text x="32" y="40" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" fill="#fff">${letters}</text></svg>`;
+}
+
+function renderExperiences(container, items) {
   if (!container) return;
   container.innerHTML = "";
-  for (const it of items || []) {
-    const title = el("h3", { text: it.title || it.name || "" });
-    const sub = it.subtitle ? el("p", { class: "sub", text: it.subtitle }) : null;
-    const dates = it.dates ? el("p", { class: "meta-line", text: it.dates }) : null;
-    const details = it.details ? el("p", { class: "meta-line", text: it.details }) : null;
-    container.append(el("div", { class: "item reveal-card" }, [title, ...(sub ? [sub] : []), ...(dates ? [dates] : []), ...(details ? [details] : [])]));
-  }
+  const list = items || [];
+  if (!list.length) return;
+
+  const desk = el("div", { class: "icon-desk exp-desk" });
+  const folder = el("button", {
+    class: "exp-folder icon-trigger",
+    id: "expIcon",
+    type: "button",
+    role: "tab",
+    "aria-selected": "false",
+    "aria-expanded": "false",
+    "aria-controls": "tabExp",
+    "aria-label": "Experiences"
+  });
+  folder.innerHTML = `
+    <span class="exp-folder-shape" aria-hidden="true">
+      <span class="exp-folder-pocket">
+        <span class="exp-folder-peek"></span>
+        <span class="exp-folder-peek"></span>
+        <span class="exp-folder-peek"></span>
+      </span>
+      <span class="exp-folder-lid">
+        <span class="exp-folder-tab"></span>
+        <span class="exp-folder-lid-face"></span>
+      </span>
+    </span>
+    <span class="exp-folder-caption">experiences</span>
+  `;
+
+  const spill = el("div", { class: "exp-spill", id: "expSpill" });
+  const detail = el("div", { class: "item exp-detail", role: "region", "aria-live": "polite" });
+  let selected = null;
+
+  const showDetail = (it, badge) => {
+    selected = it;
+    spill.querySelectorAll(".exp-badge").forEach((node) => {
+      node.classList.toggle("is-selected", node === badge);
+      node.setAttribute("aria-pressed", String(node === badge));
+    });
+    detail.innerHTML = "";
+    const close = el("button", {
+      class: "exp-detail-close",
+      type: "button",
+      "aria-label": "Close experience details",
+      text: "×"
+    });
+    close.addEventListener("click", () => {
+      selected = null;
+      detail.classList.remove("is-open");
+      spill.querySelectorAll(".exp-badge").forEach((node) => {
+        node.classList.remove("is-selected");
+        node.setAttribute("aria-pressed", "false");
+      });
+      requestAnimationFrame(refreshTabsLayout);
+    });
+    const bits = [
+      close,
+      el("h3", { text: it.title || it.name || experienceOrg(it) }),
+      it.subtitle ? el("p", { class: "sub", text: it.subtitle }) : null,
+      it.dates ? el("p", { class: "meta-line", text: it.dates }) : null,
+      it.details ? el("p", { class: "meta-line", text: it.details }) : null
+    ].filter(Boolean);
+    const gallery = buildInlineGallery(experienceSlides(it), it.title || it.name || experienceOrg(it));
+    if (gallery) bits.push(gallery);
+    detail.append(...bits);
+    detail.classList.remove("is-open");
+    void detail.offsetWidth;
+    detail.classList.add("is-open");
+    requestAnimationFrame(() => {
+      refreshTabsLayout();
+      detail.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    });
+  };
+
+  list.forEach((it, i) => {
+    const org = experienceOrg(it);
+    const role = it.title || it.name || org;
+    const badge = el("button", {
+      class: "exp-badge spill-item",
+      type: "button",
+      "aria-pressed": "false",
+      "aria-label": `${role} at ${org}`,
+      style: `--i:${i}`
+    });
+    const face = el("span", { class: "exp-badge-face" });
+    const logo = it.logo ? safeMediaUrl(it.logo) : null;
+    if (logo) {
+      const img = el("img", { src: logo, alt: "" });
+      face.append(img);
+    } else {
+      face.innerHTML = experienceMark(org);
+    }
+    badge.append(
+      face,
+      el("span", { class: "exp-badge-role", text: role }),
+      el("span", { class: "exp-badge-org", text: org })
+    );
+    badge.addEventListener("click", () => showDetail(it, badge));
+    spill.append(badge);
+  });
+
+  spill.style.setProperty("--n", String(list.length));
+  desk.style.setProperty("--n", String(list.length));
+
+  const clearDetail = () => {
+    selected = null;
+    detail.classList.remove("is-open");
+    spill.querySelectorAll(".exp-badge").forEach((node) => {
+      node.classList.remove("is-selected");
+      node.setAttribute("aria-pressed", "false");
+    });
+    requestAnimationFrame(refreshTabsLayout);
+  };
+
+  $("#iconSlotExp")?.append(folder);
+  desk.append(spill, detail);
+  container.append(desk);
+  bindSpillDesk({
+    id: "exp",
+    panelId: "exp",
+    desk,
+    trigger: folder,
+    origin: () => folder.querySelector(".exp-folder-pocket") || folder,
+    spill,
+    onClosed: clearDetail,
+    onEscape: () => {
+      if (!detail.classList.contains("is-open")) return false;
+      clearDetail();
+      return true;
+    }
+  });
 }
 
 function courseGroups(courses) {
@@ -439,7 +962,7 @@ function timeAgo(iso) {
 function renderTrackRow(track, { live = false } = {}) {
   const href = safeUrl(track?.url);
   const row = el(href ? "a" : "div", {
-    class: live ? "track-row track-row--live reveal-card" : "track-row reveal-card",
+    class: live ? "track-row track-row--live spill-item" : "track-row spill-item",
     href: href || undefined,
     target: href ? "_blank" : undefined,
     rel: href ? "noreferrer" : undefined
@@ -477,7 +1000,7 @@ function renderTrackRow(track, { live = false } = {}) {
 }
 
 function listeningEmpty(title, subtitle) {
-  return el("div", { class: "item reveal-card" }, [
+  return el("div", { class: "item spill-item" }, [
     el("h3", { text: title }),
     el("p", { class: "sub", text: subtitle })
   ]);
@@ -486,26 +1009,75 @@ function listeningEmpty(title, subtitle) {
 async function renderListening(container) {
   if (!container) return;
   container.innerHTML = "";
+  const desk = el("div", { class: "icon-desk music-desk" });
+  const disc = el("button", {
+    class: "music-disc icon-trigger",
+    id: "listenIcon",
+    type: "button",
+    role: "tab",
+    "aria-selected": "false",
+    "aria-expanded": "false",
+    "aria-controls": "tabListening",
+    "aria-label": "Listening"
+  });
+  disc.innerHTML = `
+    <span class="disc-shape" aria-hidden="true">
+      <span class="disc-pop">
+        <span class="disc-vinyl"></span>
+      </span>
+    </span>
+    <span class="exp-folder-caption">;)</span>
+  `;
+  const spill = el("div", { class: "exp-spill track-spill", id: "listenSpill" });
   try {
     const res = await fetch("./spotify.json", { cache: "no-store" });
     if (!res.ok) throw new Error("spotify.json missing");
     const data = await res.json();
     const now = data?.nowPlaying || null;
     const recent = Array.isArray(data?.recent) ? data.recent : [];
-    if (now) container.append(renderTrackRow(now, { live: true }));
-    for (const track of recent) container.append(renderTrackRow(track));
+    let i = 0;
+    if (now) {
+      const row = renderTrackRow(now, { live: true });
+      row.style.setProperty("--i", String(i));
+      i += 1;
+      spill.append(row);
+    }
+    for (const track of recent) {
+      const row = renderTrackRow(track);
+      row.style.setProperty("--i", String(i));
+      i += 1;
+      spill.append(row);
+    }
     if (!now && !recent.length) {
-      container.append(listeningEmpty(
+      const empty = listeningEmpty(
         "No recent tracks yet",
         "This list updates automatically after Spotify is connected."
-      ));
+      );
+      empty.style.setProperty("--i", "0");
+      spill.append(empty);
     }
   } catch {
-    container.append(listeningEmpty(
+    const empty = listeningEmpty(
       "Listening data unavailable",
       "Couldn’t load recently played tracks right now."
-    ));
+    );
+    empty.style.setProperty("--i", "0");
+    spill.append(empty);
   }
+  const count = spill.querySelectorAll(".spill-item").length;
+  spill.style.setProperty("--n", String(count));
+  desk.style.setProperty("--n", String(count));
+  $("#iconSlotListen")?.append(disc);
+  desk.append(spill);
+  container.append(desk);
+  bindSpillDesk({
+    id: "listening",
+    panelId: "listening",
+    desk,
+    trigger: disc,
+    origin: () => disc.querySelector(".disc-vinyl") || disc,
+    spill
+  });
   refreshTabsLayout();
 }
 
@@ -524,14 +1096,40 @@ function isPdfUrl(url) {
 function renderAwards(container, items) {
   if (!container) return;
   container.innerHTML = "";
-  for (const it of items || []) {
-    const fileUrl = it.file ? safeMediaUrl(it.file) : null;
+  const list = items || [];
+  const desk = el("div", { class: "icon-desk award-desk" });
+  const trophy = el("button", {
+    class: "prize-trophy icon-trigger",
+    id: "awardsIcon",
+    type: "button",
+    role: "tab",
+    "aria-selected": "false",
+    "aria-expanded": "false",
+    "aria-controls": "tabAwards",
+    "aria-label": "Awards and certificates"
+  });
+  trophy.innerHTML = `
+    <span class="prize-shape" aria-hidden="true">
+      <span class="prize-cup">
+        <span class="prize-bowl-wrap">
+          <span class="prize-handle left"></span>
+          <span class="prize-handle right"></span>
+          <span class="prize-bowl"><span class="prize-star">★</span></span>
+        </span>
+        <span class="prize-stem"></span>
+        <span class="prize-base"></span>
+      </span>
+    </span>
+    <span class="exp-folder-caption">awards &amp; certificates</span>
+  `;
+  const spill = el("div", { class: "exp-spill award-spill", id: "awardSpill" });
 
+  list.forEach((it, i) => {
     const bodyChildren = [el("h3", { text: it.title || it.name || "" })];
     if (it.subtitle) bodyChildren.push(el("p", { class: "sub", text: it.subtitle }));
     if (it.dates) bodyChildren.push(el("p", { class: "meta-line", text: it.dates }));
     const children = [el("div", { class: "item-body" }, bodyChildren)];
-
+    const fileUrl = it.file ? safeMediaUrl(it.file) : null;
     if (fileUrl) {
       const iconBtn = el("button", {
         class: "cert-icon-btn press-btn",
@@ -543,9 +1141,25 @@ function renderAwards(container, items) {
       iconBtn.addEventListener("click", () => openCertificateModal(it));
       children.push(iconBtn);
     }
+    spill.append(el("div", {
+      class: "item item--cert spill-item",
+      style: `--i:${i}`
+    }, children));
+  });
 
-    container.append(el("div", { class: "item item--cert reveal-card" }, children));
-  }
+  spill.style.setProperty("--n", String(list.length));
+  desk.style.setProperty("--n", String(list.length));
+  $("#iconSlotAwards")?.append(trophy);
+  desk.append(spill);
+  container.append(desk);
+  bindSpillDesk({
+    id: "awards",
+    panelId: "awards",
+    desk,
+    trigger: trophy,
+    origin: () => trophy.querySelector(".prize-bowl") || trophy,
+    spill
+  });
 }
 
 function openCertificateModal(cert) {
@@ -580,58 +1194,40 @@ function openCertificateModal(cert) {
 
 function initTabs() {
   const tabConfig = [
-    { id: "exp", btn: $("#tabExpBtn"), panel: $("#tabExp") },
-    { id: "awards", btn: $("#tabAwardsBtn"), panel: $("#tabAwards") },
-    { id: "listening", btn: $("#tabListeningBtn"), panel: $("#tabListening") }
-  ].filter((t) => t.btn && t.panel);
+    { id: "exp", panel: $("#tabExp") },
+    { id: "awards", panel: $("#tabAwards") },
+    { id: "listening", panel: $("#tabListening") }
+  ].filter((t) => t.panel);
 
-  if (tabConfig.length < 2) return;
+  if (!tabConfig.length) return;
 
   const panelsWrap = tabConfig[0].panel.parentElement;
-  let activeIdx = Math.max(0, tabConfig.findIndex((t) => t.id === "exp"));
-  let isAnimating = false;
+  let activeId = "exp";
 
   const updatePanelHeight = () => {
     if (!panelsWrap) return;
-    const h = Math.max(...tabConfig.map((t) => t.panel.scrollHeight));
-    panelsWrap.style.height = `${h}px`;
+    const active = tabConfig.find((t) => t.panel.classList.contains("is-active"))?.panel;
+    if (!active) return;
+    const inner = active.firstElementChild;
+    const content = inner ? inner.offsetHeight : active.scrollHeight;
+    const styles = getComputedStyle(panelsWrap);
+    const pad = (parseFloat(styles.paddingTop) || 0) + (parseFloat(styles.paddingBottom) || 0);
+    panelsWrap.style.height = `${Math.ceil(content + pad)}px`;
   };
 
-  const set = (idx) => {
-    if (isAnimating || idx === activeIdx || idx < 0 || idx >= tabConfig.length) return;
-    isAnimating = true;
-
-    const prevPanel = tabConfig[activeIdx].panel;
-    const nextPanel = tabConfig[idx].panel;
-
-    panelsWrap?.setAttribute("data-dir", idx > activeIdx ? "right" : "left");
-    prevPanel.classList.add("is-leaving");
-    prevPanel.classList.remove("is-active");
-    nextPanel.classList.add("is-entering");
-    nextPanel.classList.add("is-active");
-
-    tabConfig.forEach((t, i) => {
-      const active = i === idx;
-      t.btn.classList.toggle("is-active", active);
-      t.btn.setAttribute("aria-selected", String(active));
+  activateAboutPanel = (id) => {
+    const next = tabConfig.find((t) => t.id === id);
+    if (!next) return;
+    tabConfig.forEach((t) => {
+      const on = t.id === id;
+      t.panel.classList.toggle("is-active", on);
+      if (!on) t.panel.classList.remove("is-entering");
     });
-
+    activeId = id;
     requestAnimationFrame(updatePanelHeight);
-    window.setTimeout(() => {
-      prevPanel.classList.remove("is-leaving");
-      nextPanel.classList.remove("is-entering");
-      activeIdx = idx;
-      isAnimating = false;
-    }, 260);
   };
 
-  tabConfig.forEach((t, i) => {
-    t.panel.classList.toggle("is-active", i === activeIdx);
-    t.btn.classList.toggle("is-active", i === activeIdx);
-    t.btn.setAttribute("aria-selected", String(i === activeIdx));
-    t.btn.addEventListener("click", () => set(i));
-  });
-
+  tabConfig.forEach((t) => t.panel.classList.toggle("is-active", t.id === activeId));
   window.addEventListener("resize", updatePanelHeight);
   refreshTabsLayout = updatePanelHeight;
   requestAnimationFrame(updatePanelHeight);
@@ -748,17 +1344,54 @@ function initCertificateModal() {
   });
 }
 
-function initContact(person) {
-  const emailLink = $("#emailLink");
-  const locationText = $("#locationText");
-  const contactLinks = $("#contactLinks");
-
-  if (emailLink) {
-    emailLink.textContent = person.email || "you@example.com";
-    emailLink.href = `mailto:${person.email || "you@example.com"}`;
+function contactMark(kind) {
+  const key = String(kind || "").toLowerCase();
+  if (key.includes("github")) return iconSvg("github");
+  if (key.includes("linkedin")) return iconSvg("linkedin");
+  if (key.includes("mail") || key.includes("email")) {
+    return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect x="8" y="16" width="48" height="32" rx="6" fill="#7c5cff"/><path fill="#fff" d="M10 20l22 14L54 20v-2H10v2z"/></svg>`;
   }
-  if (locationText) locationText.textContent = person.location || "";
-  renderLinks(contactLinks, person.links, "link");
+  return `<svg viewBox="0 0 64 64" aria-hidden="true"><path fill="#19c37d" d="M32 6c-9 0-16 7-16 16 0 12 16 36 16 36s16-24 16-36c0-9-7-16-16-16z"/><circle cx="32" cy="22" r="6" fill="#fff"/></svg>`;
+}
+
+function initContact(person) {
+  const mount = $("#contactMount");
+  if (!mount) return;
+  mount.innerHTML = "";
+
+  const aside = el("div", { class: "contact-aside" });
+  const items = [];
+  if (person?.email) {
+    items.push({ label: "email", sub: person.email, href: `mailto:${person.email}`, mark: "email" });
+  }
+  if (person?.location) {
+    items.push({ label: "location", sub: person.location, mark: "pin" });
+  }
+  for (const link of person?.links || []) {
+    const href = safeUrl(link.url);
+    if (!href) continue;
+    let sub = "";
+    try { sub = new URL(href).hostname.replace(/^www\./, ""); } catch { sub = ""; }
+    items.push({ label: link.label || "Link", sub, href, mark: link.label || "" });
+  }
+
+  items.forEach((it) => {
+    const node = el(it.href ? "a" : "div", {
+      class: "contact-line",
+      href: it.href || undefined,
+      target: it.href && it.href.startsWith("http") ? "_blank" : undefined,
+      rel: it.href && it.href.startsWith("http") ? "noreferrer" : undefined
+    });
+    const mark = el("span", { class: "contact-line-mark", "aria-hidden": "true" });
+    mark.innerHTML = contactMark(it.mark);
+    const text = el("span", { class: "contact-line-text" });
+    text.append(el("span", { class: "contact-line-label", text: it.label }));
+    if (it.sub) text.append(el("span", { class: "contact-line-value", text: it.sub }));
+    node.append(mark, text);
+    aside.append(node);
+  });
+
+  mount.append(aside);
 }
 
 async function main() {
@@ -806,9 +1439,10 @@ async function main() {
 
   renderLinks($("#heroLinks"), person.links, "pill");
   renderProjects($("#projectsGrid"), data.projects);
+  mountProjectBlueprint();
   $("#aboutSubtitle").textContent = data.about?.subtitle || "";
   renderAwards($("#awardsList"), data.about?.awards);
-  renderItems($("#expList"), data.about?.experiences);
+  renderExperiences($("#expList"), data.about?.experiences);
   await renderListening($("#listeningList"));
   refreshTabsLayout();
   initContact(person);

@@ -19,32 +19,76 @@
         {
           "group": "Year 1",
           "items": [
-            { "code": "ECE 210", "name": "Introduction to Digital Logic Design" },
-            { "code": "ECE 202", "name": "Electric Circuits I" },
-            { "code": "ECE 203", "name": "Electric Circuits II" },
-            { "code": "ECE 212", "name": "Introduction to Microprocessors" },
-            { "code": "ECE 240", "name": "Continuous Time Signals and Systems" },
-            { "code": "CMPUT 274", "name": "Accelerated Introduction to Tangible Computing I" },
-            { "code": "CMPUT 275", "name": "Accelerated Introduction to Tangible Computing II" },
-            { "code": "CMPUT 272", "name": "Formal systems and Logic in Computer Science" }
+            {
+              "code": "ECE 210",
+              "name": "Introduction to Digital Logic Design"
+            },
+            {
+              "code": "ECE 202",
+              "name": "Electric Circuits I"
+            },
+            {
+              "code": "ECE 203",
+              "name": "Electric Circuits II"
+            },
+            {
+              "code": "ECE 212",
+              "name": "Introduction to Microprocessors"
+            },
+            {
+              "code": "ECE 240",
+              "name": "Continuous Time Signals and Systems"
+            },
+            {
+              "code": "CMPUT 274",
+              "name": "Accelerated Introduction to Tangible Computing I"
+            },
+            {
+              "code": "CMPUT 275",
+              "name": "Accelerated Introduction to Tangible Computing II"
+            },
+            {
+              "code": "CMPUT 272",
+              "name": "Formal systems and Logic in Computer Science"
+            }
           ]
         },
         {
           "group": "Year 2",
           "items": [
-            { "code": "ECE 340", "name": "Discrete Time Signals and Systems" },
-            { "code": "ECE 325", "name": "Object-Oriented Software Design" },
-            { "code": "ECE 311", "name": "Computer Organization and Architecture" },
-            { "code": "ECE 302", "name": "Electronic Devices" },
-            { "code": "CMPUT 291", "name": "Introduction to File and Database Management" }
+            {
+              "code": "ECE 340",
+              "name": "Discrete Time Signals and Systems"
+            },
+            {
+              "code": "ECE 325",
+              "name": "Object-Oriented Software Design"
+            },
+            {
+              "code": "ECE 311",
+              "name": "Computer Organization and Architecture"
+            },
+            {
+              "code": "ECE 302",
+              "name": "Electronic Devices"
+            },
+            {
+              "code": "CMPUT 291",
+              "name": "Introduction to File and Database Management"
+            }
           ]
         }
       ]
     },
-
     "links": [
-      { "label": "GitHub", "url": "https://github.com/carlzhng" },
-      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/carlsonzheng/" }
+      {
+        "label": "GitHub",
+        "url": "https://github.com/carlzhng"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/carlsonzheng/"
+      }
     ]
   },
   "projects": [
@@ -52,139 +96,245 @@
       "name": "iCANspeed",
       "description": "How do systems within cars communicate with each other? This personal project was designed to explore the communication protocols used in modern vehicles and understand their applications. Through this project, I gained insight into the intricacies of automotive communication systems and their role in ensuring seamless operation. Additionally, I applied signal processing techniques to clean and process the communication data so that the data acquisition and analysis could be performed effectively. The setup consists of an Arduino UNO, ESP32, 2x MCP2515 CAN Bus modules, an OLED screen to display speed values, and a analog potentiometer to mimic the gas pedal.",
       "media": {
-        "image": "./assets/speedCover.jpg",
-        "gallery":[
-          "./assets/CAN1.jpg",
-          "./assets/CAN2.jpg",
-          "./assets/CANgif.gif",
-          "./assets/CANDiagram.png"
+        "image": "./assets/project photos/speedCover.jpg",
+        "gallery": [
+          "./assets/project photos/CAN1.jpg",
+          "./assets/project photos/CAN2.jpg",
+          "./assets/project photos/CANgif.gif",
+          "./assets/project photos/CANDiagram.png"
         ]
       },
-      "tags": ["C/C++", "Arduino UNO", "ESP32", "MCP2515 CAN Bus Module", "KiCad", "Git"],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/I-CAN-Speed"}]
+      "tags": [
+        "C/C++",
+        "Arduino UNO",
+        "ESP32",
+        "MCP2515 CAN Bus Module",
+        "KiCad",
+        "Git"
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/I-CAN-Speed"
+        }
+      ]
     },
     {
       "name": "PomoRobo",
       "description": "Do you ever wish you owned a Pixar Lamp that could help you study? PomoRobo is the next best thing! As part of a group of engineers at HackED 2026, I helped design and test PomoRobo, a modular assistive robotic arm that helps you stay focused and productive. I was tasked with designing the control logic and interfacing the electrical components of the arm. PomoRobo is comprised of an ELEGOO arduino, a stepper motor, a LCD display, and servo motors.",
       "media": {
-        "image": "./assets/pomoCover.jpg",
-        "gallery":[
-          "./assets/pomoroboLandscape.jpg",
-          "./assets/initialSetup.jpg",
-          "./assets/pomoRoboGIF.gif",
-          "./assets/groupphoto.jpg"
+        "image": "./assets/project photos/pomoCover.jpg",
+        "gallery": [
+          "./assets/project photos/pomoroboLandscape.jpg",
+          "./assets/project photos/initialSetup.jpg",
+          "./assets/project photos/pomoRoboGIF.gif",
+          "./assets/project photos/groupphoto.jpg"
         ]
       },
-      "tags": ["C/C++", "Arduino"],
-      "highlights": ["Built to 3 DOF to reduce complexity and improve usability.", "Designed and built at HackED 2026."],
+      "tags": [
+        "C/C++",
+        "Arduino"
+      ],
+      "highlights": [
+        "Built to 3 DOF to reduce complexity and improve usability.",
+        "Designed and built at HackED 2026."
+      ],
       "links": [
-        { "label": "Github", "url": "https://github.com/carlzhng/Starting-Five_Pomo_Robo" },
-        { "label": "DevPost", "url": "https://devpost.com/software/homo-robo-a-modular-assistive-robotics-platform" }
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/Starting-Five_Pomo_Robo"
+        },
+        {
+          "label": "DevPost",
+          "url": "https://devpost.com/software/homo-robo-a-modular-assistive-robotics-platform"
+        }
       ]
     },
     {
       "name": "Domain Detector",
       "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
-        "image": "./assets/domainCover.jpg",
-        "gallery":[
-          "./assets/domainDetector.png",
-          "./assets/divineDog.png",
-          "./assets/nue.png",
-          "./assets/malevolentShrine.png",
-          "./assets/neutral.png"
+        "image": "./assets/project photos/domainCover.jpg",
+        "gallery": [
+          "./assets/project photos/domainDetector.png",
+          "./assets/project photos/divineDog.png",
+          "./assets/project photos/nue.png",
+          "./assets/project photos/malevolentShrine.png",
+          "./assets/project photos/neutral.png"
         ]
       },
-      "tags": ["Python", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "scikit-learn"],
-      "highlights":["Created a custom process to record hand movements", "Reached a 93%+ success rate in identifying the correct gestures in real-time"],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
+      "tags": [
+        "Python",
+        "Linux",
+        "MediaPipe",
+        "OpenCV",
+        "TensorFlow",
+        "scikit-learn"
+      ],
+      "highlights": [
+        "Created a custom process to record hand movements",
+        "Reached a 93%+ success rate in identifying the correct gestures in real-time"
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/domain-computer-vision"
+        }
+      ]
     },
     {
       "name": "Second Brain TA",
       "description": "Worked with a team of 4 to develop a Slack agent that uses Meta's Llama 3.3 70B Instruct model to process student queries, and provide relevant answers. The agent is designed to be a online automated TA that can assist teachers in the classroom, allowing students to ask questions, recieve feedback on their understanding, and help the teacher generate quizzes and lesson plans. The agent is built using Python, Slack API, and implemented with the assitance of Cursor agents.",
       "media": {
-        "image": "./assets/secondBrainCover.jpg",
-        "gallery":[
-          "./assets/secondBrain.png",
-          "./assets/secondBrain2.png",
-          "./assets/secondBrain3.png"
+        "image": "./assets/project photos/secondBrainCover.jpg",
+        "gallery": [
+          "./assets/project photos/secondBrain.png",
+          "./assets/project photos/secondBrain2.png",
+          "./assets/project photos/secondBrain3.png"
         ]
       },
-      "tags": ["Python", "Slack API", "Git", "Llama 3.3 70B Instruct", "Cursor"],
-      "highlights": ["Built using Python, Slack API, and Llama 3.3 70B Instruct", "Implemented with AI assisted tools including Cursor agents."],
-      "links": [{ "label": "Github", "url": "https://github.com/codepointpen/slack"}]
+      "tags": [
+        "Python",
+        "Slack API",
+        "Git",
+        "Llama 3.3 70B Instruct",
+        "Cursor"
+      ],
+      "highlights": [
+        "Built using Python, Slack API, and Llama 3.3 70B Instruct",
+        "Implemented with AI assisted tools including Cursor agents."
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/codepointpen/slack"
+        }
+      ]
     },
     {
       "name": "Splitsies",
       "description": "Tired of having to use your calculator to split the cost between friends on a trip? Splitsies is a web service hosted on Render Cloud that allows you and your friends to easily keep track of shared expenses and split costs. The website was built using Python and Flask for the backend, and HTML, CSS, and JavaScript for the frontend. The website is responsive and mobile-friendly, and allows users to create groups, add expenses, and view their balance with friends!",
-      "highlights": ["Hosted on Render Cloud for continous 24/7 operation", "Built using Python, Flask, HTML, CSS, and JavaScript"],
+      "highlights": [
+        "Hosted on Render Cloud for continous 24/7 operation",
+        "Built using Python, Flask, HTML, CSS, and JavaScript"
+      ],
       "media": {
-        "image": "./assets/splitsies.jpg",
-        "gallery":[
-          "./assets/splitsieshomepage.png",
-          "./assets/addexpense.png",
-          "./assets/log.png",
-          "./assets/settleup.png",
-          "./assets/splits.gif"
+        "image": "./assets/project photos/splitsies.jpg",
+        "gallery": [
+          "./assets/project photos/splitsieshomepage.png",
+          "./assets/project photos/addexpense.png",
+          "./assets/project photos/log.png",
+          "./assets/project photos/settleup.png",
+          "./assets/project photos/splits.gif"
         ]
       },
-      "tags": ["Python", "Flask", "Render", "PostgreSQL", "JavaScript", "Cursor"],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/Splitsies" }]
+      "tags": [
+        "Python",
+        "Flask",
+        "Render",
+        "PostgreSQL",
+        "JavaScript",
+        "Cursor"
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/Splitsies"
+        }
+      ]
     },
     {
       "name": "Prompty",
       "description": "As a team of 4 university students ranging from various programs, we were selected as one of the top 12% applicants to propose a strategic solution aimed to mitigate student career anxiety through the use of a gamified platform that targets the users ability to think critically and make decisions ethically. I was tasked with assisting in the devleopment of the first iteration of the websites's frontend and presenting the final protoype to industry professionals. The website uses generated prompts that asks the user a question and encourages original and imaginative thinking.",
       "media": {
-        "image": "./assets/promptyCover.jpg",
-        "modalImage": "./assets/promptyGIF.gif",
-        "gallery":[
-          "./assets/promptyGIF.gif",
-          "./assets/prompty.png"
+        "image": "./assets/project photos/promptyCover.jpg",
+        "modalImage": "./assets/project photos/promptyGIF.gif",
+        "gallery": [
+          "./assets/project photos/promptyGIF.gif",
+          "./assets/project photos/prompty.png"
         ]
       },
-      "tags": ["React", "JavaScript"],
-      "highlights": ["Built for the Digital Innovation Case Competition Competition (DICC) 2026."],
-      "links": [{ "label": "Github", "url": "https://github.com/Kiekeku/DICC-2026" }]
+      "tags": [
+        "React",
+        "JavaScript"
+      ],
+      "highlights": [
+        "Built for the Digital Innovation Case Competition Competition (DICC) 2026."
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/Kiekeku/DICC-2026"
+        }
+      ]
     },
     {
       "name": "Ted's Clanker",
       "description": "Developed using Discord API, Flask, and a simple Python script, Ted's Clanker is a personal automated Discord bot that tracks user locations and informs members within a server when the user has left or arrived home safely. Once past 10:00 pm and the user has not returned home, Ted's Clanker informs the server and encourages others to check on the user. Using custom API endpoints, Ted's Clanker also allows for timed messages to be sent to the server which can be used as reminders for events or tasks.",
       "media": {
-        "image": "./assets/tedsClankerCover.jpg",
-        "gallery":[
-          "./assets/teds_clanker.png"
+        "image": "./assets/project photos/tedsClankerCover.jpg",
+        "gallery": [
+          "./assets/project photos/teds_clanker.png"
         ]
       },
-      "tags": ["Python", "Flask","REST API", "Render", "Git", "Discord API"],
-      "highlights": ["Implemented custom API endpoints for real-time management of users location, reducing manual configuration time by 30%.", "Deployed to Render Cloud hosting ensuring 99% uptime and continuous 24/7 operation."],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/discord-auto-msg" }]
+      "tags": [
+        "Python",
+        "Flask",
+        "REST API",
+        "Render",
+        "Git",
+        "Discord API"
+      ],
+      "highlights": [
+        "Implemented custom API endpoints for real-time management of users location, reducing manual configuration time by 30%.",
+        "Deployed to Render Cloud hosting ensuring 99% uptime and continuous 24/7 operation."
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/discord-auto-msg"
+        }
+      ]
     },
     {
       "name": "Fluffy dice design",
       "description": "3D modelled a fluffy dice design in SOLIDWORKS that can easily be hung on a keychain or car mirror!",
       "media": {
-        "image": "./assets/fluffyDiceCover.jpg",
-        "modalImage": "./assets/fluffyDiceCar.jpg",
-        "gallery":[
-          "./assets/fluffyDiceCar.jpg",
-          "./assets/fluffyDice.png"
+        "image": "./assets/project photos/fluffyDiceCover.jpg",
+        "modalImage": "./assets/project photos/fluffyDiceCar.jpg",
+        "gallery": [
+          "./assets/project photos/fluffyDiceCar.jpg",
+          "./assets/project photos/fluffyDice.png"
         ]
       },
-      "tags": ["SOLIDWORKS"]
+      "tags": [
+        "SOLIDWORKS"
+      ]
     },
     {
       "name": "This Portfolio!",
       "description": "Developed using HTML, CSS, and JavaScript, this portfolio is a showcase of my projects and achievements. It is hosted on GitHub Pages and is deployed using Vercel. The portfolio is responsive and mobile-friendly, and is built with a modern and clean design.",
       "media": {
-        "image": "./assets/logo.png",
-        "modalImage": "./assets/portfolioProject.jpg",
-        "gallery":[
-          "./assets/portfolioProject.jpg",
-          "./assets/portfolioPage.png"
+        "image": "./assets/project photos/logo.png",
+        "modalImage": "./assets/project photos/portfolioProject.jpg",
+        "gallery": [
+          "./assets/project photos/portfolioProject.jpg",
+          "./assets/project photos/portfolioPage.png"
         ]
       },
-      "tags": ["HTML", "CSS", "JavaScript", "Cursor", "Git"],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/carlzheng.github.io" }]
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Cursor",
+        "Git"
+      ],
+      "links": [
+        {
+          "label": "Github",
+          "url": "https://github.com/carlzhng/carlzheng.github.io"
+        }
+      ]
     }
   ],
   "about": {
@@ -236,33 +386,48 @@
     "experiences": [
       {
         "title": "Undergraduate Student Researcher",
+        "org": "University of Alberta",
+        "logo": "./assets/logos/uofa.jpg",
         "subtitle": "Faculty of Engineering, Department of Electrical and Computer Engineering | Edmonton, AB",
         "dates": "Sep 2026 — present",
-        "details": "Currently researching the magnetophotoluminescence properties of organic-inorganic hybrids in semiconductors. The research project utilizes a variety of instrumentation such as electromagnets, lasers, and spectrometers to study the effects of magnetic fields on the photoluminescence of these materials. The goal of the research is to understand the underlying mechanisms that govern the magnetophotoluminescence properties of these materials and to explore their potential applications in optoelectronic devices."
+        "details": "Currently researching the magnetophotoluminescence properties of organic-inorganic hybrids in semiconductors. The research project utilizes a variety of instrumentation such as electromagnets, lasers, and spectrometers to study the effects of magnetic fields on the photoluminescence of these materials. The goal of the research is to understand the underlying mechanisms that govern the magnetophotoluminescence properties of these materials and to explore their potential applications in optoelectronic devices.",
+        "gallery": []
       },
       {
         "title": "Control Systems & Motherboard Team Member",
+        "org": "Alberta Bionix",
+        "logo": "./assets/logos/bionix.png",
         "subtitle": "Alberta Bionix | Edmonton, AB",
         "dates": "Dec 2025 — present",
-        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the control systems team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself. As a part of the motherboard team, I am responsible for designing and implementing the PCB that connects all the components of the leg together, ensuring proper communication and functionality."
+        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the control systems team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself. As a part of the motherboard team, I am responsible for designing and implementing the PCB that connects all the components of the leg together, ensuring proper communication and functionality.",
+        "gallery": []
       },
       {
         "title": "Co-Founder/Co-President of Scarlett STEM Club",
+        "org": "Scarlett STEM",
+        "logo": "./assets/logos/scarlett.jpg",
         "subtitle": "Dr. E.P. Scarlett High School | Calgary, AB",
         "dates": "Sep 2021 — Jun 2024",
-        "details": "Co-founded Dr. E.P Scarlett’s first ever STEM club to inspire, promote, and encourage students to participate in science/engineering related activities and challenges regardless of experience and skill level."
+        "details": "Co-founded Dr. E.P Scarlett’s first ever STEM club to inspire, promote, and encourage students to participate in science/engineering related activities and challenges regardless of experience and skill level. As part of my role, I designed STEM challenges for students to participate in, and held weekly programming workshops to enforce and introduce software fundamentals such as object-oriented programming and data structures.",
+        "gallery": []
       },
       {
         "title": "Sailing Instructor",
+        "org": "City of Calgary",
+        "logo": "./assets/logos/sailing.jpg",
         "subtitle": "City of Calgary | Calgary, AB",
         "dates": "Aug 2023",
-        "details": "Taught students ages 8-14 the fundamentals of sailing and boat handling. Prioritized student safety and well-being by following safety protocols, closely monitoring individual progress, and promoting an inclusive and enjoyable sailing experience."
+        "details": "Taught students ages 8-14 the fundamentals of sailing and boat handling. Prioritized student safety and well-being by following safety protocols, closely monitoring individual progress, and promoting an inclusive and enjoyable sailing experience.",
+        "gallery": []
       },
       {
         "title": "Vice-President of Communications",
+        "org": "Junior Achievement",
+        "logo": "./assets/logos/ja.jpg",
         "subtitle": "Junior Achievement Southern Alberta | Calgary, AB",
         "dates": "Oct 2022 — Apr 2023",
-        "details": "Spearheaded a student-run company in the production of over 500+ units and achieving over $1265+ in revenue and securing the Business Plan of the Year award out of the 30+ competing companies."
+        "details": "Spearheaded a student-run company in the production of over 500+ units and achieving over $1265+ in revenue and securing the Business Plan of the Year award out of the 30+ competing companies. As part of my role, I was responsible for setting priority tasks by collecting progress reports from all departments and distributing them to the team to ensure the company is on track to meet its goals.",
+        "gallery": []
       }
     ]
   }
