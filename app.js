@@ -1,4 +1,4 @@
-import { initPCB, initScrollShrink, initReveal } from "./pcb.js";
+import { initPCB, initScrollShrink, initReveal } from "./pcb.js?v=11";
 
 const $ = (sel) => document.querySelector(sel);
 let refreshTabsLayout = () => {};
@@ -163,15 +163,17 @@ function projectSlides(project) {
   return [...new Set(out)];
 }
 
+function isGifSrc(src) {
+  return /\.gif(?:[?#]|$)/i.test(src);
+}
+
 function buildModalSlideshow(project) {
   const slides = projectSlides(project);
   if (!slides.length) return null;
 
   let idx = 0;
-
-  const img = document.createElement("img");
-  img.className = "modal-slide-img";
-  img.alt = `${project?.name || "Project"} — preview`;
+  let generation = 0;
+  let current = null;
 
   const counter = el("div", { class: "slideshow-counter" });
 
@@ -189,17 +191,74 @@ function buildModalSlideshow(project) {
   });
 
   const nav = el("div", { class: "slideshow-nav", "aria-hidden": "false" }, [prevBtn, nextBtn]);
-  const wrap = el("div", { class: "modal-slideshow", id: "modalSlideshow" }, [img, nav, counter]);
+  const wrap = el("div", { class: "modal-slideshow", id: "modalSlideshow" }, [nav, counter]);
+
+  // Fetch the next file ahead of the click. GIFs are cached only — decoding
+  // one off-screen can leave the visible copy stuck on its first frame.
+  const preload = (src) => {
+    if (!src) return;
+    if (isGifSrc(src)) {
+      fetch(src, { cache: "force-cache" }).catch(() => {});
+      return;
+    }
+    const pre = new Image();
+    pre.decoding = "async";
+    pre.src = src;
+  };
+
+  // Chrome paints a GIF's first frame and then pauses it until the image
+  // leaves the viewport and comes back. A one-frame detach does the same.
+  const primeGif = (node, token) => {
+    const run = () => {
+      requestAnimationFrame(() => {
+        if (token !== generation || current !== node || !node.isConnected) return;
+        const parent = node.parentNode;
+        const sibling = node.nextSibling;
+        parent.removeChild(node);
+        requestAnimationFrame(() => {
+          if (token !== generation || current !== node || node.isConnected) return;
+          parent.insertBefore(node, sibling);
+        });
+      });
+    };
+    const shell = document.querySelector("#projectModal .modal-inner");
+    const pending = shell?.getAnimations?.().some((anim) => anim.playState === "running");
+    if (pending) shell.addEventListener("animationend", run, { once: true });
+    else run();
+  };
 
   const setIdx = (n) => {
+    const token = ++generation;
     idx = (n + slides.length) % slides.length;
     const src = slides[idx];
-    img.src = src;
-    const contain = /\.gif(\?|#|$)/i.test(src);
-    img.classList.toggle("modal-slide-img--contain", contain);
+    const contain = isGifSrc(src);
+
+    const next = document.createElement("img");
+    next.className = "modal-slide-img" + (contain ? " modal-slide-img--contain" : "");
+    next.alt = `${project?.name || "Project"} — preview ${idx + 1} of ${slides.length}`;
+    next.decoding = contain ? "sync" : "async";
+    next.loading = "eager";
+
+    let committed = false;
+    const commit = () => {
+      if (committed || token !== generation) return;
+      committed = true;
+      current = next;
+      const previous = wrap.querySelector(".modal-slide-img");
+      if (previous) previous.replaceWith(next);
+      else wrap.insertBefore(next, wrap.firstChild);
+      if (contain) primeGif(next, token);
+    };
+
+    next.addEventListener("load", commit, { once: true });
+    next.src = src;
+    if (next.complete && next.naturalWidth) commit();
+
     counter.textContent = slides.length > 1 ? `${idx + 1} / ${slides.length}` : "";
     prevBtn.disabled = slides.length <= 1;
     nextBtn.disabled = slides.length <= 1;
+    preload(slides[(idx + 1) % slides.length]);
+    preload(slides[(idx - 1 + slides.length) % slides.length]);
   };
 
   prevBtn.addEventListener("click", (e) => {
@@ -594,6 +653,9 @@ function openProjectModal(project) {
   const slideshow = buildModalSlideshow(project);
   if (slideshow) modalInner?.insertBefore(slideshow, modalInner.firstChild);
 
+  const shell = modal.querySelector(".modal-inner");
+  if (shell) shell.style.animation = "";
+
   const tags = $("#modalTags");
   if (tags) {
     tags.innerHTML = "";
@@ -654,6 +716,14 @@ function initModal() {
   });
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && modal.open) modal.close();
+  });
+
+  const shell = modal.querySelector(".modal-inner");
+  shell?.addEventListener("animationend", (e) => {
+    if (e.target !== shell) return;
+    // Drop the pop animation so it doesn't leave a transform on the dialog.
+    // A leftover transform keeps GIFs frozen on the first frame.
+    shell.style.animation = "none";
   });
 }
 

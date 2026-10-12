@@ -41,16 +41,26 @@ export function initPCB() {
     };
   }
 
-  function resize() {
-    dpr = window.devicePixelRatio || 1;
-    W = window.innerWidth;
-    H = window.innerHeight;
-    canvas.width = W * dpr;
-    canvas.height = H * dpr;
-    canvas.style.width = W + "px";
-    canvas.style.height = H + "px";
-    ctx.scale(dpr, dpr);
-    buildPCB();
+  function viewportSize() {
+    const rect = canvas.getBoundingClientRect();
+    return {
+      w: Math.max(1, Math.round(rect.width) || window.innerWidth),
+      h: Math.max(1, Math.round(rect.height) || window.innerHeight)
+    };
+  }
+
+  function syncCanvas(rebuild) {
+    const next = viewportSize();
+    dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = next.w;
+    H = next.h;
+    canvas.width = Math.floor(W * dpr);
+    canvas.height = Math.floor(H * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    if (rebuild) {
+      buildPCB();
+      initCubes();
+    }
   }
 
   // ── PCB GRID ──
@@ -233,13 +243,19 @@ export function initPCB() {
     raf = requestAnimationFrame(frame);
   }
 
-  resize();
-  initCubes();
+  syncCanvas(true);
+
+  // Phone browsers resize the viewport while the address bar shows and hides
+  // during a scroll. Rebuilding the pattern on that jump is what makes the
+  // background spaz. Only a real size change (rotation, split screen) rebuilds.
+  let resizeTimer = 0;
   window.addEventListener("resize", () => {
-    ctx.resetTransform();
-    ctx.scale(dpr, dpr);
-    resize();
-    initCubes();
+    const next = viewportSize();
+    const widthChanged = Math.abs(next.w - W) > 2;
+    const heightChanged = Math.abs(next.h - H) > 160;
+    if (!widthChanged && !heightChanged) return;
+    window.clearTimeout(resizeTimer);
+    resizeTimer = window.setTimeout(() => syncCanvas(true), 180);
   });
 
   frame();

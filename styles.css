@@ -45,6 +45,7 @@ body{
     radial-gradient(900px 700px at 40% 100%, rgba(255,255,255,.07), transparent 60%);
   position: relative;
   min-height: 100vh;
+  min-height: 100svh;
 }
 
 /* Dark theme: toned-down glows behind the PCB so the page reads as a deep slab */
@@ -439,16 +440,21 @@ code{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Libera
 .modal-slideshow{
   position: relative;
   width: 100%;
+  aspect-ratio: 16 / 9;
   border-radius: 18px;
-  overflow: hidden;
+  /* clip instead of hidden: hidden makes a scroll container, and Chrome
+     will not start a GIF until that container is scrolled. */
+  overflow: clip;
   border: 1px solid var(--border);
   background: rgba(255,255,255,.03);
 }
 ::root[data-theme="light"] .modal-slideshow{background: rgba(0,0,0,.03)}
 
 .modal-slide-img{
+  position: absolute;
+  inset: 0;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
@@ -971,9 +977,12 @@ textarea:focus{outline:3px solid var(--ring);outline-offset:2px}
 /* ── PCB CANVAS BACKGROUND ── */
 #pcbCanvas {
   position: fixed;
-  inset: 0;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 100%;
+  /* lvh stays put when the mobile address bar shows or hides while scrolling */
+  height: 100vh;
+  height: 100lvh;
   z-index: 0;
   pointer-events: none;
 }
@@ -988,6 +997,7 @@ textarea:focus{outline:3px solid var(--ring);outline-offset:2px}
 .hero-fullscreen {
   position: relative;
   min-height: 100vh;
+  min-height: 100svh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1154,7 +1164,8 @@ dialog.modal[open] .modal-inner {
 }
 @keyframes modalPop {
   from { opacity: 0; transform: scale(0.88) translateY(20px); }
-  to   { opacity: 1; transform: scale(1) translateY(0); }
+  /* none, not scale(1): a leftover transform freezes GIF playback in Chrome */
+  to   { opacity: 1; transform: none; }
 }
 
 /* ── PROJECT FOLDER TILE ── */

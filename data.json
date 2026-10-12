@@ -49,6 +49,21 @@
   },
   "projects": [
     {
+      "name": "iCANspeed",
+      "description": "How do systems within cars communicate with each other? This personal project was designed to explore the communication protocols used in modern vehicles and understand their applications. Through this project, I gained insight into the intricacies of automotive communication systems and their role in ensuring seamless operation. Additionally, I applied signal processing techniques to clean and process the communication data so that the data acquisition and analysis could be performed effectively. The setup consists of an Arduino UNO, ESP32, 2x MCP2515 CAN Bus modules, an OLED screen to display speed values, and a analog potentiometer to mimic the gas pedal.",
+      "media": {
+        "image": "./assets/speedCover.jpg",
+        "gallery":[
+          "./assets/CAN1.jpg",
+          "./assets/CAN2.jpg",
+          "./assets/CANgif.gif",
+          "./assets/CANDiagram.png"
+        ]
+      },
+      "tags": ["C/C++", "Arduino UNO", "ESP32", "MCP2515 CAN Bus Module", "KiCad", "Git"],
+      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/I-CAN-Speed"}]
+    },
+    {
       "name": "PomoRobo",
       "description": "Do you ever wish you owned a Pixar Lamp that could help you study? PomoRobo is the next best thing! As part of a group of engineers at HackED 2026, I helped design and test PomoRobo, a modular assistive robotic arm that helps you stay focused and productive. I was tasked with designing the control logic and interfacing the electrical components of the arm. PomoRobo is comprised of an ELEGOO arduino, a stepper motor, a LCD display, and servo motors.",
       "media": {
@@ -68,21 +83,6 @@
       ]
     },
     {
-      "name": "iCANspeed",
-      "description": "How do systems within cars communicate with each other? This personal project was designed to explore the communication protocols used in modern vehicles and understand their applications. Through this project, I gained insight into the intricacies of automotive communication systems and their role in ensuring seamless operation. Additionally, I applied signal processing techniques to clean and process the communication data so that the data acquisition and analysis could be performed effectively. The setup consists of an Arduino UNO, ESP32, 2x MCP2515 CAN Bus modules, an OLED screen to display speed values, and a analog potentiometer to mimic the gas pedal.",
-      "media": {
-        "image": "./assets/speedCover.jpg",
-        "gallery":[
-          "./assets/CAN1.jpg",
-          "./assets/CAN2.jpg",
-          "./assets/CANgif.gif",
-          "./assets/CANDiagram.png"
-        ]
-      },
-      "tags": ["C/C++", "Arduino UNO", "ESP32", "MCP2515 CAN Bus Module", "KiCad", "Git"],
-      "links": [{ "label": "Github", "url": "https://github.com/carlzhng/I-CAN-Speed"}]
-    },
-    {
       "name": "Domain Detector",
       "description": "Collaborated on an AI model that recognizes the hand-signs from the anime Jujutsu Kaisen. Using a custom-trained TensorFlow model and MediaPipe’s hand-tracking, the system tracks 21 skeletal landmarks in real-time to classify which specific hand sign is being used. This project involved creating a custom neural network from scratch, handling complex dependency management in a Linux environment, and training a lightweight model capable of real-time detection without requiring a dedicated GPU.",
       "media": {
@@ -95,8 +95,8 @@
           "./assets/neutral.png"
         ]
       },
-      "tags": ["Python", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "Scikit-Learn"],
-      "highlights":["Created a custom process to record hand movements", "Reached a 95%+ success rate in identifying the correct gestures in real-time"],
+      "tags": ["Python", "Linux", "MediaPipe", "OpenCV", "TensorFlow", "scikit-learn"],
+      "highlights":["Created a custom process to record hand movements", "Reached a 93%+ success rate in identifying the correct gestures in real-time"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/domain-computer-vision" }]
     },
     {
@@ -110,7 +110,7 @@
           "./assets/secondBrain3.png"
         ]
       },
-      "tags": ["Python", "Slack API", "Git", "Llama 3.3 70B Instruct"],
+      "tags": ["Python", "Slack API", "Git", "Llama 3.3 70B Instruct", "Cursor"],
       "highlights": ["Built using Python, Slack API, and Llama 3.3 70B Instruct", "Implemented with AI assisted tools including Cursor agents."],
       "links": [{ "label": "Github", "url": "https://github.com/codepointpen/slack"}]
     },
@@ -128,7 +128,7 @@
           "./assets/splits.gif"
         ]
       },
-      "tags": ["Python", "Flask", "HTML", "CSS", "JavaScript"],
+      "tags": ["Python", "Flask", "Render", "PostgreSQL", "JavaScript", "Cursor"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/Splitsies" }]
     },
     {
@@ -155,7 +155,7 @@
           "./assets/teds_clanker.png"
         ]
       },
-      "tags": ["Python", "Flask", "Discord API"],
+      "tags": ["Python", "Flask","REST API", "Render", "Git", "Discord API"],
       "highlights": ["Implemented custom API endpoints for real-time management of users location, reducing manual configuration time by 30%.", "Deployed to Render Cloud hosting ensuring 99% uptime and continuous 24/7 operation."],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/discord-auto-msg" }]
     },
@@ -183,13 +183,22 @@
           "./assets/portfolioPage.png"
         ]
       },
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Cursor", "Git"],
       "links": [{ "label": "Github", "url": "https://github.com/carlzhng/carlzheng.github.io" }]
     }
   ],
   "about": {
     "subtitle": "Aspiring Computer Engineer, decent guitar player, and LeBrons #1 fan",
     "awards": [
+      {
+        "title": "Dean's Research Award",
+        "subtitle": "Awarded $750 for being selected as a DRA intern for the Fall 2026 term to pursue a research project under a faculty member. Issued by the University of Alberta."
+      },
+      {
+        "title": "PCB Basic Design Course",
+        "subtitle": "Issued by Altium Education and completed in October 2026. Demonstrates the completion of a comprehensive course on the fundamentals of PCB design, manufacturing, and testing.",
+        "file": "./assets/certificates/pcbCourse.pdf"
+      },
       {
         "title": "Machine Learning Specialization",
         "subtitle": "Issued by Coursera and completed in August 2026. Demonstrates the completion of a comprehensive 3 course specialization on the fundamentals of machine learning.",
