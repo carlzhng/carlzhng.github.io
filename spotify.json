@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-10-12T22:45:17Z",
+  "updatedAt": "2026-10-13T05:49:28Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-13T04:34:58.252Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-13T04:29:52.613Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-10-13T04:26:38.157Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-13T04:24:17.786Z"
+    },
     {
       "id": "2UVbBKQOdFAekPTRsnkzcf",
       "name": "Stir Fry",
@@ -9,88 +45,43 @@
       "album": "Culture II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-12T20:58:25.045Z"
+      "playedAt": "2026-10-13T04:20:38.140Z"
     },
     {
-      "id": "1pvNr7hvNPWSr52TWQFhLs",
-      "name": "I THINK YOU'RE SPECIAL",
-      "artists": "Justin Bieber, Tems",
-      "album": "SWAG LIVE FROM COACHELLA (Weekend I)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02cd94f516227c9a79df614af3",
-      "url": "https://open.spotify.com/track/1pvNr7hvNPWSr52TWQFhLs",
-      "playedAt": "2026-10-12T08:45:25.904Z"
+      "id": "3kdDccXEVz0snh6mcL4eFj",
+      "name": "YK",
+      "artists": "Cean Jr.",
+      "album": "YK",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d50ca0abee769473597deea3",
+      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj",
+      "playedAt": "2026-10-13T04:17:27.237Z"
     },
     {
-      "id": "69drsKhVwZodNfkDIHELbQ",
-      "name": "23",
-      "artists": "halfadedd",
-      "album": "23",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ed7dc468e394c7ac6e1c1f9c",
-      "url": "https://open.spotify.com/track/69drsKhVwZodNfkDIHELbQ",
-      "playedAt": "2026-10-12T08:42:40.787Z"
+      "id": "1C5utO1I8FoSIn6g1R5DAZ",
+      "name": "If You\u2019re Too Shy (Let Me Know)",
+      "artists": "The 1975",
+      "album": "Notes On A Conditional Form",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
+      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
+      "playedAt": "2026-10-13T03:30:58.176Z"
     },
     {
-      "id": "7Au27LIvJ36ESI79bobPWu",
-      "name": "Running",
-      "artists": "Dahi, Childish Gambino",
-      "album": "Running",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3f4461bcf2d09893fcb0f12",
-      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu",
-      "playedAt": "2026-10-12T08:40:34.435Z"
+      "id": "3kKPZFQse4LtbnMRhnAlEO",
+      "name": "doom",
+      "artists": "Steve Lacy",
+      "album": "Oh yeah?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
+      "playedAt": "2026-10-13T03:08:24.796Z"
     },
     {
-      "id": "6Xom58OOXk2SoU711L2IXO",
-      "name": "Moscow Mule",
-      "artists": "Bad Bunny",
-      "album": "Un Verano Sin Ti",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO",
-      "playedAt": "2026-10-12T08:36:21.118Z"
-    },
-    {
-      "id": "42D9aaKTLw47faFhRCQfHF",
-      "name": "Blah Blah",
-      "artists": "Joji",
-      "album": "Piss In The Wind (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
-      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
-      "playedAt": "2026-10-12T08:32:14.583Z"
-    },
-    {
-      "id": "7h2nmmoWDi2UpfYKLKWLYB",
-      "name": "Sunflower",
-      "artists": "Rex Orange County",
-      "album": "Sunflower",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB",
-      "playedAt": "2026-10-12T08:29:32.346Z"
-    },
-    {
-      "id": "5LxvwujISqiB8vpRYv887S",
-      "name": "I Want You Back",
-      "artists": "The Jackson 5",
-      "album": "Diana Ross Presents The Jackson 5",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216aaf05fe82237576a7d0e38",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
-      "playedAt": "2026-10-12T08:25:19.486Z"
-    },
-    {
-      "id": "1WLEBdSUPHhdDOHXqC5dK4",
-      "name": "SUPAFICIAL",
-      "artists": "Isaiah Rashad",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/1WLEBdSUPHhdDOHXqC5dK4",
-      "playedAt": "2026-10-12T08:22:22.489Z"
-    },
-    {
-      "id": "4GaWuh2hzwAINlM7jwxmGz",
-      "name": "Secondhand",
-      "artists": "sincerely Lue.",
-      "album": "Secondhand",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f29891e948136f43b79085a",
-      "url": "https://open.spotify.com/track/4GaWuh2hzwAINlM7jwxmGz",
-      "playedAt": "2026-10-12T08:17:37.088Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-13T02:59:51.969Z"
     }
   ]
 }
