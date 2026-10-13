@@ -1,87 +1,96 @@
 {
-  "updatedAt": "2026-10-13T13:43:04Z",
+  "updatedAt": "2026-10-13T20:06:22Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-13T04:34:58.252Z"
+      "id": "3QLjDkgLh9AOEHlhQtDuhs",
+      "name": "Best I Ever Had",
+      "artists": "Drake",
+      "album": "So Far Gone",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254ef13c30a024a7f1ba79efd",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs",
+      "playedAt": "2026-10-13T19:48:12.475Z"
     },
     {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
+      "id": "1hz7SRTGUNAtIQ46qiNv2p",
+      "name": "GONE, GONE / THANK YOU",
+      "artists": "Tyler, The Creator",
+      "album": "IGOR",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb",
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p",
+      "playedAt": "2026-10-13T19:43:54.214Z"
+    },
+    {
+      "id": "1IOzlMpIx4oLxo88nNbd1u",
+      "name": "SAVE SOME FOR ME (feat. Kehlani)",
+      "artists": "GIV\u0112ON, Kehlani",
+      "album": "BELOVED: ACT II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0240804dba7b99de3125438c71",
+      "url": "https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u",
+      "playedAt": "2026-10-13T19:37:38.390Z"
+    },
+    {
+      "id": "4riDfclV7kPDT9D58FpmHd",
+      "name": "Some",
+      "artists": "Steve Lacy",
+      "album": "Some",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
+      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
+      "playedAt": "2026-10-13T19:29:28.307Z"
+    },
+    {
+      "id": "3hxIUxnT27p5WcmjGUXNwx",
+      "name": "Shut up My Moms Calling",
+      "artists": "Hotel Ugly",
+      "album": "Shut up My Moms Calling",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02350ab7a839c04bfd5225a9f5",
+      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+      "playedAt": "2026-10-13T19:27:29.395Z"
+    },
+    {
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
       "artists": "The Kid LAROI",
       "album": "BEFORE I FORGET (DELUXE)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-13T04:29:52.613Z"
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-10-13T19:24:44.548Z"
     },
     {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-13T04:26:38.157Z"
+      "id": "6AX3i1TluzbvpJpKrY7NoD",
+      "name": "SWEET SPOT",
+      "artists": "Justin Bieber, Sexyy Red",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
+      "playedAt": "2026-10-13T15:27:51.475Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-13T04:24:17.786Z"
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-10-13T15:24:57.348Z"
     },
     {
-      "id": "2UVbBKQOdFAekPTRsnkzcf",
-      "name": "Stir Fry",
-      "artists": "Migos",
-      "album": "Culture II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-13T04:20:38.140Z"
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-13T15:18:35.464Z"
     },
     {
-      "id": "3kdDccXEVz0snh6mcL4eFj",
-      "name": "YK",
-      "artists": "Cean Jr.",
-      "album": "YK",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d50ca0abee769473597deea3",
-      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj",
-      "playedAt": "2026-10-13T04:17:27.237Z"
-    },
-    {
-      "id": "1C5utO1I8FoSIn6g1R5DAZ",
-      "name": "If You\u2019re Too Shy (Let Me Know)",
-      "artists": "The 1975",
-      "album": "Notes On A Conditional Form",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024400af0debecb047939c9254",
-      "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
-      "playedAt": "2026-10-13T03:30:58.176Z"
-    },
-    {
-      "id": "3kKPZFQse4LtbnMRhnAlEO",
-      "name": "doom",
-      "artists": "Steve Lacy",
-      "album": "Oh yeah?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO",
-      "playedAt": "2026-10-13T03:08:24.796Z"
-    },
-    {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-13T02:59:51.969Z"
+      "id": "5jTIePmUbBUVjJnpZeGiM3",
+      "name": "We Find Love",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/5jTIePmUbBUVjJnpZeGiM3",
+      "playedAt": "2026-10-13T15:12:39.362Z"
     }
   ]
 }
