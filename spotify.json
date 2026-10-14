@@ -1,7 +1,69 @@
 {
-  "updatedAt": "2026-10-14T18:20:43Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-14T23:00:35Z",
+  "nowPlaying": {
+    "id": "02VBYrHfVwfEWXk5DXyf0T",
+    "name": "Leave The Door Open",
+    "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+    "album": "An Evening With Silk Sonic",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8",
+    "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
+    "isPlaying": true
+  },
   "recent": [
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-14T22:54:40.270Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-14T20:01:48.804Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-14T18:54:07.664Z"
+    },
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-14T18:51:19.002Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-14T18:50:03.215Z"
+    },
+    {
+      "id": "4kbj5MwxO1bq9wjT5g9HaA",
+      "name": "Shut Up and Dance",
+      "artists": "WALK THE MOON",
+      "album": "TALKING IS HARD",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc39eb9eb3f3824a58f338dc",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
+      "playedAt": "2026-10-14T18:37:32.022Z"
+    },
     {
       "id": "6PGoSes0D9eUDeeAafB2As",
       "name": "LOVE. FEAT. ZACARI.",
