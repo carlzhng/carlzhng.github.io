@@ -1,96 +1,15 @@
 {
-  "updatedAt": "2026-10-14T00:55:13Z",
+  "updatedAt": "2026-10-14T07:11:59Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "1X9ThmzfVCFalqlP5Nhrbk",
-      "name": "Mind Enhancement",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/1X9ThmzfVCFalqlP5Nhrbk",
-      "playedAt": "2026-10-13T20:58:42.813Z"
-    },
-    {
-      "id": "3UD64qXQAHoz4tInoGneeT",
-      "name": "Neural Spark",
-      "artists": "Brainy",
-      "album": "Gamma Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02502161c796d82ce6e4a3f6f0",
-      "url": "https://open.spotify.com/track/3UD64qXQAHoz4tInoGneeT",
-      "playedAt": "2026-10-13T20:56:20.205Z"
-    },
-    {
-      "id": "5TxAuACV81GtsqZ567cc91",
-      "name": "Active Recall",
-      "artists": "Brainy",
-      "album": "Memorization",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021470b05fc52b7f12f974c2b3",
-      "url": "https://open.spotify.com/track/5TxAuACV81GtsqZ567cc91",
-      "playedAt": "2026-10-13T20:54:07.711Z"
-    },
-    {
-      "id": "0LgplLtg4g8N8paUWEz7GK",
-      "name": "10 Hz Stress Reduction - Binaural Beats",
-      "artists": "Miracle Tones, Binaural Beats MT",
-      "album": "Binaural Beats - Focus (Alpha Waves)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02545c1ade88b5eb5f2292aad3",
-      "url": "https://open.spotify.com/track/0LgplLtg4g8N8paUWEz7GK",
-      "playedAt": "2026-10-13T20:51:55.244Z"
-    },
-    {
-      "id": "2ws6BPhVktw35wc42DKXjO",
-      "name": "Mind Hack",
-      "artists": "Brainy",
-      "album": "Intense Focus",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026f482c2c21dca4d54f202bec",
-      "url": "https://open.spotify.com/track/2ws6BPhVktw35wc42DKXjO",
-      "playedAt": "2026-10-13T20:49:49.386Z"
-    },
-    {
-      "id": "6wn3esKHr7UhgR7yE45agX",
-      "name": "Brain Boost",
-      "artists": "Brainy, Feed Your Soul",
-      "album": "Theta Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0230b22d1f0c2346315a9ea52d",
-      "url": "https://open.spotify.com/track/6wn3esKHr7UhgR7yE45agX",
-      "playedAt": "2026-10-13T20:47:28.854Z"
-    },
-    {
-      "id": "47mUHZGX8rZVD4LIQjNynO",
-      "name": "Brain Waves",
-      "artists": "Brainy",
-      "album": "Brain Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276d0d94d6133e7274f54cd2c",
-      "url": "https://open.spotify.com/track/47mUHZGX8rZVD4LIQjNynO",
-      "playedAt": "2026-10-13T20:45:26.360Z"
-    },
-    {
-      "id": "2V370S09OCCjPhKF6AAEHP",
-      "name": "12 Hz High Level Cognition",
-      "artists": "Brainy",
-      "album": "Alpha Waves",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029bfd7202c73e6052041b888f",
-      "url": "https://open.spotify.com/track/2V370S09OCCjPhKF6AAEHP",
-      "playedAt": "2026-10-13T20:43:13.887Z"
-    },
-    {
-      "id": "1rKQvG3us6yWYYrFqSJbP5",
-      "name": "40 Hz Brain Waves",
-      "artists": "Brainy",
-      "album": "40 Hz Gamma",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0278d930d88a0dc4095f181588",
-      "url": "https://open.spotify.com/track/1rKQvG3us6yWYYrFqSJbP5",
-      "playedAt": "2026-10-13T20:40:57.423Z"
-    },
-    {
-      "id": "6Nnz45KtRko0iE00zLKSf3",
-      "name": "80 Hz Gamma Waves - Binaural Beats",
-      "artists": "Miracle Tones, Binaural Beats MT",
-      "album": "Binaural Beats - Peak Awareness (Gamma Waves)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e860cd9e7130911acabaf2e6",
-      "url": "https://open.spotify.com/track/6Nnz45KtRko0iE00zLKSf3",
-      "playedAt": "2026-10-13T20:38:32.925Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-14T04:40:10.596Z"
     }
   ]
 }
