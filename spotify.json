@@ -1,15 +1,24 @@
 {
-  "updatedAt": "2026-10-14T13:22:26Z",
+  "updatedAt": "2026-10-14T18:20:43Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-14T04:40:10.596Z"
+      "id": "6PGoSes0D9eUDeeAafB2As",
+      "name": "LOVE. FEAT. ZACARI.",
+      "artists": "Kendrick Lamar, Zacari",
+      "album": "DAMN.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As",
+      "playedAt": "2026-10-14T18:08:44.542Z"
+    },
+    {
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-10-14T18:04:59.634Z"
     }
   ]
 }
