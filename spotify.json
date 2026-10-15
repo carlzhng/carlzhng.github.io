@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-14T23:00:35Z",
+  "updatedAt": "2026-10-15T03:34:27Z",
   "nowPlaying": {
-    "id": "02VBYrHfVwfEWXk5DXyf0T",
-    "name": "Leave The Door Open",
-    "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
-    "album": "An Evening With Silk Sonic",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8",
-    "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
+    "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+    "name": "Without You",
+    "artists": "Appleby",
+    "album": "Almost Okay",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+    "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
     "isPlaying": true
   },
   "recent": [
     {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-14T22:54:40.270Z"
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-10-15T03:32:02.638Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-15T03:28:15.745Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-14T20:01:48.804Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-14T18:54:07.664Z"
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-15T03:24:26.290Z"
     },
     {
       "id": "24iKWzQ8le376B6Wc2Gsyx",
@@ -44,7 +44,7 @@
       "album": "BAD HONEY (acoustic cover)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
       "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-14T18:51:19.002Z"
+      "playedAt": "2026-10-15T03:21:30.887Z"
     },
     {
       "id": "4Cl3M8C8goTBaoysf9jb7e",
@@ -53,34 +53,52 @@
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
       "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-14T18:50:03.215Z"
+      "playedAt": "2026-10-15T03:19:16.674Z"
     },
     {
-      "id": "4kbj5MwxO1bq9wjT5g9HaA",
-      "name": "Shut Up and Dance",
-      "artists": "WALK THE MOON",
-      "album": "TALKING IS HARD",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc39eb9eb3f3824a58f338dc",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
-      "playedAt": "2026-10-14T18:37:32.022Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-15T03:15:54.981Z"
     },
     {
-      "id": "6PGoSes0D9eUDeeAafB2As",
-      "name": "LOVE. FEAT. ZACARI.",
-      "artists": "Kendrick Lamar, Zacari",
-      "album": "DAMN.",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
-      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As",
-      "playedAt": "2026-10-14T18:08:44.542Z"
+      "id": "7IVukH71OXfAu3KudrrizN",
+      "name": "Japanese Denim",
+      "artists": "Daniel Caesar",
+      "album": "Get You - Single",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027465bef53d9e3a27c63c7a1d",
+      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN",
+      "playedAt": "2026-10-15T02:39:01.107Z"
     },
     {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-10-14T18:04:59.634Z"
+      "id": "6rk70rot8W6WeJtHMnSe1y",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
+      "playedAt": "2026-10-15T02:34:30.019Z"
+    },
+    {
+      "id": "2fXwCWkh6YG5zU1IyvQrbs",
+      "name": "Broken Clocks",
+      "artists": "SZA",
+      "album": "Ctrl",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs",
+      "playedAt": "2026-10-15T02:32:46.108Z"
+    },
+    {
+      "id": "26r52zLg6ltidZwQ7EQ0wM",
+      "name": "Ceiling (Freestyle)",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM",
+      "playedAt": "2026-10-15T02:28:54.297Z"
     }
   ]
 }
