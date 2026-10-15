@@ -1,96 +1,104 @@
 {
-  "updatedAt": "2026-10-15T19:43:55Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-15T22:55:24Z",
+  "nowPlaying": {
+    "id": "2mOIjRSeiRRNVBv8PpoYUC",
+    "name": "AVALANCHE",
+    "artists": "GIV\u0112ON",
+    "album": "BELOVED",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+    "url": "https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-15T19:23:50.134Z"
+      "id": "5B0kgjHULYJhAQkK5XsMoC",
+      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "artists": "Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign",
+      "album": "CALL ME IF YOU GET LOST",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02940aa635eea98719f6ca4ad9",
+      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC",
+      "playedAt": "2026-10-15T22:54:53.148Z"
     },
     {
-      "id": "2k9cIkCVD4zotzFL6xj6hg",
-      "name": "Player Two - From \"Don't Tell Mom The Babysitter's Dead\"",
-      "artists": "Jordan Ward",
-      "album": "Player Two (From \"Don't Tell Mom The Babysitter's Dead\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c12a7e77f243d24e4d26d560",
-      "url": "https://open.spotify.com/track/2k9cIkCVD4zotzFL6xj6hg",
-      "playedAt": "2026-10-15T19:20:53.121Z"
+      "id": "2g6tReTlM2Akp41g0HaeXN",
+      "name": "Die Hard",
+      "artists": "Kendrick Lamar, Blxst, Amanda Reifer",
+      "album": "Mr. Morale & The Big Steppers",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN",
+      "playedAt": "2026-10-15T22:52:51.004Z"
     },
     {
-      "id": "4FUQtedaG22FWZ6lGyRApm",
-      "name": "Rosary (feat. Travis Scott)",
-      "artists": "Don Toliver, Travis Scott",
-      "album": "OCTANE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0225c28f3c9fbdbab1a88dd619",
-      "url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm",
-      "playedAt": "2026-10-15T19:18:14.389Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-15T22:42:29.730Z"
     },
     {
-      "id": "2Hh3ETdQKrmSI3QS0hme7g",
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "artists": "Metro Boomin, Future, Don Toliver",
-      "album": "HEROES & VILLAINS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c4fee55d7b51479627c31f89",
-      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-      "playedAt": "2026-10-15T19:14:59.317Z"
-    },
-    {
-      "id": "3zakx7RAwdkUQlOoQ7SJRt",
-      "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
-      "artists": "Brent Faiyaz, Dahi, Tyler, The Creator",
-      "album": "WASTELAND",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0269f63a842ea91ca7c522593a",
-      "url": "https://open.spotify.com/track/3zakx7RAwdkUQlOoQ7SJRt",
-      "playedAt": "2026-10-15T19:11:38.906Z"
-    },
-    {
-      "id": "0uxSUdBrJy9Un0EYoBowng",
-      "name": "20 Min",
-      "artists": "Lil Uzi Vert",
-      "album": "Luv Is Rage 2 (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d7e1c68ed8e464b03095afda",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng",
-      "playedAt": "2026-10-15T19:08:03.843Z"
-    },
-    {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-10-15T19:04:22.633Z"
-    },
-    {
-      "id": "21jGcNKet2qwijlDFuPiPb",
-      "name": "Circles",
-      "artists": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-10-15T19:01:37.217Z"
-    },
-    {
-      "id": "2fXwCWkh6YG5zU1IyvQrbs",
-      "name": "Broken Clocks",
+      "id": "1bjeWoagtHmUKputLVyDxQ",
+      "name": "Saturn",
       "artists": "SZA",
-      "album": "Ctrl",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs",
-      "playedAt": "2026-10-15T18:56:15.076Z"
+      "album": "Saturn",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02358f9708c2cc44b153577238",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ",
+      "playedAt": "2026-10-15T22:35:25.702Z"
     },
     {
-      "id": "6vjpQIdABqntoe3zPazPec",
-      "name": "Shabang",
-      "artists": "Drake",
-      "album": "ICEMAN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
-      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec",
-      "playedAt": "2026-10-15T18:52:23.332Z"
+      "id": "7jvCeWOSnJs2N3spqobWnO",
+      "name": "Skate",
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "album": "An Evening With Silk Sonic",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
+      "playedAt": "2026-10-15T22:32:19.011Z"
+    },
+    {
+      "id": "0kWQn0wLok1lawHAkGSMW9",
+      "name": "I Like That",
+      "artists": "Bazzi",
+      "album": "Infinite Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
+      "playedAt": "2026-10-15T22:28:55.383Z"
+    },
+    {
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-10-15T22:26:16.762Z"
+    },
+    {
+      "id": "3g3GjHuxntUfUd4t23rGTZ",
+      "name": "Cool",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/3g3GjHuxntUfUd4t23rGTZ",
+      "playedAt": "2026-10-15T22:22:53.625Z"
+    },
+    {
+      "id": "5iwUwADk4uQUvgMF6PlTRl",
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "artists": "Brent Faiyaz, FELIX!, Tommy Richman",
+      "album": "Larger Than Life",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ceb160561269ab00b1df9678",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl",
+      "playedAt": "2026-10-15T22:18:48.891Z"
+    },
+    {
+      "id": "3hxIUxnT27p5WcmjGUXNwx",
+      "name": "Shut up My Moms Calling",
+      "artists": "Hotel Ugly",
+      "album": "Shut up My Moms Calling",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02350ab7a839c04bfd5225a9f5",
+      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
+      "playedAt": "2026-10-15T22:15:50.466Z"
     }
   ]
 }
