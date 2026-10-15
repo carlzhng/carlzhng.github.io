@@ -1,15 +1,34 @@
 {
-  "updatedAt": "2026-10-15T03:34:27Z",
-  "nowPlaying": {
-    "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
-    "name": "Without You",
-    "artists": "Appleby",
-    "album": "Almost Okay",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
-    "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-15T08:55:58Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-15T03:51:17.213Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-15T03:40:22.663Z"
+    },
+    {
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-10-15T03:34:52.483Z"
+    },
     {
       "id": "3wXnSQo1tiVjFo8iul55pU",
       "name": "HONEYBUTTER",
@@ -56,15 +75,6 @@
       "playedAt": "2026-10-15T03:19:16.674Z"
     },
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-15T03:15:54.981Z"
-    },
-    {
       "id": "7IVukH71OXfAu3KudrrizN",
       "name": "Japanese Denim",
       "artists": "Daniel Caesar",
@@ -72,33 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027465bef53d9e3a27c63c7a1d",
       "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN",
       "playedAt": "2026-10-15T02:39:01.107Z"
-    },
-    {
-      "id": "6rk70rot8W6WeJtHMnSe1y",
-      "name": "You",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/6rk70rot8W6WeJtHMnSe1y",
-      "playedAt": "2026-10-15T02:34:30.019Z"
-    },
-    {
-      "id": "2fXwCWkh6YG5zU1IyvQrbs",
-      "name": "Broken Clocks",
-      "artists": "SZA",
-      "album": "Ctrl",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs",
-      "playedAt": "2026-10-15T02:32:46.108Z"
-    },
-    {
-      "id": "26r52zLg6ltidZwQ7EQ0wM",
-      "name": "Ceiling (Freestyle)",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM",
-      "playedAt": "2026-10-15T02:28:54.297Z"
     }
   ]
 }
