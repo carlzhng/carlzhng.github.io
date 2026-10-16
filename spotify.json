@@ -1,51 +1,32 @@
 {
-  "updatedAt": "2026-10-16T19:23:11Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-16T22:36:43Z",
+  "nowPlaying": {
+    "id": "0Dg0U14egivPueig6YY9HP",
+    "name": "Don't Be That Guy",
+    "artists": "Jhen\u00e9 Aiko",
+    "album": "Westside Whimsy",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+    "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-16T18:06:19.267Z"
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-16T22:34:14.793Z"
     },
     {
-      "id": "3vCVqkOZHzEXoi1luT9HDt",
-      "name": "When It Comes To Loving You",
-      "artists": "Cody Simpson",
-      "album": "Baby Blue / When It Comes To Loving You",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
-      "url": "https://open.spotify.com/track/3vCVqkOZHzEXoi1luT9HDt",
-      "playedAt": "2026-10-16T17:56:30.224Z"
-    },
-    {
-      "id": "0zTcYZot5zfBwOQkdv02ls",
-      "name": "Baby Blue",
-      "artists": "Cody Simpson",
-      "album": "Baby Blue / When It Comes To Loving You",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls",
-      "playedAt": "2026-10-16T17:39:39.928Z"
-    },
-    {
-      "id": "1IOzlMpIx4oLxo88nNbd1u",
-      "name": "SAVE SOME FOR ME (feat. Kehlani)",
-      "artists": "GIV\u0112ON, Kehlani",
-      "album": "BELOVED: ACT II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0240804dba7b99de3125438c71",
-      "url": "https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u",
-      "playedAt": "2026-10-16T17:36:19.139Z"
-    },
-    {
-      "id": "4ygJHbpMGwZknVFaRikdFr",
-      "name": "B's On The Table (feat. 21 Savage)",
-      "artists": "Drake, 21 Savage",
-      "album": "ICEMAN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
-      "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr",
-      "playedAt": "2026-10-16T17:33:14.647Z"
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-16T22:32:00.687Z"
     },
     {
       "id": "1epujjBDhuqmYAwAhR29xI",
@@ -54,25 +35,61 @@
       "album": "Pilgrim's Paradise",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-16T17:27:49.623Z"
+      "playedAt": "2026-10-16T22:28:32.499Z"
     },
     {
-      "id": "1ZyvjjCfzDazY8gVcSVDaR",
-      "name": "DAISIES",
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-16T22:23:26.968Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-10-16T22:20:12.627Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
       "artists": "Justin Bieber",
-      "album": "SWAG LIVE FROM COACHELLA (Weekend II)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a78c158c662129dcc4de437c",
-      "url": "https://open.spotify.com/track/1ZyvjjCfzDazY8gVcSVDaR",
-      "playedAt": "2026-10-16T15:51:58.299Z"
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-16T22:17:52.339Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-16T15:44:51.887Z"
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-16T22:13:47.622Z"
+    },
+    {
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-10-16T22:09:16.087Z"
+    },
+    {
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-10-16T22:06:26.329Z"
     }
   ]
 }
