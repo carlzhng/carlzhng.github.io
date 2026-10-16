@@ -1,104 +1,15 @@
 {
-  "updatedAt": "2026-10-16T03:30:14Z",
-  "nowPlaying": {
-    "id": "1epujjBDhuqmYAwAhR29xI",
-    "name": "Death & Taxes",
-    "artists": "Daniel Caesar",
-    "album": "Pilgrim's Paradise",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-16T08:48:02Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-10-16T03:17:29.916Z"
-    },
-    {
-      "id": "2HE3rYFs3f4TxuxiUBh7U7",
-      "name": "4getu",
-      "artists": "sicknote",
-      "album": "4getu",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
-      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
-      "playedAt": "2026-10-16T03:16:32.037Z"
-    },
-    {
-      "id": "7xBXBE6iPfjtZirrFXhEPo",
-      "name": "Back To U (Theme From \"sicknote\")",
-      "artists": "sicknote",
-      "album": "Back To U (Theme From \"sicknote\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
-      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
-      "playedAt": "2026-10-16T03:12:46.700Z"
-    },
-    {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-10-16T03:08:59.261Z"
-    },
-    {
-      "id": "1b104gnwd0zxCIhZPNLyf8",
-      "name": "Need For Speed",
-      "artists": "Kim Petras",
-      "album": "Need For Speed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
-      "playedAt": "2026-10-16T03:06:27.535Z"
-    },
-    {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-16T03:03:11.863Z"
-    },
-    {
-      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
-      "name": "I Don't Know Why I Said That",
-      "artists": "Me As A Girl",
-      "album": "I Don't Know Why I Said That",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-10-16T02:59:48.114Z"
-    },
-    {
-      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
-      "name": "Without You",
-      "artists": "Appleby",
-      "album": "Almost Okay",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
-      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-      "playedAt": "2026-10-16T02:57:01.338Z"
-    },
-    {
-      "id": "3wXnSQo1tiVjFo8iul55pU",
-      "name": "HONEYBUTTER",
-      "artists": "Isaiah Falls, Mahalia",
-      "album": "LVRS PARADISE (SIDE B)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-      "playedAt": "2026-10-16T02:54:11.580Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-16T02:47:38.332Z"
+      "id": "5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artists": "One Direction",
+      "album": "FOUR (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ",
+      "playedAt": "2026-10-16T07:10:13.782Z"
     }
   ]
 }
