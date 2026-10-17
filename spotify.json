@@ -1,42 +1,96 @@
 {
-  "updatedAt": "2026-10-17T20:14:42Z",
+  "updatedAt": "2026-10-17T23:48:24Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-17T20:01:48.395Z"
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-10-17T22:28:23.875Z"
     },
     {
-      "id": "2UVbBKQOdFAekPTRsnkzcf",
-      "name": "Stir Fry",
-      "artists": "Migos",
-      "album": "Culture II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-17T19:55:02.551Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-10-17T22:25:34.402Z"
     },
     {
-      "id": "3kdDccXEVz0snh6mcL4eFj",
-      "name": "YK",
-      "artists": "Cean Jr.",
-      "album": "YK",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d50ca0abee769473597deea3",
-      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj",
-      "playedAt": "2026-10-17T19:51:51.776Z"
+      "id": "1b104gnwd0zxCIhZPNLyf8",
+      "name": "Need For Speed",
+      "artists": "Kim Petras",
+      "album": "Need For Speed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+      "playedAt": "2026-10-17T22:23:02.730Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-10-17T22:19:47.129Z"
+    },
+    {
+      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
+      "name": "I Don't Know Why I Said That",
+      "artists": "Me As A Girl",
+      "album": "I Don't Know Why I Said That",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
+      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
+      "playedAt": "2026-10-17T22:16:23.375Z"
+    },
+    {
+      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
+      "name": "Without You",
+      "artists": "Appleby",
+      "album": "Almost Okay",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
+      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
+      "playedAt": "2026-10-17T22:13:36.709Z"
+    },
+    {
+      "id": "3wXnSQo1tiVjFo8iul55pU",
+      "name": "HONEYBUTTER",
+      "artists": "Isaiah Falls, Mahalia",
+      "album": "LVRS PARADISE (SIDE B)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
+      "playedAt": "2026-10-17T22:10:46.972Z"
+    },
+    {
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-10-17T22:07:00.233Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-17T19:44:08.919Z"
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-17T22:03:10.868Z"
+    },
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-17T22:00:15.584Z"
     }
   ]
 }
