@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-10-17T16:52:55Z",
+  "updatedAt": "2026-10-17T20:14:42Z",
   "nowPlaying": null,
   "recent": [
-    {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-10-17T01:11:41.922Z"
-    },
-    {
-      "id": "3kdDccXEVz0snh6mcL4eFj",
-      "name": "YK",
-      "artists": "Cean Jr.",
-      "album": "YK",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d50ca0abee769473597deea3",
-      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj",
-      "playedAt": "2026-10-17T01:05:39.338Z"
-    },
     {
       "id": "4jEP389ge8wJkRcBC0dJMj",
       "name": "Little Lightning",
@@ -27,7 +9,7 @@
       "album": "Natural Law",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
       "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-17T01:02:48.560Z"
+      "playedAt": "2026-10-17T20:01:48.395Z"
     },
     {
       "id": "2UVbBKQOdFAekPTRsnkzcf",
@@ -36,16 +18,25 @@
       "album": "Culture II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-17T00:49:06.541Z"
+      "playedAt": "2026-10-17T19:55:02.551Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-17T00:01:23.009Z"
+      "id": "3kdDccXEVz0snh6mcL4eFj",
+      "name": "YK",
+      "artists": "Cean Jr.",
+      "album": "YK",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d50ca0abee769473597deea3",
+      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj",
+      "playedAt": "2026-10-17T19:51:51.776Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-17T19:44:08.919Z"
     }
   ]
 }
