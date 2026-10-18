@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-17T23:48:24Z",
+  "updatedAt": "2026-10-18T03:25:46Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "7xBXBE6iPfjtZirrFXhEPo",
+      "name": "Back To U (Theme From \"sicknote\")",
+      "artists": "sicknote",
+      "album": "Back To U (Theme From \"sicknote\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
+      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
+      "playedAt": "2026-10-17T22:29:00.018Z"
+    },
     {
       "id": "3LdHQCpIe5HQKsimwG4izX",
       "name": "GET EVEN (feat. GIVEON)",
@@ -82,15 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
       "playedAt": "2026-10-17T22:03:10.868Z"
-    },
-    {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-17T22:00:15.584Z"
     }
   ]
 }
