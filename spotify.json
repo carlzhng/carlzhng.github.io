@@ -1,96 +1,51 @@
 {
-  "updatedAt": "2026-10-18T03:25:46Z",
+  "updatedAt": "2026-10-18T08:37:41Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "7xBXBE6iPfjtZirrFXhEPo",
-      "name": "Back To U (Theme From \"sicknote\")",
-      "artists": "sicknote",
-      "album": "Back To U (Theme From \"sicknote\")",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
-      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
-      "playedAt": "2026-10-17T22:29:00.018Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-18T07:02:54.783Z"
     },
     {
-      "id": "3LdHQCpIe5HQKsimwG4izX",
-      "name": "GET EVEN (feat. GIVEON)",
-      "artists": "The Kid LAROI, GIV\u0112ON",
-      "album": "GET EVEN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
-      "playedAt": "2026-10-17T22:28:23.875Z"
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-10-18T06:56:40.804Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-10-17T22:25:34.402Z"
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-18T06:52:16.421Z"
     },
     {
-      "id": "1b104gnwd0zxCIhZPNLyf8",
-      "name": "Need For Speed",
-      "artists": "Kim Petras",
-      "album": "Need For Speed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
-      "playedAt": "2026-10-17T22:23:02.730Z"
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-18T06:44:40.108Z"
     },
     {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-10-17T22:19:47.129Z"
-    },
-    {
-      "id": "0sGgseWHrfxZsCSLZ1YjtZ",
-      "name": "I Don't Know Why I Said That",
-      "artists": "Me As A Girl",
-      "album": "I Don't Know Why I Said That",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022374ee747dde1965373b42ce",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ",
-      "playedAt": "2026-10-17T22:16:23.375Z"
-    },
-    {
-      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
-      "name": "Without You",
-      "artists": "Appleby",
-      "album": "Almost Okay",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
-      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-      "playedAt": "2026-10-17T22:13:36.709Z"
-    },
-    {
-      "id": "3wXnSQo1tiVjFo8iul55pU",
-      "name": "HONEYBUTTER",
-      "artists": "Isaiah Falls, Mahalia",
-      "album": "LVRS PARADISE (SIDE B)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-      "playedAt": "2026-10-17T22:10:46.972Z"
-    },
-    {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-10-17T22:07:00.233Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-17T22:03:10.868Z"
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "playedAt": "2026-10-18T06:08:53.579Z"
     }
   ]
 }
