@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-18T20:12:50Z",
+  "updatedAt": "2026-10-18T23:57:20Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-10-18T23:35:08.936Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-18T23:32:54.728Z"
+    },
     {
       "id": "1epujjBDhuqmYAwAhR29xI",
       "name": "Death & Taxes",
@@ -9,25 +27,7 @@
       "album": "Pilgrim's Paradise",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-18T07:02:54.783Z"
-    },
-    {
-      "id": "1KA2JLeMi0Mo3hjO0442re",
-      "name": "SUPERPOSITION (feat. John Mayer)",
-      "artists": "Daniel Caesar, John Mayer",
-      "album": "CASE STUDY 01",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
-      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
-      "playedAt": "2026-10-18T06:56:40.804Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-18T06:52:16.421Z"
+      "playedAt": "2026-10-18T23:29:33.048Z"
     },
     {
       "id": "4jEP389ge8wJkRcBC0dJMj",
@@ -36,16 +36,52 @@
       "album": "Natural Law",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
       "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-18T06:44:40.108Z"
+      "playedAt": "2026-10-18T23:23:02.403Z"
     },
     {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-10-18T06:08:53.579Z"
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-18T23:20:55.655Z"
+    },
+    {
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-10-18T23:06:58.658Z"
+    },
+    {
+      "id": "0zTcYZot5zfBwOQkdv02ls",
+      "name": "Baby Blue",
+      "artists": "Cody Simpson",
+      "album": "Baby Blue / When It Comes To Loving You",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls",
+      "playedAt": "2026-10-18T22:59:54.625Z"
+    },
+    {
+      "id": "6At2biz7BNI7k2FGCoaqll",
+      "name": "PRIVATE",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
+      "playedAt": "2026-10-18T22:56:56.033Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-18T22:54:10.488Z"
     }
   ]
 }
