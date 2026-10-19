@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-10-18T23:57:20Z",
+  "updatedAt": "2026-10-19T04:17:13Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-10-19T01:34:39.257Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-19T01:31:28.489Z"
+    },
+    {
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-19T01:29:21.833Z"
+    },
+    {
+      "id": "7MLRXVVgkCGHJFa81dRnW7",
+      "name": "\u7136\u3089\u3070",
+      "artists": "Macaroni Empitsu",
+      "album": "\u7136\u3089\u3070",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0241a938e6f82b90566b75d79c",
+      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7",
+      "playedAt": "2026-10-19T01:18:47.290Z"
+    },
+    {
+      "id": "2cupzYHOSLmMqDHRVQfI9j",
+      "name": "Same Blue",
+      "artists": "OFFICIAL HIGE DANDISM",
+      "album": "Same Blue",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02409f76d5a323cf3c511701cb",
+      "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j",
+      "playedAt": "2026-10-19T01:14:57.684Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-10-19T00:09:30.847Z"
+    },
     {
       "id": "24iKWzQ8le376B6Wc2Gsyx",
       "name": "BAD HONEY - acoustic cover",
@@ -28,60 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
       "playedAt": "2026-10-18T23:29:33.048Z"
-    },
-    {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-18T23:23:02.403Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-18T23:20:55.655Z"
-    },
-    {
-      "id": "2UVbBKQOdFAekPTRsnkzcf",
-      "name": "Stir Fry",
-      "artists": "Migos",
-      "album": "Culture II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-18T23:06:58.658Z"
-    },
-    {
-      "id": "0zTcYZot5zfBwOQkdv02ls",
-      "name": "Baby Blue",
-      "artists": "Cody Simpson",
-      "album": "Baby Blue / When It Comes To Loving You",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls",
-      "playedAt": "2026-10-18T22:59:54.625Z"
-    },
-    {
-      "id": "6At2biz7BNI7k2FGCoaqll",
-      "name": "PRIVATE",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/6At2biz7BNI7k2FGCoaqll",
-      "playedAt": "2026-10-18T22:56:56.033Z"
-    },
-    {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-10-18T22:54:10.488Z"
     }
   ]
 }
