@@ -1,78 +1,24 @@
 {
-  "updatedAt": "2026-10-19T12:23:12Z",
+  "updatedAt": "2026-10-19T19:40:44Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2UVbBKQOdFAekPTRsnkzcf",
-      "name": "Stir Fry",
-      "artists": "Migos",
-      "album": "Culture II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-19T01:34:39.257Z"
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-10-19T19:38:45.963Z"
     },
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-19T01:31:28.489Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-19T01:29:21.833Z"
-    },
-    {
-      "id": "7MLRXVVgkCGHJFa81dRnW7",
-      "name": "\u7136\u3089\u3070",
-      "artists": "Macaroni Empitsu",
-      "album": "\u7136\u3089\u3070",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0241a938e6f82b90566b75d79c",
-      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7",
-      "playedAt": "2026-10-19T01:18:47.290Z"
-    },
-    {
-      "id": "2cupzYHOSLmMqDHRVQfI9j",
-      "name": "Same Blue",
-      "artists": "OFFICIAL HIGE DANDISM",
-      "album": "Same Blue",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02409f76d5a323cf3c511701cb",
-      "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j",
-      "playedAt": "2026-10-19T01:14:57.684Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-10-19T00:09:30.847Z"
-    },
-    {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-10-18T23:35:08.936Z"
-    },
-    {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-18T23:32:54.728Z"
+      "id": "0zaoWwS8RpE3LSDdmkg8TC",
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "artists": "Swae Lee, Jhen\u00e9 Aiko",
+      "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025843d11205f6dd6a2ab5f967",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC",
+      "playedAt": "2026-10-19T19:34:03.288Z"
     },
     {
       "id": "1epujjBDhuqmYAwAhR29xI",
@@ -81,7 +27,34 @@
       "album": "Pilgrim's Paradise",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-18T23:29:33.048Z"
+      "playedAt": "2026-10-19T19:27:13.779Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-19T19:12:23.749Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-19T18:11:45.954Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-10-19T17:58:26.041Z"
     }
   ]
 }
