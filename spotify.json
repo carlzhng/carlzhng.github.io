@@ -1,87 +1,77 @@
 {
-  "updatedAt": "2026-10-20T14:45:02Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-20T19:51:29Z",
+  "nowPlaying": {
+    "id": "1WnjySYjn5jpCtozwhTSV3",
+    "name": "Passionate",
+    "artists": "Khalid",
+    "album": "Sincere (Deluxe)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0297fd064ad3c969bf929b1b1a",
+    "url": "https://open.spotify.com/track/1WnjySYjn5jpCtozwhTSV3",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "26zAJ56cpmeCCski2mtW4n",
-      "name": "Open (feat. Majid Jordan)",
-      "artists": "Khalid, Majid Jordan",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
-      "url": "https://open.spotify.com/track/26zAJ56cpmeCCski2mtW4n",
-      "playedAt": "2026-10-20T04:23:41.144Z"
-    },
-    {
-      "id": "312WNtMs3F28cUukaPY9bo",
-      "name": "American Teen",
+      "id": "152lZdxL1OR0ZMW6KquMif",
+      "name": "Location",
       "artists": "Khalid",
       "album": "American Teen",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo",
-      "playedAt": "2026-10-20T03:34:10.597Z"
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif",
+      "playedAt": "2026-10-20T19:49:46.171Z"
     },
     {
-      "id": "2x5osUmUOewLQ8glHMQ8F3",
-      "name": "Owe To You",
+      "id": "0HEckRWFSknIupbGzavk5d",
+      "name": "Hundred",
       "artists": "Khalid",
-      "album": "Sincere",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247c21fe9770039cadd01aed6",
-      "url": "https://open.spotify.com/track/2x5osUmUOewLQ8glHMQ8F3",
-      "playedAt": "2026-10-20T03:29:59.121Z"
-    },
-    {
-      "id": "2oa2vjm2jiSHMliDum42ma",
-      "name": "instant",
-      "artists": "Khalid",
-      "album": "after the sun goes down",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
-      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
-      "playedAt": "2026-10-20T03:26:17.231Z"
-    },
-    {
-      "id": "1E6DEDWDKHoOW0fcFuDghV",
-      "name": "Don't Pretend",
-      "artists": "Khalid, SAFE",
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
-      "playedAt": "2026-10-20T03:22:15.981Z"
+      "url": "https://open.spotify.com/track/0HEckRWFSknIupbGzavk5d",
+      "playedAt": "2026-10-20T19:46:06.515Z"
     },
     {
-      "id": "09oZ9eXQ2fo6YDrPzJqAoP",
-      "name": "Outta My Head (with John Mayer)",
-      "artists": "Khalid, John Mayer",
+      "id": "2vsuel3g4zaLYSOY0mOMbi",
+      "name": "Bad Luck",
+      "artists": "Khalid",
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP",
-      "playedAt": "2026-10-20T03:13:50.174Z"
+      "url": "https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi",
+      "playedAt": "2026-10-20T19:41:28.884Z"
     },
     {
-      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
-      "name": "Young Dumb & Broke",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
-      "playedAt": "2026-10-20T03:08:31.060Z"
+      "id": "6SkHm6poyKfzV6kc9any8k",
+      "name": "Suncity (feat. Empress Of)",
+      "artists": "Khalid, Empress Of",
+      "album": "Suncity",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c243500e164150d229750c91",
+      "url": "https://open.spotify.com/track/6SkHm6poyKfzV6kc9any8k",
+      "playedAt": "2026-10-20T19:37:36.665Z"
     },
     {
-      "id": "6aAQORbi08HSm3ZgUsOCNY",
-      "name": "About Last Night..",
-      "artists": "Yel",
-      "album": "About Last Night..",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe8cc655d6832293f86a448e",
-      "url": "https://open.spotify.com/track/6aAQORbi08HSm3ZgUsOCNY",
-      "playedAt": "2026-10-20T03:02:17.703Z"
+      "id": "282PBviNS723C18c6moDEr",
+      "name": "\u611b",
+      "artists": "\u5c0f\u864e\u968a",
+      "album": "\u611b",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023b0ba3fa2503cca9325ab71c",
+      "url": "https://open.spotify.com/track/282PBviNS723C18c6moDEr",
+      "playedAt": "2026-10-20T19:30:32.919Z"
     },
     {
-      "id": "2e6soczRbcYbU4gzPN3xwk",
-      "name": "JUST A DREAM",
-      "artists": "Yel",
-      "album": "JUST A DREAM",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029330823472d1d17bbdd06456",
-      "url": "https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk",
-      "playedAt": "2026-10-20T02:59:12.764Z"
+      "id": "5NLv3yKffNXjuhIdC6A6uY",
+      "name": "\u5411\u65e5\u8475\u4e4b\u6b4c (\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u7247\u5c3e\u66f2)",
+      "artists": "\u4e0a\u4e0a, \u5468\u662d\u598d",
+      "album": "\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u539f\u8072\u5e36",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023c0b8c99b00334282e26ea00",
+      "url": "https://open.spotify.com/track/5NLv3yKffNXjuhIdC6A6uY",
+      "playedAt": "2026-10-20T19:23:32.006Z"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-10-20T18:29:37.914Z"
     }
   ]
 }
