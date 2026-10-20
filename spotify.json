@@ -1,104 +1,87 @@
 {
-  "updatedAt": "2026-10-19T23:22:43Z",
-  "nowPlaying": {
-    "id": "2ofOe2OaXFpZF5ETbsc7Qu",
-    "name": "Honeymoon Avenue",
-    "artists": "Ariana Grande",
-    "album": "Yours Truly",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
-    "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-20T03:47:56Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "20jbSiX29FDX4oQxBXyUEi",
-      "name": "hate that i made you love me",
+      "id": "312WNtMs3F28cUukaPY9bo",
+      "name": "American Teen",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo",
+      "playedAt": "2026-10-20T03:34:10.597Z"
+    },
+    {
+      "id": "2x5osUmUOewLQ8glHMQ8F3",
+      "name": "Owe To You",
+      "artists": "Khalid",
+      "album": "Sincere",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247c21fe9770039cadd01aed6",
+      "url": "https://open.spotify.com/track/2x5osUmUOewLQ8glHMQ8F3",
+      "playedAt": "2026-10-20T03:29:59.121Z"
+    },
+    {
+      "id": "2oa2vjm2jiSHMliDum42ma",
+      "name": "instant",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/2oa2vjm2jiSHMliDum42ma",
+      "playedAt": "2026-10-20T03:26:17.231Z"
+    },
+    {
+      "id": "1E6DEDWDKHoOW0fcFuDghV",
+      "name": "Don't Pretend",
+      "artists": "Khalid, SAFE",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
+      "playedAt": "2026-10-20T03:22:15.981Z"
+    },
+    {
+      "id": "09oZ9eXQ2fo6YDrPzJqAoP",
+      "name": "Outta My Head (with John Mayer)",
+      "artists": "Khalid, John Mayer",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP",
+      "playedAt": "2026-10-20T03:13:50.174Z"
+    },
+    {
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-10-20T03:08:31.060Z"
+    },
+    {
+      "id": "6aAQORbi08HSm3ZgUsOCNY",
+      "name": "About Last Night..",
+      "artists": "Yel",
+      "album": "About Last Night..",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe8cc655d6832293f86a448e",
+      "url": "https://open.spotify.com/track/6aAQORbi08HSm3ZgUsOCNY",
+      "playedAt": "2026-10-20T03:02:17.703Z"
+    },
+    {
+      "id": "2e6soczRbcYbU4gzPN3xwk",
+      "name": "JUST A DREAM",
+      "artists": "Yel",
+      "album": "JUST A DREAM",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029330823472d1d17bbdd06456",
+      "url": "https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk",
+      "playedAt": "2026-10-20T02:59:12.764Z"
+    },
+    {
+      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
+      "name": "Honeymoon Avenue",
       "artists": "Ariana Grande",
-      "album": "hate that i made you love me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-      "playedAt": "2026-10-19T23:20:02.390Z"
-    },
-    {
-      "id": "1P9I2fgRkFzlIRUN0oeJN1",
-      "name": "5 TO 10",
-      "artists": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
-      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
-      "playedAt": "2026-10-19T23:16:43.902Z"
-    },
-    {
-      "id": "0eF8TYM3rYzdS26URcs4U6",
-      "name": "Gimme Love",
-      "artists": "Joji",
-      "album": "Nectar",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6",
-      "playedAt": "2026-10-19T23:13:29.740Z"
-    },
-    {
-      "id": "4olWlfIzbDyD53NhWyvdDJ",
-      "name": "is it cool? (feat. SZA)",
-      "artists": "Steve Lacy, SZA",
-      "album": "is it cool? (feat. SZA)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
-      "playedAt": "2026-10-19T23:09:54.673Z"
-    },
-    {
-      "id": "7gCautqfD7CCdrN33GrRd8",
-      "name": "405",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8",
-      "playedAt": "2026-10-19T23:06:59.218Z"
-    },
-    {
-      "id": "142PiXzA84lmEw2RstFHFa",
-      "name": "supernatural",
-      "artists": "Ariana Grande",
-      "album": "eternal sunshine",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028b58d20f1b77295730db15b4",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa",
-      "playedAt": "2026-10-19T23:03:20.133Z"
-    },
-    {
-      "id": "42D9aaKTLw47faFhRCQfHF",
-      "name": "Blah Blah",
-      "artists": "Joji",
-      "album": "Piss In The Wind (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ba49265ab7b0d9a6fa01ddfa",
-      "url": "https://open.spotify.com/track/42D9aaKTLw47faFhRCQfHF",
-      "playedAt": "2026-10-19T22:56:26.401Z"
-    },
-    {
-      "id": "62FOsBpnZXEoPc1Qo9hcap",
-      "name": "Beautiful Goodbye",
-      "artists": "Maroon 5",
-      "album": "Overexposed (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
-      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
-      "playedAt": "2026-10-19T22:53:20.622Z"
-    },
-    {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-19T22:48:35.430Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-19T22:46:27.247Z"
+      "album": "Yours Truly",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
+      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
+      "playedAt": "2026-10-19T23:25:42.775Z"
     }
   ]
 }
