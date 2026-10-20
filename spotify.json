@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-20T03:47:56Z",
+  "updatedAt": "2026-10-20T09:13:21Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "26zAJ56cpmeCCski2mtW4n",
+      "name": "Open (feat. Majid Jordan)",
+      "artists": "Khalid, Majid Jordan",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdebf9d71d21fe01d2804b3f",
+      "url": "https://open.spotify.com/track/26zAJ56cpmeCCski2mtW4n",
+      "playedAt": "2026-10-20T04:23:41.144Z"
+    },
     {
       "id": "312WNtMs3F28cUukaPY9bo",
       "name": "American Teen",
@@ -73,15 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029330823472d1d17bbdd06456",
       "url": "https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk",
       "playedAt": "2026-10-20T02:59:12.764Z"
-    },
-    {
-      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
-      "name": "Honeymoon Avenue",
-      "artists": "Ariana Grande",
-      "album": "Yours Truly",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
-      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
-      "playedAt": "2026-10-19T23:25:42.775Z"
     }
   ]
 }
