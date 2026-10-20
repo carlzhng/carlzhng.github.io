@@ -1,33 +1,7 @@
 {
-  "updatedAt": "2026-10-20T19:51:29Z",
-  "nowPlaying": {
-    "id": "1WnjySYjn5jpCtozwhTSV3",
-    "name": "Passionate",
-    "artists": "Khalid",
-    "album": "Sincere (Deluxe)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0297fd064ad3c969bf929b1b1a",
-    "url": "https://open.spotify.com/track/1WnjySYjn5jpCtozwhTSV3",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-20T22:57:38Z",
+  "nowPlaying": null,
   "recent": [
-    {
-      "id": "152lZdxL1OR0ZMW6KquMif",
-      "name": "Location",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif",
-      "playedAt": "2026-10-20T19:49:46.171Z"
-    },
-    {
-      "id": "0HEckRWFSknIupbGzavk5d",
-      "name": "Hundred",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/0HEckRWFSknIupbGzavk5d",
-      "playedAt": "2026-10-20T19:46:06.515Z"
-    },
     {
       "id": "2vsuel3g4zaLYSOY0mOMbi",
       "name": "Bad Luck",
@@ -35,7 +9,7 @@
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
       "url": "https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi",
-      "playedAt": "2026-10-20T19:41:28.884Z"
+      "playedAt": "2026-10-20T21:29:43.112Z"
     },
     {
       "id": "6SkHm6poyKfzV6kc9any8k",
@@ -44,34 +18,79 @@
       "album": "Suncity",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02c243500e164150d229750c91",
       "url": "https://open.spotify.com/track/6SkHm6poyKfzV6kc9any8k",
-      "playedAt": "2026-10-20T19:37:36.665Z"
+      "playedAt": "2026-10-20T21:25:50.897Z"
     },
     {
-      "id": "282PBviNS723C18c6moDEr",
-      "name": "\u611b",
-      "artists": "\u5c0f\u864e\u968a",
-      "album": "\u611b",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023b0ba3fa2503cca9325ab71c",
-      "url": "https://open.spotify.com/track/282PBviNS723C18c6moDEr",
-      "playedAt": "2026-10-20T19:30:32.919Z"
+      "id": "75lHm1sBz6m6ytBR4CBmBP",
+      "name": "Brand New (feat. QUIN)",
+      "artists": "Khalid, QUIN",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
+      "url": "https://open.spotify.com/track/75lHm1sBz6m6ytBR4CBmBP",
+      "playedAt": "2026-10-20T21:22:40.821Z"
     },
     {
-      "id": "5NLv3yKffNXjuhIdC6A6uY",
-      "name": "\u5411\u65e5\u8475\u4e4b\u6b4c (\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u7247\u5c3e\u66f2)",
-      "artists": "\u4e0a\u4e0a, \u5468\u662d\u598d",
-      "album": "\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u539f\u8072\u5e36",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023c0b8c99b00334282e26ea00",
-      "url": "https://open.spotify.com/track/5NLv3yKffNXjuhIdC6A6uY",
-      "playedAt": "2026-10-20T19:23:32.006Z"
+      "id": "1fHRzxbts9A8J1ergDe7Kz",
+      "name": "Saturday Nights",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz",
+      "playedAt": "2026-10-20T21:19:48.429Z"
     },
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-20T18:29:37.914Z"
+      "id": "52Qu0no0NBho3zyRmjlsHn",
+      "name": "Another Sad Love Song",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/52Qu0no0NBho3zyRmjlsHn",
+      "playedAt": "2026-10-20T21:16:18.358Z"
+    },
+    {
+      "id": "5A1w94uzc1kO1Zhe8WWxC3",
+      "name": "Right Back",
+      "artists": "Khalid",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
+      "playedAt": "2026-10-20T21:12:13.023Z"
+    },
+    {
+      "id": "6zIen2DYr2t19vbwqgORY2",
+      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
+      "artists": "Khalid, Ari Lennox, Smino",
+      "album": "Scenic Drive (The Tape)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
+      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2",
+      "playedAt": "2026-10-20T21:08:37.212Z"
+    },
+    {
+      "id": "6zeeWid2sgw4lap2jV61PZ",
+      "name": "Better",
+      "artists": "Khalid",
+      "album": "Suncity",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
+      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
+      "playedAt": "2026-10-20T21:04:27.149Z"
+    },
+    {
+      "id": "1gOyBTO1fDLDTH8Ap12Wyp",
+      "name": "Motion",
+      "artists": "Khalid",
+      "album": "Suncity",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
+      "url": "https://open.spotify.com/track/1gOyBTO1fDLDTH8Ap12Wyp",
+      "playedAt": "2026-10-20T21:00:36.489Z"
+    },
+    {
+      "id": "1E6DEDWDKHoOW0fcFuDghV",
+      "name": "Don't Pretend",
+      "artists": "Khalid, SAFE",
+      "album": "Free Spirit",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
+      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
+      "playedAt": "2026-10-20T20:56:40.028Z"
     }
   ]
 }
