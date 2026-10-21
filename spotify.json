@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-21T03:39:15Z",
+  "updatedAt": "2026-10-21T09:10:02Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-21T03:21:57.312Z"
+    },
     {
       "id": "4jEP389ge8wJkRcBC0dJMj",
       "name": "Little Lightning",
@@ -73,15 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
       "url": "https://open.spotify.com/track/52Qu0no0NBho3zyRmjlsHn",
       "playedAt": "2026-10-21T01:03:07.094Z"
-    },
-    {
-      "id": "5A1w94uzc1kO1Zhe8WWxC3",
-      "name": "Right Back",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
-      "playedAt": "2026-10-21T00:59:01.777Z"
     }
   ]
 }
