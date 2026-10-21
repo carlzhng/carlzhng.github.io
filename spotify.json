@@ -1,87 +1,13 @@
 {
-  "updatedAt": "2026-10-21T14:54:03Z",
-  "nowPlaying": null,
-  "recent": [
-    {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-21T03:21:57.312Z"
-    },
-    {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-21T03:19:11.059Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-21T03:13:21.673Z"
-    },
-    {
-      "id": "57GsLpRtEtrzcPGPop20rS",
-      "name": "What Did I Miss?",
-      "artists": "Drake",
-      "album": "What Did I Miss?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS",
-      "playedAt": "2026-10-21T03:09:32.383Z"
-    },
-    {
-      "id": "0gIUyyegjuKZenuZKCRiAL",
-      "name": "DIE TRYING",
-      "artists": "PARTYNEXTDOOR, Drake, Yebba",
-      "album": "$ome $exy $ongs 4 U",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0282e549302f7a635fedc98331",
-      "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
-      "playedAt": "2026-10-21T02:57:27.202Z"
-    },
-    {
-      "id": "6AX3i1TluzbvpJpKrY7NoD",
-      "name": "SWEET SPOT",
-      "artists": "Justin Bieber, Sexyy Red",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
-      "playedAt": "2026-10-21T02:52:41.538Z"
-    },
-    {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-21T02:49:13.860Z"
-    },
-    {
-      "id": "1fHRzxbts9A8J1ergDe7Kz",
-      "name": "Saturday Nights",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz",
-      "playedAt": "2026-10-21T01:06:37.141Z"
-    },
-    {
-      "id": "52Qu0no0NBho3zyRmjlsHn",
-      "name": "Another Sad Love Song",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/52Qu0no0NBho3zyRmjlsHn",
-      "playedAt": "2026-10-21T01:03:07.094Z"
-    }
-  ]
+  "updatedAt": "2026-10-21T19:56:39Z",
+  "nowPlaying": {
+    "id": "4s76r7AbquJcTccqJiqdVu",
+    "name": "Hold Me Down",
+    "artists": "Daniel Caesar",
+    "album": "Freudian",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+    "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu",
+    "isPlaying": true
+  },
+  "recent": []
 }
