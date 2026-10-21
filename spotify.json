@@ -1,33 +1,60 @@
 {
-  "updatedAt": "2026-10-20T22:57:38Z",
+  "updatedAt": "2026-10-21T03:39:15Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2vsuel3g4zaLYSOY0mOMbi",
-      "name": "Bad Luck",
-      "artists": "Khalid",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi",
-      "playedAt": "2026-10-20T21:29:43.112Z"
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-21T03:19:11.059Z"
     },
     {
-      "id": "6SkHm6poyKfzV6kc9any8k",
-      "name": "Suncity (feat. Empress Of)",
-      "artists": "Khalid, Empress Of",
-      "album": "Suncity",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c243500e164150d229750c91",
-      "url": "https://open.spotify.com/track/6SkHm6poyKfzV6kc9any8k",
-      "playedAt": "2026-10-20T21:25:50.897Z"
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-21T03:13:21.673Z"
     },
     {
-      "id": "75lHm1sBz6m6ytBR4CBmBP",
-      "name": "Brand New (feat. QUIN)",
-      "artists": "Khalid, QUIN",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
-      "url": "https://open.spotify.com/track/75lHm1sBz6m6ytBR4CBmBP",
-      "playedAt": "2026-10-20T21:22:40.821Z"
+      "id": "57GsLpRtEtrzcPGPop20rS",
+      "name": "What Did I Miss?",
+      "artists": "Drake",
+      "album": "What Did I Miss?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS",
+      "playedAt": "2026-10-21T03:09:32.383Z"
+    },
+    {
+      "id": "0gIUyyegjuKZenuZKCRiAL",
+      "name": "DIE TRYING",
+      "artists": "PARTYNEXTDOOR, Drake, Yebba",
+      "album": "$ome $exy $ongs 4 U",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0282e549302f7a635fedc98331",
+      "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
+      "playedAt": "2026-10-21T02:57:27.202Z"
+    },
+    {
+      "id": "6AX3i1TluzbvpJpKrY7NoD",
+      "name": "SWEET SPOT",
+      "artists": "Justin Bieber, Sexyy Red",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
+      "playedAt": "2026-10-21T02:52:41.538Z"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-10-21T02:49:13.860Z"
     },
     {
       "id": "1fHRzxbts9A8J1ergDe7Kz",
@@ -36,7 +63,7 @@
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
       "url": "https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz",
-      "playedAt": "2026-10-20T21:19:48.429Z"
+      "playedAt": "2026-10-21T01:06:37.141Z"
     },
     {
       "id": "52Qu0no0NBho3zyRmjlsHn",
@@ -45,7 +72,7 @@
       "album": "American Teen",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
       "url": "https://open.spotify.com/track/52Qu0no0NBho3zyRmjlsHn",
-      "playedAt": "2026-10-20T21:16:18.358Z"
+      "playedAt": "2026-10-21T01:03:07.094Z"
     },
     {
       "id": "5A1w94uzc1kO1Zhe8WWxC3",
@@ -54,43 +81,7 @@
       "album": "Free Spirit",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
       "url": "https://open.spotify.com/track/5A1w94uzc1kO1Zhe8WWxC3",
-      "playedAt": "2026-10-20T21:12:13.023Z"
-    },
-    {
-      "id": "6zIen2DYr2t19vbwqgORY2",
-      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
-      "artists": "Khalid, Ari Lennox, Smino",
-      "album": "Scenic Drive (The Tape)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0247d68adc61a13392a78ac671",
-      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2",
-      "playedAt": "2026-10-20T21:08:37.212Z"
-    },
-    {
-      "id": "6zeeWid2sgw4lap2jV61PZ",
-      "name": "Better",
-      "artists": "Khalid",
-      "album": "Suncity",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ",
-      "playedAt": "2026-10-20T21:04:27.149Z"
-    },
-    {
-      "id": "1gOyBTO1fDLDTH8Ap12Wyp",
-      "name": "Motion",
-      "artists": "Khalid",
-      "album": "Suncity",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02316e987210a1186c95eff23e",
-      "url": "https://open.spotify.com/track/1gOyBTO1fDLDTH8Ap12Wyp",
-      "playedAt": "2026-10-20T21:00:36.489Z"
-    },
-    {
-      "id": "1E6DEDWDKHoOW0fcFuDghV",
-      "name": "Don't Pretend",
-      "artists": "Khalid, SAFE",
-      "album": "Free Spirit",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02932b12f14fa07ba1e473c465",
-      "url": "https://open.spotify.com/track/1E6DEDWDKHoOW0fcFuDghV",
-      "playedAt": "2026-10-20T20:56:40.028Z"
+      "playedAt": "2026-10-21T00:59:01.777Z"
     }
   ]
 }
