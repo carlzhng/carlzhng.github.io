@@ -1,87 +1,96 @@
 {
-  "updatedAt": "2026-10-21T23:07:24Z",
+  "updatedAt": "2026-10-22T03:38:31Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-21T22:19:43.502Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-10-22T03:10:08.298Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-21T22:17:23.191Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-22T03:06:33.521Z"
     },
     {
-      "id": "2UVbBKQOdFAekPTRsnkzcf",
-      "name": "Stir Fry",
-      "artists": "Migos",
-      "album": "Culture II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
-      "playedAt": "2026-10-21T22:13:43.587Z"
+      "id": "533QZMGE46XLVyqLcdmjqW",
+      "name": "Mine",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/533QZMGE46XLVyqLcdmjqW",
+      "playedAt": "2026-10-22T03:02:36.253Z"
     },
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-21T22:10:32.869Z"
+      "id": "4Ht1I3aLvRHUTjUWKiR9Yy",
+      "name": "You",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/4Ht1I3aLvRHUTjUWKiR9Yy",
+      "playedAt": "2026-10-22T02:59:51.063Z"
     },
     {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-21T22:08:26.133Z"
+      "id": "238DR0GtiEWkbWVbA9y4TY",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
+      "playedAt": "2026-10-22T02:58:07.258Z"
     },
     {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-10-21T22:04:34.607Z"
+      "id": "2HE3rYFs3f4TxuxiUBh7U7",
+      "name": "4getu",
+      "artists": "sicknote",
+      "album": "4getu",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b964065f2c8e52054283f0f3",
+      "url": "https://open.spotify.com/track/2HE3rYFs3f4TxuxiUBh7U7",
+      "playedAt": "2026-10-22T02:55:07.377Z"
     },
     {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "artists": "Daniel Caesar, Kali Uchis",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "playedAt": "2026-10-21T21:56:12.256Z"
+      "id": "7xBXBE6iPfjtZirrFXhEPo",
+      "name": "Back To U (Theme From \"sicknote\")",
+      "artists": "sicknote",
+      "album": "Back To U (Theme From \"sicknote\")",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e32805dbf9157bea79f7ad09",
+      "url": "https://open.spotify.com/track/7xBXBE6iPfjtZirrFXhEPo",
+      "playedAt": "2026-10-22T02:50:37.161Z"
     },
     {
-      "id": "1WFgv04BZTx6gZWQNE6Sp7",
-      "name": "Freudian",
-      "artists": "Daniel Caesar",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1WFgv04BZTx6gZWQNE6Sp7",
-      "playedAt": "2026-10-21T21:49:44.270Z"
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-10-22T02:46:54.102Z"
     },
     {
-      "id": "6AX3i1TluzbvpJpKrY7NoD",
-      "name": "SWEET SPOT",
-      "artists": "Justin Bieber, Sexyy Red",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD",
-      "playedAt": "2026-10-21T21:34:44.187Z"
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-10-22T02:44:04.695Z"
+    },
+    {
+      "id": "1b104gnwd0zxCIhZPNLyf8",
+      "name": "Need For Speed",
+      "artists": "Kim Petras",
+      "album": "Need For Speed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020ca206219df7e324994ba77e",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8",
+      "playedAt": "2026-10-22T02:41:32.914Z"
     }
   ]
 }
