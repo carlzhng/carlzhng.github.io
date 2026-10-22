@@ -6,6 +6,16 @@ let activateAboutPanel = () => {};
 const aboutDesks = new Map();
 let activeAboutId = null;
 
+const CLOSE_ICON = `<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>`;
+const PREV_ICON = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+const NEXT_ICON = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+function iconButton(attrs, svg) {
+  const btn = el("button", attrs);
+  btn.innerHTML = svg;
+  return btn;
+}
+
 function iconSvg(kind) {
   if (kind === "github") {
     return `
@@ -170,6 +180,12 @@ function isGifSrc(src) {
   return /\.gif(?:[?#]|$)/i.test(src);
 }
 
+// GIFs get a plain backdrop: a second copy of a large animated GIF as a CSS background doubles its decode cost.
+function setSlideBackdrop(wrap, src) {
+  if (src) wrap.style.setProperty("--slide-bg", `url("${src.replace(/"/g, "%22")}")`);
+  else wrap.style.removeProperty("--slide-bg");
+}
+
 function experienceSlides(item) {
   const gallery = Array.isArray(item?.gallery) ? item.gallery : [];
   const out = [];
@@ -187,23 +203,24 @@ function buildInlineGallery(slides, label) {
   let generation = 0;
   const many = slides.length > 1;
   const counter = el("div", { class: "slideshow-counter" });
-  const prevBtn = el("button", {
+  const prevBtn = iconButton({
     class: "slideshow-btn press-btn",
     type: "button",
-    "aria-label": "Previous photo",
-    text: "‹"
-  });
-  const nextBtn = el("button", {
+    "aria-label": "Previous photo"
+  }, PREV_ICON);
+  const nextBtn = iconButton({
     class: "slideshow-btn press-btn",
     type: "button",
-    "aria-label": "Next photo",
-    text: "›"
-  });
+    "aria-label": "Next photo"
+  }, NEXT_ICON);
   const nav = el("div", { class: "slideshow-nav" }, [prevBtn, nextBtn]);
-  const wrap = el("div", { class: "exp-gallery" }, many ? [nav, counter] : []);
+  const status = el("div", { class: "exp-gallery-status", role: "status", text: "loading..." });
+  const wrap = el("div", { class: "exp-gallery" }, many ? [status, nav, counter] : [status]);
 
   const setIdx = (n) => {
     const token = ++generation;
+    status.textContent = "loading...";
+    status.hidden = false;
     idx = (n + slides.length) % slides.length;
     const src = slides[idx];
     const contain = isGifSrc(src);
@@ -222,13 +239,23 @@ function buildInlineGallery(slides, label) {
       const previous = wrap.querySelector(".exp-gallery-img");
       if (previous) previous.replaceWith(next);
       else wrap.insertBefore(next, wrap.firstChild);
+      setSlideBackdrop(wrap, contain ? null : src);
+      status.hidden = true;
       requestAnimationFrame(refreshTabsLayout);
     };
     next.addEventListener("load", commit, { once: true });
+    next.addEventListener("error", () => {
+      if (token !== generation) return;
+      status.textContent = "couldn't load photo";
+    }, { once: true });
     next.src = src;
     if (next.complete && next.naturalWidth) commit();
 
-    if (many) counter.textContent = `${idx + 1} / ${slides.length}`;
+    if (many) {
+      counter.textContent = `${idx + 1} / ${slides.length}`;
+      const pre = new Image();
+      pre.src = slides[(idx + 1) % slides.length];
+    }
   };
 
   prevBtn.addEventListener("click", (e) => {
@@ -256,18 +283,16 @@ function buildModalSlideshow(project) {
 
   const counter = el("div", { class: "slideshow-counter" });
 
-  const prevBtn = el("button", {
+  const prevBtn = iconButton({
     class: "slideshow-btn press-btn",
     type: "button",
-    "aria-label": "Previous image",
-    text: "‹"
-  });
-  const nextBtn = el("button", {
+    "aria-label": "Previous image"
+  }, PREV_ICON);
+  const nextBtn = iconButton({
     class: "slideshow-btn press-btn",
     type: "button",
-    "aria-label": "Next image",
-    text: "›"
-  });
+    "aria-label": "Next image"
+  }, NEXT_ICON);
 
   const nav = el("div", { class: "slideshow-nav", "aria-hidden": "false" }, [prevBtn, nextBtn]);
   const wrap = el("div", { class: "modal-slideshow", id: "modalSlideshow" }, [nav, counter]);
@@ -326,6 +351,7 @@ function buildModalSlideshow(project) {
       const previous = wrap.querySelector(".modal-slide-img");
       if (previous) previous.replaceWith(next);
       else wrap.insertBefore(next, wrap.firstChild);
+      setSlideBackdrop(wrap, contain ? null : src);
       if (contain) primeGif(next, token);
     };
 
@@ -772,14 +798,10 @@ function renderExperiences(container, items) {
   });
   folder.innerHTML = `
     <span class="exp-folder-shape" aria-hidden="true">
-      <span class="exp-folder-pocket">
-        <span class="exp-folder-peek"></span>
-        <span class="exp-folder-peek"></span>
-        <span class="exp-folder-peek"></span>
-      </span>
+      <span class="exp-folder-pocket"></span>
       <span class="exp-folder-lid">
         <span class="exp-folder-tab"></span>
-        <span class="exp-folder-lid-face"></span>
+        <span class="exp-folder-lid-face"><span class="exp-folder-emoji">💻</span></span>
       </span>
     </span>
     <span class="exp-folder-caption">experiences</span>
@@ -796,12 +818,11 @@ function renderExperiences(container, items) {
       node.setAttribute("aria-pressed", String(node === badge));
     });
     detail.innerHTML = "";
-    const close = el("button", {
+    const close = iconButton({
       class: "exp-detail-close",
       type: "button",
-      "aria-label": "Close experience details",
-      text: "×"
-    });
+      "aria-label": "Close experience details"
+    }, CLOSE_ICON);
     close.addEventListener("click", () => {
       selected = null;
       detail.classList.remove("is-open");
@@ -811,13 +832,27 @@ function renderExperiences(container, items) {
       });
       requestAnimationFrame(refreshTabsLayout);
     });
+    const head = el("div", { class: "exp-detail-head" }, [
+      el("h3", { text: it.title || it.name || experienceOrg(it) }),
+      it.type ? el("span", { class: "exp-type-tag", text: it.type }) : null
+    ].filter(Boolean));
     const bits = [
       close,
-      el("h3", { text: it.title || it.name || experienceOrg(it) }),
+      head,
       it.subtitle ? el("p", { class: "sub", text: it.subtitle }) : null,
       it.dates ? el("p", { class: "meta-line", text: it.dates }) : null,
       it.details ? el("p", { class: "meta-line", text: it.details }) : null
     ].filter(Boolean);
+    const roles = (Array.isArray(it.roles) ? it.roles : []).filter((r) => r?.title || r?.details);
+    if (roles.length) {
+      bits.push(el("ol", { class: "exp-roles" }, roles.map((r) => el("li", { class: "exp-role" }, [
+        el("div", { class: "exp-role-head" }, [
+          r.title ? el("h4", { text: r.title }) : null,
+          r.dates ? el("span", { class: "exp-role-dates", text: r.dates }) : null
+        ].filter(Boolean)),
+        r.details ? el("p", { class: "meta-line", text: r.details }) : null
+      ].filter(Boolean)))));
+    }
     const gallery = buildInlineGallery(experienceSlides(it), it.title || it.name || experienceOrg(it));
     if (gallery) bits.push(gallery);
     detail.append(...bits);

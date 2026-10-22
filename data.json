@@ -387,24 +387,44 @@
       {
         "title": "Undergraduate Student Researcher",
         "org": "University of Alberta",
+        "type": "Internship",
         "logo": "./assets/logos/uofa.jpg",
-        "subtitle": "Faculty of Engineering, Department of Electrical and Computer Engineering | Edmonton, AB",
+        "subtitle": "Faculty of Engineering | Edmonton, AB",
         "dates": "Sep 2026 — present",
         "details": "Currently researching the magnetophotoluminescence properties of organic-inorganic hybrids in semiconductors. The research project utilizes a variety of instrumentation such as electromagnets, lasers, and spectrometers to study the effects of magnetic fields on the photoluminescence of these materials. The goal of the research is to understand the underlying mechanisms that govern the magnetophotoluminescence properties of these materials and to explore their potential applications in optoelectronic devices.",
-        "gallery": []
+        "gallery": [
+          "./assets/experience photos/drasamples.jpg",
+          "./assets/experience photos/drasamples2.jpg"
+        ]
       },
       {
-        "title": "Control Systems & Motherboard Team Member",
+        "title": "Electrical Team Member",
         "org": "Alberta Bionix",
+        "type": "Design Team",
         "logo": "./assets/logos/bionix.png",
         "subtitle": "Alberta Bionix | Edmonton, AB",
         "dates": "Dec 2025 — present",
-        "details": "Contributing to the development of an EMG-powered prosthetic leg, integrating gait-cycle-based EMG control with PID encoder feedback and motor control. As part of the control systems team, I take ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself. As a part of the motherboard team, I am responsible for designing and implementing the PCB that connects all the components of the leg together, ensuring proper communication and functionality.",
-        "gallery": []
+        "details": "Contributing to the development of an EMG-powered prosthetic leg as a member of the electrical team.",
+        "roles": [
+          {
+            "title": "Motherboard Team Member",
+            "dates": "Jul 2026 - present",
+            "details": "Designing the main motherboard PCB for the prosthetic leg. Currently, I am selecting appropriate ICs and developing embedded firmware tests to troubleshoot and validate the functionality of those components. Additionally, I am interfacing different communication protocols such as I2C, SPI, and CAN buses to ensure proper communication across the different componenets and other PCB's."
+          },
+          {
+            "title": "Control Systems Team Member",
+            "dates": "Dec 2025 - Jul 2026",
+            "details": "Took ownership in designing the control system for the leg, utilizing an abundance of sensors, motor controllers, and the motor itself. I helped develop the horizontal transmission fixture by ensuring the motor and sensors are calibrated and functioning properly via embedded firmware tests."
+          }
+        ],
+        "gallery": [
+          "./assets/experience photos/cubec-web.jpg"
+        ]
       },
       {
-        "title": "Co-Founder/Co-President of Scarlett STEM Club",
-        "org": "Scarlett STEM",
+        "title": "Scarlett STEM President",
+        "org": "Dr. E.P. Scarlett High School",
+        "type": "Club",
         "logo": "./assets/logos/scarlett.jpg",
         "subtitle": "Dr. E.P. Scarlett High School | Calgary, AB",
         "dates": "Sep 2021 — Jun 2024",
@@ -414,6 +434,7 @@
       {
         "title": "Sailing Instructor",
         "org": "City of Calgary",
+        "type": "Part-time",
         "logo": "./assets/logos/sailing.jpg",
         "subtitle": "City of Calgary | Calgary, AB",
         "dates": "Aug 2023",
@@ -423,6 +444,7 @@
       {
         "title": "Vice-President of Communications",
         "org": "Junior Achievement",
+        "type": "Club",
         "logo": "./assets/logos/ja.jpg",
         "subtitle": "Junior Achievement Southern Alberta | Calgary, AB",
         "dates": "Oct 2022 — Apr 2023",
