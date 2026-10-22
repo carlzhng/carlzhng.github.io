@@ -1,96 +1,7 @@
 {
-  "updatedAt": "2026-10-22T19:47:13Z",
-  "nowPlaying": {
-    "id": "1epujjBDhuqmYAwAhR29xI",
-    "name": "Death & Taxes",
-    "artists": "Daniel Caesar",
-    "album": "Pilgrim's Paradise",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-22T23:00:01Z",
+  "nowPlaying": null,
   "recent": [
-    {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-22T19:45:31.705Z"
-    },
-    {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-22T19:42:10.788Z"
-    },
-    {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-22T19:37:40.954Z"
-    },
-    {
-      "id": "0kN8xEmgMW9mh7UmDYHlJP",
-      "name": "Versace on the Floor",
-      "artists": "Bruno Mars",
-      "album": "24K Magic",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP",
-      "playedAt": "2026-10-22T19:29:22.400Z"
-    },
-    {
-      "id": "1oz3gEoNWHAS3pjwThdSJb",
-      "name": "Fake",
-      "artists": "Lauv, Conan Gray",
-      "album": "Fake",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b653ef10e004c8407a51a8af",
-      "url": "https://open.spotify.com/track/1oz3gEoNWHAS3pjwThdSJb",
-      "playedAt": "2026-10-22T16:59:36.790Z"
-    },
-    {
-      "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "name": "Snooze",
-      "artists": "SZA",
-      "album": "SOS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bc18bdade69ec5ef0bb25b17",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "playedAt": "2026-10-22T16:57:09.961Z"
-    },
-    {
-      "id": "5yvhdo8FXbBsIllxv2Rr94",
-      "name": "Prom",
-      "artists": "SZA",
-      "album": "Ctrl",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
-      "url": "https://open.spotify.com/track/5yvhdo8FXbBsIllxv2Rr94",
-      "playedAt": "2026-10-22T16:53:47.801Z"
-    },
-    {
-      "id": "4h6ViRoztTBpWcJ1zFT9Zg",
-      "name": "20 Something",
-      "artists": "SZA",
-      "album": "Ctrl",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0206d56b057cce5797538a16d5",
-      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg",
-      "playedAt": "2026-10-22T16:47:26.695Z"
-    },
-    {
-      "id": "2LlOeW5rVcvl3QcPNPcDus",
-      "name": "Always",
-      "artists": "Daniel Caesar",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
-      "playedAt": "2026-10-22T16:37:41.359Z"
-    },
     {
       "id": "4s76r7AbquJcTccqJiqdVu",
       "name": "Hold Me Down",
@@ -98,7 +9,79 @@
       "album": "Freudian",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
       "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu",
-      "playedAt": "2026-10-22T16:32:48.992Z"
+      "playedAt": "2026-10-22T22:11:06.073Z"
+    },
+    {
+      "id": "4x2PkqSLtuwv53hLqq4GiY",
+      "name": "Backburner",
+      "artists": "NIKI",
+      "album": "Nicole",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
+      "url": "https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY",
+      "playedAt": "2026-10-22T22:02:51.505Z"
+    },
+    {
+      "id": "5u1n1kITHCxxp8twBcZxWy",
+      "name": "Holy (feat. Chance The Rapper)",
+      "artists": "Justin Bieber, Chance the Rapper",
+      "album": "Holy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572c68f79b356c21202e248c",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy",
+      "playedAt": "2026-10-22T21:58:54.415Z"
+    },
+    {
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-10-22T21:55:05.502Z"
+    },
+    {
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-10-22T21:51:01.861Z"
+    },
+    {
+      "id": "4zmXWmILSBkn7gTvIyCiNi",
+      "name": "bad thing (bunny hop)",
+      "artists": "Ariana Grande",
+      "album": "petal",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
+      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+      "playedAt": "2026-10-22T21:21:52.818Z"
+    },
+    {
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-10-22T21:20:55.026Z"
+    },
+    {
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-22T21:17:20.231Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-22T21:03:25.172Z"
     }
   ]
 }
