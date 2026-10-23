@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-10-23T14:42:25Z",
+  "updatedAt": "2026-10-23T19:49:29Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "2LlOeW5rVcvl3QcPNPcDus",
+      "name": "Always",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus",
+      "playedAt": "2026-10-23T18:30:51.837Z"
+    },
+    {
+      "id": "0mQLFm42be28X8yKBTiHP3",
+      "name": "I THINK YOU'RE SPECIAL",
+      "artists": "Justin Bieber, Tems",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3",
+      "playedAt": "2026-10-23T18:23:38.233Z"
+    },
+    {
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-10-23T18:20:52.023Z"
+    },
+    {
+      "id": "6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "playedAt": "2026-10-23T18:05:37.227Z"
+    },
+    {
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-10-23T18:02:06.232Z"
+    },
+    {
+      "id": "2bMcpeSIM5FNFCv1MK30sQ",
+      "name": "CATCH A STRAY",
+      "artists": "Leon Thomas",
+      "album": "MUTT Deluxe: HEEL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
+      "playedAt": "2026-10-23T17:58:42.421Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-10-23T17:53:59.821Z"
+    },
+    {
+      "id": "3je88Q4OvTqIx7BFRFYvRA",
+      "name": "Phases",
+      "artists": "PRETTYMUCH",
+      "album": "Phases",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
+      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
+      "playedAt": "2026-10-23T17:48:51.646Z"
+    },
     {
       "id": "4s76r7AbquJcTccqJiqdVu",
       "name": "Hold Me Down",
@@ -9,52 +81,16 @@
       "album": "Freudian",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
       "url": "https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu",
-      "playedAt": "2026-10-23T07:08:57.616Z"
+      "playedAt": "2026-10-23T17:40:43.263Z"
     },
     {
-      "id": "4x2PkqSLtuwv53hLqq4GiY",
-      "name": "Backburner",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY",
-      "playedAt": "2026-10-22T22:02:51.505Z"
-    },
-    {
-      "id": "5u1n1kITHCxxp8twBcZxWy",
-      "name": "Holy (feat. Chance The Rapper)",
-      "artists": "Justin Bieber, Chance the Rapper",
-      "album": "Holy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572c68f79b356c21202e248c",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy",
-      "playedAt": "2026-10-22T21:58:54.415Z"
-    },
-    {
-      "id": "21jGcNKet2qwijlDFuPiPb",
-      "name": "Circles",
-      "artists": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-10-22T21:55:05.502Z"
-    },
-    {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-10-22T21:51:01.861Z"
-    },
-    {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-10-22T21:21:52.818Z"
+      "id": "1XrSjpNe49IiygZfzb74pk",
+      "name": "What Once Was",
+      "artists": "Her's",
+      "album": "Songs of Her's",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fc1bc1cf80c431c2bdbde601",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk",
+      "playedAt": "2026-10-23T17:25:23.298Z"
     }
   ]
 }
