@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-10-25T20:29:12Z",
+  "updatedAt": "2026-10-25T23:53:01Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3BIf974vl0lIEo3EY1XvD1",
-      "name": "Timber Hearth",
+      "id": "4LKELM0cZ21NwaoF7Svkat",
+      "name": "At Sea",
+      "artists": "Max LL",
+      "album": "Spiritfarer (Original Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02426f6a8ff29fbe3c83e031a9",
+      "url": "https://open.spotify.com/track/4LKELM0cZ21NwaoF7Svkat",
+      "playedAt": "2026-10-25T23:17:31.602Z"
+    },
+    {
+      "id": "23bSNHD40ZctbK59GKw88p",
+      "name": "Summer Breeze",
+      "artists": "Jamal Green",
+      "album": "TOEM (Original Game Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023fbc4aead9aa9fd96f30d0e0",
+      "url": "https://open.spotify.com/track/23bSNHD40ZctbK59GKw88p",
+      "playedAt": "2026-10-25T23:14:24.351Z"
+    },
+    {
+      "id": "3TxvSHMc4sWMbiy1siUhvO",
+      "name": "last light",
+      "artists": "Elysia",
+      "album": "a quiet life",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029af72818f468749cb1f86efc",
+      "url": "https://open.spotify.com/track/3TxvSHMc4sWMbiy1siUhvO",
+      "playedAt": "2026-10-25T23:10:43.750Z"
+    },
+    {
+      "id": "2Da8UXznyss8R9A3cPcPMm",
+      "name": "Fall Medley",
+      "artists": "Murr",
+      "album": "The Knight's Sky",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c439c9f9e600d632dc4efedf",
+      "url": "https://open.spotify.com/track/2Da8UXznyss8R9A3cPcPMm",
+      "playedAt": "2026-10-25T23:09:02.257Z"
+    },
+    {
+      "id": "1vgFHoxGDoXzrpSnOI0RWY",
+      "name": "Mines (A Flicker in the Deep)",
+      "artists": "ConcernedApe",
+      "album": "Stardew Valley (Original Game Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029f31553286bd249a902b50d4",
+      "url": "https://open.spotify.com/track/1vgFHoxGDoXzrpSnOI0RWY",
+      "playedAt": "2026-10-25T23:06:17.957Z"
+    },
+    {
+      "id": "1EdWI2TueryAZkeNi6I1zm",
+      "name": "Space",
       "artists": "Andrew Prahlow",
       "album": "Outer Wilds (Original Soundtrack)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d",
-      "url": "https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1",
-      "playedAt": "2026-10-25T20:24:43.943Z"
+      "url": "https://open.spotify.com/track/1EdWI2TueryAZkeNi6I1zm",
+      "playedAt": "2026-10-25T23:04:51.894Z"
     },
     {
-      "id": "20ZTsszQOyWehsuwT3jFS1",
-      "name": "Nostalgic Drawings",
-      "artists": "Hanna Lindgren",
-      "album": "Nostalgic Drawings",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ec43cbd680db190792856691",
-      "url": "https://open.spotify.com/track/20ZTsszQOyWehsuwT3jFS1",
-      "playedAt": "2026-10-25T20:21:18.549Z"
+      "id": "0YNIODx8ZJU3U1mNiXqW4y",
+      "name": "Canyon Sunset",
+      "artists": "Chris Remo",
+      "album": "Firewatch (Original Score)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02394498e071a0655bfddf94bd",
+      "url": "https://open.spotify.com/track/0YNIODx8ZJU3U1mNiXqW4y",
+      "playedAt": "2026-10-25T23:00:36.258Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-25T18:46:43.468Z"
+      "id": "4AukF4q3IF8bfexpW9leTQ",
+      "name": "Far in the Grassland (Original Video Game Soundtrack)",
+      "artists": "Pawe\u0142 G\u00f3rniak",
+      "album": "Wingspan (Original Video Game Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a7c0781b2116a8429921de22",
+      "url": "https://open.spotify.com/track/4AukF4q3IF8bfexpW9leTQ",
+      "playedAt": "2026-10-25T22:58:39.059Z"
     },
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-25T18:43:21.836Z"
+      "id": "3oVO0RiEx9TrVx3q33O8O6",
+      "name": "The Core",
+      "artists": "ibi",
+      "album": "The Core",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbaca28010e14c9d2618a6ca",
+      "url": "https://open.spotify.com/track/3oVO0RiEx9TrVx3q33O8O6",
+      "playedAt": "2026-10-25T22:55:55.058Z"
     },
     {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-25T18:38:16.273Z"
-    },
-    {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-10-25T18:34:59.999Z"
-    },
-    {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-25T18:32:39.712Z"
-    },
-    {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-25T18:26:56.570Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-25T18:24:49.865Z"
-    },
-    {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-10-25T18:21:10.961Z"
+      "id": "63nKjQQX7LjXVHfvuWoHD6",
+      "name": "Reunion",
+      "artists": "Aaron Cherof",
+      "album": "Moment to Midnight (Original Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0278c7ae36798d205888797ff2",
+      "url": "https://open.spotify.com/track/63nKjQQX7LjXVHfvuWoHD6",
+      "playedAt": "2026-10-25T22:52:08.358Z"
     }
   ]
 }
