@@ -1,95 +1,96 @@
 {
-  "updatedAt": "2026-10-25T17:27:07Z",
-  "nowPlaying": {
-    "id": "02LAK7qT1wya0klSeNO96f",
-    "name": "RoboCop",
-    "artists": "Kanye West",
-    "album": "808s & Heartbreak",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-    "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-25T20:29:12Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "4x93BZKbgcjc03rQSub67i",
-      "name": "is this love",
-      "artists": "Karri, Leon Bridges",
-      "album": "SLIDER II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
-      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-10-25T17:22:48.837Z"
-    },
-    {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-25T17:18:37.377Z"
-    },
-    {
-      "id": "7KbkSXLaVSoOkPhtB8JwRk",
-      "name": "Cliff Under a Tree",
-      "artists": "OSC",
-      "album": "Ambient Time",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0285dd3f071f521b544bf63923",
-      "url": "https://open.spotify.com/track/7KbkSXLaVSoOkPhtB8JwRk",
-      "playedAt": "2026-10-25T04:18:20.414Z"
-    },
-    {
-      "id": "0pNFoePtxg4DsjK1gVjir4",
-      "name": "Homecoming",
-      "artists": "Oliver Lewin",
-      "album": "Goodnight Universe (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254141bde012efe05d93bace4",
-      "url": "https://open.spotify.com/track/0pNFoePtxg4DsjK1gVjir4",
-      "playedAt": "2026-10-25T04:12:17.968Z"
-    },
-    {
-      "id": "4pmbFlRamoEKgOJjkVW6JY",
-      "name": "the wind still carries your scent",
-      "artists": "Elysia",
-      "album": "yearning",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254bc7571e4e859cfdd5f61fb",
-      "url": "https://open.spotify.com/track/4pmbFlRamoEKgOJjkVW6JY",
-      "playedAt": "2026-10-25T04:10:33.903Z"
-    },
-    {
-      "id": "2c5kEanMod5WDvtxTeDvO2",
-      "name": "Appolo",
-      "artists": "Murr",
-      "album": "Beautiful Existential Dread",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c88bf0ca351de2af00ec520f",
-      "url": "https://open.spotify.com/track/2c5kEanMod5WDvtxTeDvO2",
-      "playedAt": "2026-10-25T04:08:39.782Z"
-    },
-    {
-      "id": "1qHX3JQefKOvy64bIWEAhS",
-      "name": "Dance of the Moonlight Jellies",
-      "artists": "ConcernedApe",
-      "album": "Stardew Valley (Original Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029f31553286bd249a902b50d4",
-      "url": "https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS",
-      "playedAt": "2026-10-25T04:07:00.196Z"
-    },
-    {
-      "id": "6VWTEGq1l81ciJnB4DDxOn",
-      "name": "The Museum",
+      "id": "3BIf974vl0lIEo3EY1XvD1",
+      "name": "Timber Hearth",
       "artists": "Andrew Prahlow",
       "album": "Outer Wilds (Original Soundtrack)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d",
-      "url": "https://open.spotify.com/track/6VWTEGq1l81ciJnB4DDxOn",
-      "playedAt": "2026-10-25T04:05:08.895Z"
+      "url": "https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1",
+      "playedAt": "2026-10-25T20:24:43.943Z"
     },
     {
-      "id": "7KgDOM5HxdG5CvGqVgOezs",
-      "name": "Mesh",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/7KgDOM5HxdG5CvGqVgOezs",
-      "playedAt": "2026-10-25T04:02:20.295Z"
+      "id": "20ZTsszQOyWehsuwT3jFS1",
+      "name": "Nostalgic Drawings",
+      "artists": "Hanna Lindgren",
+      "album": "Nostalgic Drawings",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ec43cbd680db190792856691",
+      "url": "https://open.spotify.com/track/20ZTsszQOyWehsuwT3jFS1",
+      "playedAt": "2026-10-25T20:21:18.549Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-25T18:46:43.468Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-25T18:43:21.836Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-25T18:38:16.273Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-10-25T18:34:59.999Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-25T18:32:39.712Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-25T18:26:56.570Z"
+    },
+    {
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-25T18:24:49.865Z"
+    },
+    {
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-10-25T18:21:10.961Z"
     }
   ]
 }
