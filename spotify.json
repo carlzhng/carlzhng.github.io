@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T16:34:26Z",
+  "updatedAt": "2026-10-26T22:22:18Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-26T16:00:18.981Z"
+      "id": "312z6PZ8wwREck8613PkJk",
+      "name": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
+      "playedAt": "2026-10-26T21:19:32.135Z"
     },
     {
       "id": "4x93BZKbgcjc03rQSub67i",
@@ -18,43 +18,16 @@
       "album": "SLIDER II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
       "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-10-26T15:43:44.980Z"
+      "playedAt": "2026-10-26T20:52:51.362Z"
     },
     {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-26T15:39:34.331Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-26T15:35:54.788Z"
-    },
-    {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-10-26T02:39:57.675Z"
-    },
-    {
-      "id": "0FjdBaDHxVN0R01kDRRCtp",
-      "name": "Outer Wilds - Reprise",
-      "artists": "Andrew Prahlow",
-      "album": "Outer Wilds - Reprise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0257dbc8fa591d8200b5eee376",
-      "url": "https://open.spotify.com/track/0FjdBaDHxVN0R01kDRRCtp",
-      "playedAt": "2026-10-26T02:27:44.278Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-26T20:11:08.408Z"
     }
   ]
 }
