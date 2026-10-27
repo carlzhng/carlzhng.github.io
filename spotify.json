@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-10-27T11:43:22Z",
+  "updatedAt": "2026-10-27T17:36:25Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "4xWpwTyRHboUA6GnVPqltx",
+      "name": "A Mile In My Mind",
+      "artists": "Ebub\u00e9",
+      "album": "A Mile In My Mind",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0250294bd1a7c79248e9510",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx",
+      "playedAt": "2026-10-27T17:22:14.276Z"
+    },
+    {
+      "id": "7lmsi1pVDa3HnfeinsL89t",
+      "name": "CYANIDE",
+      "artists": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t",
+      "playedAt": "2026-10-27T17:19:26.521Z"
+    },
+    {
+      "id": "25cUhiAod71TIQSNicOaW3",
+      "name": "Adorn",
+      "artists": "Miguel",
+      "album": "Kaleidoscope Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe113f478616e62a8fe14108",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3",
+      "playedAt": "2026-10-27T17:16:11.062Z"
+    },
+    {
+      "id": "1IOzlMpIx4oLxo88nNbd1u",
+      "name": "SAVE SOME FOR ME (feat. Kehlani)",
+      "artists": "GIV\u0112ON, Kehlani",
+      "album": "BELOVED: ACT II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0240804dba7b99de3125438c71",
+      "url": "https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u",
+      "playedAt": "2026-10-27T17:12:57.457Z"
+    },
+    {
+      "id": "2JqkpMe2eJToJNHEqkJeCu",
+      "name": "Forever Yours",
+      "artists": "Brent Faiyaz",
+      "album": "Larger Than Life",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ceb160561269ab00b1df9678",
+      "url": "https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu",
+      "playedAt": "2026-10-27T17:09:52.953Z"
+    },
+    {
+      "id": "5Ck3e6z1bcSCes5gdo0Ddt",
+      "name": "Bed Peace",
+      "artists": "Jhen\u00e9 Aiko, Childish Gambino",
+      "album": "Sail Out",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a0fa057b8ad3f3c4969f0c97",
+      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt",
+      "playedAt": "2026-10-27T17:08:16.053Z"
+    },
+    {
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-10-27T15:28:17.208Z"
+    },
     {
       "id": "312z6PZ8wwREck8613PkJk",
       "name": "A Couple Minutes",
@@ -9,16 +72,25 @@
       "album": "The Art of Loving",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-27T03:07:39.781Z"
+      "playedAt": "2026-10-27T15:21:57.779Z"
     },
     {
-      "id": "21jGcNKet2qwijlDFuPiPb",
-      "name": "Circles",
-      "artists": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-10-27T03:01:34.521Z"
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-10-27T15:05:34.783Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-27T15:03:31.387Z"
     }
   ]
 }
