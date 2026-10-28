@@ -1,15 +1,34 @@
 {
-  "updatedAt": "2026-10-27T21:53:20Z",
-  "nowPlaying": {
-    "id": "02LAK7qT1wya0klSeNO96f",
-    "name": "RoboCop",
-    "artists": "Kanye West",
-    "album": "808s & Heartbreak",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-    "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-28T01:00:32Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-27T22:00:47.340Z"
+    },
+    {
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-10-27T21:58:45.277Z"
+    },
+    {
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-10-27T21:54:56.562Z"
+    },
     {
       "id": "4x93BZKbgcjc03rQSub67i",
       "name": "is this love",
@@ -72,33 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
       "playedAt": "2026-10-27T21:19:20.409Z"
-    },
-    {
-      "id": "6G8kHiVZ1jW7vHMPVRNZU0",
-      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
-      "artists": "Drake, Michael Jackson",
-      "album": "Scorpion",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
-      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0",
-      "playedAt": "2026-10-27T21:11:54.013Z"
-    },
-    {
-      "id": "4BhGTc3Cgay2U1QcTS7vQe",
-      "name": "Fire & Desire",
-      "artists": "Drake",
-      "album": "Views",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe",
-      "playedAt": "2026-10-27T21:07:47.167Z"
-    },
-    {
-      "id": "6MbH1QiphMCPTqVEVC7UYi",
-      "name": "Nothings Into Somethings",
-      "artists": "Drake",
-      "album": "More Life",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
-      "url": "https://open.spotify.com/track/6MbH1QiphMCPTqVEVC7UYi",
-      "playedAt": "2026-10-27T21:01:37.707Z"
     }
   ]
 }
