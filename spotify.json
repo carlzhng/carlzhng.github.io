@@ -1,96 +1,51 @@
 {
-  "updatedAt": "2026-10-28T07:58:58Z",
+  "updatedAt": "2026-10-28T15:01:33Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2xnUjy7P9omBua4F4QzibO",
-      "name": "Tr\u00e4det",
-      "artists": "Joel Bille",
-      "album": "Fe (Original Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02dd420ac2c4c09a5739793833",
-      "url": "https://open.spotify.com/track/2xnUjy7P9omBua4F4QzibO",
-      "playedAt": "2026-10-28T02:56:20.764Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-28T14:54:19.483Z"
     },
     {
-      "id": "7MHnURItgoxARwHqw5REQu",
-      "name": "The Knight's Sky",
-      "artists": "Murr",
-      "album": "The Knight's Sky",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c439c9f9e600d632dc4efedf",
-      "url": "https://open.spotify.com/track/7MHnURItgoxARwHqw5REQu",
-      "playedAt": "2026-10-28T02:53:38.234Z"
+      "id": "6jdOi5U5LBzQrc4c1VT983",
+      "name": "Hold On, We're Going Home",
+      "artists": "Drake, Majid Jordan",
+      "album": "Nothing Was The Same (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+      "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
+      "playedAt": "2026-10-28T14:34:50.942Z"
     },
     {
-      "id": "1Pt5knBBFMoL4fEk2JdY2E",
-      "name": "Opening the Door (First Words)",
-      "artists": "Oliver Lewin",
-      "album": "Goodnight Universe (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254141bde012efe05d93bace4",
-      "url": "https://open.spotify.com/track/1Pt5knBBFMoL4fEk2JdY2E",
-      "playedAt": "2026-10-28T02:49:42.944Z"
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-10-28T14:28:09.507Z"
     },
     {
-      "id": "1VDHk2Po8It0AuVvSGun2n",
-      "name": "Wide Meadow (Original Video Game Soundtrack)",
-      "artists": "Pawe\u0142 G\u00f3rniak",
-      "album": "Wingspan (Original Video Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a7c0781b2116a8429921de22",
-      "url": "https://open.spotify.com/track/1VDHk2Po8It0AuVvSGun2n",
-      "playedAt": "2026-10-28T02:47:10.964Z"
+      "id": "25gacl0dFF9HTclx7Ug7xC",
+      "name": "Like 1999",
+      "artists": "Valley",
+      "album": "Last Birthday",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e661c05b66f93ae82583cafa",
+      "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC",
+      "playedAt": "2026-10-28T14:24:20.702Z"
     },
     {
-      "id": "4tgKlYqo3mJT8DDRArCy2K",
-      "name": "Last Dream of Home",
-      "artists": "Andrew Prahlow",
-      "album": "Outer Wilds: Echoes of the Eye (The Lost Reels) [Deluxe Original Game Soundtrack]",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f3d6a37706de132fdde44eed",
-      "url": "https://open.spotify.com/track/4tgKlYqo3mJT8DDRArCy2K",
-      "playedAt": "2026-10-28T02:44:09.183Z"
-    },
-    {
-      "id": "4ooO8SzkCCFtKYew8YNXuZ",
-      "name": "Everybody That You Meet",
-      "artists": "Jamal Green",
-      "album": "TOEM (Original Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023fbc4aead9aa9fd96f30d0e0",
-      "url": "https://open.spotify.com/track/4ooO8SzkCCFtKYew8YNXuZ",
-      "playedAt": "2026-10-28T02:36:54.072Z"
-    },
-    {
-      "id": "3xKcMfWm1UuY8YxBtggk1J",
-      "name": "fragility",
-      "artists": "Elysia",
-      "album": "a quiet life",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029af72818f468749cb1f86efc",
-      "url": "https://open.spotify.com/track/3xKcMfWm1UuY8YxBtggk1J",
-      "playedAt": "2026-10-28T02:34:17.677Z"
-    },
-    {
-      "id": "53oMrirb64IkvnCT16NnNc",
-      "name": "One Day We Will Become Astronauts",
-      "artists": "Henrik Lindstrand",
-      "album": "LEGO Voyagers (Original Video Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0263e21532c3c69a653859462c",
-      "url": "https://open.spotify.com/track/53oMrirb64IkvnCT16NnNc",
-      "playedAt": "2026-10-28T02:32:40.902Z"
-    },
-    {
-      "id": "7KgDOM5HxdG5CvGqVgOezs",
-      "name": "Mesh",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/7KgDOM5HxdG5CvGqVgOezs",
-      "playedAt": "2026-10-28T02:27:40.245Z"
-    },
-    {
-      "id": "1bX6tZppv9UjzibVTbujsX",
-      "name": "A Full Life",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/1bX6tZppv9UjzibVTbujsX",
-      "playedAt": "2026-10-28T02:24:23.459Z"
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-10-28T14:06:00.028Z"
     }
   ]
 }
