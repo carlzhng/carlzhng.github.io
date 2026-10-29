@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-10-29T01:36:31Z",
-  "nowPlaying": {
-    "id": "6jdOi5U5LBzQrc4c1VT983",
-    "name": "Hold On, We're Going Home",
-    "artists": "Drake, Majid Jordan",
-    "album": "Nothing Was The Same (Deluxe)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
-    "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-29T08:07:50Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "5qH3LYTAOebW6op4bFmMxB",
-      "name": "On One",
-      "artists": "Is0kenny",
-      "album": "Narrow Path",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbef1e86dafba8cb8d8b941b",
-      "url": "https://open.spotify.com/track/5qH3LYTAOebW6op4bFmMxB",
-      "playedAt": "2026-10-29T01:34:04.452Z"
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-10-29T07:18:29.598Z"
     },
     {
-      "id": "1Y3LN4zO1Edc2EluIoSPJN",
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artists": "Stephen Sanchez, Em Beihold",
-      "album": "Until I Found You (Em Beihold Version)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bf0876d42b90a8852ad6244",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN",
-      "playedAt": "2026-10-29T01:31:32.940Z"
+      "id": "0BWSa6nLsxSFE8pJXJxSuf",
+      "name": "Adore U",
+      "artists": "Khalid",
+      "album": "Sincere (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0297fd064ad3c969bf929b1b1a",
+      "url": "https://open.spotify.com/track/0BWSa6nLsxSFE8pJXJxSuf",
+      "playedAt": "2026-10-29T06:32:34.119Z"
     },
     {
-      "id": "25gacl0dFF9HTclx7Ug7xC",
-      "name": "Like 1999",
-      "artists": "Valley",
-      "album": "Last Birthday",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e661c05b66f93ae82583cafa",
-      "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC",
-      "playedAt": "2026-10-29T01:28:36.004Z"
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-10-29T06:29:49.426Z"
     },
     {
-      "id": "00WLowvlN5cjkYpQV6pjo4",
-      "name": "Die For You",
-      "artists": "Joji",
-      "album": "SMITHEREENS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02cdd1a8a427b3f81f4f4f4f7d",
-      "url": "https://open.spotify.com/track/00WLowvlN5cjkYpQV6pjo4",
-      "playedAt": "2026-10-29T01:26:10.819Z"
+      "id": "0sze9rycXZswg5emYTFklv",
+      "name": "Swangin\u2019 On Westheimer",
+      "artists": "Don Toliver",
+      "album": "Life of a DON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0272951fef63d89bee5e8224c7",
+      "url": "https://open.spotify.com/track/0sze9rycXZswg5emYTFklv",
+      "playedAt": "2026-10-29T06:26:13.352Z"
     },
     {
-      "id": "5nyVWaY7wfKMQh9l75iQ5r",
-      "name": "Keeping Tabs",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r",
-      "playedAt": "2026-10-29T01:22:38.643Z"
+      "id": "1WiHuDPI9vNkicCNg9Tkbu",
+      "name": "A Couple Minutes - A COLORS SHOW",
+      "artists": "Olivia Dean, COLORS",
+      "album": "A Couple Minutes - A COLORS SHOW",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e73d9d6037c9c6c7e8b3f438",
+      "url": "https://open.spotify.com/track/1WiHuDPI9vNkicCNg9Tkbu",
+      "playedAt": "2026-10-29T06:21:23.967Z"
     },
     {
-      "id": "2jppfWqd0NmoYK81irH7Gk",
-      "name": "Young & Alive",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/2jppfWqd0NmoYK81irH7Gk",
-      "playedAt": "2026-10-29T01:19:40.451Z"
+      "id": "3EOzLBxti9kA01UvwfbPxs",
+      "name": "TOO DEEP TO TURN BACK",
+      "artists": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/3EOzLBxti9kA01UvwfbPxs",
+      "playedAt": "2026-10-29T06:17:50.366Z"
     },
     {
-      "id": "74RNMSxi9get9yK90yC5se",
-      "name": "What About",
-      "artists": "Blaxian",
-      "album": "What About",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249f5a7e05c8b08b31a9c1490",
-      "url": "https://open.spotify.com/track/74RNMSxi9get9yK90yC5se",
-      "playedAt": "2026-10-29T01:16:59.446Z"
+      "id": "2uP6t2J5MEwhr9rDkAAzwh",
+      "name": "Get You (feat. Kali Uchis)",
+      "artists": "Daniel Caesar, Kali Uchis",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
+      "playedAt": "2026-10-29T06:12:31.414Z"
     },
     {
-      "id": "3iEUDvanZwQhLCIqUmCR7N",
-      "name": "The Spins",
-      "artists": "Mac Miller, Empire Of The Sun",
-      "album": "K.I.D.S. (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
-      "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N",
-      "playedAt": "2026-10-29T01:01:47.742Z"
+      "id": "736PP5LTtREkDgktNmX3Gu",
+      "name": "Superpowers",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu",
+      "playedAt": "2026-10-29T06:07:52.745Z"
     },
     {
-      "id": "42F7AY5a40owYmUeq0QQTl",
-      "name": "The Thrill",
-      "artists": "Wiz Khalifa, Empire Of The Sun",
-      "album": "The Thrill",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0202b0327e0d514a5ba0f8ae14",
-      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl",
-      "playedAt": "2026-10-29T00:58:31.422Z"
+      "id": "3m5rs2BeWjLUe0Ygc6aM7i",
+      "name": "Streetcar",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i",
+      "playedAt": "2026-10-29T06:04:57.753Z"
     },
     {
-      "id": "4mL59LVbKgOpEACxraGYdr",
-      "name": "While We're Young",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Trip",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027ccc8005498d9f75b03333c2",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr",
-      "playedAt": "2026-10-29T00:54:36.649Z"
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-10-29T06:00:50.297Z"
     }
   ]
 }
