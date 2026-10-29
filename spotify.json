@@ -1,96 +1,104 @@
 {
-  "updatedAt": "2026-10-28T20:50:02Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-29T01:36:31Z",
+  "nowPlaying": {
+    "id": "6jdOi5U5LBzQrc4c1VT983",
+    "name": "Hold On, We're Going Home",
+    "artists": "Drake, Majid Jordan",
+    "album": "Nothing Was The Same (Deluxe)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+    "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-28T19:56:38.242Z"
+      "id": "5qH3LYTAOebW6op4bFmMxB",
+      "name": "On One",
+      "artists": "Is0kenny",
+      "album": "Narrow Path",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbef1e86dafba8cb8d8b941b",
+      "url": "https://open.spotify.com/track/5qH3LYTAOebW6op4bFmMxB",
+      "playedAt": "2026-10-29T01:34:04.452Z"
     },
     {
-      "id": "6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artists": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "playedAt": "2026-10-28T19:52:08.785Z"
+      "id": "1Y3LN4zO1Edc2EluIoSPJN",
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artists": "Stephen Sanchez, Em Beihold",
+      "album": "Until I Found You (Em Beihold Version)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bf0876d42b90a8852ad6244",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN",
+      "playedAt": "2026-10-29T01:31:32.940Z"
     },
     {
-      "id": "1KA2JLeMi0Mo3hjO0442re",
-      "name": "SUPERPOSITION (feat. John Mayer)",
-      "artists": "Daniel Caesar, John Mayer",
-      "album": "CASE STUDY 01",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
-      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
-      "playedAt": "2026-10-28T19:43:46.172Z"
+      "id": "25gacl0dFF9HTclx7Ug7xC",
+      "name": "Like 1999",
+      "artists": "Valley",
+      "album": "Last Birthday",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e661c05b66f93ae82583cafa",
+      "url": "https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC",
+      "playedAt": "2026-10-29T01:28:36.004Z"
     },
     {
-      "id": "4t9R5rbtovdvya28uMODDz",
-      "name": "Toronto 2014 (with Mustafa)",
-      "artists": "Daniel Caesar, Mustafa",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
-      "playedAt": "2026-10-28T19:37:43.869Z"
+      "id": "00WLowvlN5cjkYpQV6pjo4",
+      "name": "Die For You",
+      "artists": "Joji",
+      "album": "SMITHEREENS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02cdd1a8a427b3f81f4f4f4f7d",
+      "url": "https://open.spotify.com/track/00WLowvlN5cjkYpQV6pjo4",
+      "playedAt": "2026-10-29T01:26:10.819Z"
     },
     {
-      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
-      "name": "NEED IT",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
-      "playedAt": "2026-10-28T19:32:50.672Z"
+      "id": "5nyVWaY7wfKMQh9l75iQ5r",
+      "name": "Keeping Tabs",
+      "artists": "NIKI",
+      "album": "Nicole",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
+      "url": "https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r",
+      "playedAt": "2026-10-29T01:22:38.643Z"
     },
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-10-28T19:28:51.314Z"
+      "id": "2jppfWqd0NmoYK81irH7Gk",
+      "name": "Young & Alive",
+      "artists": "Bazzi",
+      "album": "Infinite Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
+      "url": "https://open.spotify.com/track/2jppfWqd0NmoYK81irH7Gk",
+      "playedAt": "2026-10-29T01:19:40.451Z"
     },
     {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-10-28T19:26:44.660Z"
+      "id": "74RNMSxi9get9yK90yC5se",
+      "name": "What About",
+      "artists": "Blaxian",
+      "album": "What About",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249f5a7e05c8b08b31a9c1490",
+      "url": "https://open.spotify.com/track/74RNMSxi9get9yK90yC5se",
+      "playedAt": "2026-10-29T01:16:59.446Z"
     },
     {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-10-28T19:23:05.814Z"
+      "id": "3iEUDvanZwQhLCIqUmCR7N",
+      "name": "The Spins",
+      "artists": "Mac Miller, Empire Of The Sun",
+      "album": "K.I.D.S. (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
+      "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N",
+      "playedAt": "2026-10-29T01:01:47.742Z"
     },
     {
-      "id": "4x93BZKbgcjc03rQSub67i",
-      "name": "is this love",
-      "artists": "Karri, Leon Bridges",
-      "album": "SLIDER II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
-      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-10-28T19:18:30.955Z"
+      "id": "42F7AY5a40owYmUeq0QQTl",
+      "name": "The Thrill",
+      "artists": "Wiz Khalifa, Empire Of The Sun",
+      "album": "The Thrill",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0202b0327e0d514a5ba0f8ae14",
+      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl",
+      "playedAt": "2026-10-29T00:58:31.422Z"
     },
     {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-28T19:14:20.518Z"
+      "id": "4mL59LVbKgOpEACxraGYdr",
+      "name": "While We're Young",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Trip",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027ccc8005498d9f75b03333c2",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr",
+      "playedAt": "2026-10-29T00:54:36.649Z"
     }
   ]
 }
