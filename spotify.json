@@ -1,23 +1,15 @@
 {
-  "updatedAt": "2026-10-30T19:00:07Z",
-  "nowPlaying": {
-    "id": "3swc6WTsr7rl9DqQKQA55C",
-    "name": "Psycho (feat. Ty Dolla $ign)",
-    "artists": "Post Malone, Ty Dolla $ign",
-    "album": "beerbongs & bentleys",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-    "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-10-30T23:29:17Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-10-30T18:55:18.079Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-30T19:59:58.657Z"
     },
     {
       "id": "312z6PZ8wwREck8613PkJk",
@@ -26,70 +18,70 @@
       "album": "The Art of Loving",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-30T18:51:47.779Z"
+      "playedAt": "2026-10-30T19:37:08.560Z"
     },
     {
-      "id": "2Rv2EIpEmEi5fGVtr5KVgI",
-      "name": "BAD HONEY",
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
       "artists": "Justin Bieber",
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI",
-      "playedAt": "2026-10-30T18:48:15.275Z"
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-10-30T19:33:30.304Z"
     },
     {
-      "id": "2bMcpeSIM5FNFCv1MK30sQ",
-      "name": "CATCH A STRAY",
-      "artists": "Leon Thomas",
-      "album": "MUTT Deluxe: HEEL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02eeb464ea9a23de21dd7aa4c9",
-      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ",
-      "playedAt": "2026-10-30T18:44:46.045Z"
+      "id": "3swc6WTsr7rl9DqQKQA55C",
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "artists": "Post Malone, Ty Dolla $ign",
+      "album": "beerbongs & bentleys",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
+      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
+      "playedAt": "2026-10-30T19:24:13.748Z"
     },
     {
-      "id": "4t9R5rbtovdvya28uMODDz",
-      "name": "Toronto 2014 (with Mustafa)",
-      "artists": "Daniel Caesar, Mustafa",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
-      "playedAt": "2026-10-30T18:40:03.152Z"
+      "id": "3je88Q4OvTqIx7BFRFYvRA",
+      "name": "Phases",
+      "artists": "PRETTYMUCH",
+      "album": "Phases",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
+      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
+      "playedAt": "2026-10-30T19:15:32.184Z"
     },
     {
-      "id": "5Mb5tVWnNvp9eNLBi43zsE",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
-      "playedAt": "2026-10-30T18:33:37.573Z"
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "artists": "Joji",
+      "album": "BALLADS 1",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "playedAt": "2026-10-30T19:11:55.938Z"
     },
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-30T18:30:37.662Z"
+      "id": "3xqWiKFFYF9Pv7H1nNoZFd",
+      "name": "Loose",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd",
+      "playedAt": "2026-10-30T19:08:26.180Z"
     },
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-10-30T18:24:03.281Z"
+      "id": "0q6LuUqGLUiCPP1cbdwFs3",
+      "name": "On Melancholy Hill",
+      "artists": "Gorillaz",
+      "album": "Plastic Beach",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
+      "playedAt": "2026-10-30T19:05:20.184Z"
     },
     {
-      "id": "040I32EKLxQrkuxQu1pqvT",
-      "name": "Saturn",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
-      "playedAt": "2026-10-30T16:41:51.458Z"
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-10-30T18:55:18.079Z"
     }
   ]
 }
