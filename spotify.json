@@ -1,15 +1,60 @@
 {
-  "updatedAt": "2026-10-30T23:29:17Z",
+  "updatedAt": "2026-10-31T04:29:05Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-10-30T19:59:58.657Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-10-31T00:06:41.220Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-10-31T00:01:14.110Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-10-30T23:57:59.759Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-10-30T23:55:39.507Z"
+    },
+    {
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-10-30T23:51:59.929Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-10-30T23:48:49.284Z"
     },
     {
       "id": "312z6PZ8wwREck8613PkJk",
@@ -18,70 +63,25 @@
       "album": "The Art of Loving",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-30T19:37:08.560Z"
+      "playedAt": "2026-10-30T23:42:00.500Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-30T19:33:30.304Z"
+      "id": "4bO6IzKXMWhmncfIO9GBq2",
+      "name": "C'Mon",
+      "artists": "Kesha",
+      "album": "Warrior (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02edcab0fe7cf29d17751dad18",
+      "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2",
+      "playedAt": "2026-10-30T23:34:37.833Z"
     },
     {
-      "id": "3swc6WTsr7rl9DqQKQA55C",
-      "name": "Psycho (feat. Ty Dolla $ign)",
-      "artists": "Post Malone, Ty Dolla $ign",
-      "album": "beerbongs & bentleys",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
-      "playedAt": "2026-10-30T19:24:13.748Z"
-    },
-    {
-      "id": "3je88Q4OvTqIx7BFRFYvRA",
-      "name": "Phases",
-      "artists": "PRETTYMUCH",
-      "album": "Phases",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023a9e34e2c4a10a7dabd13196",
-      "url": "https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA",
-      "playedAt": "2026-10-30T19:15:32.184Z"
-    },
-    {
-      "id": "6rY5FAWxCdAGllYEOZMbjW",
-      "name": "SLOW DANCING IN THE DARK",
-      "artists": "Joji",
-      "album": "BALLADS 1",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
-      "playedAt": "2026-10-30T19:11:55.938Z"
-    },
-    {
-      "id": "3xqWiKFFYF9Pv7H1nNoZFd",
-      "name": "Loose",
-      "artists": "Daniel Caesar",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd",
-      "playedAt": "2026-10-30T19:08:26.180Z"
-    },
-    {
-      "id": "0q6LuUqGLUiCPP1cbdwFs3",
-      "name": "On Melancholy Hill",
-      "artists": "Gorillaz",
-      "album": "Plastic Beach",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
-      "playedAt": "2026-10-30T19:05:20.184Z"
-    },
-    {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-10-30T18:55:18.079Z"
+      "id": "3Yd3J42s3GZaYty4Iy4ewT",
+      "name": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
+      "playedAt": "2026-10-30T19:59:58.657Z"
     }
   ]
 }
