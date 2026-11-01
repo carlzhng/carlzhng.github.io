@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-01T00:44:36Z",
+  "updatedAt": "2026-11-01T08:50:11Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-11-01T08:45:46.298Z"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-11-01T01:36:40.369Z"
+    },
+    {
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-11-01T01:31:31.240Z"
+    },
+    {
+      "id": "3MgZMXtodXhGzKtdwVCU9y",
+      "name": "BOY IN RED",
+      "artists": "Isaiah Rashad, SZA",
+      "album": "BOY IN RED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
+      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
+      "playedAt": "2026-11-01T01:28:30.778Z"
+    },
+    {
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-11-01T01:24:38.047Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-11-01T01:18:00.133Z"
+    },
     {
       "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
       "name": "NEED IT",
@@ -28,69 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
       "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
       "playedAt": "2026-10-31T23:00:32.716Z"
-    },
-    {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-10-31T22:55:18.695Z"
-    },
-    {
-      "id": "4x93BZKbgcjc03rQSub67i",
-      "name": "is this love",
-      "artists": "Karri, Leon Bridges",
-      "album": "SLIDER II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
-      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-10-31T22:50:43.686Z"
-    },
-    {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-10-31T22:46:27.156Z"
-    },
-    {
-      "id": "3aJkV6DUTSCqOwVwaBDG9B",
-      "name": "With You",
-      "artists": "Drake, PARTYNEXTDOOR",
-      "album": "Views",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
-      "playedAt": "2026-10-31T22:34:40.476Z"
-    },
-    {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-10-31T21:52:16.187Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-10-31T00:06:41.220Z"
-    },
-    {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-10-31T00:01:14.110Z"
     }
   ]
 }
