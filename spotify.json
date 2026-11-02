@@ -1,96 +1,77 @@
 {
-  "updatedAt": "2026-11-02T08:57:53Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-02T19:59:46Z",
+  "nowPlaying": {
+    "id": "1epujjBDhuqmYAwAhR29xI",
+    "name": "Death & Taxes",
+    "artists": "Daniel Caesar",
+    "album": "Pilgrim's Paradise",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "2hsI7KRFdPUOQFCFbbaIzE",
-      "name": "Cloud Gazing (Original Video Game Soundtrack)",
-      "artists": "Pawe\u0142 G\u00f3rniak",
-      "album": "Wingspan (Original Video Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a7c0781b2116a8429921de22",
-      "url": "https://open.spotify.com/track/2hsI7KRFdPUOQFCFbbaIzE",
-      "playedAt": "2026-11-02T04:28:51.986Z"
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-11-02T19:26:59.229Z"
     },
     {
-      "id": "78qpfHYOAaLsVO6ERG2crR",
-      "name": "Orbit",
-      "artists": "Henrik Lindstrand",
-      "album": "LEGO Voyagers (Original Video Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0263e21532c3c69a653859462c",
-      "url": "https://open.spotify.com/track/78qpfHYOAaLsVO6ERG2crR",
-      "playedAt": "2026-11-02T04:26:15.802Z"
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-11-02T19:25:34.825Z"
     },
     {
-      "id": "2qwwh3p7v21fqjzh5Ym47E",
-      "name": "It Makes Me So Happy!",
-      "artists": "OSC",
-      "album": "Mo Ambient Time",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02357340213ef97fc24526918d",
-      "url": "https://open.spotify.com/track/2qwwh3p7v21fqjzh5Ym47E",
-      "playedAt": "2026-11-02T04:23:29.404Z"
+      "id": "4x93BZKbgcjc03rQSub67i",
+      "name": "is this love",
+      "artists": "Karri, Leon Bridges",
+      "album": "SLIDER II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
+      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
+      "playedAt": "2026-11-02T19:21:00.024Z"
     },
     {
-      "id": "7DBHecNdRB8fIQSSRxhqF0",
-      "name": "Tall & Shy",
-      "artists": "Launchable Socks",
-      "album": "TOEM (Original Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023fbc4aead9aa9fd96f30d0e0",
-      "url": "https://open.spotify.com/track/7DBHecNdRB8fIQSSRxhqF0",
-      "playedAt": "2026-11-02T04:18:27.503Z"
+      "id": "312z6PZ8wwREck8613PkJk",
+      "name": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
+      "playedAt": "2026-11-02T19:16:49.614Z"
     },
     {
-      "id": "5yy3AvLcxTB5Kmnf7Xd6Qd",
-      "name": "Postcards",
-      "artists": "Jamal Green, Launchable Socks",
-      "album": "Basto: A TOEM Vacation",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02318759ef9986265b96e04f44",
-      "url": "https://open.spotify.com/track/5yy3AvLcxTB5Kmnf7Xd6Qd",
-      "playedAt": "2026-11-02T04:14:52.542Z"
+      "id": "3aJkV6DUTSCqOwVwaBDG9B",
+      "name": "With You",
+      "artists": "Drake, PARTYNEXTDOOR",
+      "album": "Views",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
+      "playedAt": "2026-11-02T19:13:17.009Z"
     },
     {
-      "id": "0pNFoePtxg4DsjK1gVjir4",
-      "name": "Homecoming",
-      "artists": "Oliver Lewin",
-      "album": "Goodnight Universe (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254141bde012efe05d93bace4",
-      "url": "https://open.spotify.com/track/0pNFoePtxg4DsjK1gVjir4",
-      "playedAt": "2026-11-02T04:13:01.416Z"
+      "id": "0FA4wrjDJvJTTU8AepZTup",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
+      "playedAt": "2026-11-02T19:10:01.525Z"
     },
     {
-      "id": "6QZEvf6ErUpHvwktFs8H9z",
-      "name": "The Sound of Water",
-      "artists": "Andrew Prahlow",
-      "album": "Outer Wilds: Echoes of the Eye (Original Game Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023336596eb783587b63e176c5",
-      "url": "https://open.spotify.com/track/6QZEvf6ErUpHvwktFs8H9z",
-      "playedAt": "2026-11-02T04:11:17.423Z"
-    },
-    {
-      "id": "3KDuf9uUChyoJ2WB8gkqmT",
-      "name": "wish of a dying star",
-      "artists": "Elysia",
-      "album": "wandering",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026828073dfe1035ba59d25054",
-      "url": "https://open.spotify.com/track/3KDuf9uUChyoJ2WB8gkqmT",
-      "playedAt": "2026-11-02T04:08:42.322Z"
-    },
-    {
-      "id": "7KgDOM5HxdG5CvGqVgOezs",
-      "name": "Mesh",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/7KgDOM5HxdG5CvGqVgOezs",
-      "playedAt": "2026-11-02T04:03:06.580Z"
-    },
-    {
-      "id": "1bX6tZppv9UjzibVTbujsX",
-      "name": "A Full Life",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/1bX6tZppv9UjzibVTbujsX",
-      "playedAt": "2026-11-02T03:59:49.869Z"
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-11-02T19:06:17.616Z"
     }
   ]
 }
