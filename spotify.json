@@ -1,59 +1,15 @@
 {
-  "updatedAt": "2026-11-02T19:59:46Z",
-  "nowPlaying": {
-    "id": "1epujjBDhuqmYAwAhR29xI",
-    "name": "Death & Taxes",
-    "artists": "Daniel Caesar",
-    "album": "Pilgrim's Paradise",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-    "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-03T02:11:35Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-11-02T19:26:59.229Z"
-    },
-    {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-11-02T19:25:34.825Z"
-    },
-    {
-      "id": "4x93BZKbgcjc03rQSub67i",
-      "name": "is this love",
-      "artists": "Karri, Leon Bridges",
-      "album": "SLIDER II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
-      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-11-02T19:21:00.024Z"
-    },
-    {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-11-02T19:16:49.614Z"
-    },
-    {
-      "id": "3aJkV6DUTSCqOwVwaBDG9B",
-      "name": "With You",
-      "artists": "Drake, PARTYNEXTDOOR",
-      "album": "Views",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
-      "playedAt": "2026-11-02T19:13:17.009Z"
+      "id": "5jTIePmUbBUVjJnpZeGiM3",
+      "name": "We Find Love",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/5jTIePmUbBUVjJnpZeGiM3",
+      "playedAt": "2026-11-02T23:06:16.721Z"
     },
     {
       "id": "0FA4wrjDJvJTTU8AepZTup",
@@ -62,16 +18,79 @@
       "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
-      "playedAt": "2026-11-02T19:10:01.525Z"
+      "playedAt": "2026-11-02T23:00:24.105Z"
     },
     {
-      "id": "4jEP389ge8wJkRcBC0dJMj",
-      "name": "Little Lightning",
-      "artists": "Ben Kessler",
-      "album": "Natural Law",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
-      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
-      "playedAt": "2026-11-02T19:06:17.616Z"
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-11-02T22:53:50.205Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-11-02T22:40:24.946Z"
+    },
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-11-02T22:37:29.468Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-11-02T22:35:15.413Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-02T22:31:53.819Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-11-02T22:26:48.132Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-11-02T22:23:33.821Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-11-02T22:21:13.510Z"
     }
   ]
 }
