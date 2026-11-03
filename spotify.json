@@ -1,96 +1,104 @@
 {
-  "updatedAt": "2026-11-03T11:40:29Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-03T19:11:16Z",
+  "nowPlaying": {
+    "id": "2h7NZlyZSEG1KDXc0KMFUI",
+    "name": "North",
+    "artists": "Clairo",
+    "album": "Immunity",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e023e4fc846c2b52b9cb6ff2e1f",
+    "url": "https://open.spotify.com/track/2h7NZlyZSEG1KDXc0KMFUI",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6cyLTnnu0lwKGvNm4RsKTQ",
-      "name": "Striving",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/6cyLTnnu0lwKGvNm4RsKTQ",
-      "playedAt": "2026-11-03T03:26:15.414Z"
+      "id": "2XUx8PCXGpP1XhZJMGiUol",
+      "name": "Chest Pain (I Love)",
+      "artists": "Malcolm Todd",
+      "album": "Malcolm Todd",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0287607b2c8f5f52f1f057be0d",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol",
+      "playedAt": "2026-11-03T19:08:59.904Z"
     },
     {
-      "id": "2fS1dIfqOnJYGMWVLbvsS5",
-      "name": "The Makings of a Career (feat. Trevor Estes)",
-      "artists": "Oliver Lewin, Dillon Terry, Trevor Estes",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/2fS1dIfqOnJYGMWVLbvsS5",
-      "playedAt": "2026-11-03T03:09:36.547Z"
+      "id": "39w632qNLupuM7uqqVmtks",
+      "name": "May I Ask",
+      "artists": "Luke Chiang, Alexis Kim",
+      "album": "May I Ask",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028a5f58de5dad338701dd8da8",
+      "url": "https://open.spotify.com/track/39w632qNLupuM7uqqVmtks",
+      "playedAt": "2026-11-03T19:05:38.559Z"
     },
     {
-      "id": "6jb4hTEfrjL5lmpfaWy8PI",
-      "name": "Stay Here",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/6jb4hTEfrjL5lmpfaWy8PI",
-      "playedAt": "2026-11-03T03:08:09.359Z"
+      "id": "2uvE4L5ZsYKpv8hbK4TIOt",
+      "name": "MUTT",
+      "artists": "Leon Thomas",
+      "album": "MUTT",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027fc4fb3453f841652d2e4814",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
+      "playedAt": "2026-11-03T19:01:47.567Z"
     },
     {
-      "id": "2558cvDdbKkE8QVO00kPh3",
-      "name": "The Bedroom",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/2558cvDdbKkE8QVO00kPh3",
-      "playedAt": "2026-11-03T03:05:40.437Z"
+      "id": "5ntN26ZK08HVxGpN29vebJ",
+      "name": "It Isn\u2019t Perfect But It Might Be - Wurli Version / from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
+      "artists": "Olivia Dean",
+      "album": "It Isn\u2019t Perfect But It Might Be (Wurli Version / from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02608f37bbe815dfacab155519",
+      "url": "https://open.spotify.com/track/5ntN26ZK08HVxGpN29vebJ",
+      "playedAt": "2026-11-03T18:58:34.170Z"
     },
     {
-      "id": "5qI85vxVB8IjyJdnT9SDX3",
-      "name": "The Backyard",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/5qI85vxVB8IjyJdnT9SDX3",
-      "playedAt": "2026-11-03T03:04:38.707Z"
+      "id": "40vHPre1xRPeCAuK2CNfs4",
+      "name": "OPEN UP",
+      "artists": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/40vHPre1xRPeCAuK2CNfs4",
+      "playedAt": "2026-11-03T18:56:30.622Z"
     },
     {
-      "id": "2N8hRbphECT1gJ3DU5688g",
-      "name": "Metronome",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/2N8hRbphECT1gJ3DU5688g",
-      "playedAt": "2026-11-03T03:02:58.243Z"
+      "id": "0QPdjsMOUhwouq1NS3HwfQ",
+      "name": "Coming Up Roses",
+      "artists": "Harry Styles",
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0274959140f550b11049c18a38",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ",
+      "playedAt": "2026-11-03T18:52:03.941Z"
     },
     {
-      "id": "6hTM0ujY23kZBnso9vCjeO",
-      "name": "Growing Pains (feat. Trevor Estes)",
-      "artists": "Oliver Lewin, Dillon Terry, Trevor Estes",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/6hTM0ujY23kZBnso9vCjeO",
-      "playedAt": "2026-11-03T03:02:10.950Z"
+      "id": "00WLowvlN5cjkYpQV6pjo4",
+      "name": "Die For You",
+      "artists": "Joji",
+      "album": "SMITHEREENS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02cdd1a8a427b3f81f4f4f4f7d",
+      "url": "https://open.spotify.com/track/00WLowvlN5cjkYpQV6pjo4",
+      "playedAt": "2026-11-03T18:47:54.601Z"
     },
     {
-      "id": "3MSEj8PIOPIMGhd55BHa1o",
-      "name": "Slipping Away",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/3MSEj8PIOPIMGhd55BHa1o",
-      "playedAt": "2026-11-03T03:01:20.332Z"
+      "id": "6iFDEchx7A9uPI7n6yBSN8",
+      "name": "Apollo Eighteen",
+      "artists": "Khamari",
+      "album": "To Dry a Tear",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ff9c7d748a8ea1a27077c589",
+      "url": "https://open.spotify.com/track/6iFDEchx7A9uPI7n6yBSN8",
+      "playedAt": "2026-11-03T18:44:22.434Z"
     },
     {
-      "id": "2n6weyfUdZ3LKMmTpyWzOY",
-      "name": "Sea of Souls",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/2n6weyfUdZ3LKMmTpyWzOY",
-      "playedAt": "2026-11-03T02:59:24.332Z"
+      "id": "22NHkFYbgxB2Zirj29Gbp8",
+      "name": "oh yeah?",
+      "artists": "Steve Lacy",
+      "album": "Oh yeah?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
+      "playedAt": "2026-11-03T18:40:10.720Z"
     },
     {
-      "id": "3dOVZSztBfpmr5bQvf6RB6",
-      "name": "Elle\u2019s Melody",
-      "artists": "Oliver Lewin, Dillon Terry",
-      "album": "Before Your Eyes (Original Soundtrack)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd149ebe3e76d2f35642184f",
-      "url": "https://open.spotify.com/track/3dOVZSztBfpmr5bQvf6RB6",
-      "playedAt": "2026-11-03T02:56:31.354Z"
+      "id": "58z3p4Jy4H4mNmUNlL0P4Z",
+      "name": "Fell Again",
+      "artists": "cikho",
+      "album": "Fell Again / Stranger What's Your Name?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0276988dee686cba3fc7c4f755",
+      "url": "https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z",
+      "playedAt": "2026-11-03T18:37:19.618Z"
     }
   ]
 }
