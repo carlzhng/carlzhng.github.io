@@ -1,96 +1,69 @@
 {
-  "updatedAt": "2026-11-05T14:08:51Z",
+  "updatedAt": "2026-11-05T21:47:39Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "2uFaJJtFpPDc5Pa95XzTvg",
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "artists": "Dean Martin",
-      "album": "A Winter Romance",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026d88028a85c771f37374c8ea",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg",
-      "playedAt": "2026-11-05T04:48:02.299Z"
+      "id": "4gwltSjdrzKtKz9dlk2Wja",
+      "name": "Stella Brown",
+      "artists": "Jelani Aryeh",
+      "album": "Stella Brown",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
+      "playedAt": "2026-11-05T19:24:03.834Z"
     },
     {
-      "id": "7EGqwboQMKQhBw4z49rBLI",
-      "name": "With You This Christmas",
-      "artists": "Why Don't We",
-      "album": "With You This Christmas",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d7eae55a556157fefdff65a5",
-      "url": "https://open.spotify.com/track/7EGqwboQMKQhBw4z49rBLI",
-      "playedAt": "2026-11-05T04:46:04.517Z"
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-11-05T19:20:55.796Z"
     },
     {
-      "id": "2rMK6uQxoSGYWOXtzPUY4Z",
-      "name": "Winter Wonderland",
-      "artists": "Michael Bubl\u00e9",
-      "album": "Christmas (Deluxe 10th Anniversary Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b0e67635ab4a1bc52847cfc2",
-      "url": "https://open.spotify.com/track/2rMK6uQxoSGYWOXtzPUY4Z",
-      "playedAt": "2026-11-05T04:43:37.289Z"
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-11-05T19:18:12.002Z"
     },
     {
-      "id": "3nAp4IvdMPPWEH9uuXFFV5",
-      "name": "Underneath the Tree",
-      "artists": "Kelly Clarkson",
-      "album": "Wrapped In Red",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c87992b7588879f66d192905",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5",
-      "playedAt": "2026-11-05T04:39:30.361Z"
+      "id": "6sj3SlT8e4JCcnK60ua1XX",
+      "name": "One Less Lonely Girl",
+      "artists": "Justin Bieber",
+      "album": "My World (Canada Version - All BP's)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
+      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
+      "playedAt": "2026-11-05T19:14:48.445Z"
     },
     {
-      "id": "39U6xT84ZmMPkvvvlkHGRC",
-      "name": "Under the Tree",
-      "artists": "Sam Palladio",
-      "album": "Under the Tree",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021ab26df50baea3c48ad9bc60",
-      "url": "https://open.spotify.com/track/39U6xT84ZmMPkvvvlkHGRC",
-      "playedAt": "2026-11-05T04:35:40.058Z"
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-11-05T16:52:18.695Z"
     },
     {
-      "id": "7uoFMmxln0GPXQ0AcCBXRq",
-      "name": "Snowman",
-      "artists": "Sia",
-      "album": "Everyday Is Christmas (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a75e532b61dac3ddafd022ef",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
-      "playedAt": "2026-11-05T04:32:09.861Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-11-05T16:48:55.617Z"
     },
     {
-      "id": "2oast4qfhR1QJamIIgECNe",
-      "name": "you and i",
-      "artists": "FION",
-      "album": "you and i",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b55e4f908a9a893dd29ab283",
-      "url": "https://open.spotify.com/track/2oast4qfhR1QJamIIgECNe",
-      "playedAt": "2026-11-05T04:29:23.657Z"
-    },
-    {
-      "id": "0lizgQ7Qw35od7CYaoMBZb",
-      "name": "Santa Tell Me",
-      "artists": "Ariana Grande",
-      "album": "Santa Tell Me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a1db745e63940bc06985dea5",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
-      "playedAt": "2026-11-05T04:26:03.055Z"
-    },
-    {
-      "id": "4LV7nlefIn7Z1HJjLVG5VZ",
-      "name": "My Favourite Time Of Year",
-      "artists": "Pete Masitti",
-      "album": "Festive Holiday",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b8efdf8ce1cf2b8e1ff380b6",
-      "url": "https://open.spotify.com/track/4LV7nlefIn7Z1HJjLVG5VZ",
-      "playedAt": "2026-11-05T04:22:00.958Z"
-    },
-    {
-      "id": "2R41oNESIjHB7UdfI1d6LB",
-      "name": "The Greatest Gift",
-      "artists": "Leroy Sanchez",
-      "album": "The Greatest Gift",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fb10aeb316d5da7fb468e5b0",
-      "url": "https://open.spotify.com/track/2R41oNESIjHB7UdfI1d6LB",
-      "playedAt": "2026-11-05T04:19:03.936Z"
+      "id": "3QLjDkgLh9AOEHlhQtDuhs",
+      "name": "Best I Ever Had",
+      "artists": "Drake",
+      "album": "So Far Gone",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254ef13c30a024a7f1ba79efd",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs",
+      "playedAt": "2026-11-05T16:39:02.883Z"
     }
   ]
 }
