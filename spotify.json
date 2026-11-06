@@ -1,78 +1,104 @@
 {
-  "updatedAt": "2026-11-06T11:52:13Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-06T18:58:46Z",
+  "nowPlaying": {
+    "id": "6rY5FAWxCdAGllYEOZMbjW",
+    "name": "SLOW DANCING IN THE DARK",
+    "artists": "Joji",
+    "album": "BALLADS 1",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
+    "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3aJkV6DUTSCqOwVwaBDG9B",
-      "name": "With You",
-      "artists": "Drake, PARTYNEXTDOOR",
-      "album": "Views",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
-      "playedAt": "2026-11-06T03:35:42.187Z"
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-11-06T18:57:04.421Z"
     },
     {
-      "id": "0FA4wrjDJvJTTU8AepZTup",
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
-      "playedAt": "2026-11-06T03:34:57.986Z"
+      "id": "3HYUSkSJ0iQfocqdJmJqKw",
+      "name": "TWENTIES",
+      "artists": "GIV\u0112ON",
+      "album": "BELOVED",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
+      "url": "https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw",
+      "playedAt": "2026-11-06T18:54:17.814Z"
     },
     {
-      "id": "6wWdHb0AmzUbUtP9BsvYTx",
-      "name": "Paragraphs",
-      "artists": "Luke Chiang",
-      "album": "Paragraphs",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
-      "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
-      "playedAt": "2026-11-06T03:32:14.329Z"
+      "id": "1Q7EgiMOuwDcB0PJC6AzON",
+      "name": "Best Part (feat. H.E.R.)",
+      "artists": "Daniel Caesar, H.E.R.",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
+      "playedAt": "2026-11-06T18:50:52.877Z"
     },
     {
-      "id": "7aKPbNFx51OwUZBbZ7pqlj",
-      "name": "CAMERAS",
-      "artists": "Isaiah Rashad, Dominic Fike",
-      "album": "IT'S BEEN AWFUL",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
-      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
-      "playedAt": "2026-11-06T00:44:29.546Z"
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-11-06T18:47:22.452Z"
     },
     {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-11-06T00:40:40.188Z"
+      "id": "6cx5CvFhqN19efStehJqoW",
+      "name": "Valentine",
+      "artists": "Laufey",
+      "album": "Everything I Know About Love",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248341e864d4b4881f56f01b4",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW",
+      "playedAt": "2026-11-06T18:41:55.451Z"
     },
     {
-      "id": "24iKWzQ8le376B6Wc2Gsyx",
-      "name": "BAD HONEY - acoustic cover",
-      "artists": "wes",
-      "album": "BAD HONEY (acoustic cover)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
-      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
-      "playedAt": "2026-11-06T00:37:44.884Z"
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-11-06T18:39:06.007Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-11-06T00:35:30.788Z"
+      "id": "3iCBnS3JlJMqCONqNqky4U",
+      "name": "Water the Flowers, Pray for a Garden",
+      "artists": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea081f59b08e5bd011c84593",
+      "url": "https://open.spotify.com/track/3iCBnS3JlJMqCONqNqky4U",
+      "playedAt": "2026-11-06T18:27:42.609Z"
     },
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-11-06T00:32:09.188Z"
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-11-06T18:24:15.607Z"
+    },
+    {
+      "id": "3U3hFkMr0Q90pD24EkE3Pr",
+      "name": "BMF",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
+      "playedAt": "2026-11-06T18:19:51.261Z"
+    },
+    {
+      "id": "3iBgrkexCzVuPy4O9vx7Mf",
+      "name": "Glue Song",
+      "artists": "beabadoobee",
+      "album": "Glue Song",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3862aeefcb2f0860ef017e4",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf",
+      "playedAt": "2026-11-06T18:16:50.039Z"
     }
   ]
 }
