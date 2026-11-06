@@ -1,69 +1,78 @@
 {
-  "updatedAt": "2026-11-05T21:47:39Z",
+  "updatedAt": "2026-11-06T02:00:20Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "4gwltSjdrzKtKz9dlk2Wja",
-      "name": "Stella Brown",
-      "artists": "Jelani Aryeh",
-      "album": "Stella Brown",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
-      "playedAt": "2026-11-05T19:24:03.834Z"
+      "id": "6wWdHb0AmzUbUtP9BsvYTx",
+      "name": "Paragraphs",
+      "artists": "Luke Chiang",
+      "album": "Paragraphs",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
+      "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
+      "playedAt": "2026-11-06T01:04:51.526Z"
     },
     {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
+      "id": "7aKPbNFx51OwUZBbZ7pqlj",
+      "name": "CAMERAS",
+      "artists": "Isaiah Rashad, Dominic Fike",
+      "album": "IT'S BEEN AWFUL",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f595e5f39c4050805de5caf5",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj",
+      "playedAt": "2026-11-06T00:44:29.546Z"
+    },
+    {
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-11-06T00:40:40.188Z"
+    },
+    {
+      "id": "24iKWzQ8le376B6Wc2Gsyx",
+      "name": "BAD HONEY - acoustic cover",
+      "artists": "wes",
+      "album": "BAD HONEY (acoustic cover)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d0664071deeb5e1a0b38ed6b",
+      "url": "https://open.spotify.com/track/24iKWzQ8le376B6Wc2Gsyx",
+      "playedAt": "2026-11-06T00:37:44.884Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
       "artists": "Justin Bieber",
       "album": "SWAG II",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-11-05T19:20:55.796Z"
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-11-06T00:35:30.788Z"
     },
     {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-11-05T19:18:12.002Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-06T00:32:09.188Z"
     },
     {
-      "id": "6sj3SlT8e4JCcnK60ua1XX",
-      "name": "One Less Lonely Girl",
-      "artists": "Justin Bieber",
-      "album": "My World (Canada Version - All BP's)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
-      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
-      "playedAt": "2026-11-05T19:14:48.445Z"
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-11-06T00:15:02.569Z"
     },
     {
-      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
-      "name": "Young Dumb & Broke",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
-      "playedAt": "2026-11-05T16:52:18.695Z"
-    },
-    {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-11-05T16:48:55.617Z"
-    },
-    {
-      "id": "3QLjDkgLh9AOEHlhQtDuhs",
-      "name": "Best I Ever Had",
-      "artists": "Drake",
-      "album": "So Far Gone",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0254ef13c30a024a7f1ba79efd",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs",
-      "playedAt": "2026-11-05T16:39:02.883Z"
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-11-06T00:11:48.071Z"
     }
   ]
 }
