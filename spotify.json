@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-06T02:00:20Z",
+  "updatedAt": "2026-11-06T11:52:13Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3aJkV6DUTSCqOwVwaBDG9B",
+      "name": "With You",
+      "artists": "Drake, PARTYNEXTDOOR",
+      "album": "Views",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
+      "playedAt": "2026-11-06T03:35:42.187Z"
+    },
+    {
+      "id": "0FA4wrjDJvJTTU8AepZTup",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
+      "playedAt": "2026-11-06T03:34:57.986Z"
+    },
     {
       "id": "6wWdHb0AmzUbUtP9BsvYTx",
       "name": "Paragraphs",
@@ -9,7 +27,7 @@
       "album": "Paragraphs",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
       "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
-      "playedAt": "2026-11-06T01:04:51.526Z"
+      "playedAt": "2026-11-06T03:32:14.329Z"
     },
     {
       "id": "7aKPbNFx51OwUZBbZ7pqlj",
@@ -55,24 +73,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
       "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
       "playedAt": "2026-11-06T00:32:09.188Z"
-    },
-    {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-11-06T00:15:02.569Z"
-    },
-    {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-11-06T00:11:48.071Z"
     }
   ]
 }
