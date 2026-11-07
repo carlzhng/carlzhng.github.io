@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-11-06T23:58:21Z",
-  "nowPlaying": {
-    "id": "5QO79kh1waicV47BqGRL3g",
-    "name": "Save Your Tears",
-    "artists": "The Weeknd",
-    "album": "After Hours",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
-    "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-07T05:45:39Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-11-06T23:54:45.234Z"
+      "id": "4fZg2tFkmln0lraBWvpCzV",
+      "name": "I",
+      "artists": "BUMP OF CHICKEN",
+      "album": "I",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f3cd5eed4683f8f046ae7fe",
+      "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV",
+      "playedAt": "2026-11-07T01:58:14.616Z"
     },
     {
-      "id": "7CmNyEQUpNSX6RMM5Fw3os",
-      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-      "artists": "Murda Beatz, Polo G, Ty Dolla $ign",
-      "album": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f61c63b10ec1192e647fe7d6",
-      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os",
-      "playedAt": "2026-11-06T23:21:06.703Z"
+      "id": "6DH13QYXK7lKkYHSU88N48",
+      "name": "Who Knows",
+      "artists": "Daniel Caesar",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+      "playedAt": "2026-11-07T01:53:18.781Z"
     },
     {
-      "id": "4xvEn1vhrF9JbPFWqTXsH4",
-      "name": "I know love (feat. The Kid LAROI)",
-      "artists": "Tate McRae, The Kid LAROI",
-      "album": "So Close To What",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0230420759f1a2cd4923c5c65b",
-      "url": "https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4",
-      "playedAt": "2026-11-06T23:17:15.811Z"
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-11-07T01:48:14.501Z"
     },
     {
-      "id": "0H8XeaJunhvpBdBFIYi6Sh",
-      "name": "Deja Vu",
-      "artists": "Post Malone, Justin Bieber",
-      "album": "Stoney (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0255404f712deb84d0650a4b41",
-      "url": "https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh",
-      "playedAt": "2026-11-06T23:14:39.038Z"
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-11-07T01:45:27.921Z"
     },
     {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "artists": "Daniel Caesar, H.E.R.",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "playedAt": "2026-11-06T23:10:44.342Z"
+      "id": "62FOsBpnZXEoPc1Qo9hcap",
+      "name": "Beautiful Goodbye",
+      "artists": "Maroon 5",
+      "album": "Overexposed (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ce7d499847da02a9cbd1c084",
+      "url": "https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap",
+      "playedAt": "2026-11-07T01:38:28.346Z"
     },
     {
-      "id": "3Xm46tupT8Wmj9NoKxeWi5",
-      "name": "HEROES",
-      "artists": "Brian the Sun",
-      "album": "BEST PARADE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0286c0c0bc88c5b608fb860ad3",
-      "url": "https://open.spotify.com/track/3Xm46tupT8Wmj9NoKxeWi5",
-      "playedAt": "2026-11-06T23:01:12.549Z"
+      "id": "312z6PZ8wwREck8613PkJk",
+      "name": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
+      "playedAt": "2026-11-07T01:28:26.184Z"
     },
     {
-      "id": "3U3hFkMr0Q90pD24EkE3Pr",
-      "name": "BMF",
+      "id": "1Qrg8KqiBpW07V7PNxwwwL",
+      "name": "Kill Bill",
       "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr",
-      "playedAt": "2026-11-06T22:58:08.954Z"
+      "album": "SOS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5276ed6cb0287df8d9be07f",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL",
+      "playedAt": "2026-11-07T01:26:56.996Z"
     },
     {
-      "id": "1P9I2fgRkFzlIRUN0oeJN1",
-      "name": "5 TO 10",
-      "artists": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
-      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
-      "playedAt": "2026-11-06T22:55:07.764Z"
+      "id": "7EW7Yivb93qKAtp5qEm5of",
+      "name": "Dark Thoughts",
+      "artists": "Lil Tecca",
+      "album": "Dark Thoughts",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f9a2359739728d2af3284a8e",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of",
+      "playedAt": "2026-11-07T01:24:22.613Z"
     },
     {
-      "id": "0zTcYZot5zfBwOQkdv02ls",
-      "name": "Baby Blue",
-      "artists": "Cody Simpson",
-      "album": "Baby Blue / When It Comes To Loving You",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289ef1890623a72059624db8f",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls",
-      "playedAt": "2026-11-06T22:51:53.638Z"
+      "id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "name": "Blinding Lights",
+      "artists": "The Weeknd",
+      "album": "After Hours",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "playedAt": "2026-11-07T01:21:57.417Z"
     },
     {
-      "id": "1bjeWoagtHmUKputLVyDxQ",
-      "name": "Saturn",
-      "artists": "SZA",
-      "album": "Saturn",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02358f9708c2cc44b153577238",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ",
-      "playedAt": "2026-11-06T22:49:01.477Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-11-07T01:18:36.840Z"
     }
   ]
 }
