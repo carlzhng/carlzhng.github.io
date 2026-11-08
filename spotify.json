@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-07T23:28:29Z",
+  "updatedAt": "2026-11-08T04:52:24Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "6klpXs2uAjagnZMFkt4qkl",
+      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
+      "artists": "Mandy Moore, Zachary Levi",
+      "album": "Tangled",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
+      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
+      "playedAt": "2026-11-08T01:17:44.226Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-08T00:52:38.137Z"
+    },
+    {
+      "id": "16Z0an8D4BJNm3VbWWpTnv",
+      "name": "Past Won't Leave My Bed",
+      "artists": "Joji",
+      "album": "Past Won't Leave My Bed",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
+      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
+      "playedAt": "2026-11-08T00:47:32.594Z"
+    },
+    {
+      "id": "2E7a96qey4AzSOdK6H21vS",
+      "name": "Scorsese Baby Daddy",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS",
+      "playedAt": "2026-11-08T00:44:45.918Z"
+    },
+    {
+      "id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need",
+      "artists": "Olivia Dean",
+      "album": "Man I Need",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "playedAt": "2026-11-08T00:42:11.518Z"
+    },
     {
       "id": "4fLspOxX39tXzHHqrEqTgf",
       "name": "Buzz",
@@ -37,60 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
       "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
       "playedAt": "2026-11-07T23:15:38.365Z"
-    },
-    {
-      "id": "7I1R17itD7LZ1rlv1mz5da",
-      "name": "terrible4u",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/7I1R17itD7LZ1rlv1mz5da",
-      "playedAt": "2026-11-07T23:12:27.864Z"
-    },
-    {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-11-07T23:09:09.301Z"
-    },
-    {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-11-07T23:05:30.464Z"
-    },
-    {
-      "id": "2qqnMabmdkKF2R9ORsKBKb",
-      "name": "Mine",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
-      "url": "https://open.spotify.com/track/2qqnMabmdkKF2R9ORsKBKb",
-      "playedAt": "2026-11-07T23:00:03.463Z"
-    },
-    {
-      "id": "0mQLFm42be28X8yKBTiHP3",
-      "name": "I THINK YOU'RE SPECIAL",
-      "artists": "Justin Bieber, Tems",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3",
-      "playedAt": "2026-11-07T22:57:18.180Z"
-    },
-    {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-11-07T22:54:32.097Z"
     }
   ]
 }
