@@ -1,42 +1,23 @@
 {
-  "updatedAt": "2026-11-08T18:41:00Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-08T23:27:00Z",
+  "nowPlaying": {
+    "id": "7I1R17itD7LZ1rlv1mz5da",
+    "name": "terrible4u",
+    "artists": "Luke Chiang",
+    "album": "TYPHOON",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+    "url": "https://open.spotify.com/track/7I1R17itD7LZ1rlv1mz5da",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6klpXs2uAjagnZMFkt4qkl",
-      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
-      "artists": "Mandy Moore, Zachary Levi",
-      "album": "Tangled",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02597905f8f46dfc60f5a6d11f",
-      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
-      "playedAt": "2026-11-08T01:17:44.226Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-11-08T00:52:38.137Z"
-    },
-    {
-      "id": "16Z0an8D4BJNm3VbWWpTnv",
-      "name": "Past Won't Leave My Bed",
-      "artists": "Joji",
-      "album": "Past Won't Leave My Bed",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a51d2c2b79d59becd0e48dcd",
-      "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv",
-      "playedAt": "2026-11-08T00:47:32.594Z"
-    },
-    {
-      "id": "2E7a96qey4AzSOdK6H21vS",
-      "name": "Scorsese Baby Daddy",
-      "artists": "SZA",
-      "album": "SOS Deluxe: LANA",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
-      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS",
-      "playedAt": "2026-11-08T00:44:45.918Z"
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-11-08T23:25:35.347Z"
     },
     {
       "id": "1qbmS6ep2hbBRaEZFpn7BX",
@@ -45,43 +26,79 @@
       "album": "Man I Need",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3d69e17dde129037a1f09e2",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "playedAt": "2026-11-08T00:42:11.518Z"
+      "playedAt": "2026-11-08T23:22:11.549Z"
     },
     {
-      "id": "4fLspOxX39tXzHHqrEqTgf",
-      "name": "Buzz",
-      "artists": "NIKI",
-      "album": "Buzz",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af28c3161d272af6c015131c",
-      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf",
-      "playedAt": "2026-11-07T23:24:24.428Z"
+      "id": "0q6LuUqGLUiCPP1cbdwFs3",
+      "name": "On Melancholy Hill",
+      "artists": "Gorillaz",
+      "album": "Plastic Beach",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
+      "playedAt": "2026-11-08T23:19:07.039Z"
     },
     {
-      "id": "3xqWiKFFYF9Pv7H1nNoZFd",
-      "name": "Loose",
-      "artists": "Daniel Caesar",
+      "id": "0eaVIYo2zeOaGJeqZ5TwYz",
+      "name": "No Pole",
+      "artists": "Don Toliver",
+      "album": "Love Sick (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02307323fa550564b0201b1d76",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+      "playedAt": "2026-11-08T23:15:12.680Z"
+    },
+    {
+      "id": "3AxPuwVYgZ3EfBsoPQFbh8",
+      "name": "endlessly",
+      "artists": "bixby",
+      "album": "are you sleeping alone again?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026b448c4e2f8ed6ec76b8bcfb",
+      "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8",
+      "playedAt": "2026-11-08T23:11:41.334Z"
+    },
+    {
+      "id": "12rtpdXys3CkpYZppt2z7y",
+      "name": "whenever you're gone",
+      "artists": "Khalid",
+      "album": "after the sun goes down",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027f2c135630aca1653c1e2104",
+      "url": "https://open.spotify.com/track/12rtpdXys3CkpYZppt2z7y",
+      "playedAt": "2026-11-08T23:09:35.033Z"
+    },
+    {
+      "id": "040I32EKLxQrkuxQu1pqvT",
+      "name": "Saturn",
+      "artists": "SZA",
+      "album": "SOS Deluxe: LANA",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216fdde9f6b5606419ca9b7ca",
+      "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT",
+      "playedAt": "2026-11-08T23:03:16.270Z"
+    },
+    {
+      "id": "1K6oXSGIexEyNnv2cS6vKr",
+      "name": "Transform (feat. Charlotte Day Wilson)",
+      "artists": "Daniel Caesar, Charlotte Day Wilson",
       "album": "Freudian",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd",
-      "playedAt": "2026-11-07T23:21:28.232Z"
+      "url": "https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr",
+      "playedAt": "2026-11-08T23:00:09.589Z"
     },
     {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
+      "id": "5Mb5tVWnNvp9eNLBi43zsE",
+      "name": "A Living Light",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02707267fc9fe2391fd14d85d6",
+      "url": "https://open.spotify.com/track/5Mb5tVWnNvp9eNLBi43zsE",
+      "playedAt": "2026-11-08T22:55:28.523Z"
+    },
+    {
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
       "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-11-07T23:18:22.174Z"
-    },
-    {
-      "id": "3MgZMXtodXhGzKtdwVCU9y",
-      "name": "BOY IN RED",
-      "artists": "Isaiah Rashad, SZA",
-      "album": "BOY IN RED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e64a8ce90ccb943e158478c9",
-      "url": "https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y",
-      "playedAt": "2026-11-07T23:15:38.365Z"
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-11-08T22:52:28.733Z"
     }
   ]
 }
