@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T04:59:48Z",
+  "updatedAt": "2026-11-09T15:26:33Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "6wWdHb0AmzUbUtP9BsvYTx",
+      "name": "Paragraphs",
+      "artists": "Luke Chiang",
+      "album": "Paragraphs",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
+      "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
+      "playedAt": "2026-11-09T05:16:43.695Z"
+    },
+    {
+      "id": "1mEQbSq0PCNjyL6oMgHKFQ",
+      "name": "LOVE SONG",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
+      "playedAt": "2026-11-09T05:12:49.608Z"
+    },
     {
       "id": "4zmXWmILSBkn7gTvIyCiNi",
       "name": "bad thing (bunny hop)",
@@ -73,24 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
       "playedAt": "2026-11-09T01:12:02.143Z"
-    },
-    {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-11-09T01:08:45.165Z"
-    },
-    {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-11-09T01:05:23.729Z"
     }
   ]
 }
