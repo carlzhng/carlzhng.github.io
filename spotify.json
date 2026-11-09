@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-11-09T15:26:33Z",
+  "updatedAt": "2026-11-09T23:58:34Z",
   "nowPlaying": null,
   "recent": [
-    {
-      "id": "6wWdHb0AmzUbUtP9BsvYTx",
-      "name": "Paragraphs",
-      "artists": "Luke Chiang",
-      "album": "Paragraphs",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
-      "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
-      "playedAt": "2026-11-09T05:16:43.695Z"
-    },
-    {
-      "id": "1mEQbSq0PCNjyL6oMgHKFQ",
-      "name": "LOVE SONG",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
-      "playedAt": "2026-11-09T05:12:49.608Z"
-    },
-    {
-      "id": "4zmXWmILSBkn7gTvIyCiNi",
-      "name": "bad thing (bunny hop)",
-      "artists": "Ariana Grande",
-      "album": "petal",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7",
-      "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-      "playedAt": "2026-11-09T01:45:46.880Z"
-    },
     {
       "id": "3Yd3J42s3GZaYty4Iy4ewT",
       "name": "So Good (feat. Kendrick Lamar)",
@@ -36,61 +9,52 @@
       "album": "Westside Whimsy",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
       "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-11-09T01:42:14.829Z"
+      "playedAt": "2026-11-09T20:14:49.065Z"
     },
     {
-      "id": "238DR0GtiEWkbWVbA9y4TY",
-      "name": "A Living Light",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/238DR0GtiEWkbWVbA9y4TY",
-      "playedAt": "2026-11-09T01:32:28.281Z"
+      "id": "3RH9idbxUAMcUldet2ormp",
+      "name": "Christmas Love",
+      "artists": "Justin Bieber",
+      "album": "Under The Mistletoe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
+      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
+      "playedAt": "2026-11-09T20:10:49.685Z"
     },
     {
-      "id": "1hxlkDVbgpv03hakx0eWKh",
-      "name": "Love Us Again",
-      "artists": "Green Echo",
-      "album": "Love Us Again",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
-      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
-      "playedAt": "2026-11-09T01:29:03.856Z"
+      "id": "6IM1eCKlyY660wLgjDRIZC",
+      "name": "The First Noel",
+      "artists": "GIV\u0112ON",
+      "album": "The First Noel",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02aae15adfd875ea3890e30829",
+      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC",
+      "playedAt": "2026-11-09T19:32:59.603Z"
     },
     {
-      "id": "23Y7fX88Bqlx042TcWOF2U",
-      "name": "QUIT YOU",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
-      "playedAt": "2026-11-09T01:26:24.563Z"
+      "id": "2FRnf9qhLbvw8fu4IBXx78",
+      "name": "Last Christmas",
+      "artists": "Wham!",
+      "album": "LAST CHRISTMAS",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
+      "playedAt": "2026-11-09T19:29:20.680Z"
     },
     {
-      "id": "2RJ5oI9KcU1FGXLJ7AXaNC",
-      "name": "Without You",
-      "artists": "Appleby",
-      "album": "Almost Okay",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0214355a481c8100e32a96db5b",
-      "url": "https://open.spotify.com/track/2RJ5oI9KcU1FGXLJ7AXaNC",
-      "playedAt": "2026-11-09T01:22:14.645Z"
+      "id": "1OjmlSFuzYflWjSMTCyTJv",
+      "name": "Like It's Christmas",
+      "artists": "Jonas Brothers",
+      "album": "Like It's Christmas",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e393950ed26cf61970d1e798",
+      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv",
+      "playedAt": "2026-11-09T19:22:47.977Z"
     },
     {
-      "id": "3wXnSQo1tiVjFo8iul55pU",
-      "name": "HONEYBUTTER",
-      "artists": "Isaiah Falls, Mahalia",
-      "album": "LVRS PARADISE (SIDE B)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ee8eb4a2d9e59cc7081ec31",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU",
-      "playedAt": "2026-11-09T01:19:24.962Z"
-    },
-    {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-11-09T01:12:02.143Z"
+      "id": "7xapw9Oy21WpfEcib2ErSA",
+      "name": "Mistletoe",
+      "artists": "Justin Bieber",
+      "album": "Under The Mistletoe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA",
+      "playedAt": "2026-11-09T19:19:26.548Z"
     }
   ]
 }
