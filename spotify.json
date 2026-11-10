@@ -1,60 +1,104 @@
 {
-  "updatedAt": "2026-11-10T16:10:13Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-10T22:54:54Z",
+  "nowPlaying": {
+    "id": "32HwMdkZuUmHg9uznhs9xM",
+    "name": "Loved You First",
+    "artists": "One Direction",
+    "album": "Take Me Home (Expanded Edition)",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
+    "url": "https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "3Yd3J42s3GZaYty4Iy4ewT",
-      "name": "So Good (feat. Kendrick Lamar)",
-      "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-      "playedAt": "2026-11-09T20:14:49.065Z"
+      "id": "6mIiV28R5NjFBuSo31u2ER",
+      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
+      "artists": "Swae Lee, Jhen\u00e9 Aiko",
+      "album": "SAME DIFFERENCE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023dc16f4849bfdde93f10f6dd",
+      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER",
+      "playedAt": "2026-11-10T22:52:46.109Z"
     },
     {
-      "id": "3RH9idbxUAMcUldet2ormp",
-      "name": "Christmas Love",
-      "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
-      "playedAt": "2026-11-09T20:10:49.685Z"
+      "id": "7ctROU9Cit8yXawvYQgkIh",
+      "name": "Call On Me",
+      "artists": "Daniel Caesar",
+      "album": "Son Of Spergy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
+      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
+      "playedAt": "2026-11-10T22:43:13.578Z"
     },
     {
-      "id": "6IM1eCKlyY660wLgjDRIZC",
-      "name": "The First Noel",
-      "artists": "GIV\u0112ON",
-      "album": "The First Noel",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02aae15adfd875ea3890e30829",
-      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC",
-      "playedAt": "2026-11-09T19:32:59.603Z"
+      "id": "3xVZYkcuWalGudeKl861wb",
+      "name": "Smokin Out The Window",
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "album": "An Evening With Silk Sonic",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb",
+      "playedAt": "2026-11-10T22:35:01.893Z"
     },
     {
-      "id": "2FRnf9qhLbvw8fu4IBXx78",
-      "name": "Last Christmas",
-      "artists": "Wham!",
-      "album": "LAST CHRISTMAS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
-      "playedAt": "2026-11-09T19:29:20.680Z"
+      "id": "5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
+      "artists": "Bruno Mars",
+      "album": "The Romantic",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023eb8dc748f7efb1470f74395",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
+      "playedAt": "2026-11-10T22:27:01.344Z"
     },
     {
-      "id": "1OjmlSFuzYflWjSMTCyTJv",
-      "name": "Like It's Christmas",
-      "artists": "Jonas Brothers",
-      "album": "Like It's Christmas",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e393950ed26cf61970d1e798",
-      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv",
-      "playedAt": "2026-11-09T19:22:47.977Z"
+      "id": "0zZ5TnmUIub96AsZmkCXYS",
+      "name": "Indecision (feat. Daniel Caesar)",
+      "artists": "Rex Orange County, Daniel Caesar",
+      "album": "Indecision (feat. Daniel Caesar)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026a05d5befdde1b244f3fb4e6",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS",
+      "playedAt": "2026-11-10T22:21:43.489Z"
     },
     {
-      "id": "7xapw9Oy21WpfEcib2ErSA",
-      "name": "Mistletoe",
-      "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA",
-      "playedAt": "2026-11-09T19:19:26.548Z"
+      "id": "3GmdapszNp6FVKA07EtUD2",
+      "name": "when the rain stops",
+      "artists": "eaJ",
+      "album": "when the rain stopped following me",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02646406428e6ba5ece07654eb",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2",
+      "playedAt": "2026-11-10T22:16:14.482Z"
+    },
+    {
+      "id": "61OJxhoY3Ix50rYVKo8zRK",
+      "name": "Can I Call You Tonight?",
+      "artists": "Dayglow",
+      "album": "Fuzzybrain",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025160eaecb31b739ea1c2eaa5",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK",
+      "playedAt": "2026-11-10T22:11:37.064Z"
+    },
+    {
+      "id": "3Au7vtaP1SxHi2OfGSCGnW",
+      "name": "Drunk lullaby",
+      "artists": "venturing",
+      "album": "Nowhere EP",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0211575e6fcd0e525b71072de8",
+      "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW",
+      "playedAt": "2026-11-10T21:59:26.873Z"
+    },
+    {
+      "id": "3curUGAfGYvGcBbE1k5Fyy",
+      "name": "Come With Me",
+      "artists": "Surfaces, salem ilese",
+      "album": "Pacifico",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b996bbd7662c1b8bd012fe52",
+      "url": "https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy",
+      "playedAt": "2026-11-10T21:55:52.322Z"
+    },
+    {
+      "id": "3Fq4n87VV3NGkPTAKG36qp",
+      "name": "Cicada",
+      "artists": "Good Kid",
+      "album": "Can We Hang Out Sometime?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572fef8c1e6ca09ae5f5fd7c",
+      "url": "https://open.spotify.com/track/3Fq4n87VV3NGkPTAKG36qp",
+      "playedAt": "2026-11-10T21:52:22.122Z"
     }
   ]
 }
