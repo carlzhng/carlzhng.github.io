@@ -1,15 +1,43 @@
 {
-  "updatedAt": "2026-11-10T22:54:54Z",
-  "nowPlaying": {
-    "id": "32HwMdkZuUmHg9uznhs9xM",
-    "name": "Loved You First",
-    "artists": "One Direction",
-    "album": "Take Me Home (Expanded Edition)",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
-    "url": "https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-11T05:01:36Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "7mv3jtfltFR9OXzCRquSNu",
+      "name": "Ayye",
+      "artists": "Mac Miller",
+      "album": "K.I.D.S. (Deluxe)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
+      "url": "https://open.spotify.com/track/7mv3jtfltFR9OXzCRquSNu",
+      "playedAt": "2026-11-10T23:42:04.518Z"
+    },
+    {
+      "id": "4YZbVct8l9MnAVIROnLQdx",
+      "name": "Forrest Gump",
+      "artists": "Frank Ocean",
+      "album": "channel ORANGE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
+      "playedAt": "2026-11-10T23:02:10.724Z"
+    },
+    {
+      "id": "7gY8FAYu5zuOzmPBlOec3L",
+      "name": "Magic",
+      "artists": "One Direction",
+      "album": "Take Me Home (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
+      "url": "https://open.spotify.com/track/7gY8FAYu5zuOzmPBlOec3L",
+      "playedAt": "2026-11-10T22:58:55.413Z"
+    },
+    {
+      "id": "32HwMdkZuUmHg9uznhs9xM",
+      "name": "Loved You First",
+      "artists": "One Direction",
+      "album": "Take Me Home (Expanded Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
+      "url": "https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM",
+      "playedAt": "2026-11-10T22:55:50.913Z"
+    },
     {
       "id": "6mIiV28R5NjFBuSo31u2ER",
       "name": "MURAL (feat. Jhen\u00e9 Aiko)",
@@ -63,42 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02646406428e6ba5ece07654eb",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2",
       "playedAt": "2026-11-10T22:16:14.482Z"
-    },
-    {
-      "id": "61OJxhoY3Ix50rYVKo8zRK",
-      "name": "Can I Call You Tonight?",
-      "artists": "Dayglow",
-      "album": "Fuzzybrain",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025160eaecb31b739ea1c2eaa5",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK",
-      "playedAt": "2026-11-10T22:11:37.064Z"
-    },
-    {
-      "id": "3Au7vtaP1SxHi2OfGSCGnW",
-      "name": "Drunk lullaby",
-      "artists": "venturing",
-      "album": "Nowhere EP",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0211575e6fcd0e525b71072de8",
-      "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW",
-      "playedAt": "2026-11-10T21:59:26.873Z"
-    },
-    {
-      "id": "3curUGAfGYvGcBbE1k5Fyy",
-      "name": "Come With Me",
-      "artists": "Surfaces, salem ilese",
-      "album": "Pacifico",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b996bbd7662c1b8bd012fe52",
-      "url": "https://open.spotify.com/track/3curUGAfGYvGcBbE1k5Fyy",
-      "playedAt": "2026-11-10T21:55:52.322Z"
-    },
-    {
-      "id": "3Fq4n87VV3NGkPTAKG36qp",
-      "name": "Cicada",
-      "artists": "Good Kid",
-      "album": "Can We Hang Out Sometime?",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572fef8c1e6ca09ae5f5fd7c",
-      "url": "https://open.spotify.com/track/3Fq4n87VV3NGkPTAKG36qp",
-      "playedAt": "2026-11-10T21:52:22.122Z"
     }
   ]
 }
