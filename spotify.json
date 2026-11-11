@@ -1,96 +1,104 @@
 {
-  "updatedAt": "2026-11-11T13:41:55Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-11T21:05:13Z",
+  "nowPlaying": {
+    "id": "5E47kQeJgQkSZJuKSRbqOg",
+    "name": "Wash",
+    "artists": "Miki Matsubara",
+    "album": "Miki Matsubara Best Collection",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e0228f0710ec7ce0daf805edda1",
+    "url": "https://open.spotify.com/track/5E47kQeJgQkSZJuKSRbqOg",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "7mv3jtfltFR9OXzCRquSNu",
-      "name": "Ayye",
-      "artists": "Mac Miller",
-      "album": "K.I.D.S. (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
-      "url": "https://open.spotify.com/track/7mv3jtfltFR9OXzCRquSNu",
-      "playedAt": "2026-11-10T23:42:04.518Z"
+      "id": "6aAQORbi08HSm3ZgUsOCNY",
+      "name": "About Last Night..",
+      "artists": "Yel",
+      "album": "About Last Night..",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe8cc655d6832293f86a448e",
+      "url": "https://open.spotify.com/track/6aAQORbi08HSm3ZgUsOCNY",
+      "playedAt": "2026-11-11T21:04:27.733Z"
     },
     {
-      "id": "4YZbVct8l9MnAVIROnLQdx",
-      "name": "Forrest Gump",
-      "artists": "Frank Ocean",
-      "album": "channel ORANGE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
-      "playedAt": "2026-11-10T23:02:10.724Z"
+      "id": "2e6soczRbcYbU4gzPN3xwk",
+      "name": "JUST A DREAM",
+      "artists": "Yel",
+      "album": "JUST A DREAM",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029330823472d1d17bbdd06456",
+      "url": "https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk",
+      "playedAt": "2026-11-11T21:01:23.231Z"
     },
     {
-      "id": "7gY8FAYu5zuOzmPBlOec3L",
-      "name": "Magic",
-      "artists": "One Direction",
-      "album": "Take Me Home (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
-      "url": "https://open.spotify.com/track/7gY8FAYu5zuOzmPBlOec3L",
-      "playedAt": "2026-11-10T22:58:55.413Z"
+      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
+      "name": "Honeymoon Avenue",
+      "artists": "Ariana Grande",
+      "album": "Yours Truly",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
+      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
+      "playedAt": "2026-11-11T20:58:13.417Z"
     },
     {
-      "id": "32HwMdkZuUmHg9uznhs9xM",
-      "name": "Loved You First",
-      "artists": "One Direction",
-      "album": "Take Me Home (Expanded Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf",
-      "url": "https://open.spotify.com/track/32HwMdkZuUmHg9uznhs9xM",
-      "playedAt": "2026-11-10T22:55:50.913Z"
+      "id": "20jbSiX29FDX4oQxBXyUEi",
+      "name": "hate that i made you love me",
+      "artists": "Ariana Grande",
+      "album": "hate that i made you love me",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+      "playedAt": "2026-11-11T20:52:33.214Z"
     },
     {
-      "id": "6mIiV28R5NjFBuSo31u2ER",
-      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
-      "artists": "Swae Lee, Jhen\u00e9 Aiko",
-      "album": "SAME DIFFERENCE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023dc16f4849bfdde93f10f6dd",
-      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER",
-      "playedAt": "2026-11-10T22:52:46.109Z"
+      "id": "1P9I2fgRkFzlIRUN0oeJN1",
+      "name": "5 TO 10",
+      "artists": "Don Toliver",
+      "album": "HARDSTONE PSYCHO",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
+      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
+      "playedAt": "2026-11-11T20:49:14.795Z"
     },
     {
-      "id": "7ctROU9Cit8yXawvYQgkIh",
-      "name": "Call On Me",
-      "artists": "Daniel Caesar",
-      "album": "Son Of Spergy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc",
-      "url": "https://open.spotify.com/track/7ctROU9Cit8yXawvYQgkIh",
-      "playedAt": "2026-11-10T22:43:13.578Z"
+      "id": "0eF8TYM3rYzdS26URcs4U6",
+      "name": "Gimme Love",
+      "artists": "Joji",
+      "album": "Nectar",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6",
+      "playedAt": "2026-11-11T20:46:00.687Z"
     },
     {
-      "id": "3xVZYkcuWalGudeKl861wb",
-      "name": "Smokin Out The Window",
-      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
-      "album": "An Evening With Silk Sonic",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021756c2022529aacfa98d2eb8",
-      "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb",
-      "playedAt": "2026-11-10T22:35:01.893Z"
+      "id": "4olWlfIzbDyD53NhWyvdDJ",
+      "name": "is it cool? (feat. SZA)",
+      "artists": "Steve Lacy, SZA",
+      "album": "is it cool? (feat. SZA)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
+      "playedAt": "2026-11-11T20:42:25.801Z"
     },
     {
-      "id": "5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artists": "Bruno Mars",
-      "album": "The Romantic",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
-      "playedAt": "2026-11-10T22:27:01.344Z"
+      "id": "7gCautqfD7CCdrN33GrRd8",
+      "name": "405",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8",
+      "playedAt": "2026-11-11T20:39:31.190Z"
     },
     {
-      "id": "0zZ5TnmUIub96AsZmkCXYS",
-      "name": "Indecision (feat. Daniel Caesar)",
-      "artists": "Rex Orange County, Daniel Caesar",
-      "album": "Indecision (feat. Daniel Caesar)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026a05d5befdde1b244f3fb4e6",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS",
-      "playedAt": "2026-11-10T22:21:43.489Z"
+      "id": "142PiXzA84lmEw2RstFHFa",
+      "name": "supernatural",
+      "artists": "Ariana Grande",
+      "album": "eternal sunshine",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028b58d20f1b77295730db15b4",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa",
+      "playedAt": "2026-11-11T20:35:57.479Z"
     },
     {
-      "id": "3GmdapszNp6FVKA07EtUD2",
-      "name": "when the rain stops",
-      "artists": "eaJ",
-      "album": "when the rain stopped following me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02646406428e6ba5ece07654eb",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2",
-      "playedAt": "2026-11-10T22:16:14.482Z"
+      "id": "1ZyvjjCfzDazY8gVcSVDaR",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG LIVE FROM COACHELLA (Weekend II)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a78c158c662129dcc4de437c",
+      "url": "https://open.spotify.com/track/1ZyvjjCfzDazY8gVcSVDaR",
+      "playedAt": "2026-11-11T20:33:13.842Z"
     }
   ]
 }
