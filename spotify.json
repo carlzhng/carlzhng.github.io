@@ -1,104 +1,96 @@
 {
-  "updatedAt": "2026-11-11T21:05:13Z",
-  "nowPlaying": {
-    "id": "5E47kQeJgQkSZJuKSRbqOg",
-    "name": "Wash",
-    "artists": "Miki Matsubara",
-    "album": "Miki Matsubara Best Collection",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0228f0710ec7ce0daf805edda1",
-    "url": "https://open.spotify.com/track/5E47kQeJgQkSZJuKSRbqOg",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-12T02:43:47Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "6aAQORbi08HSm3ZgUsOCNY",
-      "name": "About Last Night..",
-      "artists": "Yel",
-      "album": "About Last Night..",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe8cc655d6832293f86a448e",
-      "url": "https://open.spotify.com/track/6aAQORbi08HSm3ZgUsOCNY",
-      "playedAt": "2026-11-11T21:04:27.733Z"
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-12T00:45:48.407Z"
     },
     {
-      "id": "2e6soczRbcYbU4gzPN3xwk",
-      "name": "JUST A DREAM",
-      "artists": "Yel",
-      "album": "JUST A DREAM",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029330823472d1d17bbdd06456",
-      "url": "https://open.spotify.com/track/2e6soczRbcYbU4gzPN3xwk",
-      "playedAt": "2026-11-11T21:01:23.231Z"
+      "id": "6qBFSepqLCuh5tehehc1bd",
+      "name": "Like I Want You",
+      "artists": "GIV\u0112ON",
+      "album": "TAKE TIME",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0290fb297f6a608911e7aaf760",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd",
+      "playedAt": "2026-11-11T23:51:02.652Z"
     },
     {
-      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
-      "name": "Honeymoon Avenue",
-      "artists": "Ariana Grande",
-      "album": "Yours Truly",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
-      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
-      "playedAt": "2026-11-11T20:58:13.417Z"
+      "id": "1YXdF3ZZOy4MZB7iNVO2xp",
+      "name": "Still",
+      "artists": "Jeff Bernat",
+      "album": "She Loves Me Not",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022802170ac11f57293d6918fc",
+      "url": "https://open.spotify.com/track/1YXdF3ZZOy4MZB7iNVO2xp",
+      "playedAt": "2026-11-11T23:50:02.694Z"
     },
     {
-      "id": "20jbSiX29FDX4oQxBXyUEi",
-      "name": "hate that i made you love me",
-      "artists": "Ariana Grande",
-      "album": "hate that i made you love me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b622d42c30697e1e1414343c",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-      "playedAt": "2026-11-11T20:52:33.214Z"
+      "id": "3lIHa4fUwNKOCSS5k3Za0i",
+      "name": "nothing",
+      "artists": "Steve Lacy",
+      "album": "Oh yeah?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i",
+      "playedAt": "2026-11-11T23:46:15.200Z"
     },
     {
-      "id": "1P9I2fgRkFzlIRUN0oeJN1",
-      "name": "5 TO 10",
-      "artists": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a1a952b7616b7681c3ec3b5",
-      "url": "https://open.spotify.com/track/1P9I2fgRkFzlIRUN0oeJN1",
-      "playedAt": "2026-11-11T20:49:14.795Z"
+      "id": "3Vd4fHzwS6pBS3muymjiDi",
+      "name": "Let Alone The One You Love",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi",
+      "playedAt": "2026-11-11T23:43:45.122Z"
     },
     {
-      "id": "0eF8TYM3rYzdS26URcs4U6",
-      "name": "Gimme Love",
-      "artists": "Joji",
-      "album": "Nectar",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f733e50079838090eebc3fe4",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6",
-      "playedAt": "2026-11-11T20:46:00.687Z"
+      "id": "1JHJWwjCJa9jZvAA235QVt",
+      "name": "Farewell",
+      "artists": "marQ",
+      "album": "Farewell",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02434d59012d06a38a78769954",
+      "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt",
+      "playedAt": "2026-11-11T23:40:38.640Z"
     },
     {
-      "id": "4olWlfIzbDyD53NhWyvdDJ",
-      "name": "is it cool? (feat. SZA)",
-      "artists": "Steve Lacy, SZA",
-      "album": "is it cool? (feat. SZA)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02504ee91f37d2fd96ddda7da0",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ",
-      "playedAt": "2026-11-11T20:42:25.801Z"
+      "id": "2XjoHA58XD0t3qye8bYGU8",
+      "name": "Blessed",
+      "artists": "Daniel Caesar",
+      "album": "Freudian",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
+      "url": "https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8",
+      "playedAt": "2026-11-11T23:38:44.530Z"
     },
     {
-      "id": "7gCautqfD7CCdrN33GrRd8",
-      "name": "405",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8",
-      "playedAt": "2026-11-11T20:39:31.190Z"
+      "id": "39w632qNLupuM7uqqVmtks",
+      "name": "May I Ask",
+      "artists": "Luke Chiang, Alexis Kim",
+      "album": "May I Ask",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e028a5f58de5dad338701dd8da8",
+      "url": "https://open.spotify.com/track/39w632qNLupuM7uqqVmtks",
+      "playedAt": "2026-11-11T23:34:42.703Z"
     },
     {
-      "id": "142PiXzA84lmEw2RstFHFa",
-      "name": "supernatural",
-      "artists": "Ariana Grande",
-      "album": "eternal sunshine",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e028b58d20f1b77295730db15b4",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa",
-      "playedAt": "2026-11-11T20:35:57.479Z"
+      "id": "736PP5LTtREkDgktNmX3Gu",
+      "name": "Superpowers",
+      "artists": "Daniel Caesar",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu",
+      "playedAt": "2026-11-11T23:22:18.597Z"
     },
     {
-      "id": "1ZyvjjCfzDazY8gVcSVDaR",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG LIVE FROM COACHELLA (Weekend II)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a78c158c662129dcc4de437c",
-      "url": "https://open.spotify.com/track/1ZyvjjCfzDazY8gVcSVDaR",
-      "playedAt": "2026-11-11T20:33:13.842Z"
+      "id": "1KA2JLeMi0Mo3hjO0442re",
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "artists": "Daniel Caesar, John Mayer",
+      "album": "CASE STUDY 01",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re",
+      "playedAt": "2026-11-11T23:19:23.545Z"
     }
   ]
 }
