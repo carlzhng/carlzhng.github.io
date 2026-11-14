@@ -1,24 +1,104 @@
 {
-  "updatedAt": "2026-11-14T16:24:13Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-14T22:02:13Z",
+  "nowPlaying": {
+    "id": "6T17ZI0glfM2IGLdUwtnLK",
+    "name": "JoyRide",
+    "artists": "CORTIS",
+    "album": "COLOR OUTSIDE THE LINES",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e024b56a34b0c2b3798fd46f855",
+    "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "5Kf6JU4QlzXlvxYJLpyTmY",
-      "name": "Hong Kong\uff08\u5168\u7f51\u6700\u4f18\u97f3\u8d28Weeknd\u6bcd\u5e26\u7248\uff09",
-      "artists": "\u8c46\u4e8c",
-      "album": "Hong Kong",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bd197fee32bdafd0bb98fbe1",
-      "url": "https://open.spotify.com/track/5Kf6JU4QlzXlvxYJLpyTmY",
-      "playedAt": "2026-11-14T00:06:15.915Z"
+      "id": "1YXot2MLAG9sttepCtBRM7",
+      "name": "\u8e0a\u308a\u5b50",
+      "artists": "Vaundy",
+      "album": "replica",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e0c3a68b9981c2e7b25f9737",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7",
+      "playedAt": "2026-11-14T22:01:13.327Z"
     },
     {
-      "id": "3RH9idbxUAMcUldet2ormp",
-      "name": "Christmas Love",
-      "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
-      "playedAt": "2026-11-13T19:42:37.795Z"
+      "id": "27zrFrtUtWl2urlvjOn5xc",
+      "name": "Say Yes",
+      "artists": "Loco, Punch",
+      "album": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02cb95963709806e12d93128d4",
+      "url": "https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc",
+      "playedAt": "2026-11-14T21:56:58.033Z"
+    },
+    {
+      "id": "74X2u8JMVooG2QbjRxXwR8",
+      "name": "Perfect Night",
+      "artists": "LE SSERAFIM",
+      "album": "Perfect Night",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c9af8979e5cb3fe7ecc5e230",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8",
+      "playedAt": "2026-11-14T21:53:18.658Z"
+    },
+    {
+      "id": "14FKPuSjbtHht2VbtB4viD",
+      "name": "\u4efb\u6027\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u4e3b\u9898\u66f2\uff09",
+      "artists": "Mayday",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/14FKPuSjbtHht2VbtB4viD",
+      "playedAt": "2026-11-14T21:48:32.276Z"
+    },
+    {
+      "id": "1TiZWEsxN85yLJBq56K8mG",
+      "name": "Like I Do",
+      "artists": "J.Tajor",
+      "album": "Like I Do",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e649cde12610c45e05a10d44",
+      "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG",
+      "playedAt": "2026-11-14T21:44:06.809Z"
+    },
+    {
+      "id": "282PBviNS723C18c6moDEr",
+      "name": "\u611b",
+      "artists": "\u5c0f\u864e\u968a",
+      "album": "\u611b",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023b0ba3fa2503cca9325ab71c",
+      "url": "https://open.spotify.com/track/282PBviNS723C18c6moDEr",
+      "playedAt": "2026-11-14T21:41:24.049Z"
+    },
+    {
+      "id": "0VdikQbDdOqxdWQyYsLmne",
+      "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
+      "artists": "JVKE, TOMORROW X TOGETHER, LE SSERAFIM, TAEHYUN, KIM CHAEWON",
+      "album": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022f30ec786bab9bd7bb7d48e6",
+      "url": "https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne",
+      "playedAt": "2026-11-14T21:36:54.238Z"
+    },
+    {
+      "id": "6DSGb5CmwHX4pvclq8HUU1",
+      "name": "No-Return (Into the unknown)",
+      "artists": "LE SSERAFIM",
+      "album": "UNFORGIVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208afa023781dc4841319f3fc",
+      "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1",
+      "playedAt": "2026-11-14T21:34:09.355Z"
+    },
+    {
+      "id": "0HMuUpCWasz2BnY12NrGRe",
+      "name": "Same Blue",
+      "artists": "OFFICIAL HIGE DANDISM",
+      "album": "Same Blue",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02bbe16072fae81d6fbbb141dc",
+      "url": "https://open.spotify.com/track/0HMuUpCWasz2BnY12NrGRe",
+      "playedAt": "2026-11-14T21:31:03.943Z"
+    },
+    {
+      "id": "487CwH00ao0LRep28i58sT",
+      "name": "jagi",
+      "artists": "Shi Shi, KIRE",
+      "album": "jagi",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c63e4b269f1b6e30270bb684",
+      "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT",
+      "playedAt": "2026-11-14T21:27:02.335Z"
     }
   ]
 }
