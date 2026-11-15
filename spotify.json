@@ -1,33 +1,15 @@
 {
-  "updatedAt": "2026-11-15T13:34:07Z",
+  "updatedAt": "2026-11-15T19:35:43Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "5NLv3yKffNXjuhIdC6A6uY",
-      "name": "\u5411\u65e5\u8475\u4e4b\u6b4c (\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u7247\u5c3e\u66f2)",
-      "artists": "\u4e0a\u4e0a, \u5468\u662d\u598d",
-      "album": "\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u539f\u8072\u5e36",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023c0b8c99b00334282e26ea00",
-      "url": "https://open.spotify.com/track/5NLv3yKffNXjuhIdC6A6uY",
-      "playedAt": "2026-11-15T05:08:27.450Z"
-    },
-    {
-      "id": "30MH4vbB1XB5M0RJLnlRPK",
-      "name": "Room",
-      "artists": "\u674e\u4f73\u9686",
-      "album": "Room",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c958ced3998731b7842f1f5d",
-      "url": "https://open.spotify.com/track/30MH4vbB1XB5M0RJLnlRPK",
-      "playedAt": "2026-11-15T05:02:27.675Z"
-    },
-    {
-      "id": "6pIPXxVAfKqMVTh69AWDc5",
-      "name": "It\u2019s Not You It\u2019s Me",
-      "artists": "Karencici",
-      "album": "Missing You",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02adbbedf3978602ede6e2a180",
-      "url": "https://open.spotify.com/track/6pIPXxVAfKqMVTh69AWDc5",
-      "playedAt": "2026-11-15T04:54:43.273Z"
+      "id": "6NtVX4qwWMmAtNFaG485iq",
+      "name": "\u6c89\u6eba\uff08\u4f60\u8ba9\u6211\u7684\u5fc3\u4e0d\u518d\u7ed3\u51b0\uff09",
+      "artists": "\u90b9\u6c9b\u6c9b, Pank",
+      "album": "\u6c89\u6eba\uff08\u4f60\u8ba9\u6211\u7684\u5fc3\u4e0d\u518d\u7ed3\u51b0\uff09",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025e10693b2c3d38dd7ad4299a",
+      "url": "https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq",
+      "playedAt": "2026-11-15T19:29:14.027Z"
     },
     {
       "id": "4X2c5kuU3mDAxjp595nkHE",
@@ -36,52 +18,61 @@
       "album": "Boomerang",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02faf95fe6b1d5670fde88cd35",
       "url": "https://open.spotify.com/track/4X2c5kuU3mDAxjp595nkHE",
-      "playedAt": "2026-11-15T04:52:17.972Z"
+      "playedAt": "2026-11-15T19:25:59.818Z"
     },
     {
-      "id": "4IAWZw00ZI9DLKDjesx86u",
-      "name": "Solar Eclipse (feat. Don Toliver)",
-      "artists": "Drake, Don Toliver",
-      "album": "HABIBTI (FOMO)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "playedAt": "2026-11-14T23:11:41.859Z"
+      "id": "3xsiGSlQO0f0vxIG9QjX6J",
+      "name": "Illusion",
+      "artists": "DEN",
+      "album": "Illusion",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fbd4548aaaf374bfcd83d5f4",
+      "url": "https://open.spotify.com/track/3xsiGSlQO0f0vxIG9QjX6J",
+      "playedAt": "2026-11-15T19:22:19.218Z"
     },
     {
-      "id": "02LAK7qT1wya0klSeNO96f",
-      "name": "RoboCop",
-      "artists": "Kanye West",
-      "album": "808s & Heartbreak",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
-      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
-      "playedAt": "2026-11-14T23:11:31.833Z"
+      "id": "14FKPuSjbtHht2VbtB4viD",
+      "name": "\u4efb\u6027\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u4e3b\u9898\u66f2\uff09",
+      "artists": "Mayday",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/14FKPuSjbtHht2VbtB4viD",
+      "playedAt": "2026-11-15T19:17:58.593Z"
     },
     {
-      "id": "4x93BZKbgcjc03rQSub67i",
-      "name": "is this love",
-      "artists": "Karri, Leon Bridges",
-      "album": "SLIDER II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
-      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
-      "playedAt": "2026-11-14T23:05:55.944Z"
+      "id": "30MH4vbB1XB5M0RJLnlRPK",
+      "name": "Room",
+      "artists": "\u674e\u4f73\u9686",
+      "album": "Room",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c958ced3998731b7842f1f5d",
+      "url": "https://open.spotify.com/track/30MH4vbB1XB5M0RJLnlRPK",
+      "playedAt": "2026-11-15T19:08:38.762Z"
     },
     {
-      "id": "312z6PZ8wwREck8613PkJk",
-      "name": "A Couple Minutes",
-      "artists": "Olivia Dean",
-      "album": "The Art of Loving",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-      "playedAt": "2026-11-14T23:01:44.141Z"
+      "id": "6pIPXxVAfKqMVTh69AWDc5",
+      "name": "It\u2019s Not You It\u2019s Me",
+      "artists": "Karencici",
+      "album": "Missing You",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02adbbedf3978602ede6e2a180",
+      "url": "https://open.spotify.com/track/6pIPXxVAfKqMVTh69AWDc5",
+      "playedAt": "2026-11-15T19:05:57.670Z"
     },
     {
-      "id": "3aJkV6DUTSCqOwVwaBDG9B",
-      "name": "With You",
-      "artists": "Drake, PARTYNEXTDOOR",
-      "album": "Views",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
-      "playedAt": "2026-11-14T22:58:11.670Z"
+      "id": "1cXU7VVKwuX2uuhntCEShM",
+      "name": "u sure u do?",
+      "artists": "\u5f20\u5929\u67a2, ZIK",
+      "album": "u sure u do?",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a07d480ed8d68e05c492bba9",
+      "url": "https://open.spotify.com/track/1cXU7VVKwuX2uuhntCEShM",
+      "playedAt": "2026-11-15T05:13:32.110Z"
+    },
+    {
+      "id": "5NLv3yKffNXjuhIdC6A6uY",
+      "name": "\u5411\u65e5\u8475\u4e4b\u6b4c (\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u7247\u5c3e\u66f2)",
+      "artists": "\u4e0a\u4e0a, \u5468\u662d\u598d",
+      "album": "\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u539f\u8072\u5e36",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023c0b8c99b00334282e26ea00",
+      "url": "https://open.spotify.com/track/5NLv3yKffNXjuhIdC6A6uY",
+      "playedAt": "2026-11-15T05:08:27.450Z"
     }
   ]
 }
