@@ -1,15 +1,41 @@
 {
-  "updatedAt": "2026-11-17T07:44:23Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-17T17:26:03Z",
+  "nowPlaying": {
+    "id": "2FRnf9qhLbvw8fu4IBXx78",
+    "name": "Last Christmas",
+    "artists": "Wham!",
+    "album": "LAST CHRISTMAS",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
+    "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "2FRnf9qhLbvw8fu4IBXx78",
-      "name": "Last Christmas",
-      "artists": "Wham!",
-      "album": "LAST CHRISTMAS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
-      "playedAt": "2026-11-17T03:06:08.273Z"
+      "id": "2K4XbdyLxi9jhqVQeyUKRK",
+      "name": "Under The Mistletoe",
+      "artists": "Kelly Clarkson, Brett Eldredge, Atlantic Holiday",
+      "album": "Under The Mistletoe",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023ff8aa77def0dec2c74c6b25",
+      "url": "https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK",
+      "playedAt": "2026-11-17T17:22:25.644Z"
+    },
+    {
+      "id": "6hgFVBbQYBMVlMHZwM6AP7",
+      "name": "Winter Wonderland",
+      "artists": "Preston Pablo",
+      "album": "Winter Wonderland",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e025d67c7acf6911f4b366b743a",
+      "url": "https://open.spotify.com/track/6hgFVBbQYBMVlMHZwM6AP7",
+      "playedAt": "2026-11-17T17:18:39.457Z"
+    },
+    {
+      "id": "6VhuP99TE6gYNQRJIlAWFD",
+      "name": "Until I Found You",
+      "artists": "Stephen Sanchez",
+      "album": "Easy On My Eyes",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029522042f86d0bb0d4e9e3783",
+      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD",
+      "playedAt": "2026-11-17T17:09:13.347Z"
     }
   ]
 }
