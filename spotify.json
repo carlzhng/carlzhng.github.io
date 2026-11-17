@@ -1,25 +1,7 @@
 {
-  "updatedAt": "2026-11-16T23:59:47Z",
+  "updatedAt": "2026-11-17T07:44:23Z",
   "nowPlaying": null,
   "recent": [
-    {
-      "id": "7EGqwboQMKQhBw4z49rBLI",
-      "name": "With You This Christmas",
-      "artists": "Why Don't We",
-      "album": "With You This Christmas",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d7eae55a556157fefdff65a5",
-      "url": "https://open.spotify.com/track/7EGqwboQMKQhBw4z49rBLI",
-      "playedAt": "2026-11-16T23:26:09.646Z"
-    },
-    {
-      "id": "2IivBdD5BJfKLea1IzOKJy",
-      "name": "Hallway Weather",
-      "artists": "NIKI",
-      "album": "Hallway Weather",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ea993ba5be148c73133b2e46",
-      "url": "https://open.spotify.com/track/2IivBdD5BJfKLea1IzOKJy",
-      "playedAt": "2026-11-16T23:23:09.948Z"
-    },
     {
       "id": "2FRnf9qhLbvw8fu4IBXx78",
       "name": "Last Christmas",
@@ -27,16 +9,7 @@
       "album": "LAST CHRISTMAS",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
-      "playedAt": "2026-11-16T23:18:45.145Z"
-    },
-    {
-      "id": "0lizgQ7Qw35od7CYaoMBZb",
-      "name": "Santa Tell Me",
-      "artists": "Ariana Grande",
-      "album": "Santa Tell Me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a1db745e63940bc06985dea5",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
-      "playedAt": "2026-11-16T23:14:21.743Z"
+      "playedAt": "2026-11-17T03:06:08.273Z"
     }
   ]
 }
