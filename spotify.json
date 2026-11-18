@@ -1,69 +1,50 @@
 {
-  "updatedAt": "2026-11-18T09:49:02Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-18T18:40:53Z",
+  "nowPlaying": {
+    "id": "1mEQbSq0PCNjyL6oMgHKFQ",
+    "name": "LOVE SONG",
+    "artists": "Justin Bieber",
+    "album": "SWAG II",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+    "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6xV7Be6XEvkSnighmh2Tzj",
-      "name": "Sugar On My Tongue",
-      "artists": "Tyler, The Creator",
-      "album": "DON'T TAP THE GLASS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024b7fbb849ed845ddedcce346",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
-      "playedAt": "2026-11-18T00:18:00.407Z"
+      "id": "3RH9idbxUAMcUldet2ormp",
+      "name": "Christmas Love",
+      "artists": "Justin Bieber",
+      "album": "Under The Mistletoe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
+      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
+      "playedAt": "2026-11-18T18:37:57.658Z"
     },
     {
-      "id": "6koKhrBBcExADvWuOgceNZ",
-      "name": "Open Arms (feat. Travis Scott)",
-      "artists": "SZA, Travis Scott",
-      "album": "SOS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c5276ed6cb0287df8d9be07f",
-      "url": "https://open.spotify.com/track/6koKhrBBcExADvWuOgceNZ",
-      "playedAt": "2026-11-18T00:15:26.604Z"
+      "id": "2xGGpmywtvPY3h7JkcwP1E",
+      "name": "Deep Green",
+      "artists": "Christian Kuria",
+      "album": "Suspension of Disbelief",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248dc83b0ea81f3642d518a48",
+      "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E",
+      "playedAt": "2026-11-18T18:31:52.701Z"
     },
     {
-      "id": "0BWJp4pLRHFVKJmDEIlrVn",
-      "name": "MUD",
-      "artists": "GIV\u0112ON",
-      "album": "BELOVED",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0296b4ce61a981f6501bbd31a1",
-      "url": "https://open.spotify.com/track/0BWJp4pLRHFVKJmDEIlrVn",
-      "playedAt": "2026-11-18T00:11:26.443Z"
+      "id": "6VKNW0svDbddkdNDGAE0NY",
+      "name": "Hurt From Mercury",
+      "artists": "Tory Lanez",
+      "album": "Alone At Prom",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
+      "url": "https://open.spotify.com/track/6VKNW0svDbddkdNDGAE0NY",
+      "playedAt": "2026-11-18T18:28:29.007Z"
     },
     {
-      "id": "1SdqlTmK9P97PntBQrtf85",
-      "name": "Little Foot Big Foot (feat. Young Nudy)",
-      "artists": "Childish Gambino, Young Nudy",
-      "album": "Atavista",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e023343b68ee045867571b07c47",
-      "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85",
-      "playedAt": "2026-11-18T00:09:12.402Z"
-    },
-    {
-      "id": "0KiE48vGMjJPschn1WxWMn",
-      "name": "Saturn - Live",
-      "artists": "SZA",
-      "album": "Saturn",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02358f9708c2cc44b153577238",
-      "url": "https://open.spotify.com/track/0KiE48vGMjJPschn1WxWMn",
-      "playedAt": "2026-11-18T00:05:25.293Z"
-    },
-    {
-      "id": "4eE16RJFDKf2WxBTqqfylu",
-      "name": "Dust",
-      "artists": "Drake",
-      "album": "ICEMAN",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
-      "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
-      "playedAt": "2026-11-18T00:02:22.894Z"
-    },
-    {
-      "id": "3sNVsP50132BTNlImLx70i",
-      "name": "Bound 2",
-      "artists": "Kanye West",
-      "album": "Yeezus",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i",
-      "playedAt": "2026-11-17T23:59:13.203Z"
+      "id": "0kWQn0wLok1lawHAkGSMW9",
+      "name": "I Like That",
+      "artists": "Bazzi",
+      "album": "Infinite Dream",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
+      "playedAt": "2026-11-18T18:20:41.998Z"
     },
     {
       "id": "0uxSUdBrJy9Un0EYoBowng",
@@ -72,25 +53,52 @@
       "album": "Luv Is Rage 2 (Deluxe)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02d7e1c68ed8e464b03095afda",
       "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng",
-      "playedAt": "2026-11-17T23:55:23.594Z"
+      "playedAt": "2026-11-18T18:18:03.453Z"
     },
     {
-      "id": "3iEUDvanZwQhLCIqUmCR7N",
-      "name": "The Spins",
-      "artists": "Mac Miller, Empire Of The Sun",
-      "album": "K.I.D.S. (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027414c28a11a87cbfd91dce10",
-      "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N",
-      "playedAt": "2026-11-17T23:51:42.499Z"
+      "id": "78JOPFCICYJCYespkDPd9L",
+      "name": "Tell Me You Know",
+      "artists": "Good Kid",
+      "album": "Tell Me You Know",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0250324f2443972408a67aae20",
+      "url": "https://open.spotify.com/track/78JOPFCICYJCYespkDPd9L",
+      "playedAt": "2026-11-18T18:14:22.558Z"
     },
     {
-      "id": "1RJl5cZ8kFpoVFOS2x6scI",
-      "name": "Take Me Where Your Heart Is",
-      "artists": "Q Marsden",
-      "album": "The Shave Experiment (Director's Cut)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029ecba76ea135175ab5114fce",
-      "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI",
-      "playedAt": "2026-11-17T23:48:26.205Z"
+      "id": "0ZDwhNFZnPx9EIPCcwGUHC",
+      "name": "Hell N Back (feat. Summer Walker)",
+      "artists": "Bakar, Summer Walker",
+      "album": "Hell N Back (feat. Summer Walker)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0233d96209dcc74b79fc3703e9",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC",
+      "playedAt": "2026-11-18T18:11:20.511Z"
+    },
+    {
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-11-18T18:08:04.825Z"
+    },
+    {
+      "id": "5nyVWaY7wfKMQh9l75iQ5r",
+      "name": "Keeping Tabs",
+      "artists": "NIKI",
+      "album": "Nicole",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
+      "url": "https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r",
+      "playedAt": "2026-11-18T18:04:29.011Z"
+    },
+    {
+      "id": "4t9R5rbtovdvya28uMODDz",
+      "name": "Toronto 2014 (with Mustafa)",
+      "artists": "Daniel Caesar, Mustafa",
+      "album": "NEVER ENOUGH",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
+      "playedAt": "2026-11-18T18:01:31.109Z"
     }
   ]
 }
