@@ -1,23 +1,51 @@
 {
-  "updatedAt": "2026-11-18T18:40:53Z",
-  "nowPlaying": {
-    "id": "1mEQbSq0PCNjyL6oMgHKFQ",
-    "name": "LOVE SONG",
-    "artists": "Justin Bieber",
-    "album": "SWAG II",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-    "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-19T01:44:57Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "3RH9idbxUAMcUldet2ormp",
-      "name": "Christmas Love",
+      "id": "0Dg0U14egivPueig6YY9HP",
+      "name": "Don't Be That Guy",
+      "artists": "Jhen\u00e9 Aiko",
+      "album": "Westside Whimsy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
+      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
+      "playedAt": "2026-11-19T00:10:50.742Z"
+    },
+    {
+      "id": "4Cl3M8C8goTBaoysf9jb7e",
+      "name": "ALL THE WAY",
       "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
-      "playedAt": "2026-11-18T18:37:57.658Z"
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
+      "playedAt": "2026-11-19T00:07:51.516Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-19T00:04:30.033Z"
+    },
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-11-18T23:59:20.713Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-11-18T23:56:06.228Z"
     },
     {
       "id": "2xGGpmywtvPY3h7JkcwP1E",
@@ -26,7 +54,7 @@
       "album": "Suspension of Disbelief",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0248dc83b0ea81f3642d518a48",
       "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E",
-      "playedAt": "2026-11-18T18:31:52.701Z"
+      "playedAt": "2026-11-18T23:53:31.326Z"
     },
     {
       "id": "6VKNW0svDbddkdNDGAE0NY",
@@ -35,70 +63,34 @@
       "album": "Alone At Prom",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
       "url": "https://open.spotify.com/track/6VKNW0svDbddkdNDGAE0NY",
-      "playedAt": "2026-11-18T18:28:29.007Z"
+      "playedAt": "2026-11-18T23:49:52.125Z"
     },
     {
-      "id": "0kWQn0wLok1lawHAkGSMW9",
-      "name": "I Like That",
-      "artists": "Bazzi",
-      "album": "Infinite Dream",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02007e13a6561a782b8a751324",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9",
-      "playedAt": "2026-11-18T18:20:41.998Z"
+      "id": "0FA4wrjDJvJTTU8AepZTup",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
+      "playedAt": "2026-11-18T23:45:45.812Z"
     },
     {
-      "id": "0uxSUdBrJy9Un0EYoBowng",
-      "name": "20 Min",
-      "artists": "Lil Uzi Vert",
-      "album": "Luv Is Rage 2 (Deluxe)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d7e1c68ed8e464b03095afda",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng",
-      "playedAt": "2026-11-18T18:18:03.453Z"
+      "id": "1mEQbSq0PCNjyL6oMgHKFQ",
+      "name": "LOVE SONG",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
+      "playedAt": "2026-11-18T18:40:53.124Z"
     },
     {
-      "id": "78JOPFCICYJCYespkDPd9L",
-      "name": "Tell Me You Know",
-      "artists": "Good Kid",
-      "album": "Tell Me You Know",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0250324f2443972408a67aae20",
-      "url": "https://open.spotify.com/track/78JOPFCICYJCYespkDPd9L",
-      "playedAt": "2026-11-18T18:14:22.558Z"
-    },
-    {
-      "id": "0ZDwhNFZnPx9EIPCcwGUHC",
-      "name": "Hell N Back (feat. Summer Walker)",
-      "artists": "Bakar, Summer Walker",
-      "album": "Hell N Back (feat. Summer Walker)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0233d96209dcc74b79fc3703e9",
-      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC",
-      "playedAt": "2026-11-18T18:11:20.511Z"
-    },
-    {
-      "id": "21jGcNKet2qwijlDFuPiPb",
-      "name": "Circles",
-      "artists": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-11-18T18:08:04.825Z"
-    },
-    {
-      "id": "5nyVWaY7wfKMQh9l75iQ5r",
-      "name": "Keeping Tabs",
-      "artists": "NIKI",
-      "album": "Nicole",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b",
-      "url": "https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r",
-      "playedAt": "2026-11-18T18:04:29.011Z"
-    },
-    {
-      "id": "4t9R5rbtovdvya28uMODDz",
-      "name": "Toronto 2014 (with Mustafa)",
-      "artists": "Daniel Caesar, Mustafa",
-      "album": "NEVER ENOUGH",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz",
-      "playedAt": "2026-11-18T18:01:31.109Z"
+      "id": "3RH9idbxUAMcUldet2ormp",
+      "name": "Christmas Love",
+      "artists": "Justin Bieber",
+      "album": "Under The Mistletoe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
+      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
+      "playedAt": "2026-11-18T18:37:57.658Z"
     }
   ]
 }
