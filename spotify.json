@@ -1,96 +1,87 @@
 {
-  "updatedAt": "2026-11-19T01:44:57Z",
+  "updatedAt": "2026-11-19T09:57:29Z",
   "nowPlaying": null,
   "recent": [
     {
-      "id": "0Dg0U14egivPueig6YY9HP",
-      "name": "Don't Be That Guy",
-      "artists": "Jhen\u00e9 Aiko",
-      "album": "Westside Whimsy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-      "url": "https://open.spotify.com/track/0Dg0U14egivPueig6YY9HP",
-      "playedAt": "2026-11-19T00:10:50.742Z"
+      "id": "6pFxVcn6T4BdP8mfZpTQHZ",
+      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
+      "artists": "\u9673\u83ef",
+      "album": "\u83ef\u8207\u6d6a\u6f2b",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a318eb8c0e7811922f3817c6",
+      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ",
+      "playedAt": "2026-11-19T04:02:41.265Z"
     },
     {
-      "id": "4Cl3M8C8goTBaoysf9jb7e",
-      "name": "ALL THE WAY",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e",
-      "playedAt": "2026-11-19T00:07:51.516Z"
+      "id": "487CwH00ao0LRep28i58sT",
+      "name": "jagi",
+      "artists": "Shi Shi, KIRE",
+      "album": "jagi",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c63e4b269f1b6e30270bb684",
+      "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT",
+      "playedAt": "2026-11-19T03:40:17.124Z"
     },
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-11-19T00:04:30.033Z"
+      "id": "11Vu9Zo7P4JXdrDRWVyrem",
+      "name": "\u9690\u5f62\u4eba\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u7b49\u5f85\u66f2\uff09",
+      "artists": "\u767d\u656c\u4ead",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem",
+      "playedAt": "2026-11-19T03:36:26.589Z"
     },
     {
-      "id": "5ttvrHYzuAkScjtxJzRvdA",
-      "name": "HOLD STILL",
-      "artists": "The Kid LAROI",
-      "album": "BEFORE I FORGET (DELUXE)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
-      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
-      "playedAt": "2026-11-18T23:59:20.713Z"
+      "id": "1sZBzYhrQG40zcSuKkI93c",
+      "name": "Good Parts (when the quality is bad but I am)",
+      "artists": "LE SSERAFIM",
+      "album": "ANTIFRAGILE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
+      "playedAt": "2026-11-19T03:30:22.809Z"
     },
     {
-      "id": "1z5DpJzA5Jse2EHp7jVoOi",
-      "name": "Sandman",
-      "artists": "Dominic Fike",
-      "album": "Rocket",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
-      "playedAt": "2026-11-18T23:56:06.228Z"
+      "id": "11pYSUVcvbaLSWFP5EUNtw",
+      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
+      "artists": "\u5c0f\u5305Zerinn",
+      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
+      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
+      "playedAt": "2026-11-19T03:27:46.020Z"
     },
     {
-      "id": "2xGGpmywtvPY3h7JkcwP1E",
-      "name": "Deep Green",
-      "artists": "Christian Kuria",
-      "album": "Suspension of Disbelief",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248dc83b0ea81f3642d518a48",
-      "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E",
-      "playedAt": "2026-11-18T23:53:31.326Z"
+      "id": "5expoVGQPvXuwBBFuNGqBd",
+      "name": "Hurt",
+      "artists": "NewJeans",
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd",
+      "playedAt": "2026-11-19T03:24:24.925Z"
     },
     {
-      "id": "6VKNW0svDbddkdNDGAE0NY",
-      "name": "Hurt From Mercury",
-      "artists": "Tory Lanez",
-      "album": "Alone At Prom",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
-      "url": "https://open.spotify.com/track/6VKNW0svDbddkdNDGAE0NY",
-      "playedAt": "2026-11-18T23:49:52.125Z"
+      "id": "3erotm4onG3vhbRfpuIvxY",
+      "name": "\u68a6\u81c6",
+      "artists": "\u90b9\u6c9b\u6c9b",
+      "album": "\u68a6\u81c6",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c1fea4bf80cf9a1b64e48baa",
+      "url": "https://open.spotify.com/track/3erotm4onG3vhbRfpuIvxY",
+      "playedAt": "2026-11-19T03:21:26.497Z"
     },
     {
-      "id": "0FA4wrjDJvJTTU8AepZTup",
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
-      "playedAt": "2026-11-18T23:45:45.812Z"
+      "id": "1XZE0InCx3SdCnLpVsPpZl",
+      "name": "Jumping Machine (\u8df3\u697c\u673a)",
+      "artists": "LBI\u5229\u6bd4",
+      "album": "Jumping Machine (\u8df3\u697c\u673a)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0265bcb498250d15917f92464f",
+      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl",
+      "playedAt": "2026-11-19T03:18:28.010Z"
     },
     {
-      "id": "1mEQbSq0PCNjyL6oMgHKFQ",
-      "name": "LOVE SONG",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
-      "playedAt": "2026-11-18T18:40:53.124Z"
-    },
-    {
-      "id": "3RH9idbxUAMcUldet2ormp",
-      "name": "Christmas Love",
-      "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
-      "playedAt": "2026-11-18T18:37:57.658Z"
+      "id": "5CCV2xxYnI7b1wFkP1gElh",
+      "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
+      "artists": "Karencici",
+      "album": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02323d0063533bcabc9ae5927b",
+      "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh",
+      "playedAt": "2026-11-19T03:15:05.870Z"
     }
   ]
 }
