@@ -1,87 +1,77 @@
 {
-  "updatedAt": "2026-11-19T09:57:29Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-19T18:56:16Z",
+  "nowPlaying": {
+    "id": "4MIPNDbxVPWdLwH6A4nsiY",
+    "name": "There's Still A Light In The House",
+    "artists": "Valley",
+    "album": "MAYBE",
+    "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+    "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+    "isPlaying": true
+  },
   "recent": [
     {
-      "id": "6pFxVcn6T4BdP8mfZpTQHZ",
-      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
-      "artists": "\u9673\u83ef",
-      "album": "\u83ef\u8207\u6d6a\u6f2b",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a318eb8c0e7811922f3817c6",
-      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ",
-      "playedAt": "2026-11-19T04:02:41.265Z"
+      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
+      "name": "Young Dumb & Broke",
+      "artists": "Khalid",
+      "album": "American Teen",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
+      "playedAt": "2026-11-19T18:51:18.014Z"
     },
     {
-      "id": "487CwH00ao0LRep28i58sT",
-      "name": "jagi",
-      "artists": "Shi Shi, KIRE",
-      "album": "jagi",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c63e4b269f1b6e30270bb684",
-      "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT",
-      "playedAt": "2026-11-19T03:40:17.124Z"
+      "id": "5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artists": "Justin Bieber",
+      "album": "SWAG",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+      "playedAt": "2026-11-19T18:47:55.012Z"
     },
     {
-      "id": "11Vu9Zo7P4JXdrDRWVyrem",
-      "name": "\u9690\u5f62\u4eba\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u7b49\u5f85\u66f2\uff09",
-      "artists": "\u767d\u656c\u4ead",
-      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
-      "url": "https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem",
-      "playedAt": "2026-11-19T03:36:26.589Z"
+      "id": "3nHMhKFLQt0nonpuTyuZYs",
+      "name": "good company",
+      "artists": "Luke Chiang",
+      "album": "TYPHOON",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
+      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
+      "playedAt": "2026-11-19T18:39:30.382Z"
     },
     {
-      "id": "1sZBzYhrQG40zcSuKkI93c",
-      "name": "Good Parts (when the quality is bad but I am)",
-      "artists": "LE SSERAFIM",
-      "album": "ANTIFRAGILE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
-      "playedAt": "2026-11-19T03:30:22.809Z"
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-11-19T18:36:25.486Z"
     },
     {
-      "id": "11pYSUVcvbaLSWFP5EUNtw",
-      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
-      "artists": "\u5c0f\u5305Zerinn",
-      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
-      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-19T03:27:46.020Z"
+      "id": "4gwltSjdrzKtKz9dlk2Wja",
+      "name": "Stella Brown",
+      "artists": "Jelani Aryeh",
+      "album": "Stella Brown",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
+      "playedAt": "2026-11-19T18:30:58.490Z"
     },
     {
-      "id": "5expoVGQPvXuwBBFuNGqBd",
-      "name": "Hurt",
-      "artists": "NewJeans",
-      "album": "NewJeans 1st EP 'New Jeans'",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd",
-      "playedAt": "2026-11-19T03:24:24.925Z"
+      "id": "7itUbJA4IGNGOrvOOGywD7",
+      "name": "WITCHYA",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
+      "playedAt": "2026-11-19T18:27:50.578Z"
     },
     {
-      "id": "3erotm4onG3vhbRfpuIvxY",
-      "name": "\u68a6\u81c6",
-      "artists": "\u90b9\u6c9b\u6c9b",
-      "album": "\u68a6\u81c6",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c1fea4bf80cf9a1b64e48baa",
-      "url": "https://open.spotify.com/track/3erotm4onG3vhbRfpuIvxY",
-      "playedAt": "2026-11-19T03:21:26.497Z"
-    },
-    {
-      "id": "1XZE0InCx3SdCnLpVsPpZl",
-      "name": "Jumping Machine (\u8df3\u697c\u673a)",
-      "artists": "LBI\u5229\u6bd4",
-      "album": "Jumping Machine (\u8df3\u697c\u673a)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0265bcb498250d15917f92464f",
-      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl",
-      "playedAt": "2026-11-19T03:18:28.010Z"
-    },
-    {
-      "id": "5CCV2xxYnI7b1wFkP1gElh",
-      "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
-      "artists": "Karencici",
-      "album": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02323d0063533bcabc9ae5927b",
-      "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh",
-      "playedAt": "2026-11-19T03:15:05.870Z"
+      "id": "6sj3SlT8e4JCcnK60ua1XX",
+      "name": "One Less Lonely Girl",
+      "artists": "Justin Bieber",
+      "album": "My World (Canada Version - All BP's)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
+      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
+      "playedAt": "2026-11-19T18:21:43.107Z"
     }
   ]
 }
