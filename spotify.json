@@ -1,77 +1,42 @@
 {
-  "updatedAt": "2026-11-19T18:56:16Z",
-  "nowPlaying": {
-    "id": "4MIPNDbxVPWdLwH6A4nsiY",
-    "name": "There's Still A Light In The House",
-    "artists": "Valley",
-    "album": "MAYBE",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-    "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-20T01:40:47Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "5Z3GHaZ6ec9bsiI5BenrbY",
-      "name": "Young Dumb & Broke",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY",
-      "playedAt": "2026-11-19T18:51:18.014Z"
+      "id": "5NHYkQTriS9qHDPqTQwzb2",
+      "name": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
+      "artists": "\u623f\u6771\u7684\u8c93",
+      "album": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d6bd9317bd2c7b627b2af72c",
+      "url": "https://open.spotify.com/track/5NHYkQTriS9qHDPqTQwzb2",
+      "playedAt": "2026-11-20T00:35:17.072Z"
     },
     {
-      "id": "5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artists": "Justin Bieber",
-      "album": "SWAG",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d65c4773bc5061fd27facc5b",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
-      "playedAt": "2026-11-19T18:47:55.012Z"
+      "id": "1sZBzYhrQG40zcSuKkI93c",
+      "name": "Good Parts (when the quality is bad but I am)",
+      "artists": "LE SSERAFIM",
+      "album": "ANTIFRAGILE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
+      "playedAt": "2026-11-20T00:30:24.868Z"
     },
     {
-      "id": "3nHMhKFLQt0nonpuTyuZYs",
-      "name": "good company",
-      "artists": "Luke Chiang",
-      "album": "TYPHOON",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0216b953cc2756638d5b6682fc",
-      "url": "https://open.spotify.com/track/3nHMhKFLQt0nonpuTyuZYs",
-      "playedAt": "2026-11-19T18:39:30.382Z"
+      "id": "11pYSUVcvbaLSWFP5EUNtw",
+      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
+      "artists": "\u5c0f\u5305Zerinn",
+      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
+      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
+      "playedAt": "2026-11-20T00:27:48.018Z"
     },
     {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-11-19T18:36:25.486Z"
-    },
-    {
-      "id": "4gwltSjdrzKtKz9dlk2Wja",
-      "name": "Stella Brown",
-      "artists": "Jelani Aryeh",
-      "album": "Stella Brown",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0208facd0be079b35d8c261612",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja",
-      "playedAt": "2026-11-19T18:30:58.490Z"
-    },
-    {
-      "id": "7itUbJA4IGNGOrvOOGywD7",
-      "name": "WITCHYA",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/7itUbJA4IGNGOrvOOGywD7",
-      "playedAt": "2026-11-19T18:27:50.578Z"
-    },
-    {
-      "id": "6sj3SlT8e4JCcnK60ua1XX",
-      "name": "One Less Lonely Girl",
-      "artists": "Justin Bieber",
-      "album": "My World (Canada Version - All BP's)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f5dcaa1e0713e14c2653bd61",
-      "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX",
-      "playedAt": "2026-11-19T18:21:43.107Z"
+      "id": "298LjjcBvuQCAlwUWb9dKb",
+      "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
+      "artists": "Silence Wang",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb",
+      "playedAt": "2026-11-20T00:24:26.931Z"
     }
   ]
 }
