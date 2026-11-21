@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-20T18:22:22Z",
+  "updatedAt": "2026-11-21T01:07:48Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "11pYSUVcvbaLSWFP5EUNtw",
+      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
+      "artists": "\u5c0f\u5305Zerinn",
+      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
+      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
+      "playedAt": "2026-11-21T00:05:15.214Z"
+    },
     {
       "id": "2xGGpmywtvPY3h7JkcwP1E",
       "name": "Deep Green",
@@ -9,7 +18,7 @@
       "album": "Suspension of Disbelief",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0248dc83b0ea81f3642d518a48",
       "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E",
-      "playedAt": "2026-11-20T18:01:50.927Z"
+      "playedAt": "2026-11-20T23:50:41.522Z"
     },
     {
       "id": "6VKNW0svDbddkdNDGAE0NY",
@@ -18,25 +27,34 @@
       "album": "Alone At Prom",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
       "url": "https://open.spotify.com/track/6VKNW0svDbddkdNDGAE0NY",
-      "playedAt": "2026-11-20T17:58:27.264Z"
+      "playedAt": "2026-11-20T23:47:17.826Z"
     },
     {
-      "id": "11pYSUVcvbaLSWFP5EUNtw",
-      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
-      "artists": "\u5c0f\u5305Zerinn",
-      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
-      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-20T17:55:03.235Z"
+      "id": "312z6PZ8wwREck8613PkJk",
+      "name": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
+      "playedAt": "2026-11-20T22:20:29.748Z"
     },
     {
-      "id": "2FRnf9qhLbvw8fu4IBXx78",
-      "name": "Last Christmas",
-      "artists": "Wham!",
-      "album": "LAST CHRISTMAS",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f2d2adaa21ad616df6241e7d",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
-      "playedAt": "2026-11-20T15:47:04.687Z"
+      "id": "3aJkV6DUTSCqOwVwaBDG9B",
+      "name": "With You",
+      "artists": "Drake, PARTYNEXTDOOR",
+      "album": "Views",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
+      "playedAt": "2026-11-20T22:19:19.466Z"
+    },
+    {
+      "id": "0FA4wrjDJvJTTU8AepZTup",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
+      "playedAt": "2026-11-20T22:16:03.931Z"
     }
   ]
 }
