@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-22T05:30:38Z",
+  "updatedAt": "2026-11-22T14:12:01Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-11-22T07:27:04.914Z"
+    },
+    {
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-11-22T07:23:29.107Z"
+    },
+    {
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-11-22T07:20:05.518Z"
+    },
     {
       "id": "43JCGMDfN638Lb3XzBJLqu",
       "name": "Stay with Me\uff08\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u6cbb\u6108\u4e3b\u9898\u66f2\uff09",
@@ -64,33 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02fceba8f8dae0d3dc2640e955",
       "url": "https://open.spotify.com/track/0c9gjnRGBRke9VmLaZWmhM",
       "playedAt": "2026-11-22T00:09:03.751Z"
-    },
-    {
-      "id": "0nrODNJGv21FkJN7hHAS3e",
-      "name": "\u96f6\u8ddd\u79bb\u7684\u601d\u5ff5",
-      "artists": "TINY 7",
-      "album": "Chose one me",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248a41ed562b968c3399b9476",
-      "url": "https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e",
-      "playedAt": "2026-11-22T00:05:04.177Z"
-    },
-    {
-      "id": "6T17ZI0glfM2IGLdUwtnLK",
-      "name": "JoyRide",
-      "artists": "CORTIS",
-      "album": "COLOR OUTSIDE THE LINES",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024b56a34b0c2b3798fd46f855",
-      "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
-      "playedAt": "2026-11-21T23:56:41.371Z"
-    },
-    {
-      "id": "6OWWZtNQORY1McaZmOrwhc",
-      "name": "GO!",
-      "artists": "CORTIS",
-      "album": "COLOR OUTSIDE THE LINES",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024b56a34b0c2b3798fd46f855",
-      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc",
-      "playedAt": "2026-11-21T23:54:03.190Z"
     }
   ]
 }
