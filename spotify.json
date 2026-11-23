@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-23T02:20:04Z",
+  "updatedAt": "2026-11-23T14:06:11Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "2FAEca7UOU3w6AqwQ0eSqi",
+      "name": "Happiness",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/2FAEca7UOU3w6AqwQ0eSqi",
+      "playedAt": "2026-11-23T04:30:41.830Z"
+    },
     {
       "id": "5mtTAScDytxMMqZj14NmlN",
       "name": "love.",
@@ -73,15 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
       "playedAt": "2026-11-22T20:35:35.179Z"
-    },
-    {
-      "id": "11pYSUVcvbaLSWFP5EUNtw",
-      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
-      "artists": "\u5c0f\u5305Zerinn",
-      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
-      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-22T20:32:58.296Z"
     }
   ]
 }
