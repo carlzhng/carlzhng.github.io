@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-22T21:35:01Z",
+  "updatedAt": "2026-11-23T02:20:04Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "5mtTAScDytxMMqZj14NmlN",
+      "name": "love.",
+      "artists": "wave to earth",
+      "album": "0.1 flaws and all.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
+      "playedAt": "2026-11-23T00:33:55.717Z"
+    },
+    {
+      "id": "21jGcNKet2qwijlDFuPiPb",
+      "name": "Circles",
+      "artists": "Post Malone",
+      "album": "Hollywood's Bleeding",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
+      "playedAt": "2026-11-23T00:28:47.514Z"
+    },
+    {
+      "id": "4MIPNDbxVPWdLwH6A4nsiY",
+      "name": "There's Still A Light In The House",
+      "artists": "Valley",
+      "album": "MAYBE",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
+      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
+      "playedAt": "2026-11-23T00:25:11.713Z"
+    },
+    {
+      "id": "3hEfpBHxgieRLz4t3kLNEg",
+      "name": "About You",
+      "artists": "The 1975",
+      "album": "Being Funny In A Foreign Language",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
+      "playedAt": "2026-11-23T00:21:48.124Z"
+    },
+    {
+      "id": "22m6jVsUQHc4BEGq9MdwIX",
+      "name": "Green",
+      "artists": "Dept",
+      "album": "Goodbye 2024",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
+      "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
+      "playedAt": "2026-11-22T22:20:15.110Z"
+    },
     {
       "id": "3ZTviTQW8ETLnNtwdLPdcZ",
       "name": "5th",
@@ -37,42 +82,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
       "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
       "playedAt": "2026-11-22T20:32:58.296Z"
-    },
-    {
-      "id": "298LjjcBvuQCAlwUWb9dKb",
-      "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
-      "artists": "Silence Wang",
-      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
-      "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb",
-      "playedAt": "2026-11-22T20:29:37.307Z"
-    },
-    {
-      "id": "5NHYkQTriS9qHDPqTQwzb2",
-      "name": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "artists": "\u623f\u6771\u7684\u8c93",
-      "album": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d6bd9317bd2c7b627b2af72c",
-      "url": "https://open.spotify.com/track/5NHYkQTriS9qHDPqTQwzb2",
-      "playedAt": "2026-11-22T20:25:40.145Z"
-    },
-    {
-      "id": "3Xmq8F4nfVBd0hgJWiBush",
-      "name": "My Dear\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u91cd\u9022\u66f2\uff09",
-      "artists": "\u5f35\u6d22\u8c6a",
-      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
-      "url": "https://open.spotify.com/track/3Xmq8F4nfVBd0hgJWiBush",
-      "playedAt": "2026-11-22T20:20:22.660Z"
-    },
-    {
-      "id": "22m6jVsUQHc4BEGq9MdwIX",
-      "name": "Green",
-      "artists": "Dept",
-      "album": "Goodbye 2024",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
-      "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
-      "playedAt": "2026-11-22T20:16:18.418Z"
     }
   ]
 }
