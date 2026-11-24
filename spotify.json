@@ -1,15 +1,88 @@
 {
-  "updatedAt": "2026-11-24T02:46:24Z",
-  "nowPlaying": {
-    "id": "312z6PZ8wwREck8613PkJk",
-    "name": "A Couple Minutes",
-    "artists": "Olivia Dean",
-    "album": "The Art of Loving",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
-    "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-24T14:37:08Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "5ttvrHYzuAkScjtxJzRvdA",
+      "name": "HOLD STILL",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/5ttvrHYzuAkScjtxJzRvdA",
+      "playedAt": "2026-11-24T03:13:33.377Z"
+    },
+    {
+      "id": "1z5DpJzA5Jse2EHp7jVoOi",
+      "name": "Sandman",
+      "artists": "Dominic Fike",
+      "album": "Rocket",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f83bcf37c54cd2ade3ecaec8",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi",
+      "playedAt": "2026-11-24T03:10:19.031Z"
+    },
+    {
+      "id": "5NZWHlQy5PKxQ1DcQ9EFbL",
+      "name": "NEED IT",
+      "artists": "Justin Bieber",
+      "album": "SWAG II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
+      "url": "https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL",
+      "playedAt": "2026-11-24T03:07:58.729Z"
+    },
+    {
+      "id": "2UVbBKQOdFAekPTRsnkzcf",
+      "name": "Stir Fry",
+      "artists": "Migos",
+      "album": "Culture II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf",
+      "playedAt": "2026-11-24T03:04:19.233Z"
+    },
+    {
+      "id": "4jEP389ge8wJkRcBC0dJMj",
+      "name": "Little Lightning",
+      "artists": "Ben Kessler",
+      "album": "Natural Law",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02061ad8332f42323265efb098",
+      "url": "https://open.spotify.com/track/4jEP389ge8wJkRcBC0dJMj",
+      "playedAt": "2026-11-24T03:01:08.412Z"
+    },
+    {
+      "id": "4IAWZw00ZI9DLKDjesx86u",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": "Drake, Don Toliver",
+      "album": "HABIBTI (FOMO)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "playedAt": "2026-11-24T02:59:01.801Z"
+    },
+    {
+      "id": "02LAK7qT1wya0klSeNO96f",
+      "name": "RoboCop",
+      "artists": "Kanye West",
+      "album": "808s & Heartbreak",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+      "url": "https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f",
+      "playedAt": "2026-11-24T02:55:22.880Z"
+    },
+    {
+      "id": "4x93BZKbgcjc03rQSub67i",
+      "name": "is this love",
+      "artists": "Karri, Leon Bridges",
+      "album": "SLIDER II",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c60e2daf63cac51b8dcddc57",
+      "url": "https://open.spotify.com/track/4x93BZKbgcjc03rQSub67i",
+      "playedAt": "2026-11-24T02:50:48.026Z"
+    },
+    {
+      "id": "312z6PZ8wwREck8613PkJk",
+      "name": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "album": "The Art of Loving",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e029a336bfb6d40bbd90a507417",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk",
+      "playedAt": "2026-11-24T02:46:37.631Z"
+    },
     {
       "id": "3aJkV6DUTSCqOwVwaBDG9B",
       "name": "With You",
@@ -18,87 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
       "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B",
       "playedAt": "2026-11-24T02:43:05.130Z"
-    },
-    {
-      "id": "0FA4wrjDJvJTTU8AepZTup",
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artists": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "album": "Watch This (ARIZONATEARS Pluggnb Remix)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02717eb40e061e262ebe488c9b",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup",
-      "playedAt": "2026-11-24T02:39:49.563Z"
-    },
-    {
-      "id": "6wWdHb0AmzUbUtP9BsvYTx",
-      "name": "Paragraphs",
-      "artists": "Luke Chiang",
-      "album": "Paragraphs",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e025665909e92e320d9d738a593",
-      "url": "https://open.spotify.com/track/6wWdHb0AmzUbUtP9BsvYTx",
-      "playedAt": "2026-11-24T02:37:05.923Z"
-    },
-    {
-      "id": "1mEQbSq0PCNjyL6oMgHKFQ",
-      "name": "LOVE SONG",
-      "artists": "Justin Bieber",
-      "album": "SWAG II",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a958d093e94944dd0e7258b2",
-      "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ",
-      "playedAt": "2026-11-24T02:33:11.897Z"
-    },
-    {
-      "id": "3RH9idbxUAMcUldet2ormp",
-      "name": "Christmas Love",
-      "artists": "Justin Bieber",
-      "album": "Under The Mistletoe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af0aff7f601df9ed6d2d531d",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp",
-      "playedAt": "2026-11-24T02:30:19.098Z"
-    },
-    {
-      "id": "2xGGpmywtvPY3h7JkcwP1E",
-      "name": "Deep Green",
-      "artists": "Christian Kuria",
-      "album": "Suspension of Disbelief",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0248dc83b0ea81f3642d518a48",
-      "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E",
-      "playedAt": "2026-11-24T02:23:14.727Z"
-    },
-    {
-      "id": "6VKNW0svDbddkdNDGAE0NY",
-      "name": "Hurt From Mercury",
-      "artists": "Tory Lanez",
-      "album": "Alone At Prom",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
-      "url": "https://open.spotify.com/track/6VKNW0svDbddkdNDGAE0NY",
-      "playedAt": "2026-11-24T02:19:51.044Z"
-    },
-    {
-      "id": "11pYSUVcvbaLSWFP5EUNtw",
-      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
-      "artists": "\u5c0f\u5305Zerinn",
-      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
-      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-24T02:16:27.002Z"
-    },
-    {
-      "id": "5mtTAScDytxMMqZj14NmlN",
-      "name": "love.",
-      "artists": "wave to earth",
-      "album": "0.1 flaws and all.",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
-      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
-      "playedAt": "2026-11-24T02:13:05.934Z"
-    },
-    {
-      "id": "5bgwqaRSS3M8WHWruHgSL5",
-      "name": "8TEEN",
-      "artists": "Khalid",
-      "album": "American Teen",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024ac041e0d889d3a2608210d5",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5",
-      "playedAt": "2026-11-24T00:15:43.219Z"
     }
   ]
 }
