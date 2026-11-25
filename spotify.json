@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-11-25T10:56:41Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-25T21:12:17Z",
+  "nowPlaying": {
+    "id": "5l94Up12BJSjhH7Mhr2ji4",
+    "name": "\u7d05\u8c46",
+    "artists": "Faye Wong",
+    "album": "\u5531\u904a",
+    "albumImage": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
+    "url": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4",
+    "isPlaying": true
+  },
   "recent": [
+    {
+      "id": "2ACZ3Gr66MoMzMr6QeXIFG",
+      "name": "\u5b63\u5019\u98a8",
+      "artists": "Faye Wong",
+      "album": "\u57f7\u8ff7\u4e0d\u6094",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022b2a19540130d3e97245b649",
+      "url": "https://open.spotify.com/track/2ACZ3Gr66MoMzMr6QeXIFG",
+      "playedAt": "2026-11-25T21:09:01.589Z"
+    },
+    {
+      "id": "6T17ZI0glfM2IGLdUwtnLK",
+      "name": "JoyRide",
+      "artists": "CORTIS",
+      "album": "COLOR OUTSIDE THE LINES",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024b56a34b0c2b3798fd46f855",
+      "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
+      "playedAt": "2026-11-25T21:04:24.925Z"
+    },
+    {
+      "id": "6OWWZtNQORY1McaZmOrwhc",
+      "name": "GO!",
+      "artists": "CORTIS",
+      "album": "COLOR OUTSIDE THE LINES",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024b56a34b0c2b3798fd46f855",
+      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc",
+      "playedAt": "2026-11-25T21:01:46.629Z"
+    },
+    {
+      "id": "5NLv3yKffNXjuhIdC6A6uY",
+      "name": "\u5411\u65e5\u8475\u4e4b\u6b4c (\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u7247\u5c3e\u66f2)",
+      "artists": "\u4e0a\u4e0a, \u5468\u662d\u598d",
+      "album": "\u96fb\u8996\u5287\u300a\u6afb\u6843\u7425\u73c0\u300b\u539f\u8072\u5e36",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e023c0b8c99b00334282e26ea00",
+      "url": "https://open.spotify.com/track/5NLv3yKffNXjuhIdC6A6uY",
+      "playedAt": "2026-11-25T20:58:55.329Z"
+    },
+    {
+      "id": "4fZg2tFkmln0lraBWvpCzV",
+      "name": "I",
+      "artists": "BUMP OF CHICKEN",
+      "album": "I",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024f3cd5eed4683f8f046ae7fe",
+      "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV",
+      "playedAt": "2026-11-25T20:50:31.129Z"
+    },
+    {
+      "id": "11Vu9Zo7P4JXdrDRWVyrem",
+      "name": "\u9690\u5f62\u4eba\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u7b49\u5f85\u66f2\uff09",
+      "artists": "\u767d\u656c\u4ead",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem",
+      "playedAt": "2026-11-25T20:45:50.788Z"
+    },
+    {
+      "id": "14FKPuSjbtHht2VbtB4viD",
+      "name": "\u4efb\u6027\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u4e3b\u9898\u66f2\uff09",
+      "artists": "Mayday",
+      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
+      "url": "https://open.spotify.com/track/14FKPuSjbtHht2VbtB4viD",
+      "playedAt": "2026-11-25T20:41:05.262Z"
+    },
+    {
+      "id": "487CwH00ao0LRep28i58sT",
+      "name": "jagi",
+      "artists": "Shi Shi, KIRE",
+      "album": "jagi",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02c63e4b269f1b6e30270bb684",
+      "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT",
+      "playedAt": "2026-11-25T20:36:33.278Z"
+    },
+    {
+      "id": "2Ma2z0gBisyMjp9aJnKQhb",
+      "name": "\u8def\u8fc7\u6674\u6717 (\u300a\u65e9\u6625\u6674\u6717\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2)",
+      "artists": "Silence Wang",
+      "album": "\u65e9\u6625\u6674\u6717 \u5f71\u89c6\u539f\u58f0\u5e26",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0251e5acbffcc42e600f26fadc",
+      "url": "https://open.spotify.com/track/2Ma2z0gBisyMjp9aJnKQhb",
+      "playedAt": "2026-11-25T20:32:23.408Z"
+    },
     {
       "id": "5mtTAScDytxMMqZj14NmlN",
       "name": "love.",
@@ -9,88 +98,7 @@
       "album": "0.1 flaws and all.",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
-      "playedAt": "2026-11-25T03:21:01.933Z"
-    },
-    {
-      "id": "21jGcNKet2qwijlDFuPiPb",
-      "name": "Circles",
-      "artists": "Post Malone",
-      "album": "Hollywood's Bleeding",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-11-25T03:15:53.642Z"
-    },
-    {
-      "id": "4MIPNDbxVPWdLwH6A4nsiY",
-      "name": "There's Still A Light In The House",
-      "artists": "Valley",
-      "album": "MAYBE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
-      "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-11-25T03:12:17.896Z"
-    },
-    {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-11-25T03:08:54.294Z"
-    },
-    {
-      "id": "7vjtAU3Ns1AT4dRa0voHBJ",
-      "name": "Right Here",
-      "artists": "Justin Bieber, Drake",
-      "album": "Believe (Deluxe Edition)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e026c20c4638a558132ba95bc39",
-      "url": "https://open.spotify.com/track/7vjtAU3Ns1AT4dRa0voHBJ",
-      "playedAt": "2026-11-25T01:21:55.582Z"
-    },
-    {
-      "id": "6eDApnV9Jdb1nYahOlbbUh",
-      "name": "One Time",
-      "artists": "Justin Bieber",
-      "album": "My World",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c3bb9f74a98f60bdda6c9a7",
-      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh",
-      "playedAt": "2026-11-25T01:13:36.141Z"
-    },
-    {
-      "id": "4WCAb7rGU70hyx3m9joKCx",
-      "name": "up at night (feat. justin bieber)",
-      "artists": "Kehlani, Justin Bieber",
-      "album": "blue water road",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e021195944be897770537547f51",
-      "url": "https://open.spotify.com/track/4WCAb7rGU70hyx3m9joKCx",
-      "playedAt": "2026-11-25T01:09:39.352Z"
-    },
-    {
-      "id": "5NU40QTlXrDUJzDBdv79bg",
-      "name": "Deserve You",
-      "artists": "Justin Bieber",
-      "album": "Justice",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
-      "url": "https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg",
-      "playedAt": "2026-11-25T00:58:08.850Z"
-    },
-    {
-      "id": "5u1n1kITHCxxp8twBcZxWy",
-      "name": "Holy (feat. Chance The Rapper)",
-      "artists": "Justin Bieber, Chance the Rapper",
-      "album": "Holy",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572c68f79b356c21202e248c",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy",
-      "playedAt": "2026-11-25T00:55:01.138Z"
-    },
-    {
-      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
-      "name": "Honeymoon Avenue",
-      "artists": "Ariana Grande",
-      "album": "Yours Truly",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
-      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
-      "playedAt": "2026-11-25T00:43:04.418Z"
+      "playedAt": "2026-11-25T20:27:37.308Z"
     }
   ]
 }
