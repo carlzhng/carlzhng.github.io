@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-11-25T00:24:11Z",
-  "nowPlaying": {
-    "id": "3Yd3J42s3GZaYty4Iy4ewT",
-    "name": "So Good (feat. Kendrick Lamar)",
-    "artists": "Jhen\u00e9 Aiko, Kendrick Lamar",
-    "album": "Westside Whimsy",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0249bd89da3bd906d2f8406875",
-    "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-25T10:56:41Z",
+  "nowPlaying": null,
   "recent": [
-    {
-      "id": "11pYSUVcvbaLSWFP5EUNtw",
-      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
-      "artists": "\u5c0f\u5305Zerinn",
-      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
-      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-25T00:18:01.986Z"
-    },
     {
       "id": "5mtTAScDytxMMqZj14NmlN",
       "name": "love.",
@@ -26,7 +9,7 @@
       "album": "0.1 flaws and all.",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
-      "playedAt": "2026-11-25T00:13:12.439Z"
+      "playedAt": "2026-11-25T03:21:01.933Z"
     },
     {
       "id": "21jGcNKet2qwijlDFuPiPb",
@@ -35,7 +18,7 @@
       "album": "Hollywood's Bleeding",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb",
-      "playedAt": "2026-11-25T00:08:04.140Z"
+      "playedAt": "2026-11-25T03:15:53.642Z"
     },
     {
       "id": "4MIPNDbxVPWdLwH6A4nsiY",
@@ -44,7 +27,7 @@
       "album": "MAYBE",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
-      "playedAt": "2026-11-25T00:04:28.426Z"
+      "playedAt": "2026-11-25T03:12:17.896Z"
     },
     {
       "id": "3hEfpBHxgieRLz4t3kLNEg",
@@ -53,16 +36,61 @@
       "album": "Being Funny In A Foreign Language",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-11-25T00:01:04.812Z"
+      "playedAt": "2026-11-25T03:08:54.294Z"
     },
     {
-      "id": "1epujjBDhuqmYAwAhR29xI",
-      "name": "Death & Taxes",
-      "artists": "Daniel Caesar",
-      "album": "Pilgrim's Paradise",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
-      "playedAt": "2026-11-24T23:55:28.321Z"
+      "id": "7vjtAU3Ns1AT4dRa0voHBJ",
+      "name": "Right Here",
+      "artists": "Justin Bieber, Drake",
+      "album": "Believe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026c20c4638a558132ba95bc39",
+      "url": "https://open.spotify.com/track/7vjtAU3Ns1AT4dRa0voHBJ",
+      "playedAt": "2026-11-25T01:21:55.582Z"
+    },
+    {
+      "id": "6eDApnV9Jdb1nYahOlbbUh",
+      "name": "One Time",
+      "artists": "Justin Bieber",
+      "album": "My World",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c3bb9f74a98f60bdda6c9a7",
+      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh",
+      "playedAt": "2026-11-25T01:13:36.141Z"
+    },
+    {
+      "id": "4WCAb7rGU70hyx3m9joKCx",
+      "name": "up at night (feat. justin bieber)",
+      "artists": "Kehlani, Justin Bieber",
+      "album": "blue water road",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e021195944be897770537547f51",
+      "url": "https://open.spotify.com/track/4WCAb7rGU70hyx3m9joKCx",
+      "playedAt": "2026-11-25T01:09:39.352Z"
+    },
+    {
+      "id": "5NU40QTlXrDUJzDBdv79bg",
+      "name": "Deserve You",
+      "artists": "Justin Bieber",
+      "album": "Justice",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+      "url": "https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg",
+      "playedAt": "2026-11-25T00:58:08.850Z"
+    },
+    {
+      "id": "5u1n1kITHCxxp8twBcZxWy",
+      "name": "Holy (feat. Chance The Rapper)",
+      "artists": "Justin Bieber, Chance the Rapper",
+      "album": "Holy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02572c68f79b356c21202e248c",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy",
+      "playedAt": "2026-11-25T00:55:01.138Z"
+    },
+    {
+      "id": "2ofOe2OaXFpZF5ETbsc7Qu",
+      "name": "Honeymoon Avenue",
+      "artists": "Ariana Grande",
+      "album": "Yours Truly",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024bb9f35da9ff34b1e2314d8e",
+      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
+      "playedAt": "2026-11-25T00:43:04.418Z"
     }
   ]
 }
