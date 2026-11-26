@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-11-26T03:58:18Z",
-  "nowPlaying": {
-    "id": "22m6jVsUQHc4BEGq9MdwIX",
-    "name": "Green",
-    "artists": "Dept",
-    "album": "Goodbye 2024",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
-    "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-26T13:44:05Z",
+  "nowPlaying": null,
   "recent": [
+    {
+      "id": "5mtTAScDytxMMqZj14NmlN",
+      "name": "love.",
+      "artists": "wave to earth",
+      "album": "0.1 flaws and all.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
+      "playedAt": "2026-11-26T04:04:52.923Z"
+    },
+    {
+      "id": "22m6jVsUQHc4BEGq9MdwIX",
+      "name": "Green",
+      "artists": "Dept",
+      "album": "Goodbye 2024",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
+      "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
+      "playedAt": "2026-11-26T03:59:38.265Z"
+    },
     {
       "id": "4MIPNDbxVPWdLwH6A4nsiY",
       "name": "There's Still A Light In The House",
@@ -54,24 +64,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
       "playedAt": "2026-11-25T21:50:30.133Z"
-    },
-    {
-      "id": "298LjjcBvuQCAlwUWb9dKb",
-      "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
-      "artists": "Silence Wang",
-      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
-      "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb",
-      "playedAt": "2026-11-25T21:37:36.794Z"
-    },
-    {
-      "id": "5NHYkQTriS9qHDPqTQwzb2",
-      "name": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "artists": "\u623f\u6771\u7684\u8c93",
-      "album": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d6bd9317bd2c7b627b2af72c",
-      "url": "https://open.spotify.com/track/5NHYkQTriS9qHDPqTQwzb2",
-      "playedAt": "2026-11-25T21:28:20.702Z"
     }
   ]
 }
