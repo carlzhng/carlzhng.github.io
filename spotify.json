@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-11-27T07:07:39Z",
+  "updatedAt": "2026-11-27T17:53:43Z",
   "nowPlaying": null,
   "recent": [
-    {
-      "id": "3swc6WTsr7rl9DqQKQA55C",
-      "name": "Psycho (feat. Ty Dolla $ign)",
-      "artists": "Post Malone, Ty Dolla $ign",
-      "album": "beerbongs & bentleys",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
-      "playedAt": "2026-11-27T03:52:33.791Z"
-    },
-    {
-      "id": "43JCGMDfN638Lb3XzBJLqu",
-      "name": "Stay with Me\uff08\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u6cbb\u6108\u4e3b\u9898\u66f2\uff09",
-      "artists": "Jude Chiu",
-      "album": "\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300bOST",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027ba2eb85fc8806422a23ad58",
-      "url": "https://open.spotify.com/track/43JCGMDfN638Lb3XzBJLqu",
-      "playedAt": "2026-11-27T01:42:09.339Z"
-    },
-    {
-      "id": "1sZBzYhrQG40zcSuKkI93c",
-      "name": "Good Parts (when the quality is bad but I am)",
-      "artists": "LE SSERAFIM",
-      "album": "ANTIFRAGILE",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
-      "playedAt": "2026-11-27T01:36:40.997Z"
-    },
     {
       "id": "11pYSUVcvbaLSWFP5EUNtw",
       "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
@@ -36,25 +9,7 @@
       "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
       "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-27T01:34:04.194Z"
-    },
-    {
-      "id": "2Ma2z0gBisyMjp9aJnKQhb",
-      "name": "\u8def\u8fc7\u6674\u6717 (\u300a\u65e9\u6625\u6674\u6717\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2)",
-      "artists": "Silence Wang",
-      "album": "\u65e9\u6625\u6674\u6717 \u5f71\u89c6\u539f\u58f0\u5e26",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0251e5acbffcc42e600f26fadc",
-      "url": "https://open.spotify.com/track/2Ma2z0gBisyMjp9aJnKQhb",
-      "playedAt": "2026-11-27T01:30:20.451Z"
-    },
-    {
-      "id": "5mtTAScDytxMMqZj14NmlN",
-      "name": "love.",
-      "artists": "wave to earth",
-      "album": "0.1 flaws and all.",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
-      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
-      "playedAt": "2026-11-27T01:13:44.279Z"
+      "playedAt": "2026-11-27T17:49:39.416Z"
     },
     {
       "id": "22m6jVsUQHc4BEGq9MdwIX",
@@ -63,16 +18,61 @@
       "album": "Goodbye 2024",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
       "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
-      "playedAt": "2026-11-27T01:08:33.845Z"
+      "playedAt": "2026-11-27T17:46:06.014Z"
     },
     {
-      "id": "3ZTviTQW8ETLnNtwdLPdcZ",
-      "name": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
-      "artists": "\u77f3\u884d\u607a",
-      "album": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b8e28d9c8d9b1ea03934de8c",
-      "url": "https://open.spotify.com/track/3ZTviTQW8ETLnNtwdLPdcZ",
-      "playedAt": "2026-11-27T01:05:38.651Z"
+      "id": "3nqqDo8CcCLke3ZoTgiOKf",
+      "name": "The Man Who Can't Be Moved",
+      "artists": "The Script",
+      "album": "The Script",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f33a9f529c12f79b116eb218",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
+      "playedAt": "2026-11-27T17:40:21.745Z"
+    },
+    {
+      "id": "5mtTAScDytxMMqZj14NmlN",
+      "name": "love.",
+      "artists": "wave to earth",
+      "album": "0.1 flaws and all.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
+      "playedAt": "2026-11-27T17:25:14.421Z"
+    },
+    {
+      "id": "7vjtAU3Ns1AT4dRa0voHBJ",
+      "name": "Right Here",
+      "artists": "Justin Bieber, Drake",
+      "album": "Believe (Deluxe Edition)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e026c20c4638a558132ba95bc39",
+      "url": "https://open.spotify.com/track/7vjtAU3Ns1AT4dRa0voHBJ",
+      "playedAt": "2026-11-27T17:20:06.218Z"
+    },
+    {
+      "id": "6eDApnV9Jdb1nYahOlbbUh",
+      "name": "One Time",
+      "artists": "Justin Bieber",
+      "album": "My World",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027c3bb9f74a98f60bdda6c9a7",
+      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh",
+      "playedAt": "2026-11-27T17:16:41.514Z"
+    },
+    {
+      "id": "7uLVxuio4D5TnibXpshlPf",
+      "name": "Somebody Else",
+      "artists": "kamen!, trvs",
+      "album": "Somebody Else",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02a8670997aa0820048b023a4f",
+      "url": "https://open.spotify.com/track/7uLVxuio4D5TnibXpshlPf",
+      "playedAt": "2026-11-27T17:13:05.157Z"
+    },
+    {
+      "id": "59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy",
+      "artists": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "playedAt": "2026-11-27T15:58:50.637Z"
     }
   ]
 }
