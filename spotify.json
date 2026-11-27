@@ -1,32 +1,15 @@
 {
-  "updatedAt": "2026-11-26T22:50:18Z",
-  "nowPlaying": {
-    "id": "5mtTAScDytxMMqZj14NmlN",
-    "name": "love.",
-    "artists": "wave to earth",
-    "album": "0.1 flaws and all.",
-    "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
-    "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
-    "isPlaying": true
-  },
+  "updatedAt": "2026-11-27T07:07:39Z",
+  "nowPlaying": null,
   "recent": [
     {
-      "id": "22m6jVsUQHc4BEGq9MdwIX",
-      "name": "Green",
-      "artists": "Dept",
-      "album": "Goodbye 2024",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
-      "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
-      "playedAt": "2026-11-26T22:45:35.485Z"
-    },
-    {
-      "id": "3ZTviTQW8ETLnNtwdLPdcZ",
-      "name": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
-      "artists": "\u77f3\u884d\u607a",
-      "album": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b8e28d9c8d9b1ea03934de8c",
-      "url": "https://open.spotify.com/track/3ZTviTQW8ETLnNtwdLPdcZ",
-      "playedAt": "2026-11-26T22:42:40.292Z"
+      "id": "3swc6WTsr7rl9DqQKQA55C",
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "artists": "Post Malone, Ty Dolla $ign",
+      "album": "beerbongs & bentleys",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
+      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C",
+      "playedAt": "2026-11-27T03:52:33.791Z"
     },
     {
       "id": "43JCGMDfN638Lb3XzBJLqu",
@@ -35,7 +18,7 @@
       "album": "\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300bOST",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e027ba2eb85fc8806422a23ad58",
       "url": "https://open.spotify.com/track/43JCGMDfN638Lb3XzBJLqu",
-      "playedAt": "2026-11-26T22:39:14.504Z"
+      "playedAt": "2026-11-27T01:42:09.339Z"
     },
     {
       "id": "1sZBzYhrQG40zcSuKkI93c",
@@ -44,7 +27,7 @@
       "album": "ANTIFRAGILE",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e029cfed1dd2d368a0855d7b1a4",
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c",
-      "playedAt": "2026-11-26T22:35:30.886Z"
+      "playedAt": "2026-11-27T01:36:40.997Z"
     },
     {
       "id": "11pYSUVcvbaLSWFP5EUNtw",
@@ -53,52 +36,43 @@
       "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
       "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
       "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
-      "playedAt": "2026-11-26T22:32:54.028Z"
+      "playedAt": "2026-11-27T01:34:04.194Z"
     },
     {
-      "id": "298LjjcBvuQCAlwUWb9dKb",
-      "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
+      "id": "2Ma2z0gBisyMjp9aJnKQhb",
+      "name": "\u8def\u8fc7\u6674\u6717 (\u300a\u65e9\u6625\u6674\u6717\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2)",
       "artists": "Silence Wang",
-      "album": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e315e968f364d79e460d8f62",
-      "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb",
-      "playedAt": "2026-11-26T22:29:33.152Z"
+      "album": "\u65e9\u6625\u6674\u6717 \u5f71\u89c6\u539f\u58f0\u5e26",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0251e5acbffcc42e600f26fadc",
+      "url": "https://open.spotify.com/track/2Ma2z0gBisyMjp9aJnKQhb",
+      "playedAt": "2026-11-27T01:30:20.451Z"
     },
     {
-      "id": "5NHYkQTriS9qHDPqTQwzb2",
-      "name": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "artists": "\u623f\u6771\u7684\u8c93",
-      "album": "\u5728\u540c\u4e00\u7247\u6c14\u5019\u91cc\u76f8\u7231",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02d6bd9317bd2c7b627b2af72c",
-      "url": "https://open.spotify.com/track/5NHYkQTriS9qHDPqTQwzb2",
-      "playedAt": "2026-11-26T22:25:35.994Z"
+      "id": "5mtTAScDytxMMqZj14NmlN",
+      "name": "love.",
+      "artists": "wave to earth",
+      "album": "0.1 flaws and all.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
+      "playedAt": "2026-11-27T01:13:44.279Z"
     },
     {
-      "id": "2eVREY4DY0LvUuLTThHZGb",
-      "name": "\u8033\u5583",
-      "artists": "PIggy",
-      "album": "\u8033\u5583",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ebf999a294e93be988199922",
-      "url": "https://open.spotify.com/track/2eVREY4DY0LvUuLTThHZGb",
-      "playedAt": "2026-11-26T22:20:01.740Z"
+      "id": "22m6jVsUQHc4BEGq9MdwIX",
+      "name": "Green",
+      "artists": "Dept",
+      "album": "Goodbye 2024",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02579736af3d39975c076489cf",
+      "url": "https://open.spotify.com/track/22m6jVsUQHc4BEGq9MdwIX",
+      "playedAt": "2026-11-27T01:08:33.845Z"
     },
     {
-      "id": "2vfj3bct5C6ZY6cuPmKC5l",
-      "name": "\u6d88\u6563\u5bf9\u767d",
-      "artists": "\u4e01\u79b9\u516e",
-      "album": "\u6d88\u6563\u5bf9\u767d",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0204293ca43fd3921818aa1b3f",
-      "url": "https://open.spotify.com/track/2vfj3bct5C6ZY6cuPmKC5l",
-      "playedAt": "2026-11-26T22:01:00.687Z"
-    },
-    {
-      "id": "14PzcR0qXHYCfPhvSM2RlT",
-      "name": "\u4f60\u5728\u6211\u559c\u6b61\u7684\u4e16\u754c\u88e1\uff08\u300a\u611b\u4f60\u300b\u5f71\u8996\u5287\u4e3b\u984c\u66f2\uff09",
-      "artists": "Silence Wang",
-      "album": "\u4f60\u5728\u6211\u559c\u6b61\u7684\u4e16\u754c\u88e1\uff08\u300a\u611b\u4f60\u300b\u5f71\u8996\u5287\u4e3b\u984c\u66f2\uff09",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dfded45c8726807945392dd",
-      "url": "https://open.spotify.com/track/14PzcR0qXHYCfPhvSM2RlT",
-      "playedAt": "2026-11-26T21:57:28.394Z"
+      "id": "3ZTviTQW8ETLnNtwdLPdcZ",
+      "name": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
+      "artists": "\u77f3\u884d\u607a",
+      "album": "5th\uff08\u5f71\u89c6\u5267\u300a\u4eca\u5929\u662f\u592a\u9633\u96e8\u300b\u63d2\u66f2)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b8e28d9c8d9b1ea03934de8c",
+      "url": "https://open.spotify.com/track/3ZTviTQW8ETLnNtwdLPdcZ",
+      "playedAt": "2026-11-27T01:05:38.651Z"
     }
   ]
 }
