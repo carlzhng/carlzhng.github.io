@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-11-28T01:13:15Z",
+  "updatedAt": "2026-11-28T09:52:58Z",
   "nowPlaying": null,
   "recent": [
+    {
+      "id": "3LdHQCpIe5HQKsimwG4izX",
+      "name": "GET EVEN (feat. GIVEON)",
+      "artists": "The Kid LAROI, GIV\u0112ON",
+      "album": "GET EVEN",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e024aab7d186fccafb0b06fbc47",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX",
+      "playedAt": "2026-11-28T04:21:01.481Z"
+    },
+    {
+      "id": "1hxlkDVbgpv03hakx0eWKh",
+      "name": "Love Us Again",
+      "artists": "Green Echo",
+      "album": "Love Us Again",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e027dbcb359222259aae1a059df",
+      "url": "https://open.spotify.com/track/1hxlkDVbgpv03hakx0eWKh",
+      "playedAt": "2026-11-28T04:18:12.027Z"
+    },
+    {
+      "id": "23Y7fX88Bqlx042TcWOF2U",
+      "name": "QUIT YOU",
+      "artists": "The Kid LAROI",
+      "album": "BEFORE I FORGET (DELUXE)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02ee92b5f6b7140df498166f1a",
+      "url": "https://open.spotify.com/track/23Y7fX88Bqlx042TcWOF2U",
+      "playedAt": "2026-11-28T04:15:33.986Z"
+    },
+    {
+      "id": "1epujjBDhuqmYAwAhR29xI",
+      "name": "Death & Taxes",
+      "artists": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02b04a0b90111899130bf4bdd0",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI",
+      "playedAt": "2026-11-28T04:11:48.632Z"
+    },
+    {
+      "id": "11pYSUVcvbaLSWFP5EUNtw",
+      "name": "\u665a\u98ce\u544a\u767d - \u7537\u7248",
+      "artists": "\u5c0f\u5305Zerinn",
+      "album": "\u665a\u98ce\u544a\u767d (\u7537\u7248)",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0284cd93d00e737e09149dcc8a",
+      "url": "https://open.spotify.com/track/11pYSUVcvbaLSWFP5EUNtw",
+      "playedAt": "2026-11-28T04:02:28.497Z"
+    },
+    {
+      "id": "3nqqDo8CcCLke3ZoTgiOKf",
+      "name": "The Man Who Can't Be Moved",
+      "artists": "The Script",
+      "album": "The Script",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e02f33a9f529c12f79b116eb218",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
+      "playedAt": "2026-11-28T03:58:16.252Z"
+    },
+    {
+      "id": "5mtTAScDytxMMqZj14NmlN",
+      "name": "love.",
+      "artists": "wave to earth",
+      "album": "0.1 flaws and all.",
+      "albumImage": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+      "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN",
+      "playedAt": "2026-11-28T00:37:19.104Z"
+    },
     {
       "id": "5u1n1kITHCxxp8twBcZxWy",
       "name": "Holy (feat. Chance The Rapper)",
@@ -28,60 +91,6 @@
       "albumImage": "https://i.scdn.co/image/ab67616d00001e020cdb4b03fd27a1301592a5e3",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY",
       "playedAt": "2026-11-28T00:26:54.499Z"
-    },
-    {
-      "id": "3hEfpBHxgieRLz4t3kLNEg",
-      "name": "About You",
-      "artists": "The 1975",
-      "album": "Being Funny In A Foreign Language",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-      "playedAt": "2026-11-28T00:23:30.814Z"
-    },
-    {
-      "id": "0q6LuUqGLUiCPP1cbdwFs3",
-      "name": "On Melancholy Hill",
-      "artists": "Gorillaz",
-      "album": "Plastic Beach",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02661d019f34569f79eae9e985",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3",
-      "playedAt": "2026-11-28T00:08:13.171Z"
-    },
-    {
-      "id": "4fLspOxX39tXzHHqrEqTgf",
-      "name": "Buzz",
-      "artists": "NIKI",
-      "album": "Buzz",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02af28c3161d272af6c015131c",
-      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf",
-      "playedAt": "2026-11-28T00:04:18.876Z"
-    },
-    {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "artists": "Daniel Caesar, Kali Uchis",
-      "album": "Freudian",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "playedAt": "2026-11-28T00:01:22.612Z"
-    },
-    {
-      "id": "6klpXs2uAjagnZMFkt4qkl",
-      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
-      "artists": "Mandy Moore, Zachary Levi, Disney",
-      "album": "Tangled",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02fdb9c2e57d53776211cfac3e",
-      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl",
-      "playedAt": "2026-11-27T23:56:31.523Z"
-    },
-    {
-      "id": "3iBgrkexCzVuPy4O9vx7Mf",
-      "name": "Glue Song",
-      "artists": "beabadoobee",
-      "album": "Glue Song",
-      "albumImage": "https://i.scdn.co/image/ab67616d00001e02e3862aeefcb2f0860ef017e4",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf",
-      "playedAt": "2026-11-27T23:52:46.813Z"
     }
   ]
 }
